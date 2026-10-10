@@ -3,7 +3,11 @@
 A complete English translation of the original 1996 PlayStation release of *Megami Ibunroku Persona*
 (Japan, SLPS-00500), with an optional enhancement patch.
 
-<!-- screenshots -->
+<p align="center">
+  <img src="screenshots/1.png" width="49%" alt="Item pickup"> <img src="screenshots/2.png" width="49%" alt="Dialogue">
+  <img src="screenshots/3.png" width="49%" alt="Velvet Room"> <img src="screenshots/4.png" width="49%" alt="Dialogue choices">
+  <img src="screenshots/5.png" width="49%" alt="Name entry"> <img src="screenshots/6.png" width="49%" alt="Dialogue">
+</p>
 
 ## Features
 
