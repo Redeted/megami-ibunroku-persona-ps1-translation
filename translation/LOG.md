@@ -1,0 +1,682 @@
+# Translation log (append-only; one line per batch)
+
+- 2026-10-03 E0/0: 48 boxes
+- 2026-10-03 E0/19: 16 boxes
+- 2026-10-03 E2/23: 9 boxes
+- 2026-10-03 E0/1: 3 boxes
+- 2026-10-03 E0/3: 26 boxes
+- 2026-10-03 E0/4: 8 boxes, 1 flagged for review
+- 2026-10-03 E0/1: 3 boxes
+- 2026-10-03 E0/3: 26 boxes
+- 2026-10-03 E0/4: 8 boxes, 1 flagged for review
+- 2026-10-03 E0/11: 15 boxes, 2 flagged for review
+- 2026-10-03 E0/12: 18 boxes
+- 2026-10-03 E0/14: 18 boxes
+- 2026-10-03 E0/15: 18 boxes
+- 2026-10-03 E0/13: 35 boxes
+- 2026-10-03 E0/16: 52 boxes, 2 flagged for review
+- 2026-10-03 E0/11: 15 boxes, 2 flagged for review
+- 2026-10-03 E0/5: 9 boxes
+- 2026-10-03 E0/6: 8 boxes, 1 flagged for review
+- 2026-10-03 E0/7: 8 boxes
+- 2026-10-03 E0/8: 7 boxes
+- 2026-10-03 E0/9: 9 boxes
+- 2026-10-03 E0/10: 6 boxes
+- 2026-10-03 E0/12: 18 boxes
+- 2026-10-03 E0/13: 35 boxes
+- 2026-10-03 E0/14: 18 boxes
+- 2026-10-03 E0/15: 18 boxes
+- 2026-10-03 E0/16: 52 boxes, 2 flagged for review
+- 2026-10-03 E0/13: 35 boxes
+- 2026-10-03 E0/16: 52 boxes, 2 flagged for review
+- 2026-10-03 E0/24: 17 boxes
+- 2026-10-03 E0/25: 20 boxes
+- 2026-10-03 E0/27: 3 boxes
+- 2026-10-03 E0/17: 7 boxes
+- 2026-10-03 E0/19: 1 boxes
+- 2026-10-03 E0/20: 30 boxes
+- 2026-10-03 E0/21: 9 boxes
+- 2026-10-03 E0/22: 6 boxes, 1 flagged for review
+- 2026-10-03 E0/23: 20 boxes
+- 2026-10-03 E0/24: 17 boxes
+- 2026-10-03 E0/25: 20 boxes
+- 2026-10-03 E0/27: 3 boxes
+- 2026-10-03 E0/29: 27 boxes
+- 2026-10-03 E0/32: 11 boxes, 1 flagged for review
+- 2026-10-03 E0/33: 11 boxes
+- 2026-10-03 E0/34: 8 boxes
+- 2026-10-03 E0/35: 1 boxes
+- 2026-10-03 E0/29: 27 boxes
+- 2026-10-03 E0/18: 23 boxes
+- 2026-10-04 E0/36: 4 boxes
+- 2026-10-04 E0/37: 5 boxes
+- 2026-10-04 E0/38: 3 boxes
+- 2026-10-04 E0/39: 10 boxes
+- 2026-10-04 E0/41: 25 boxes
+- 2026-10-04 E0/42: 31 boxes, 4 flagged for review
+- 2026-10-04 E0/43: 12 boxes, 2 flagged for review
+- 2026-10-04 E0/44: 9 boxes, 1 flagged for review
+- 2026-10-04 E0/48: 15 boxes, 6 flagged for review
+- 2026-10-04 E0/49: 26 boxes, 4 flagged for review
+- 2026-10-04 E0/36: 4 boxes
+- 2026-10-04 E0/40: 5 boxes
+- 2026-10-04 E0/38: 1 boxes
+- 2026-10-04 E0/39: 1 boxes
+- 2026-10-04 E0/42: 1 boxes
+- 2026-10-06 E2/108: 3 boxes
+- 2026-10-06 E2/54: 12 boxes
+- 2026-10-06 E2/112: 10 boxes
+- 2026-10-06 E2/54: 12 boxes
+- 2026-10-06 E2/112: 10 boxes
+- 2026-10-06 E0/50: 18 boxes, 1 flagged for review
+- 2026-10-06 E0/51: 20 boxes, 2 flagged for review
+- 2026-10-06 E0/52: 7 boxes, 1 flagged for review
+- 2026-10-06 E0/53: 8 boxes, 1 flagged for review
+- 2026-10-06 E0/54: 20 boxes, 2 flagged for review
+- 2026-10-06 E0/55: 66 boxes, 3 flagged for review
+- 2026-10-06 E0/56: 18 boxes, 1 flagged for review
+- 2026-10-06 E0/57: 38 boxes, 1 flagged for review
+- 2026-10-06 E0/58: 60 boxes, 2 flagged for review
+- 2026-10-06 E0/64: 41 boxes, 1 flagged for review
+- 2026-10-06 E0/65: 40 boxes, 1 flagged for review
+- 2026-10-06 E0/66: 9 boxes
+- 2026-10-06 E0/67: 30 boxes, 2 flagged for review
+- 2026-10-06 E0/67: 30 boxes
+- 2026-10-06 E0/68: 18 boxes, 4 flagged for review
+- 2026-10-06 E0/67: 47 boxes
+- 2026-10-06 E0/69: 24 boxes, 2 flagged for review
+- 2026-10-06 E0/69: 39 boxes, 1 flagged for review
+- 2026-10-06 E0/70: 36 boxes, 4 flagged for review
+- 2026-10-06 E0/75: 12 boxes
+- 2026-10-06 E0/77: 12 boxes, 3 flagged for review
+- 2026-10-06 E0/85: 15 boxes
+- 2026-10-06 E0/87: 17 boxes, 2 flagged for review
+- 2026-10-06 E0/88: 19 boxes, 2 flagged for review
+- 2026-10-06 E0/92: 6 boxes, 2 flagged for review
+- 2026-10-06 E0/92: 10 boxes, 2 flagged for review
+- 2026-10-06 E0/93: 23 boxes, 2 flagged for review
+- 2026-10-06 E0/93: 23 boxes
+- 2026-10-06 E0/96: 32 boxes, 2 flagged for review
+- 2026-10-06 E0/96: 49 boxes, 2 flagged for review
+- 2026-10-06 E0/97: 27 boxes
+- 2026-10-06 E0/98: 25 boxes, 2 flagged for review
+- 2026-10-06 E0/98: 30 boxes, 2 flagged for review
+- 2026-10-06 E0/99: 8 boxes
+- 2026-10-06 E0/100: 40 boxes, 3 flagged for review
+- 2026-10-06 E0/100: 40 boxes, 3 flagged for review
+- 2026-10-06 E0/101: 26 boxes, 3 flagged for review
+- 2026-10-06 E0/101: 26 boxes, 1 flagged for review
+- 2026-10-06 E0/101: 60 boxes, 1 flagged for review
+- 2026-10-06 E0/116: 35 boxes
+- 2026-10-06 E0/117: 14 boxes
+- 2026-10-06 E0/118: 76 boxes, 2 flagged for review
+- 2026-10-06 E0/119: 13 boxes
+- 2026-10-06 E0/119: 17 boxes
+- 2026-10-06 E0/128: 40 boxes, 1 flagged for review
+- 2026-10-06 E0/133: 33 boxes, 2 flagged for review
+- 2026-10-06 E0/134: 22 boxes, 2 flagged for review
+- 2026-10-06 E0/135: 39 boxes, 2 flagged for review
+- 2026-10-06 E0/137: 32 boxes
+- 2026-10-06 E0/137: 32 boxes
+- 2026-10-06 E0/144: 28 boxes
+- 2026-10-06 E0/144: 74 boxes
+- 2026-10-06 E0/147: 47 boxes, 2 flagged for review
+- 2026-10-06 E0/147: 47 boxes
+- 2026-10-06 E0/148: 34 boxes, 1 flagged for review
+- 2026-10-06 E0/149: 56 boxes
+- 2026-10-06 E0/153: 9 boxes
+- 2026-10-06 E0/153: 41 boxes
+- 2026-10-06 E0/156: 1 boxes
+- 2026-10-06 E0/160: 58 boxes, 2 flagged for review
+- 2026-10-06 E0/160: 58 boxes, 2 flagged for review
+- 2026-10-06 E0/161: 66 boxes, 1 flagged for review
+- 2026-10-06 E0/162: 33 boxes
+- 2026-10-06 E0/162: 39 boxes
+- 2026-10-06 E0/176: 1 boxes
+- 2026-10-06 E0/176: 1 boxes
+- 2026-10-06 E0/176: 1 boxes
+- 2026-10-06 E0/177: 34 boxes
+- 2026-10-06 E0/176: 1 boxes
+- 2026-10-06 E0/177: 34 boxes
+- 2026-10-06 E0/179: 2 boxes
+- 2026-10-06 E0/180: 2 boxes
+- 2026-10-06 E0/181: 2 boxes
+- 2026-10-06 E0/182: 3 boxes
+- 2026-10-06 E0/183: 3 boxes
+- 2026-10-06 E0/184: 3 boxes
+- 2026-10-06 E0/185: 1 boxes
+- 2026-10-06 E0/197: 7 boxes
+- 2026-10-06 E0/199: 19 boxes
+- 2026-10-06 E0/201: 11 boxes
+- 2026-10-06 E0/202: 13 boxes
+- 2026-10-06 E0/208: 12 boxes
+- 2026-10-06 E0/208: 24 boxes
+- 2026-10-06 E0/210: 1 boxes
+- 2026-10-06 E0/212: 9 boxes
+- 2026-10-06 E0/213: 6 boxes
+- 2026-10-06 E0/215: 22 boxes
+- 2026-10-06 E0/216: 24 boxes
+- 2026-10-06 E0/217: 33 boxes
+- 2026-10-06 E0/67: 48 boxes
+- 2026-10-06 E0/208: 24 boxes
+- 2026-10-06 E0/210: 1 boxes
+- 2026-10-06 E0/212: 9 boxes
+- 2026-10-06 E0/213: 6 boxes
+- 2026-10-06 E0/215: 22 boxes
+- 2026-10-06 E0/216: 24 boxes
+- 2026-10-06 E0/217: 40 boxes
+- 2026-10-06 E1/1: 36 boxes
+- 2026-10-06 E1/3: 15 boxes
+- 2026-10-06 E1/4: 18 boxes
+- 2026-10-06 E1/4: 6 boxes
+- 2026-10-06 E1/5: 21 boxes
+- 2026-10-06 E1/6: 32 boxes
+- 2026-10-06 E1/7: 14 boxes
+- 2026-10-06 E1/4: 6 boxes
+- 2026-10-06 E1/5: 21 boxes
+- 2026-10-06 E1/6: 32 boxes
+- 2026-10-06 E1/7: 14 boxes
+- 2026-10-06 E1/9: 16 boxes
+- 2026-10-06 E1/9: 8 boxes
+- 2026-10-06 E1/10: 22 boxes
+- 2026-10-06 E1/11: 25 boxes
+- 2026-10-06 E1/12: 27 boxes
+- 2026-10-06 E1/13: 7 boxes
+- 2026-10-06 E1/13: 10 boxes
+- 2026-10-06 E1/13: 10 boxes
+- 2026-10-06 E1/33: 25 boxes
+- 2026-10-06 E1/34: 16 boxes
+- 2026-10-06 E1/40: 15 boxes
+- 2026-10-06 E1/48: 26 boxes
+- 2026-10-06 E1/50: 7 boxes
+- 2026-10-06 E1/50: 19 boxes
+- 2026-10-06 E1/50: 19 boxes
+- 2026-10-06 E1/51: 23 boxes
+- 2026-10-06 E1/53: 13 boxes
+- 2026-10-06 E1/54: 12 boxes
+- 2026-10-06 E1/55: 24 boxes
+- 2026-10-06 E1/65: 8 boxes
+- 2026-10-06 E1/65: 29 boxes
+- 2026-10-06 E1/65: 29 boxes
+- 2026-10-06 E1/66: 21 boxes
+- 2026-10-06 E1/73: 19 boxes
+- 2026-10-06 E1/73: 1 boxes
+- 2026-10-06 E1/74: 12 boxes
+- 2026-10-06 E1/80: 15 boxes
+- 2026-10-06 E1/81: 29 boxes
+- 2026-10-06 E1/83: 12 boxes
+- 2026-10-06 E1/83: 3 boxes
+- 2026-10-06 E1/86: 24 boxes
+- 2026-10-06 E1/87: 12 boxes
+- 2026-10-06 E1/96: 26 boxes
+- 2026-10-06 E1/98: 13 boxes
+- 2026-10-06 E1/98: 17 boxes
+- 2026-10-06 E1/99: 17 boxes
+- 2026-10-06 E1/112: 10 boxes
+- 2026-10-06 E1/112: 16 boxes
+- 2026-10-06 E1/119: 17 boxes
+- 2026-10-06 E1/128: 10 boxes
+- 2026-10-06 E1/129: 1 boxes
+- 2026-10-06 E1/129: 11 boxes
+- 2026-10-06 E1/129: 11 boxes
+- 2026-10-06 E1/145: 25 boxes
+- 2026-10-06 E1/147: 8 boxes
+- 2026-10-06 E1/147: 3 boxes
+- 2026-10-06 E1/147: 3 boxes
+- 2026-10-06 E1/147: 3 boxes
+- 2026-10-06 E1/148: 22 boxes
+- 2026-10-06 E1/147: 3 boxes
+- 2026-10-06 E1/148: 22 boxes
+- 2026-10-06 E1/149: 19 boxes
+- 2026-10-06 E1/149: 2 boxes
+- 2026-10-06 E1/150: 29 boxes
+- 2026-10-06 E1/160: 13 boxes
+- 2026-10-06 E1/160: 44 boxes
+- 2026-10-06 E1/160: 3 boxes
+- 2026-10-06 E1/192: 17 boxes
+- 2026-10-06 E1/193: 19 boxes
+- 2026-10-06 E1/195: 5 boxes
+- 2026-10-06 E1/195: 16 boxes
+- 2026-10-06 E1/196: 15 boxes
+- 2026-10-06 E1/200: 11 boxes
+- 2026-10-06 E1/202: 3 boxes
+- 2026-10-06 E1/203: 3 boxes
+- 2026-10-06 E1/205: 1 boxes
+- 2026-10-06 E1/205: 26 boxes
+- 2026-10-06 E1/205: 26 boxes
+- 2026-10-06 E1/207: 11 boxes
+- 2026-10-06 E1/209: 7 boxes
+- 2026-10-06 E1/210: 5 boxes
+- 2026-10-06 E1/210: 5 boxes
+- 2026-10-06 E2/0: 5 boxes
+- 2026-10-06 E1/210: 5 boxes
+- 2026-10-06 E2/0: 5 boxes
+- 2026-10-06 E1/210: 5 boxes
+- 2026-10-06 E2/0: 5 boxes
+- 2026-10-06 E2/1: 16 boxes
+- 2026-10-06 E2/2: 4 boxes
+- 2026-10-06 E2/3: 7 boxes
+- 2026-10-06 E2/4: 2 boxes
+- 2026-10-06 E1/1: 1 boxes
+- 2026-10-06 E2/4: 4 boxes
+- 2026-10-06 E2/5: 8 boxes
+- 2026-10-06 E2/6: 5 boxes
+- 2026-10-06 E2/4: 4 boxes
+- 2026-10-06 E2/5: 8 boxes
+- 2026-10-06 E2/6: 5 boxes
+- 2026-10-06 E2/7: 13 boxes
+- 2026-10-06 E2/8: 4 boxes
+- 2026-10-06 E2/9: 4 boxes
+- 2026-10-06 E2/10: 8 boxes
+- 2026-10-06 E2/11: 3 boxes
+- 2026-10-06 E2/11: 2 boxes
+- 2026-10-06 E2/12: 4 boxes
+- 2026-10-06 E2/13: 5 boxes
+- 2026-10-06 E2/15: 7 boxes
+- 2026-10-06 E2/16: 5 boxes
+- 2026-10-06 E2/17: 5 boxes
+- 2026-10-06 E2/18: 4 boxes
+- 2026-10-06 E2/19: 4 boxes
+- 2026-10-06 E2/20: 7 boxes
+- 2026-10-06 E2/21: 3 boxes
+- 2026-10-06 E2/22: 5 boxes
+- 2026-10-06 E2/24: 3 boxes
+- 2026-10-06 E2/32: 14 boxes
+- 2026-10-06 E2/33: 9 boxes
+- 2026-10-06 E2/34: 8 boxes
+- 2026-10-06 E2/37: 4 boxes
+- 2026-10-06 E2/38: 5 boxes
+- 2026-10-06 E2/40: 19 boxes
+- 2026-10-06 E2/41: 14 boxes
+- 2026-10-06 E2/42: 6 boxes
+- 2026-10-06 E2/43: 6 boxes
+- 2026-10-06 E2/45: 8 boxes
+- 2026-10-06 E2/45: 14 boxes
+- 2026-10-06 E2/46: 9 boxes
+- 2026-10-06 E2/47: 12 boxes
+- 2026-10-06 E2/48: 14 boxes
+- 2026-10-06 E2/49: 11 boxes
+- 2026-10-06 E2/50: 12 boxes
+- 2026-10-06 E2/51: 4 boxes
+- 2026-10-06 E2/52: 3 boxes
+- 2026-10-06 E2/52: 8 boxes
+- 2026-10-06 E2/56: 6 boxes
+- 2026-10-06 E2/64: 1 boxes
+- 2026-10-06 E2/65: 10 boxes
+- 2026-10-06 E2/66: 5 boxes
+- 2026-10-06 E2/67: 5 boxes
+- 2026-10-06 E2/68: 5 boxes
+- 2026-10-06 E2/80: 7 boxes
+- 2026-10-06 E2/81: 6 boxes
+- 2026-10-06 E2/82: 6 boxes
+- 2026-10-06 E2/83: 7 boxes
+- 2026-10-06 E2/96: 2 boxes
+- 2026-10-06 E2/52: 8 boxes
+- 2026-10-06 E2/56: 6 boxes
+- 2026-10-06 E2/64: 1 boxes
+- 2026-10-06 E2/65: 10 boxes
+- 2026-10-06 E2/66: 5 boxes
+- 2026-10-06 E2/67: 5 boxes
+- 2026-10-06 E2/68: 5 boxes
+- 2026-10-06 E2/80: 7 boxes
+- 2026-10-06 E2/81: 6 boxes
+- 2026-10-06 E2/82: 6 boxes
+- 2026-10-06 E2/83: 7 boxes
+- 2026-10-06 E2/96: 2 boxes
+- 2026-10-06 E2/97: 7 boxes
+- 2026-10-06 E2/103: 4 boxes
+- 2026-10-06 E2/103: 1 boxes
+- 2026-10-06 E2/104: 6 boxes
+- 2026-10-06 E2/105: 6 boxes
+- 2026-10-06 E2/106: 7 boxes
+- 2026-10-06 E2/107: 7 boxes
+- 2026-10-06 E2/109: 6 boxes
+- 2026-10-06 E2/110: 4 boxes
+- 2026-10-06 E2/111: 11 boxes
+- 2026-10-06 E2/114: 2 boxes
+- 2026-10-06 E2/128: 1 boxes
+- 2026-10-06 E2/129: 1 boxes
+- 2026-10-06 E2/130: 2 boxes
+- 2026-10-06 E2/131: 2 boxes
+- 2026-10-06 E2/132: 11 boxes
+- 2026-10-06 E2/133: 1 boxes
+- 2026-10-06 E2/134: 2 boxes
+- 2026-10-06 E2/138: 3 boxes
+- 2026-10-06 E2/139: 1 boxes
+- 2026-10-06 E2/140: 2 boxes
+- 2026-10-06 E2/141: 1 boxes
+- 2026-10-06 E2/142: 1 boxes
+- 2026-10-06 E2/143: 1 boxes
+- 2026-10-06 E2/103: 1 boxes
+- 2026-10-06 E2/104: 6 boxes
+- 2026-10-06 E2/105: 6 boxes
+- 2026-10-06 E2/106: 7 boxes
+- 2026-10-06 E2/107: 7 boxes
+- 2026-10-06 E2/109: 6 boxes
+- 2026-10-06 E2/110: 4 boxes
+- 2026-10-06 E2/111: 11 boxes
+- 2026-10-06 E2/114: 2 boxes
+- 2026-10-06 E2/128: 1 boxes
+- 2026-10-06 E2/129: 1 boxes
+- 2026-10-06 E2/130: 2 boxes
+- 2026-10-06 E2/131: 2 boxes
+- 2026-10-06 E2/132: 11 boxes
+- 2026-10-06 E2/133: 1 boxes
+- 2026-10-06 E2/134: 2 boxes
+- 2026-10-06 E2/138: 3 boxes
+- 2026-10-06 E2/139: 1 boxes
+- 2026-10-06 E2/140: 2 boxes
+- 2026-10-06 E2/141: 1 boxes
+- 2026-10-06 E2/142: 1 boxes
+- 2026-10-06 E2/143: 1 boxes
+- 2026-10-06 E2/144: 1 boxes
+- 2026-10-06 E2/154: 9 boxes
+- 2026-10-06 E2/155: 10 boxes
+- 2026-10-06 E2/156: 8 boxes
+- 2026-10-06 E2/157: 11 boxes
+- 2026-10-06 E2/160: 9 boxes
+- 2026-10-06 E2/161: 1 boxes
+- 2026-10-06 E2/163: 11 boxes
+- 2026-10-06 E2/164: 9 boxes
+- 2026-10-06 E2/165: 10 boxes
+- 2026-10-06 E2/144: 1 boxes
+- 2026-10-06 E2/154: 9 boxes
+- 2026-10-06 E2/155: 10 boxes
+- 2026-10-06 E2/156: 8 boxes
+- 2026-10-06 E2/157: 11 boxes
+- 2026-10-06 E2/160: 9 boxes
+- 2026-10-06 E2/161: 1 boxes
+- 2026-10-06 E2/163: 11 boxes
+- 2026-10-06 E2/164: 9 boxes
+- 2026-10-06 E2/165: 10 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/168: 9 boxes
+- 2026-10-06 E2/169: 24 boxes
+- 2026-10-06 E2/170: 9 boxes
+- 2026-10-06 E2/171: 9 boxes
+- 2026-10-06 E2/165: 1 boxes
+- 2026-10-06 E2/166: 9 boxes
+- 2026-10-06 E2/167: 18 boxes
+- 2026-10-06 E2/168: 9 boxes
+- 2026-10-06 E2/169: 24 boxes
+- 2026-10-06 E2/170: 9 boxes
+- 2026-10-06 E2/171: 9 boxes
+- 2026-10-06 E2/171: 5 boxes
+- 2026-10-06 E2/172: 13 boxes
+- 2026-10-06 E2/172: 3 boxes
+- 2026-10-06 E2/173: 15 boxes
+- 2026-10-06 E2/174: 16 boxes
+- 2026-10-06 E2/175: 15 boxes
+- 2026-10-06 E2/176: 3 boxes
+- 2026-10-06 E2/177: 11 boxes
+- 2026-10-06 E2/178: 10 boxes
+- 2026-10-06 E2/181: 6 boxes
+- 2026-10-06 E2/172: 3 boxes
+- 2026-10-06 E2/173: 15 boxes
+- 2026-10-06 E2/174: 16 boxes
+- 2026-10-06 E2/175: 15 boxes
+- 2026-10-06 E2/176: 3 boxes
+- 2026-10-06 E2/177: 11 boxes
+- 2026-10-06 E2/178: 10 boxes
+- 2026-10-06 E2/181: 6 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/183: 12 boxes
+- 2026-10-06 E2/184: 9 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/183: 12 boxes
+- 2026-10-06 E2/184: 9 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/183: 12 boxes
+- 2026-10-06 E2/184: 9 boxes
+- 2026-10-06 E2/185: 15 boxes
+- 2026-10-06 E2/186: 8 boxes
+- 2026-10-06 E2/181: 12 boxes
+- 2026-10-06 E2/182: 23 boxes
+- 2026-10-06 E2/183: 12 boxes
+- 2026-10-06 E2/184: 9 boxes
+- 2026-10-06 E2/185: 15 boxes
+- 2026-10-06 E2/186: 8 boxes
+- 2026-10-06 E2/186: 4 boxes
+- 2026-10-06 E2/188: 20 boxes
+- 2026-10-06 E2/189: 10 boxes
+- 2026-10-06 E2/190: 11 boxes
+- 2026-10-06 E2/191: 26 boxes
+- 2026-10-06 E2/192: 8 boxes
+- 2026-10-06 E2/186: 4 boxes
+- 2026-10-06 E2/188: 20 boxes
+- 2026-10-06 E2/189: 10 boxes
+- 2026-10-06 E2/190: 11 boxes
+- 2026-10-06 E2/191: 26 boxes
+- 2026-10-06 E2/192: 8 boxes
+- 2026-10-06 E2/192: 3 boxes
+- 2026-10-06 E2/193: 9 boxes
+- 2026-10-06 E2/194: 11 boxes
+- 2026-10-06 E2/195: 11 boxes
+- 2026-10-06 E2/192: 3 boxes
+- 2026-10-06 E2/193: 9 boxes
+- 2026-10-06 E2/194: 11 boxes
+- 2026-10-06 E2/195: 11 boxes
+- 2026-10-06 E2/192: 3 boxes
+- 2026-10-06 E2/193: 9 boxes
+- 2026-10-06 E2/194: 11 boxes
+- 2026-10-06 E2/195: 11 boxes
+- 2026-10-06 E2/198: 23 boxes
+- 2026-10-06 E2/199: 22 boxes
+- 2026-10-06 E2/192: 3 boxes
+- 2026-10-06 E2/193: 9 boxes
+- 2026-10-06 E2/194: 11 boxes
+- 2026-10-06 E2/195: 11 boxes
+- 2026-10-06 E2/198: 23 boxes
+- 2026-10-06 E2/199: 22 boxes
+- 2026-10-06 E2/199: 1 boxes
+- 2026-10-06 E2/200: 10 boxes
+- 2026-10-06 E2/201: 10 boxes
+- 2026-10-06 E2/203: 17 boxes
+- 2026-10-06 E2/204: 10 boxes
+- 2026-10-06 E2/205: 12 boxes
+- 2026-10-06 E2/206: 13 boxes
+- 2026-10-06 E2/207: 6 boxes
+- 2026-10-06 E2/199: 1 boxes
+- 2026-10-06 E2/200: 10 boxes
+- 2026-10-06 E2/201: 10 boxes
+- 2026-10-06 E2/203: 17 boxes
+- 2026-10-06 E2/204: 10 boxes
+- 2026-10-06 E2/205: 12 boxes
+- 2026-10-06 E2/206: 13 boxes
+- 2026-10-06 E2/207: 6 boxes
+- 2026-10-06 E2/207: 6 boxes
+- 2026-10-06 E2/208: 9 boxes
+- 2026-10-06 E2/209: 10 boxes
+- 2026-10-06 E2/210: 9 boxes
+- 2026-10-06 E2/211: 12 boxes
+- 2026-10-06 E2/212: 10 boxes
+- 2026-10-06 E2/214: 1 boxes
+- 2026-10-06 E2/215: 9 boxes
+- 2026-10-06 E2/216: 4 boxes
+- 2026-10-06 E2/217: 9 boxes
+- 2026-10-06 E2/207: 6 boxes
+- 2026-10-06 E2/208: 9 boxes
+- 2026-10-06 E2/209: 10 boxes
+- 2026-10-06 E2/210: 9 boxes
+- 2026-10-06 E2/211: 12 boxes
+- 2026-10-06 E2/212: 10 boxes
+- 2026-10-06 E2/214: 1 boxes
+- 2026-10-06 E2/215: 9 boxes
+- 2026-10-06 E2/216: 4 boxes
+- 2026-10-06 E2/217: 9 boxes
+- 2026-10-06 E2/217: 12 boxes
+- 2026-10-06 E3/0: 19 boxes
+- 2026-10-06 E3/1: 15 boxes
+- 2026-10-06 E3/2: 15 boxes
+- 2026-10-06 E3/3: 15 boxes
+- 2026-10-06 E3/4: 3 boxes
+- 2026-10-06 E2/217: 12 boxes
+- 2026-10-06 E3/0: 19 boxes
+- 2026-10-06 E3/1: 15 boxes
+- 2026-10-06 E3/2: 15 boxes
+- 2026-10-06 E3/3: 15 boxes
+- 2026-10-06 E3/4: 3 boxes
+- 2026-10-06 E3/4: 12 boxes
+- 2026-10-06 E3/5: 21 boxes
+- 2026-10-06 E3/6: 12 boxes
+- 2026-10-06 E3/7: 13 boxes
+- 2026-10-06 E3/9: 14 boxes
+- 2026-10-06 E3/10: 7 boxes
+- 2026-10-06 E3/4: 12 boxes
+- 2026-10-06 E3/5: 21 boxes
+- 2026-10-06 E3/6: 12 boxes
+- 2026-10-06 E3/7: 13 boxes
+- 2026-10-06 E3/9: 14 boxes
+- 2026-10-06 E3/10: 7 boxes
+- 2026-10-06 E3/10: 14 boxes
+- 2026-10-06 E3/11: 30 boxes
+- 2026-10-06 E3/12: 30 boxes
+- 2026-10-06 E3/32: 5 boxes
+- 2026-10-06 E3/10: 14 boxes
+- 2026-10-06 E3/11: 30 boxes
+- 2026-10-06 E3/12: 30 boxes
+- 2026-10-06 E3/32: 5 boxes
+- 2026-10-06 E3/33: 6 boxes
+- 2026-10-06 E3/34: 10 boxes
+- 2026-10-06 E3/35: 5 boxes
+- 2026-10-06 E3/36: 25 boxes
+- 2026-10-06 E3/37: 7 boxes
+- 2026-10-06 E3/33: 6 boxes
+- 2026-10-06 E3/34: 10 boxes
+- 2026-10-06 E3/35: 5 boxes
+- 2026-10-06 E3/36: 25 boxes
+- 2026-10-06 E3/37: 7 boxes
+- 2026-10-06 E3/38: 12 boxes
+- 2026-10-06 E3/39: 5 boxes
+- 2026-10-06 E3/40: 5 boxes
+- 2026-10-06 E3/41: 7 boxes
+- 2026-10-06 E3/42: 5 boxes
+- 2026-10-06 E3/43: 2 boxes
+- 2026-10-06 E3/43: 3 boxes
+- 2026-10-06 E3/44: 8 boxes
+- 2026-10-06 E3/43: 3 boxes
+- 2026-10-06 E3/44: 8 boxes
+- 2026-10-06 E3/43: 3 boxes
+- 2026-10-06 E3/44: 8 boxes
+- 2026-10-06 E3/48: 17 boxes
+- 2026-10-06 E3/65: 1 boxes
+- 2026-10-06 E3/66: 4 boxes
+- 2026-10-06 E3/67: 1 boxes
+- 2026-10-06 E3/68: 5 boxes
+- 2026-10-06 E3/69: 9 boxes
+- 2026-10-06 E3/70: 1 boxes
+- 2026-10-06 E3/71: 3 boxes
+- 2026-10-06 E3/72: 5 boxes
+- 2026-10-06 E3/82: 5 boxes
+- 2026-10-06 E3/83: 5 boxes
+- 2026-10-06 E3/84: 6 boxes
+- 2026-10-06 E3/85: 5 boxes
+- 2026-10-06 E3/86: 5 boxes
+- 2026-10-06 E3/88: 6 boxes
+- 2026-10-06 E3/43: 3 boxes
+- 2026-10-06 E3/44: 8 boxes
+- 2026-10-06 E3/48: 17 boxes
+- 2026-10-06 E3/65: 1 boxes
+- 2026-10-06 E3/66: 4 boxes
+- 2026-10-06 E3/67: 1 boxes
+- 2026-10-06 E3/68: 5 boxes
+- 2026-10-06 E3/69: 9 boxes
+- 2026-10-06 E3/70: 1 boxes
+- 2026-10-06 E3/71: 3 boxes
+- 2026-10-06 E3/72: 5 boxes
+- 2026-10-06 E3/82: 5 boxes
+- 2026-10-06 E3/83: 5 boxes
+- 2026-10-06 E3/84: 6 boxes
+- 2026-10-06 E3/85: 5 boxes
+- 2026-10-06 E3/86: 5 boxes
+- 2026-10-06 E3/88: 6 boxes
+- 2026-10-06 E3/97: 1 boxes
+- 2026-10-06 E3/98: 6 boxes
+- 2026-10-06 E3/99: 5 boxes
+- 2026-10-06 E3/100: 5 boxes
+- 2026-10-06 E3/101: 5 boxes
+- 2026-10-06 E3/102: 5 boxes
+- 2026-10-06 E3/103: 5 boxes
+- 2026-10-06 E3/104: 5 boxes
+- 2026-10-06 E3/105: 5 boxes
+- 2026-10-06 E3/106: 5 boxes
+- 2026-10-06 E3/97: 1 boxes
+- 2026-10-06 E3/98: 6 boxes
+- 2026-10-06 E3/99: 5 boxes
+- 2026-10-06 E3/100: 5 boxes
+- 2026-10-06 E3/101: 5 boxes
+- 2026-10-06 E3/102: 5 boxes
+- 2026-10-06 E3/103: 5 boxes
+- 2026-10-06 E3/104: 5 boxes
+- 2026-10-06 E3/105: 5 boxes
+- 2026-10-06 E3/106: 5 boxes
+- 2026-10-06 E2/4: 1 boxes
+- 2026-10-07 TALK KEMONO(rest) TENSI YOUEN KOKURI KUTISAKE DOPPEL QSIRUBA ALIEN translated (Haiku 5.5 drafts, reviewed), ETC decoded + 17 sample units, disc rebuilt 18:13
+- 2026-10-07 evening: Plead line + battle stat labels (btlstat.py) fixed, disc rebuilt 19:50
+- 2026-10-07 21:00: ETC fully translated + verified by RAM injection; dngmsg.py (dungeon room messages); menutext/race titles/scriptmsg; disc 20:59
+- 2026-10-07 review.tsv: user answered 10 items (resolved and removed): BTLMSG 30 + DESCS -> KO; CHOICES 12 confirmed, 28/29 -> Yes, I do/No, I don't + I do/I don't; E0 6/7 Samatite kept; E0 58/1 Nicolai in capitals (boxes 58/1, 58/3, 144/10, 144/71; the others already were); E0 70/14 Philemonkey; E0 135/6 chauffeur; TALKANS 439/730 kept literal; NAME kept.
+- 2026-10-07 review: Tackle (BANNER 177, SKILLS 176) and Dragon Whirl (SKILLS 199) confirmed on persona1.wikidot.com/skill -> removed from review.tsv
+- 2026-10-08 session closed: persona-gift speech not triggerable by the user yet; all else seen is translated; notes updated (HANDOFF 'Session status 2026-10-07/08')
+- 2026-10-08: BTLP answer-window glitch (LoadImage queue wrap) fixed in vwf/vwf_btlp_queue.asm; tools/btlp_diag.py added; build --no-disc OK, disc NOT rebuilt (DuckStation open). Code verified in a unicorn MIPS simulation (7 cell reports -> 3 queue entries).
+- 2026-10-08: answer lines must be ONE line (2-line answers overlapped the next answer, seen on slot 4); 56 ANSWERS.tsv entries joined, 3 shortened; talktl enforces maxlines 1.
+- 2026-10-08: dungeon script boxes (D0x/D??.BIN) fully scanned: tools/dngtext.py + translation/src/dngtext_en.py (52 unique boxes incl. story lines of Mark/Nanjo/Maki/Kandori/Takeda/Queen/Ayase/Yukino, lever prompt, billboards), in place, abbreviated to slot size. Replaces dngmsg substring matching (which had mangled e.g. D0A/D18/D02 strings).
+- 2026-10-08 16:39 disc rebuilt (answer one-line fix, BTLP queue dedupe, dungeon script boxes + DNG script VWF, party full names tools/partynames.py: SLPS table 0x80049040 10-byte slots of VWF bytes, name-insert count 5->8 in ADV/DNG/S2D; Kirishima shown as Kirishim).
+- 2026-10-08 16:5x: hero typed name (5 two-byte glyphs, no terminator) overran with name count 8 ('PersoSon'): party_count_fix glue (dead fn per overlay) keeps 5 for char id 1. Disc rebuilt.
+
+## Dungeon box leading indent (slot 2 test)
+- D-file boxes whose Japanese starts with N ideographic spaces lose their first N glyphs in the DNG interpreter ("Takeda:" -> "eda:", "Nanjo:" -> "njo:"). `tools/dngtext.py` now prepends the same N `U+3000` to the English when the slot has room (width checked without them). Nanjo box shortened ("Inside.") and a space added after the name insert ("Jhon Ready?").
+
+## FMV opening subtitles
+- tools/fmv_opening.py + tools/ext/jpsxdec (v2.1): the Japanese quote of MV1C replaced by English (4 cards, "~ Zhuangzi ~"), fade per line preserved, card 4 composited over the fading moon. 458 frames. build.py step after the disc. Voiced FMV list and ASR transcripts in HANDOFF.md / translation/work/fmv_asr_ja.txt.
+
+## Spoken-movie subtitles
+- fmv_subs.py: 9 movies (MV11-MV17, MV1B, MVFF), 57 subtitles from agy/Gemini timestamps. Philemon voice: plain formal, "everyone" for 諸君. Names per glossary (Hypnos, Snow Queen, Devil's Mirror, Hama Mirror, Maki Sonomura).
+
+## Ending
+- fmv_poems.py (MV1E, MV25 poems), endtext.py (16 END.BIN text pages). Credits need nothing (English roles + kanji names).
+
+## "Cost" label glitch (battle PERSONA menu header)
+- btlp/persona_header.asm still held the pre-2026-10-05 small-font lowercase codes (0x0F,0x3D,0x1B) for "o s t"; the lowercase cells moved to the name-entry codes (smallfont_lc.LC_CODES o=0x3A s=0x3E t=0x3F), so the label showed other glyphs. Fixed to A8 3A 3E 3F FF. No other hand-written small-font .byte string exists in the asm. Verified live (write_memory 0x800DD744 in the battle state 3).
+- Fixed disc built to patched/new/Persona-TL.bin (emulator was open): replace patched/Persona-TL.bin/.cue with it when DuckStation is closed.
+
+## Velvet Room gift speech
+- giftmsg.py (see HANDOFF 2026-10-08 late night). Disc not rebuilt yet at the time of writing (emulator open): run `python tools/build.py` with DuckStation closed.
+
+## START-held dungeon banner (slot 10 of the user)
+- D01/D0BM.BIN repeats the 10-slot name field 6 times (header copy at 0x8E4 + five per-area records, stride 0xC4); dngnames.py patched only the header copy, so the START banner showed 聖エルミン学園？？？. dngnames.py now replaces every copy of every known Japanese name field in each map file (35 files, no Japanese field left in build/). The old state 10 still shows Japanese: the banner is not redrawn from the RAM copies (writing English into all 10 RAM copies changed nothing), so it is probably rendered when the floor loads; check on a fresh load of the rebuilt disc.
+- User verified the banner fix in game (moving to a 2D area and back to the 3D one re-renders it). Disc rebuilt after that.
+- 2026-10-10 E2/52: 8 boxes
+- 2026-10-10 E2/56: 6 boxes
+- 2026-10-10 E2/64: 1 boxes
+- 2026-10-10 E2/65: 10 boxes
+- 2026-10-10 E2/66: 5 boxes
+- 2026-10-10 E2/67: 5 boxes
+- 2026-10-10 E2/68: 5 boxes
+- 2026-10-10 E2/80: 7 boxes
+- 2026-10-10 E2/81: 6 boxes
+- 2026-10-10 E2/82: 6 boxes
+- 2026-10-10 E2/83: 7 boxes
+- 2026-10-10 E2/96: 2 boxes
+- 2026-10-10 E2/97: 7 boxes
+- 2026-10-10 E2/103: 4 boxes

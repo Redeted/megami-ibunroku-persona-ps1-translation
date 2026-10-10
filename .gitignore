@@ -1,0 +1,54 @@
+# Whitelist: nothing is committed unless it is listed below. Game data (original/, build/, disc images,
+# extracted or decoded game files) must never enter the repository.
+/*
+
+# documentation
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/DEVELOPMENT.md
+!/RELEASE_NOTES.md
+!/TRANSLATION_GUIDE.md
+!/glossary.tsv
+
+# assembler sources
+!/main.asm
+!/common/
+!/adv/
+!/atlus_exe/
+!/btlp/
+!/casino/
+!/dng/
+!/end_exe/
+!/mes/
+!/movie_exe/
+!/name/
+!/namedt/
+!/open/
+!/open_exe/
+!/s2d/
+!/slps_005.00/
+!/talk/
+!/vwf/
+!/qol/
+!/font/
+
+# tools (third-party binaries are downloaded by the user, see README.md)
+!/tools/
+/tools/armips/
+/tools/ext/
+__pycache__/
+*.pyc
+
+# translation data
+!/translation/
+/translation/HANDOFF.md
+/translation/images/
+/translation/work/*
+!/translation/work/races_en.tsv
+
+# research: only the write-ups
+!/research/
+/research/*
+!/research/FPS60.md

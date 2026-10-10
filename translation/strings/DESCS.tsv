@@ -1,0 +1,282 @@
+idx	ram	ja	en	note	used_by
+0	80049104	敵１　火炎で小ダメージ	1 foe: light Fire damage	project (literal; element/status names official PSP)	0
+1	8004911C	敵１　火炎で中ダメージ	1 foe: medium Fire damage	project (literal; element/status names official PSP)	1
+2	80049134	敵複　火炎で大ダメージ	Foes: heavy Fire damage	project (literal; element/status names official PSP)	2,277
+3	8004914C	敵全　火炎で小ダメージ	All foes: light Fire damage	project (literal; element/status names official PSP)	3,278
+4	80049164	敵全　火炎で中ダメージ	All foes: medium Fire damage	project (literal; element/status names official PSP)	4,279
+5	8004917C	敵全　火炎で大ダメージ	All foes: heavy Fire damage	project (literal; element/status names official PSP)	5,280
+6	80049194	敵１　『氷結』状態＋小ダメージ	1 foe: Freeze + light damage	project (literal; element/status names official PSP)	6
+7	800491B4	敵１　『氷結』状態＋中ダメージ	1 foe: Freeze + medium damage	project (literal; element/status names official PSP)	7
+8	800491D4	敵複　『氷結』状態＋大ダメージ	Foes: Freeze + heavy damage	project (literal; element/status names official PSP)	8,281
+9	800491F4	敵全　『氷結』状態＋小ダメージ	All foes: Freeze + light damage	project (literal; element/status names official PSP)	9,282
+10	80049214	敵全　『氷結』状態＋中ダメージ	All foes: Freeze + medium damage	project (literal; element/status names official PSP)	10,283
+11	80049234	敵全　『氷結』状態＋大ダメージ	All foes: Freeze + heavy damage	project (literal; element/status names official PSP)	11,284
+12	80049254	敵１　真空波で小ダメージ	1 foe: light Wind damage	project (literal; element/status names official PSP)	12
+13	8004926C	敵１　真空波で中ダメージ	1 foe: medium Wind damage	project (literal; element/status names official PSP)	13
+14	80049284	敵複　真空波で大ダメージ	Foes: heavy Wind damage	project (literal; element/status names official PSP)	14,285
+15	8004929C	敵全　真空波で小ダメージ	All foes: light Wind damage	project (literal; element/status names official PSP)	15,286
+16	800492B4	敵全　真空波で中ダメージ	All foes: medium Wind damage	project (literal; element/status names official PSP)	16,287
+17	800492CC	敵全　真空波で大ダメージ	All foes: heavy Wind damage	project (literal; element/status names official PSP)	17,288
+18	800492E4	敵１　地震で小ダメージ	1 foe: light Earth damage	project (literal; element/status names official PSP)	18
+19	800492FC	敵１　地震で中ダメージ	1 foe: medium Earth damage	project (literal; element/status names official PSP)	19
+20	80049314	敵複　地震で大ダメージ	Foes: heavy Earth damage	project (literal; element/status names official PSP)	20,289
+21	8004932C	敵全　地震で小ダメージ	All foes: light Earth damage	project (literal; element/status names official PSP)	21,290
+22	80049344	敵全　地震で中ダメージ	All foes: medium Earth damage	project (literal; element/status names official PSP)	22,291
+23	8004935C	敵全　地震で大ダメージ	All foes: heavy Earth damage	project (literal; element/status names official PSP)	23,292
+24	80049374	敵１　核熱で小ダメージ	1 foe: light Nuclear damage	project (literal; element/status names official PSP)	24
+25	8004938C	敵１　核熱で中ダメージ	1 foe: medium Nuclear damage	project (literal; element/status names official PSP)	25
+26	800493A4	敵１　核熱で大ダメージ	1 foe: heavy Nuclear damage	project (literal; element/status names official PSP)	26,293
+27	800493BC	敵全　核熱で小ダメージ	All foes: light Nuclear damage	project (literal; element/status names official PSP)	27,294
+28	800493D4	敵全　核熱で中ダメージ	All foes: medium Nuclear damage	project (literal; element/status names official PSP)	28,295
+29	800493EC	敵全　核熱で大ダメージ	All foes: heavy Nuclear damage	project (literal; element/status names official PSP)	29,296
+30	80049404	敵１　衡撃波で小ダメージ	1 foe: light Blast damage	project (literal; element/status names official PSP)	30
+31	8004941C	敵１　衡撃波で中ダメージ	1 foe: medium Blast damage	project (literal; element/status names official PSP)	31
+32	80049434	敵複　衡撃波で大ダメージ	Foes: heavy Blast damage	project (literal; element/status names official PSP)	32,297
+33	8004944C	敵全　衡撃波で小ダメージ	All foes: light Blast damage	project (literal; element/status names official PSP)	33,298
+34	80049464	敵全　衡撃波で中ダメージ	All foes: medium Blast damage	project (literal; element/status names official PSP)	34,299
+35	8004947C	敵全　衡撃波で大ダメージ	All foes: heavy Blast damage	project (literal; element/status names official PSP)	35,300
+36	80049494	敵１　重力で小ダメージ	1 foe: light Gravity damage	project (literal; element/status names official PSP)	36
+37	800494AC	敵１　重力で中ダメージ	1 foe: medium Gravity damage	project (literal; element/status names official PSP)	37
+38	800494C4	敵複　重力で大ダメージ	Foes: heavy Gravity damage	project (literal; element/status names official PSP)	38,301
+39	800494DC	敵全　重力で小ダメージ	All foes: light Gravity damage	project (literal; element/status names official PSP)	39,302
+40	800494F4	敵全　重力で中ダメージ	All foes: medium Gravity damage	project (literal; element/status names official PSP)	40,303
+41	8004950C	敵全　重力で大ダメージ	All foes: heavy Gravity damage	project (literal; element/status names official PSP)	41,304
+42	80049524	敵１　『電撃』状態＋小ダメージ	1 foe: Shock + light damage	project (literal; element/status names official PSP)	42
+43	80049544	敵１　『電撃』状態＋中ダメージ	1 foe: Shock + medium damage	project (literal; element/status names official PSP)	43
+44	80049564	敵複　『電撃』状態＋大ダメージ	Foes: Shock + heavy damage	project (literal; element/status names official PSP)	44,305
+45	80049584	敵全　『電撃』状態＋小ダメージ	All foes: Shock + light damage	project (literal; element/status names official PSP)	45,306
+46	800495A4	敵全　『電撃』状態＋中ダメージ	All foes: Shock + medium damage	project (literal; element/status names official PSP)	46,307
+47	800495C4	敵全　『電撃』状態＋大ダメージ	All foes: Shock + heavy damage	project (literal; element/status names official PSP)	47,308
+48	800495E4	敵１　呪いの力で毎ターン攻撃	1 foe: curse attack each turn	project (literal; element/status names official PSP)	48
+49	800495FC	敵複　呪いの力で毎ターン攻撃	Foes: curse attack each turn	project (literal; element/status names official PSP)	49
+50	80049614	敵全　呪いの力で毎ターン攻撃	All foes: curse attack each turn	project (literal; element/status names official PSP)	50,309
+51	8004962C	敵１　呪いの力で攻撃	1 foe: curse attack	project (literal; element/status names official PSP)	51
+52	80049640	敵複　呪いの力で攻撃	Foes: curse attack	project (literal; element/status names official PSP)	52
+53	80049654	敵全　呪いの力で攻撃	All foes: curse attack	project (literal; element/status names official PSP)	53,310
+54	80049668	敵複　一時『睡眠』状態	Foes: temporary Sleep	project (literal; element/status names official PSP)	54
+55	80049680	敵複　一時『金縛』状態	Foes: temporary Bind	project (literal; element/status names official PSP)	55
+56	80049698	敵複　一時『混乱』状態	Foes: temporary Panic	project (literal; element/status names official PSP)	56
+57	800496B0	敵複　一時『幸福』状態	Foes: temporary Happy	project (literal; element/status names official PSP)	57
+58	800496C8	敵複　一時『魅惑』状態	Foes: temporary Charm	project (literal; element/status names official PSP)	58
+59	800496E0	敵複　一時『封魔』状態	Foes: temporary Mute	project (literal; element/status names official PSP)	59
+60	800496F8	敵複　一時『盲目』状態	Foes: temporary Blind	project (literal; element/status names official PSP)	60
+61	80049710	敵複　一時『不運』状態	Foes: temporary Unlucky	project (literal; element/status names official PSP)	61
+62	80049728	敵１　ＨＰ回復不能	1 foe: HP cannot be restored	project (literal; element/status names official PSP)	62
+63	8004973C	敵１　ペルソナ交代不能	1 foe: Persona cannot be changed	project (literal; element/status names official PSP)	63
+64	80049750	味１　『透明』状態	1 ally: Cloak	project (literal; element/status names official PSP)	64
+65	80049764	味１　『人形』状態	1 ally: Puppet	project (literal; element/status names official PSP)	65
+66	80049778	味１　『反撃』状態	1 ally: Counter	project (literal; element/status names official PSP)	66
+67	8004978C	味１　『狂暴』状態と状態回復	1 ally: Rage, cures ailments	project (literal; element/status names official PSP)	67
+68	800497A8	味１　『暴走』状態と状態回復	1 ally: Berserk, cures ailments	project (literal; element/status names official PSP)	68
+69	800497C4	味１　『獣人』状態と状態回復	1 ally: Beast, cures ailments	project (literal; element/status names official PSP)	69
+70	800497E0	敵１　『死亡』状態	1 foe: instant death	project (literal; element/status names official PSP)	70,311
+71	800497F4	敵１　『石化』状態	1 foe: Stone	project (literal; element/status names official PSP)	71,312
+72	80049808	敵１　『麻痺』状態	1 foe: Paralyze	project (literal; element/status names official PSP)	72,313
+73	8004981C	敵１　『猛毒』状態	1 foe: Poison	project (literal; element/status names official PSP)	73,314
+74	80049830	敵１　『病気』状態	1 foe: Sick	project (literal; element/status names official PSP)	74,315
+75	80049844	？？？	???	project (literal; element/status names official PSP)	75,109,159,316,326
+76	8004984C	敵１　聖なる力で毎ターン攻撃	1 foe: holy attack each turn	project (literal; element/status names official PSP)	76
+77	80049864	敵複　聖なる力で毎ターン攻撃	Foes: holy attack each turn	project (literal; element/status names official PSP)	77
+78	8004987C	敵全　聖なる力で毎ターン攻撃	All foes: holy attack each turn	project (literal; element/status names official PSP)	78,317
+79	80049894	敵１　聖なる力で攻撃	1 foe: holy attack	project (literal; element/status names official PSP)	79
+80	800498A8	敵複　聖なる力で攻撃	Foes: holy attack	project (literal; element/status names official PSP)	80
+81	800498BC	敵全　聖なる力で攻撃	All foes: holy attack	project (literal; element/status names official PSP)	81,318
+82	800498D0	敵全　攻撃力を下げる	All foes: lower attack	project (literal; element/status names official PSP)	82
+83	800498E4	敵全　防御力を下げる	All foes: lower defense	project (literal; element/status names official PSP)	83
+84	800498F8	敵全　命中率を下げる	All foes: lower accuracy	project (literal; element/status names official PSP)	84
+85	8004990C	味全　下げられた能力の回復	All allies: restore lowered stats	project (literal; element/status names official PSP)	85
+86	80049924	味全　攻撃力を上げる	All allies: raise attack	project (literal; element/status names official PSP)	86
+87	80049938	味全　防御力を上げる	All allies: raise defense	project (literal; element/status names official PSP)	87
+88	8004994C	味全　命中率を上げる	All allies: raise accuracy	project (literal; element/status names official PSP)	88
+89	80049960	味全　魔法威力を上げる	All allies: raise magic power	project (literal; element/status names official PSP)	89
+90	80049974	敵全　上げられた能力を元に戻す	All foes: undo raised stats	project (literal; element/status names official PSP)	90
+91	8004998C	味全　エナジードレイン防止	All allies: prevent Energy Drain	project (literal; element/status names official PSP)	91,253
+92	800499A4	味全　魔法攻撃を反射	All allies: reflect magic attacks	project (literal; element/status names official PSP)	92,254
+93	800499B8	味全　物理攻撃を反射	All allies: reflect physical attacks	project (literal; element/status names official PSP)	93,255
+94	800499CC	味１　ＨＰ少し回復	1 ally: restore some HP	project (literal; element/status names official PSP)	94,242,257
+95	800499E0	味１　ＨＰ回復	1 ally: restore HP	project (literal; element/status names official PSP)	95,243
+96	800499F0	味１　ＨＰ全回復	1 ally: fully restore HP	project (literal; element/status names official PSP)	96,244,319
+97	80049A04	味全　ＨＰ少し回復	All allies: restore some HP	project (literal; element/status names official PSP)	97
+98	80049A18	味全　ＨＰ回復	All allies: restore HP	project (literal; element/status names official PSP)	98
+99	80049A28	味全　ＨＰ全回復	All allies: fully restore HP	project (literal; element/status names official PSP)	99,320
+100	80049A3C	味１　一時状態を全回復	1 ally: cure all temporary ailments	project (literal; element/status names official PSP)	100,251
+101	80049A54	味全　一時状態を１段階回復	All allies: ease ailments 1 level	project (literal; element/status names official PSP)	101,252
+102	80049A70	味１　『猛毒』状態回復	1 ally: cure Poison	project (literal; element/status names official PSP)	102,249,321
+103	80049A88	味１　『麻痺』状態回復	1 ally: cure Paralyze	project (literal; element/status names official PSP)	103,248,322
+104	80049AA0	味１　『石化』状態回復	1 ally: cure Stone	project (literal; element/status names official PSP)	104,247,323
+105	80049AB8	味１　『病気』状態回復	1 ally: cure Sick	project (literal; element/status names official PSP)	105,250,324
+106	80049AD0	味１　『瀕死』状態回復	1 ally: cure KO	project (literal; element/status names official PSP)	106,245
+107	80049AE8	味１　『瀕死』状態全回復	1 ally: cure KO, fully restore HP	project (literal; element/status names official PSP)	107,246,325
+108	80049B04	味全　ＨＰ全回復　術者『瀕死』	All allies: full HP, caster KO	project (literal; element/status names official PSP)	108
+109	80049B24	パーティー周辺のマップを表示	Shows a map around the party	project (literal; element/status names official PSP)	110,256
+110	80049B40	トラフーリありません	No Trafuri	project (literal; element/status names official PSP)	111
+111	80049B50	トラエストありません	No Traesto	project (literal; element/status names official PSP)	112
+112	80049B5C	敵を追い払う	Drives enemies away	project (literal; element/status names official PSP)	113,258
+113	80049B68	ダメージゾーンのダメージ回避	Avoids damage-zone damage	project (literal; element/status names official PSP)	114,259
+114	80049B84	味１　ペルソナ交代不能回復	1 ally: cure Persona-change lock	project (literal; element/status names official PSP)	115
+115	80049B9C	敵１　『麻痺』状態	1 foe: Paralyze	project (literal; element/status names official PSP)	116
+116	80049BB0	敵１　『石化』状態	1 foe: Stone	project (literal; element/status names official PSP)	117
+117	80049BC4	敵１　『死亡』状態	1 foe: instant death	project (literal; element/status names official PSP)	118
+118	80049BD8	敵１　一時『罪悪』状態	1 foe: temporary Guilt	project (literal; element/status names official PSP)	119
+119	80049BF0	敵１　一時『恐怖』状態	1 foe: temporary Fear	project (literal; element/status names official PSP)	120
+120	80049C08	敵複　一時『魅惑』状態	Foes: temporary Charm	project (literal; element/status names official PSP)	121
+121	80049C20	敵複　一時『幸福』状態	Foes: temporary Happy	project (literal; element/status names official PSP)	122
+122	80049C38	敵複　一時『不運』状態	Foes: temporary Unlucky	project (literal; element/status names official PSP)	123
+123	80049C50	敵複　一時『封魔』状態	Foes: temporary Mute	project (literal; element/status names official PSP)	124
+124	80049C68	敵複　一時『罪悪』状態	Foes: temporary Guilt	project (literal; element/status names official PSP)	125
+125	80049C80	敵複　一時『睡眠』状態	Foes: temporary Sleep	project (literal; element/status names official PSP)	126
+126	80049C98	敵複　一時『混乱』状態	Foes: temporary Panic	project (literal; element/status names official PSP)	127
+127	80049CB0	敵複　一時『金縛』状態	Foes: temporary Bind	project (literal; element/status names official PSP)	128
+128	80049CC8	敵複　一時『恐怖』状態	Foes: temporary Fear	project (literal; element/status names official PSP)	129
+129	80049CE0	敵複　一時『魅惑』状態	Foes: temporary Charm	project (literal; element/status names official PSP)	130
+130	80049CF8	男キャラのレベルを１下げる	Lowers a male's level by 1	project (literal; element/status names official PSP)	131
+131	80049D0C	女キャラのレベルを１下げる	Lowers a female's level by 1	project (literal; element/status names official PSP)	132
+132	80049D20	人間キャラのレベルを１下げる	Lowers a human's level by 1	project (literal; element/status names official PSP)	133
+133	80049D38	相手の経験値を減らす	Reduces the target's EXP	project (literal; element/status names official PSP)	134
+134	80049D4C	敵複　火炎でダメージ	Foes: Fire damage	project (literal; element/status names official PSP)	135
+135	80049D60	敵複　『氷結』状態＋ダメージ	Foes: Freeze + damage	project (literal; element/status names official PSP)	136
+136	80049D7C	敵複　『猛毒』状態＋ダメージ	Foes: Poison + damage	project (literal; element/status names official PSP)	137
+137	80049D98	敵複　『盲目』状態＋ダメージ	Foes: Blind + damage	project (literal; element/status names official PSP)	138
+138	80049DB4	氷結魔法を吸収してＨＰ回復	Absorbs Ice magic to restore HP	project (literal; element/status names official PSP)	139
+139	80049DD0	火炎魔法を吸収してＨＰ回復	Absorbs Fire magic to restore HP	project (literal; element/status names official PSP)	140
+140	80049DEC	全ての攻撃を反射して敵を攻撃	Reflects all attacks at the foe	project (literal; element/status names official PSP)	141
+141	80049E04	全ての攻撃を反射して敵を攻撃	Reflects all attacks at the foe	project (literal; element/status names official PSP)	142
+142	80049E1C	敵複　『火炎』相性の攻撃魔法	Foes: Fire attack magic	project (literal; element/status names official PSP)	143
+143	80049E38	敵複　『火炎』相性の攻撃魔法	Foes: Fire attack magic	project (literal; element/status names official PSP)	144
+144	80049E54	敵複　『氷結』相性の攻撃魔法	Foes: Ice attack magic	project (literal; element/status names official PSP)	145
+145	80049E70	敵複　『氷結』相性の攻撃魔法	Foes: Ice attack magic	project (literal; element/status names official PSP)	146
+146	80049E8C	敵複　『疾風』相性の攻撃魔法	Foes: Wind attack magic	project (literal; element/status names official PSP)	147
+147	80049EA8	敵複　『疾風』相性の攻撃魔法	Foes: Wind attack magic	project (literal; element/status names official PSP)	148
+148	80049EC4	敵複　『地震』相性の攻撃魔法	Foes: Earth attack magic	project (literal; element/status names official PSP)	149
+149	80049EE0	敵複　『地震』相性の攻撃魔法	Foes: Earth attack magic	project (literal; element/status names official PSP)	150
+150	80049EFC	敵複　『衡撃』相性の攻撃魔法	Foes: Blast attack magic	project (literal; element/status names official PSP)	151
+151	80049F18	敵複　『衡撃』相性の攻撃魔法	Foes: Blast attack magic	project (literal; element/status names official PSP)	152
+152	80049F34	敵複　『電撃』相性の攻撃魔法	Foes: Electric attack magic	project (literal; element/status names official PSP)	153
+153	80049F50	敵複　『電撃』相性の攻撃魔法	Foes: Electric attack magic	project (literal; element/status names official PSP)	154
+154	80049F6C	敵複　『降魔』相性の攻撃魔法	Foes: Curse attack magic	project (literal; element/status names official PSP)	155
+155	80049F88	敵複　『降魔』相性の攻撃魔法	Foes: Curse attack magic	project (literal; element/status names official PSP)	156
+156	80049FA4	敵複　『奇跡』相性の攻撃魔法	Foes: Miracle attack magic	project (literal; element/status names official PSP)	157
+157	80049FC0	敵複　『奇跡』相性の攻撃魔法	Foes: Miracle attack magic	project (literal; element/status names official PSP)	158
+158	80049FDC	複数の悪魔を召喚	Summons several demons	project (literal; element/status names official PSP)	160
+159	80049FEC	戦闘逃亡不能	Escape from battle impossible	project (literal; element/status names official PSP)	161
+160	80049FFC	敵１　噛み付く	1 foe: bite	project (literal; element/status names official PSP)	162
+161	8004A00C	敵１　噛み付き＋『猛毒』状態	1 foe: bite + Poison	project (literal; element/status names official PSP)	163
+162	8004A028	敵１　噛み付き＋『麻痺』状態	1 foe: bite + Paralyze	project (literal; element/status names official PSP)	164
+163	8004A044	敵１　噛み付き＋『病気』状態	1 foe: bite + Sick	project (literal; element/status names official PSP)	165
+164	8004A060	敵１　噛み付き＋『石化』状態	1 foe: bite + Stone	project (literal; element/status names official PSP)	166
+165	8004A07C	敵１　引っ掻く	1 foe: scratch	project (literal; element/status names official PSP)	167
+166	8004A08C	敵１　引っ掻き＋『猛毒』状態	1 foe: scratch + Poison	project (literal; element/status names official PSP)	168
+167	8004A0A8	敵１　引っ掻き＋『麻痺』状態	1 foe: scratch + Paralyze	project (literal; element/status names official PSP)	169
+168	8004A0C4	敵１　引っ掻き＋『病気』状態	1 foe: scratch + Sick	project (literal; element/status names official PSP)	170
+169	8004A0E0	敵１　引っ掻き＋『石化』状態	1 foe: scratch + Stone	project (literal; element/status names official PSP)	171
+170	8004A0FC	敵複　針で攻撃＋『猛毒』状態	Foes: needles + Poison	project (literal; element/status names official PSP)	172
+171	8004A118	敵複　針で攻撃＋『麻痺』状態	Foes: needles + Paralyze	project (literal; element/status names official PSP)	173
+172	8004A134	敵複　無数の針で攻撃	Foes: countless needles	project (literal; element/status names official PSP)	174
+173	8004A148	敵１　必殺の針で攻撃	1 foe: attack with a deadly needle	project (literal; element/status names official PSP)	175
+174	8004A15C	敵１　突進して攻撃	1 foe: charging attack	project (literal; element/status names official PSP)	176
+175	8004A170	敵１　骨を砕き攻撃	1 foe: bone-crushing attack	project (literal; element/status names official PSP)	177
+176	8004A184	敵１　押し潰して攻撃	1 foe: crushing attack	project (literal; element/status names official PSP)	178
+177	8004A198	敵１　突進して強攻撃	1 foe: strong charging attack	project (literal; element/status names official PSP)	179
+178	8004A1AC	敵１　押し潰して強攻撃	1 foe: strong crushing attack	project (literal; element/status names official PSP)	180
+179	8004A1C0	敵１　くちばしで攻撃	1 foe: attack with the beak	project (literal; element/status names official PSP)	181
+180	8004A1D0	敵１　羽根をはばたかせ攻撃	1 foe: attack by flapping wings	project (literal; element/status names official PSP)	182
+181	8004A1E8	敵１　急降下して攻撃	1 foe: diving attack	project (literal; element/status names official PSP)	183
+182	8004A1FC	敵１　足の爪で攻撃	1 foe: attack with the talons	project (literal; element/status names official PSP)	184
+183	8004A210	敵１　両足の爪で攻撃	1 foe: attack with both talons	project (literal; element/status names official PSP)	185
+184	8004A224	『拳』相性の必殺技	Fist special	project (literal; element/status names official PSP)	186
+185	8004A238	『拳』相性の一撃必殺技	Fist one-hit kill	project (literal; element/status names official PSP)	187
+186	8004A250	『拳』相性の超必殺技	Fist super special	project (literal; element/status names official PSP)	188
+187	8004A268	『技』相性の必殺技	Tech special	project (literal; element/status names official PSP)	189
+188	8004A27C	『技』相性の一撃必殺技	Tech one-hit kill	project (literal; element/status names official PSP)	190
+189	8004A294	『技』相性の超必殺技	Tech super special	project (literal; element/status names official PSP)	191
+190	8004A2AC	『片手剣』相性の必殺技	1H Sword special	project (literal; element/status names official PSP)	192
+191	8004A2C4	『片手剣』相性の一撃必殺技	1H Sword one-hit kill	project (literal; element/status names official PSP)	193
+192	8004A2E0	『片手剣』相性の超必殺技	1H Sword super special	project (literal; element/status names official PSP)	194
+193	8004A2FC	『両手剣』相性の必殺技	2H Sword special	project (literal; element/status names official PSP)	195
+194	8004A314	『両手剣』相性の一撃必殺技	2H Sword one-hit kill	project (literal; element/status names official PSP)	196
+195	8004A330	『両手剣』相性の超必殺技	2H Sword super special	project (literal; element/status names official PSP)	197
+196	8004A34C	『槍』相性の必殺技	Spear special	project (literal; element/status names official PSP)	198
+197	8004A360	『槍』相性の一撃必殺技	Spear one-hit kill	project (literal; element/status names official PSP)	199
+198	8004A378	『槍』相性の超必殺技	Spear super special	project (literal; element/status names official PSP)	200
+199	8004A390	『斧』相性の必殺技	Axe special	project (literal; element/status names official PSP)	201
+200	8004A3A4	『斧』相性の一撃必殺技	Axe one-hit kill	project (literal; element/status names official PSP)	202
+201	8004A3BC	『斧』相性の超必殺技	Axe super special	project (literal; element/status names official PSP)	203
+202	8004A3D4	『鞭』相性の必殺技	Whip special	project (literal; element/status names official PSP)	204
+203	8004A3E8	『鞭』相性の一撃必殺技	Whip one-hit kill	project (literal; element/status names official PSP)	205
+204	8004A400	『鞭』相性の超必殺技	Whip super special	project (literal; element/status names official PSP)	206
+205	8004A418	『投具』相性の必殺技	Thrown special	project (literal; element/status names official PSP)	207
+206	8004A430	『投具』相性の一撃必殺技	Thrown one-hit kill	project (literal; element/status names official PSP)	208
+207	8004A44C	『投具』相性の超必殺技	Thrown super special	project (literal; element/status names official PSP)	209
+208	8004A464	『弓矢』相性の必殺技	Bow special	project (literal; element/status names official PSP)	210
+209	8004A47C	『弓矢』相性の一撃必殺技	Bow one-hit kill	project (literal; element/status names official PSP)	211
+210	8004A498	『弓矢』相性の超必殺技	Bow super special	project (literal; element/status names official PSP)	212
+211	8004A4B0	敵１　ハンドガンで攻撃	1 foe: attack with a handgun	project (literal; element/status names official PSP)	213
+212	8004A4C4	敵１　マシンガンで攻撃	1 foe: attack with a machine gun	project (literal; element/status names official PSP)	214
+213	8004A4D8	敵複　マシンガンで攻撃	Foes: machine gun attack	project (literal; element/status names official PSP)	215
+214	8004A4EC	敵複　ショットガンで攻撃	Foes: shotgun attack	project (literal; element/status names official PSP)	216
+215	8004A504	敵１　ライフルで攻撃	1 foe: attack with a rifle	project (literal; element/status names official PSP)	217
+216	8004A514	敵１　空から素敵な贈り物	1 foe: a lovely gift from the sky	project (literal; element/status names official PSP)	218
+217	8004A52C	敵１　使用する度に強くなる攻撃	1 foe: stronger with every use	project (literal; element/status names official PSP)	219
+218	8004A548	敵複　恐怖のルーレットダメージ	Foes: roulette of terror	project (literal; element/status names official PSP)	220
+219	8004A564	敵全　攻撃相性が変わる謎の攻撃	All foes: shifting-affinity attack	project (literal; element/status names official PSP)	221
+220	8004A580	敵全　大ダメージ　術者『死亡』	All foes: heavy damage; user dies	project (literal; element/status names official PSP)	222
+221	8004A5A0	敵全　自爆して敵味方にダメージ	All foes: self-destruct, hits all	project (literal; element/status names official PSP)	223
+222	8004A5BC	敵１　相手を道連れにして自滅	1 foe: takes the target with it	project (literal; element/status names official PSP)	224
+223	8004A5D4	１体が分身して２体になる	One splits into two	project (literal; element/status names official PSP)	225
+224	8004A5E8	敵１　毎ターン＋１のダメージ	1 foe: damage +1 every turn	project (literal; element/status names official PSP)	226
+225	8004A604	パラメータ『ＳＴＲ』＋１	St +1	project (literal; element/status names official PSP)	260
+226	8004A61C	パラメータ『ＶＩＴ』＋１	Vi +1	project (literal; element/status names official PSP)	261
+227	8004A634	パラメータ『ＴＥＣ』＋１	Dx +1	project (literal; element/status names official PSP)	262
+228	8004A64C	パラメータ『ＡＧＬ』＋１	Ag +1	project (literal; element/status names official PSP)	263
+229	8004A664	パラメータ『ＬＵＫ』＋１	Lu +1	project (literal; element/status names official PSP)	264
+230	8004A67C	ＭＡＸ『ＨＰ』＋５	Max HP +5	project (literal; element/status names official PSP)	265
+231	8004A690	ＭＡＸ『ＳＰ』＋５	Max SP +5	project (literal; element/status names official PSP)	266
+232	8004A6A4	ＨＰの回復／増加	Restores/increases HP	project (literal; element/status names official PSP)	267
+233	8004A6B8	ＨＰ／ＳＰ回復	Restores HP/SP	project (literal; element/status names official PSP)	268
+234	8004A6C8	重バッドステータス以外全回復	Cures all but severe ailments	project (literal; element/status names official PSP)	269
+235	8004A6E4	『瀕死』状態以外全回復	Cures all but KO	project (literal; element/status names official PSP)	270
+236	8004A6FC	毎ターンＨＰ回復	Restores HP every turn	project (literal; element/status names official PSP)	271
+237	8004A70C	敵全体のＨＰを１にする	Sets all foes' HP to 1	project (literal; element/status names official PSP)	272
+238	8004A720	敵全体を吸い込む	Sucks in all foes	project (literal; element/status names official PSP)	273
+239	8004A730	敵全体が逃げ出す	All foes run away	project (literal; element/status names official PSP)	274
+240	8004A740	ＳＰ回復	Restores SP	project (literal; element/status names official PSP)	275
+241	8004A74C	コードブレイカーが１回できる	Allows one Code Breaker	project (literal; element/status names official PSP)	276
+242	8004A764	宝石：アレキサンドライト	Gem: Alexandrite	project (literal; element/status names official PSP)	327
+243	8004A778	宝石：ダイアモンド	Gem: Diamond	project (literal; element/status names official PSP)	328
+244	8004A788	宝石：サファイア	Gem: Sapphire	project (literal; element/status names official PSP)	329
+245	8004A798	宝石：エメラルド	Gem: Emerald	project (literal; element/status names official PSP)	330
+246	8004A7A8	宝石：ルビー	Gem: Ruby	project (literal; element/status names official PSP)	331
+247	8004A7B8	宝石：パール	Gem: Pearl	project (literal; element/status names official PSP)	332
+248	8004A7C8	宝石：タンザナイト	Gem: Tanzanite	project (literal; element/status names official PSP)	333
+249	8004A7D8	宝石：オパール	Gem: Opal	project (literal; element/status names official PSP)	334
+250	8004A7E8	宝石：アメジスト	Gem: Amethyst	project (literal; element/status names official PSP)	335
+251	8004A7F8	宝石：ガーネット	Gem: Garnet	project (literal; element/status names official PSP)	336
+252	8004A808	宝石：アクアマリン	Gem: Aquamarine	project (literal; element/status names official PSP)	337
+253	8004A818	宝石：トパーズ	Gem: Topaz	project (literal; element/status names official PSP)	338
+254	8004A828	宝石：ムーンストーン	Gem: Moonstone	project (literal; element/status names official PSP)	339
+255	8004A83C	宝石：マラカイト	Gem: Malachite	project (literal; element/status names official PSP)	340
+256	8004A84C	宝石：オニキス	Gem: Onyx	project (literal; element/status names official PSP)	341
+257	8004A858	宝石：ターコイズ	Gem: Turquoise	project (literal; element/status names official PSP)	342
+258	8004A868	アヤセが作ったアップルパイ	An apple pie made by Ayase	project (literal; element/status names official PSP)	343
+259	8004A87C	アヤセが作ったアッブルパイ	An abble pie made by Ayase	project (literal; element/status names official PSP)	344
+260	8004A890	アヤセが作ったマッブルパイ	A mabble pie made by Ayase	project (literal; element/status names official PSP)	345
+261	8004A8A4	演劇部の「雪の女王の仮面」	The drama club's Snow Queen Mask	project (literal; element/status names official PSP)	346
+262	8004A8C0	「悪魔の鏡」がくだけちった物	The shattered Devil's Mirror	project (literal; element/status names official PSP)	347
+263	8004A8D8	「反夢界」の牢屋の鍵	Jail key of the Anti-Dream World	project (literal; element/status names official PSP)	348
+264	8004A8EC	究極の力を持つ神々の食物	Food of the gods: ultimate power	project (literal; element/status names official PSP)	349
+265	8004A904	「鏡の破片」が１２個はめられる	Holds 12 Mirror Shards	project (literal; element/status names official PSP)	350
+266	8004A920	これが最後のアップルパイ	This is the last apple pie	project (literal; element/status names official PSP)	351
+267	8004A934	これが最後のアッブルパイ	This is the last abble pie	project (literal; element/status names official PSP)	352
+268	8004A948	これが最後のマッブルパイ	This is the last mabble pie	project (literal; element/status names official PSP)	353
+269	8004A95C	秘密の搬入口に入るためのカード	Card for the secret loading door	project (literal; element/status names official PSP)	354
+270	8004A978	麻希の持っていたコンパクト	The compact Maki carried	project (literal; element/status names official PSP)	355
+271	8004A98C	留置場の扉を開けるための鍵	Key to open the Holding Cell door	project (literal; element/status names official PSP)	356
+272	8004A9A4	遺跡の　ある場所で使うと…	Use at a spot in the ruins...	project (literal; element/status names official PSP)	357
+273	8004A9BC	ある悪魔の力を無効にする鏡	Mirror that voids a demon's power	project (literal; element/status names official PSP)	358
+274	8004A9D4	謎の少女の持っていたコンパクト	The mysterious girl's compact	project (literal; element/status names official PSP)	359
+275	8004A9EC	「現実」の麻希のコンパクト	"Reality" Maki's compact	project (literal; element/status names official PSP)	360
+276	8004AA04	「混沌の鏡」が割れてできた破片	Shard of the broken Chaos Mirror	project (literal; element/status names official PSP)	361
+277	8004AA20	「理想」の麻希のコンパクト	"Ideal" Maki's compact	project (literal; element/status names official PSP)	362
+278	8004AA38	「意識」の麻希のコンパクト	"Consciousness" Maki's compact	project (literal; element/status names official PSP)	363
+279	8004AA50	封神具　合体で使うと…？	Sealing tool: use it in fusion...?	project (literal; element/status names official PSP)	364,365,366,367,368,369,370,371,372,373,374,375,376,377,378,379,380,381,382,383,384,385,386,387,388,389,390,391,392,393,394,395,396,397,398,399,400,401,402,403
+280	8004AA68	ボス専用魔法	Boss-only magic	project (literal; element/status names official PSP)	227,228,229,230,231,232,233,234,235,236,237,238,239,240,241

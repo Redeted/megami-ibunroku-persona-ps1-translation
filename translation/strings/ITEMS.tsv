@@ -1,0 +1,383 @@
+idx	addr	ja	en
+0	8004442C	きずぐすり	MEDICINE
+1	8004444C	ガラガラドリンク	GARA DRINK
+2	8004446C	ほうぎょく	JEWEL
+3	8004448C	ちがえしのたま	CHIGAESHI
+4	800444AC	はんごんこう	HANGONKOU
+5	800444CC	ディストーン	DI-STONE
+6	800444EC	ディスパライズ	DI-PARALYZ
+7	8004450C	ディスポイズン	DI-POISON
+8	8004452C	ディスシック	DI-SICK
+9	8004454C	つるつるドロップ	TSURU DROP
+10	8004456C	かめかめキャンディ	KAME CANDY
+11	8004458C	ぎんのマニシャ	S. MANISHA
+12	800445AC	マジカルガード	MAGIC GRD
+13	800445CC	フィジカルガード	PHYS GUARD
+14	800445EC	ドクロのふりこ	SKULL PEND
+15	8004460C	ませき	MAGICSTONE
+16	8004462C	ふうまのすず	FUMA BELL
+17	8004464C	コアシールド	CORESHIELD
+18	8004466C	ＳＴＲインセンス	STR INCENS
+19	8004468C	ＶＩＴインセンス	VIT INCENS
+20	800446AC	ＴＥＣインセンス	TEC INCENS
+21	800446CC	ＡＧＬインセンス	AGL INCENS
+22	800446EC	ＬＵＫインセンス	LUK INCENS
+23	8004470C	ＨＰインセンス	HP INCENSE
+24	8004472C	ＳＰインセンス	SP INCENSE
+25	8004474C	マッスルドリンコ	MUSCLE DRK
+26	8004476C	ヒランヤ	HIRANYA
+27	8004478C	ソーマ	SOMA
+28	800447AC	あまたのかね	MUCH MONEY
+29	800447CC	ゴッドボイス	GOD VOICE
+30	800447EC	ミリオネアボム	MIL. BOMB
+31	8004480C	あくまのいえ	DEMON HOME
+32	8004482C	あくまのすむいえ	DEMON LAIR
+33	8004484C	チューインソウル	CHEW SOUL
+34	8004486C	メタルカード	METAL CARD
+35	8004488C	アギダインストーン	AGIDYNE
+36	800448AC	マハラギストーン	MARAGI
+37	800448CC	マハラギオンストーン	MARAGION
+38	800448EC	えんまのせきばん	ENMA TAB
+39	8004490C	ブフダインストーン	BUFUDYNE
+40	8004492C	マハブフストーン	MABUFU
+41	8004494C	マハブフーラストーン	MABUFULA
+42	8004496C	とうまのせきばん	TOUMA TAB
+43	8004498C	ガルダインストーン	GARUDYNE
+44	800449AC	マハガルストーン	MAGARU
+45	800449CC	マハガルーラストーン	MAGARULA
+46	800449EC	ふうまのせきばん	FUMA TAB
+47	80044A0C	マグダインストーン	MAGDYNE
+48	80044A2C	マハマグナストーン	MAMAGNA
+49	80044A4C	マハマグナスストーン	MAMAGNAS
+50	80044A6C	しんまのせきばん	SHINMA TAB
+51	80044A8C	フレイダインストーン	FREIDYNE
+52	80044AAC	メギドストーン	MEGIDO
+53	80044ACC	メギドラストーン	MEGIDORA
+54	80044AEC	しゃくねつのせきばん	SCORCH TAB
+55	80044B0C	ザンダインストーン	ZANDYNE
+56	80044B2C	マハザンストーン	MAZAN
+57	80044B4C	マハザンマストーン	MAZANMA
+58	80044B6C	れっぱのせきばん	FIERCE TAB
+59	80044B8C	グラダインストーン	GURADYNE
+60	80044BAC	マハグライストーン	MAGURAI
+61	80044BCC	マハグライバストーン	MAGURAIBA
+62	80044BEC	そうへきのせきばん	AZURE TAB
+63	80044C0C	ジオダインストーン	ZIODYNE
+64	80044C2C	マハジオストーン	MAZIO
+65	80044C4C	マハジオンガストーン	MAZIONGA
+66	80044C6C	せんこうのせきばん	FLASH TAB
+67	80044C8C	えいはのせきばん	EIHA TAB
+68	80044CAC	ぐしのせきばん	GUSHI TAB
+69	80044CCC	こくじょうのせきばん	KOKUJO TAB
+70	80044CEC	ペトラマストーン	PETRAMA
+71	80044D0C	パララマストーン	PARARAMA
+72	80044D2C	ポイズマストーン	POIZMA
+73	80044D4C	シシリッカストーン	SHISHIRIKA
+74	80044D6C	きょぎのせきばん	KYOGI TAB
+75	80044D8C	こうはのせきばん	KOHA TAB
+76	80044DAC	せいもんのせきばん	SEIMON TAB
+77	80044DCC	みかづきのせきばん	CRESCENT
+78	80044DEC	はんげつのせきばん	HALF MOON
+79	80044E0C	ポズムディストーン	POSUMUDI
+80	80044E2C	パララディストーン	PARARADI
+81	80044E4C	ペトラディストーン	PETRADI
+82	80044E6C	シシリディストーン	SHISHIRIDI
+83	80044E8C	まんげつのせきばん	FULL MOON
+84	80044EAC	しんじつのせきばん	TRUTH TAB
+85	80044ECC	アレキサンドライト	ALEXANDRIT
+86	80044EEC	ダイアモンド	DIAMOND
+87	80044F0C	サファイア	SAPPHIRE
+88	80044F2C	エメラルド	EMERALD
+89	80044F4C	ルビー	RUBY
+90	80044F6C	パール	PEARL
+91	80044F8C	タンザナイト	TANZANITE
+92	80044FAC	オパール	OPAL
+93	80044FCC	アメジスト	AMETHYST
+94	80044FEC	ガーネット	GARNET
+95	8004500C	アクアマリン	AQUAMARINE
+96	8004502C	トパーズ	TOPAZ
+97	8004504C	ムーンストーン	MOONSTONE
+98	8004506C	マラカイト	MALACHITE
+99	8004508C	オニキス	ONYX
+100	800450AC	ターコイズ	TURQUOISE
+101	800450CC	アップルパイ	APPLE PIE
+102	800450EC	アッブルパイ	ABBLE PIE
+103	8004510C	マッブルパイ	MABBLE PIE
+104	8004512C	スノークィーンマスク	SNOW MASK
+105	8004514C	かがみのはへん	MIRR SHARD
+106	8004516C	ろうのかぎたば	WAX KEYS
+107	8004518C	アンブロシア	AMBROSIA
+108	800451AC	かがみのわく	MIRROR FRM
+109	800451CC	さいごのアップルパイ	LAST APPLE
+110	800451EC	さいごのアッブルパイ	LAST ABBLE
+111	8004520C	さいごのマッブルパイ	LAST MABBL
+112	8004522C	セキュリティカード	SEC CARD
+113	8004524C	こわれたコンパクト	BROKEN CMP
+114	8004526C	りゅうちじょうのカギ	CELL KEY
+115	8004528C	きたのハニワ	N. HANIWA
+116	800452AC	はまのかがみ	HAMA MIRR
+117	800452CC	はんぶんのコンパクト	HALF CMPCT
+118	800452EC	みどりのコンパクト	GREEN CMPT
+119	8004530C	かがみのかけら	MIRR CHIP
+120	8004532C	あかいコンパクト	RED CMPCT
+121	8004534C	あおいコンパクト	BLUE CMPCT
+122	8004536C	アヴァターラ	AVATARA
+123	8004538C	ロゼッタのせきひ	ROSETTA ST
+124	800453AC	まさむねのがんたい	MASA PATCH
+125	800453CC	ドラゴンスケイル	DRGN SCALE
+126	800453EC	ブルータブレット	BLUE TBLT
+127	8004540C	アヴニール	AVENIR
+128	8004542C	パッセ	PASSE
+129	8004544C	プレザン	PRESENT
+130	8004546C	ホワイトタブレット	WHITE TBLT
+131	8004548C	いちにちいちぜん	GOOD DEED
+132	800454AC	こくはつしゃのにっき	ACC. DIARY
+133	800454CC	さばきのけいやくしょ	JUDG. PACT
+134	800454EC	フレイムショール	FLAMESHAWL
+135	8004550C	ドルドナのかい	DORDONA SH
+136	8004552C	しかのはくせい	DEER MOUNT
+137	8004554C	すいてんぐうのおふだ	SUITENGU
+138	8004556C	くろいガータベルト	BLK GARTER
+139	8004558C	カルカッタみやげ	SOUVENIR
+140	800455AC	バッファロービーツ	BUFFALO B.
+141	800455CC	ぶていのせんとう	BUTEI SNTO
+142	800455EC	レイヴァンフェザー	RAVEN FTHR
+143	8004560C	オリーブのくびかざり	OLIVE NECK
+144	8004562C	ぶしょうのこま	WARLORD PC
+145	8004564C	ヴィクトリアルーン	VICT. RUNE
+146	8004566C	マキシテンペスト	MAXI TEMP.
+147	8004568C	みそぎのせいすい	HOLY WATER
+148	800456AC	ジャストドゥイット	JUST DO IT
+149	800456CC	かるらぞう	GARUDA IMG
+150	800456EC	クリムゾンタブレット	CRIM. TBLT
+151	8004570C	とらのはらまき	TIGER WRAP
+152	8004572C	かみなりおこし	OKOSHI
+153	8004574C	えんまちょう	ENMA BOOK
+154	8004576C	ブラックタブレット	BLACK TBLT
+155	8004578C	べっこうぶちのめがね	GLASSES
+156	800457AC	あけのみょうじょう	MORNG STAR
+157	800457CC	いきょうのぐうぞう	PAGAN IDOL
+158	800457EC	バビロンのひつぎ	COFFIN
+159	8004580C	むぼうのかめん	RASH MASK
+160	8004582C	ニブルのけっしょう	NIBLE CRYS
+161	8004584C	フィウォルライニージ	FIWOLRAINI
+162	8004586C	メス	SCALPEL
+163	8004588C	レイピア	Rapier
+164	800458AC	アセイミナイフ	Athame Knife
+165	800458CC	メイルブレイカー	Mail Breaker
+166	800458EC	ルナブレード	Luna Blade
+167	8004590C	ふうまのわきざし	Fuuma's Wakizashi
+168	8004592C	クリスナーガ	Kris Naga
+169	8004594C	プルバダガー	Phurba Dagger
+170	8004596C	せきじゃのつるぎ	Lone Sword
+171	8004598C	フツノミタマ	Futsu-no-Mitama
+172	800459AC	くさなぎのけん	Kusanagi-no-Tsurugi
+173	800459CC	シュピーゲルブレード	Spiegel Blade
+174	800459EC	モップ	Mop
+175	80045A0C	バックソード　　	Backsword
+176	80045A2C	プラズマソード	Plasma Sword
+177	80045A4C	ソニックブレード	Sonic Blade
+178	80045A6C	ソルブレード	Sol Blade
+179	80045A8C	クラウソナス	Claimh Solais
+180	80045AAC	アンスウェラー	Answeller
+181	80045ACC	ようとうニヒル	Nihiru
+182	80045AEC	けんうんまる	Kenunmaru
+183	80045B0C	こんりゅうまる	Konryumaru
+184	80045B2C	ブリューナク	Brionac
+185	80045B4C	あめのむらくも	Ameno-Murakumo
+186	80045B6C	アパッチランス	Apache Lance
+187	80045B8C	コルセック	Corseque
+188	80045BAC	フォシャール	Fauchard
+189	80045BCC	マルドギール	Mard Geer
+190	80045BEC	ズフタフランス	Dubthach Lance
+191	80045C0C	けんこんせき	Kenkonseki
+192	80045C2C	ロンギヌス	Longinus
+193	80045C4C	ほうてんがげき	Fang Tian Huaji
+194	80045C6C	ゲイボルグ	Gae Bolg
+195	80045C8C	こうまじょう	Kouma Staff
+196	80045CAC	ひそうふたかげ	Hisou Futakage
+197	80045CCC	あめのぬぼこ	Ameno-Nuboko
+198	80045CEC	ツーハンアクス	Two-Handed Axe
+199	80045D0C	ギロチンアクス	Guillotine Axe
+200	80045D2C	ゴーデンダック	Guten Tag
+201	80045D4C	ヘッドバッシャー	Head Basher
+202	80045D6C	らいがのオノ	Raiga Axe
+203	80045D8C	バルディッシュ	Bardiche
+204	80045DAC	ほうとうふ　　　	Houtoufu
+205	80045DCC	レイドッグ	Raydog
+206	80045DEC	かぶつちきょうこ	Kabutsuchi Kyouko
+207	80045E0C	ごうまだいせつだん	Gouma Daisetsudan
+208	80045E2C	くびかりスプーン	Mandau Spoon
+209	80045E4C	ごくふてんのう	Gokufu Tennou
+210	80045E6C	しんたいそうロープ	Gymnast's Rope
+211	80045E8C	さそりムチ	Scorpion Whip
+212	80045EAC	ぐれんのムチ	Guren no Muchi
+213	80045ECC	ストライクテイル	Strike Tail
+214	80045EEC	クィーンビュート	Queen's Whip
+215	80045F0C	ブリザストーム	Blizzard Storm
+216	80045F2C	キンモウキュビノムチ	Kyubi no Muchi
+217	80045F4C	へいじのとりなわ	Heiji's Rope
+218	80045F6C	しせんちゅう	Shisenchu
+219	80045F8C	グレイプニル	Gleipnir
+220	80045FAC	シルバーメデューサ	Silver Medusa
+221	80045FCC	ジングルビュート	Jingle Lash
+222	80045FEC	かみそりづる	Crane Razor
+223	8004600C	シャドウニードル	Shadow Needle
+224	8004602C	まじょうせん	Majou-Sen
+225	8004604C	チャクラム	Chakram
+226	8004606C	スパイクソマイ	Spike Somai
+227	8004608C	ツインバード	Twin Bird
+228	800460AC	おにぐるま	Oniguruma
+229	800460CC	エンケラ	Enkeller
+230	800460EC	ごかしんえんせん	Wu Huo Shen Yan Shan
+231	8004610C	ジャスティスコイン	Justice Coin
+232	8004612C	せんこうりんだ	Senko Rinda
+233	8004614C	インフィニティ	Infinity
+234	8004616C	アーチェリー	Archery Set
+235	8004618C	デルタストーム	Delta Storm
+236	800461AC	こくてききゅう	Kokuteki Bow
+237	800461CC	ガンフィッシュ	Gunfish
+238	800461EC	スターゲイザー	Stargazer
+239	8004620C	ヘキサドライブ	Hexa Drive
+240	8004622C	げんじゅう	Yuan Rong
+241	8004624C	パパゲーノ	Papageno
+242	8004626C	かぎろひまる	Kagirohi-maru
+243	8004628C	ハディングのゆみ	Harald's Bow
+244	800462AC	デスクロス	Death Cross
+245	800462CC	ホーリーコメット	Holy Comet
+246	800462EC	ボクシンググラブ	Boxing Glove
+247	8004630C	フリスカープラス	Frisker Plus
+248	8004632C	アイアンクロー	Iron Claw
+249	8004634C	メガトングラブ	Megaton Glove
+250	8004636C	エレキングラブ	Eleking Glove
+251	8004638C	アダマンチウムクロー	Adamantium Claw
+252	800463AC	バグナウ	Bagh Nakh
+253	800463CC	ダマスカスハンド	Damascus Hand
+254	800463EC	やみなでのてぶくろ	Stroke of Darkness
+255	8004640C	ナックルバロン	Knuckle Barong
+256	8004642C	ゆうまあんこくしょう	Yuuma Ankoku Sho
+257	8004644C	じんさばくねつしょう	Shinsa Bakunetsu Sho
+258	8004646C	トカレフ	Tokarev
+259	8004648C	グロック２６	Glock 26
+260	800464AC	リゾルバーＭ３８０	M380 Revolver
+261	800464CC	ＨＫ　ＶＰ７０Ｚ	HK VP70Z
+262	800464EC	グレイゴースト	Gray Ghost
+263	8004650C	ストライクガン	Strike Gun
+264	8004652C	デザートイーグル	Desert Eagle
+265	8004654C	ダラーショット	Dollar Shot
+266	8004656C	サンダラー	Thunderer
+267	8004658C	パイレーツスカル	Jolly Roger
+268	800465AC	しにがみコルト	Reaper Colt
+269	800465CC	ピースメーカー	Peacemaker
+270	800465EC	スコーピオン	Scorpion
+271	8004660C	イングラム	Ingram
+272	8004662C	ステアーＴＭＰ	Steyr TMP
+273	8004664C	ＨＫ　ＭＰ５Ｋ	HK MP5K
+274	8004666C	ひえんれんぱつほう	Hien Renhappou
+275	8004668C	ファントムキラー	Phantom Killer
+276	800466AC	Ｍ１３４バルカン	M134 Vulcan
+277	800466CC	アヴェンジャー	Avenger
+278	800466EC	げっとそうてんほう	Gettou Shoutenhou
+279	8004670C	クレイジーチェーン	Crazy Chain
+280	8004672C	ヘルレイン	Hell Rain
+281	8004674C	ここのえらいじんほう	Kokonoe Raijinhou
+282	8004676C	ランダルカスタム	Randall Custom
+283	8004678C	モスバーグＭ５００	Mossberg M500
+284	800467AC	ＳＰＡＳ１２	SPAS-12
+285	800467CC	フランキＰＡー３	Franchi PA3
+286	800467EC	ＳＰＡＳ１５	SPAS-15
+287	8004680C	ＭＡＤＭＡＸ	MADMAX
+288	8004682C	きらいほう	Kiraihou
+289	8004684C	スレイブハンター	Manhunter
+290	8004686C	じゃこうふういんほう	Jakou Fuuinhou
+291	8004688C	バイバスター	Bi-Buster
+292	800468AC	こっぱみじんほう	Koppa-Mijinhou
+293	800468CC	メギドファイア	Megido Fire
+294	800468EC	Ｍ１６Ａ２	M16A2
+295	8004690C	ＡＫ４７	AK-47
+296	8004692C	ＳＩＧーＳＧ５５０	SIG-SG550
+297	8004694C	ハイドロジェット	Hydrojet
+298	8004696C	ステアーＡＵＧ／Ａ１	Steyr AUG A1
+299	8004698C	ＦＡーＭＡＳカービン	FA-MAS Carbine
+300	800469AC	ＨＫ　Ｇ１１	HK G11
+301	800469CC	ゲパードＭ２	Gepard M2
+302	800469EC	Ｍ４１Ａパルスガン	M41A Pulse Gun
+303	80046A0C	マーズ１３３	Mars 133
+304	80046A2C	ツインタワー	Double Death
+305	80046A4C	ヘブンズゲイト	Heaven's Gate
+306	80046A6C	９ミリパラベラム	9mm Parabellum
+307	80046A8C	ショットシェル	Shot Shells
+308	80046AAC	サーペントファング	Serpent Fangs
+309	80046ACC	せんこうだん	Flashbangs
+310	80046AEC	ますいだん	Tranquilizers
+311	80046B0C	メイジキラー	Mage Killer
+312	80046B2C	サークルバレット	Circle Bullets
+313	80046B4C	キューピット	Cupid Rounds
+314	80046B6C	はくぎんのたま	Silver Bullets
+315	80046B8C	くろがねのたま	Iron Bullets
+316	80046BAC	デッドエンド	Dead Ends
+317	80046BCC	エンジェルウィスパー	Angel Whisper
+318	80046BEC	ＱＱメット	QQ Helmet
+319	80046C0C	ヘッドギア	Headgear
+320	80046C2C	シャドウマスク	Shadow Mask
+321	80046C4C	フィーバークラウン	Fever Crown
+322	80046C6C	アイアンパンプキン	Iron Pumpkin
+323	80046C8C	かぜよみのかぶと	Kazeyomi Kabuto
+324	80046CAC	パレードヘルム	Parade Helm
+325	80046CCC	ウィッチズハット	Witch's Hat
+326	80046CEC	ドラゴンヘルム	Dragon Helm
+327	80046D0C	あかつきのかぶと	Daybreak Helmet
+328	80046D2C	エギルのかぶと	Egili's Helmet
+329	80046D4C	スザクのかぶと	Suzaku Helmet
+330	80046D6C	ヤクトヘルム	Jagd Helm
+331	80046D8C	シュツルムヘルム	Sturm Helm
+332	80046DAC	シーザーヘルム	Caesar Helm
+333	80046DCC	シュピーゲルマスク	Spiegel Mask
+334	80046DEC	がくせいふく	School Uniform
+335	80046E0C	スペクトラベスト	Spectra Vest
+336	80046E2C	ステルススーツ	Stealth Suit
+337	80046E4C	セブンズコート	Sevens Coat
+338	80046E6C	ＴＡＣーＶ２	TAC-V2
+339	80046E8C	こんじきのよろい	Golden Armor
+340	80046EAC	パレードアーマー	Parade Armor
+341	80046ECC	ビッグバードスーツ	Spinney Suit
+342	80046EEC	エンジェルウイング	Angel Wing
+343	80046F0C	あかつきのよろい	Daybreak Armor
+344	80046F2C	メギンギョルズ	Megin Gjord
+345	80046F4C	ゲンブのよろい	Genbu Armor
+346	80046F6C	ヤクトアーマー	Jagd Armor
+347	80046F8C	シュツルムアーマー	Sturm Armor
+348	80046FAC	シーザーアーマー	Caesar Armor
+349	80046FCC	シュピーゲルメイル	Spiegel Mail
+350	80046FEC	アームガード	Arm Guard
+351	8004700C	チタニウムガード	Titanium Guard
+352	8004702C	ダークガード	Dark Guard
+353	8004704C	プラチナクィーン	Platinum Queen
+354	8004706C	ジャミングガード	Jamming Guard
+355	8004708C	はまがりのこて	Hamagari Gauntlet
+356	800470AC	パレードガード	Parade Guard
+357	800470CC	ししおうのこて	Shishiou Gauntlet
+358	800470EC	きめんのこて	Kimen Gauntlet
+359	8004710C	あかつきのこて	Daybreak Gauntlet
+360	8004712C	らいめいのこて	Raime Gauntlet
+361	8004714C	セイリュウのこて	Seiryuu Gauntlet
+362	8004716C	ヤクトガード	Jagd Guard
+363	8004718C	シュツルムガード	Sturm Guard
+364	800471AC	シーザーガード	Caesar Guard
+365	800471CC	シュピーゲルシールド	Spiegel Shield
+366	800471EC	かわぐつ	Leather Shoes
+367	8004720C	トウシューズ	Toe Shoes
+368	8004722C	ブラックシューズ	Black Shoes
+369	8004724C	ルージュノワール	Rouge Noir
+370	8004726C	ハイパーフォックス	Hyper Fox
+371	8004728C	すずなりのぐそく	Bell Greaves
+372	800472AC	パレードブーツ	Parade Boots
+373	800472CC	スライムシューズ	Slime Shoes
+374	800472EC	ゆうれいのげた	Ghost Geta
+375	8004730C	あかつきのぐそく	Daybreak Graves
+376	8004732C	ヴィーザルのくつ	Vidar's Shoes
+377	8004734C	ビャッコのぐそく	Byakko Greaves
+378	8004736C	ヤクトレッグ	Jagd Leg
+379	8004738C	シュツルムレッグ	Sturm Leg
+380	800473AC	シーザーレッグ	Caesar Leg
+381	800473CC	シュピーゲルバイン	Spiegel Beine

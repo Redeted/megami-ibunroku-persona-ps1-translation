@@ -1,0 +1,88 @@
+id	record	ja	en
+0	8004C848	とくになし	Nothing in particular
+1	8004C861	アギけいをはんしゃ　ぶつりまほうによわい	Repels Agi / Weak: Force
+2	8004C87A	ブフけいをはんしゃ　ぶつりまほうによわい	Repels Bufu / Weak: Force
+3	8004C893	ガルけいをはんしゃ　ぶつりまほうによわい	Repels Garu / Weak: Force
+4	8004C8AC	マグナけいをはんしゃ　ぶつりまほうによわい	Repels Magna/Weak: Force
+5	8004C8C5	ジオけいをきゅうしゅう　ぶつりまほうによわい	Drains Zio / Weak: Force
+6	8004C8DE	フレイ　メギドをきゅうしゅう　ぶつりまほうによわい	Drn Frei-Megido/Wk: Force
+7	8004C8F7	ザンけいをきゅうしゅう　ぶつりまほうによわい	Drains Zan / Weak: Force
+8	8004C910	まほうにつよい　ぶつりこうげきによわい	Resists magic/Weak: Phys
+9	8004C929	ぶつりこうげきをはんしゃ	Repels physical attacks
+10	8004C942	ぶつりこうげきをきゅうしゅう	Drains physical attacks
+11	8004C95B	ガルけいがきかない　ガンによわい	Nulls Garu / Weak: Gun
+12	8004C974	マグけいをきゅうしゅう　ザンけいによわい	Drains Magna / Weak: Zan
+13	8004C98D	せいれいまほうにつよい　ぶつりまほうによわい	Resists Elem/Weak: Force
+14	8004C9A6	ジオけいをはんしゃ　せいれいまほうによわい	Repels Zio / Weak: Elem
+15	8004C9BF	フレイ　メギドをはんしゃ　せいれいまほうによわい	Rpl Frei-Megido/Wk: Elem
+16	8004C9D8	ザンけいをはんしゃ　せいれいまほうによわい	Repels Zan / Weak: Elem
+17	8004C9F1	グライけいをはんしゃ　せいれいまほうによわい	Repels Gry / Weak: Elem
+18	8004CA0A	アギけいをきゅうしゅう　せいれいまほうによわい	Drains Agi / Weak: Elem
+19	8004CA23	ブフけいをきゅうしゅう　せいれいまほうによわい	Drains Bufu / Weak: Elem
+20	8004CA3C	ガルけいをきゅうしゅう　せいれいまほうによわい	Drains Garu / Weak: Elem
+21	8004CA55	マグナけいをきゅうしゅう　せいれいまほうによわい	Drains Magna / Weak: Elem
+22	8004CA6E	まほうにつよい　ぶつりこうげきによわい	Resists magic/Weak: Phys
+23	8004CA87	ぶつりこうげきをはんしゃ　まほうによわい	Repels Phys / Weak: magic
+24	8004CAA0	ぶつりこうげきをきゅうしゅう　まほうによわい	Drains Phys / Weak: magic
+25	8004CAB9	ぶつりこうげきにつよく　まほうによわい	Resists Phys/Weak: magic
+26	8004CAD2	ザンけいがきかない　ガンによわい	Nulls Zan / Weak: Gun
+27	8004CAEB	ぶつりまほうにつよく　せいれいまほうによわい	Resists Force/Weak: Elem
+28	8004CB04	ガンがきかない　まほうによわい	Nulls Gun / Weak: magic
+29	8004CB1D	まほうによわい	Weak to magic
+30	8004CB36	ぶつりまほうにつよく　せいれいまほうによわい	Resists Force/Weak: Elem
+31	8004CB4F	いちぶのぶつりこうげきがきかない　まほうによわい	Nulls some Phys/Wk: magic
+32	8004CB68	まほうにつよい　ぶつりこうげきによわい	Resists magic/Weak: Phys
+33	8004CB81	アギけいをきゅうしゅう　ブフけいによわい	Drains Agi / Weak: Bufu
+34	8004CB9A	ぶつりこうげきをはんしゃ　まほうによわい	Repels Phys / Weak: magic
+35	8004CBB3	ぶつりこうげきをきゅうしゅう　まほうによわい	Drains Phys / Weak: magic
+36	8004CBCC	まほうをはんしゃ　やりのこうげきによわい	Repels magic/Weak: spears
+37	8004CBE5	まほうがきかない　ぶつりこうげきによわい	Nulls magic / Weak: Phys
+38	8004CBFE	まほうをきゅうしゅう　ぶつりこうげきによわい	Drains magic / Weak: Phys
+39	8004CC17	たいあたりなどがきかない　ムチのこうげきによわい	Nulls tackles/Weak: whips
+40	8004CC30	ガンをはんしゃする　ややまほうにつよい	Repels Gun/Resists magic
+41	8004CC49	ぶつりこうげきがあまりきかない　ほのおによわい	Phys does little/Wk: fire
+42	8004CC62	まほうしかききめがない	Only magic is effective
+43	8004CC7B	あらゆるこうげきにつよい	Resists every attack
+44	8004CC94	せいれいまほうはきかない	Element magic: no effect
+45	8004CCAD	ぶつりこうげきがあまりきかない	Phys attacks do little
+46	8004CCC6	ややまほうにつよい	Resists magic a bit
+47	8004CCDF	アギけいをきゅうしゅう　ややブフけいによわい	Drains Agi/A bit wk: Bufu
+48	8004CCF8	ブフけいをきゅうしゅう　ややアギけいによわい	Drains Bufu/A bit wk: Agi
+49	8004CD11	マグナけいをきゅうしゅう　ややガルけいによわい	Drains Magna/Bit wk: Garu
+50	8004CD2A	ジオけいをきゅうしゅう　ややフレイ　メギドによわい	Drains Zio/Wk:Frei-Megido
+51	8004CD43	まほうにつよい　ぶつりこうげきによわい	Resists magic/Weak: Phys
+52	8004CD5C	ぶつりこうげきをはんしゃ	Repels physical attacks
+53	8004CD75	ぶつりこうげきをきゅうしゅう	Drains physical attacks
+54	8004CD8E	まほうをはんしゃ　やりのこうげきによわい	Repels magic/Weak: spears
+55	8004CDA7	まほうがきかない　ぶつりこうげきによわい	Nulls magic / Weak: Phys
+56	8004CDC0	ぶつりこうげきにつよく　まほうによわい	Resists Phys/Weak: magic
+57	8004CDD9	たいあたりなどがきかない　ムチのこうげきによわい	Nulls tackles/Weak: whips
+58	8004CDF2	ややまほうにつよい	Resists magic a bit
+59	8004CE0B	まほうにつよい　おの　ゆみのこうげきによわい	Resists magic/Wk: axe bow
+60	8004CE24	ガンはあまりきかない	Gun does little
+61	8004CE3D	まほうをはんしゃする　やりのこうげきによわい	Repels magic/Weak: spears
+62	8004CE56	すべてのこうげきにつよい	Resists every attack
+96	8004D1A8	すべてにつよい	Resists everything
+97	8004D1C1	リザーブ	Reserved
+98	8004D1DA	リザーブ	Reserved
+99	8004D1F3	リザーブ	Reserved
+100	8004D20C	リザーブ	Reserved
+101	8004D225	リザーブ	Reserved
+102	8004D23E	リザーブ	Reserved
+103	8004D257	リザーブ	Reserved
+104	8004D270	リザーブ	Reserved
+105	8004D289	リザーブ	Reserved
+106	8004D2A2	リザーブ	Reserved
+107	8004D2BB	リザーブ	Reserved
+108	8004D2D4	リザーブ	Reserved
+109	8004D2ED	リザーブ	Reserved
+110	8004D306	リザーブ	Reserved
+111	8004D31F	リザーブ	Reserved
+112	8004D338	リザーブ	Reserved
+113	8004D351	リザーブ	Reserved
+114	8004D36A	リザーブ	Reserved
+115	8004D383	リザーブ	Reserved
+116	8004D39C	リザーブ	Reserved
+117	8004D3B5	リザーブ	Reserved
+118	8004D3CE	リザーブ	Reserved
+119	8004D3E7	リザーブ	Reserved

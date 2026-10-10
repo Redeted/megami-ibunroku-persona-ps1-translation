@@ -1,0 +1,65 @@
+"""E0 entry 0 - opening scene: the Persona-sama game in the classroom."""
+import os
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'tools'))
+from tl_lib import apply, P, F6  # noqa: E402
+
+BOXES = {
+    0: ['Mark: "Persona-sama"? If seeing your future were that easy, nobody would struggle.',
+        "Mark: Hey, Uesugi. Your head's not right, is it?"],
+    1: ["Brown: Heh heh, don't laugh it off, man. This is the real deal!",
+        "Brown: Seeing the future may be overstating it, but it's totally, seriously paranormal!",
+        "Brown: I'll bet on it, Mark."],
+    2: ["Mark: All right, wanna bet? All-you-can-eat at the Peace Diner in Joy-dori. Deal?"],
+    3: ["Ayase: Yaaay! Then Ayase's going with Uesugi!"],
+    4: ["Elly: I'll Bet on Brown as well."],
+    5: ["Mark: What's all this?"],
+    6: ["Mark: Hey! Nanjo, Yukino. Who are you two betting on?"],
+    7: ["Nanjo: Hmph. How absurd. I want no part of it."],
+    8: ["Yukino: Same here... Do what you like."],
+    9: ["Mark: Tch! You're as unsociable as ever."],
+    10: ["Mark: Hey, who are you going with? Me, obviously, right?"],
+    11: "=So, which will it be?<FF03><FF0E>の",
+    12: ["Mark: Geez, you too? Everybody's lost it."],
+    13: ["Ayase: Aaah, you'll regret it~."],
+    14: ["Brown: Pupupupu... I'm gonna make you cry! Okay, let's get started!"],
+    15: ["Ayase: Okay, here we go~"],
+    16: ["Ayase: Ummm... Persona-sama, Persona-sama, please come to us."],
+    17: ["Brown: All right! Persona-sama, Persona-sama, please come to us~!"],
+    18: ["Mark: Geez... why do we have to do this stuff..."],
+    19: ["Brown: Just hurry up and go! All-you-can-eat! All-you-can-eat!"],
+    20: ["Mark: Fine, fine." + P('キ') + "<FF03>Persona-san, Persona-san, come by whenever you feel like it."],
+    21: ["Elly: Then... Persona-sama, Persona-sama...",
+         "Elly: Please come to us..."],
+    22: ["Brown: Here it comes!<FF03>" + ("..." + P('た')) * 14 + "...Uh... huh?"],
+    23: ["Ayase: Wh-wait, Uesugi! This just makes Ayase look dumb!"],
+    24: ["Mark: Look. Nothing's happening. Heh, I win."],
+    25: ["Yukino: Phew... Satisfied? Go get the teacher already."],
+    26: ["Brown: W-wait a sec! Just one more time! Please! Please?! It's 'cause Mark was in it!",
+         "Brown: Come on, put some more effort into it!"],
+    27: ["Mark: Ah? You jerk... You really don't know when to quit."],
+    28: ["Nanjo: H-hey, Inaba... Look behind you."],
+    29: ["Mark: What? Even if you say 'take me along' now, it's too late..."],
+    30: ["Mark: Gah!!"],
+    31: ["Ayase: W-what is this...? R-really?!"],
+    32: ["Elly: Before, it was only a sound, so this is quite a surprise, isn't it?"],
+    33: ["Brown: Heh... S-see? I told you so, didn't I? It's a little different from last time, though..."],
+    34: ["Girl in White: ...Hic... ...Sniff<FF03>" + P('キ') + "Help me... Help me..."],
+    35: ["Mark: W-what the...!"],
+    36: ["Nanjo: Wh-what? What is this!?"],
+    37: ["Elly: Fantastic! This grows more and more fascinating!"],
+    38: ["Ayase: Kyaa! What is it?!!"],
+    39: ["Yukino: Everyone, watch out!<FF03>Wha!?"],
+    40: ["Mark: Whoa!?"],
+    41: ["Nanjo: Ugh!?"],
+    42: [F6('い') + "Inaba Masao<FF03>Known as Mark. Spoiled son of Inaba Cleaning. Hot-blooded." + F6(0)],
+    43: [F6('い') + "Nanjo Kei<FF03>Known as Nanjo-kun. Nanjo zaibatsu heir. Thorough rationalist." + F6(0)],
+    44: [F6('う') + "Mayuzumi Yukino<FF03>Known as Yukino-san. The school's big sister, trusted by all." + F6(0)],
+    45: [F6('い') + "Uesugi Hidehiko<FF03>Known as Brown. An attention-seeking joker." + F6(0)],
+    46: [F6('う') + "Ayase Yuka<FF03>Known as Ayase. Unapologetic kogal troublemaker." + F6(0)],
+    47: [F6('う') + "Kirishima Eriko<FF03>Known as Elly. A young lady raised abroad. An intellectual beauty." + F6(0)],
+}
+
+if __name__ == '__main__':
+    apply('E0', 0, BOXES)

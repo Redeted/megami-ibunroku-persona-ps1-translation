@@ -1,0 +1,361 @@
+idx	ram	ja	en	note
+0	800C882C	答えられる状態ではありません	Not in a condition to answer.	word 19B
+1	800C8840	話せる状態ではありません	Not in a condition to talk.	word 17B
+2	800C8854	悪魔は去っていった	The demon went away.	word 14B
+3	800C8864	どのスペルカードを捨てますか？	Which spell card will you discard?	word 22B
+4	800C887C	＞スペルカードがいっぱいです！	> Your spell cards are full!	word 22B
+5	800C8894	＞<FFF2>の、<FFF6>　スペルカードを捨てますか？	> Discard spell card<FFF6>  <FFF2>?	word 30B
+6	800C88B4	＞<FFF2>の、<FFF6>　スペルカードを捨てました。	> Discarded spell card<FFF6>  <FFF2>.	word 30B
+7	800C88D4	＞<FFF3>の、<FFF6>　スペルカードを手に入れた。	> Got <FFF3>'s<FFF6>  spell card.	word 31B
+8	800C88F4	悪魔は錯乱している	The demon is in a frenzy.	word 15B
+9	800C8904	悪魔は逃げていった	The demon ran away.	word 14B
+10	800C8914	悪魔はパニックを起こした！	The demon panicked!	word 21B
+11	800C892C	悪魔は切れかけている	The demon is about to snap.	word 15B
+12	800C893C	悪魔は頭に血が昇っている！	The demon is seeing red!	word 21B
+13	800C8954	悪魔に不意をつかれた！	The demon caught you off guard!	word 18B
+14	800C8968	悪魔が威圧してきた・・・	The demon is intimidating you...	word 21B
+15	800C8980	悪魔の迫力に負けた！	The demon overwhelmed you!	word 18B
+16	800C8994	しかし負けずににらみ返した！	But you glared back unflinching!	word 19B
+17	800C89A8	悪魔は魅了された！	The demon was charmed!	word 16B
+18	800C89B8	悪魔はうっとりしている	The demon is entranced.	word 15B
+19	800C89C8	悪魔は逃げていった	The demon ran away.	word 14B
+20	800C89D8	悪魔は震え上がっている！	The demon is trembling!	word 19B
+21	800C89EC	悪魔はおびえている	The demon is frightened.	word 13B
+22	800C89FC	悪魔は幸せそうだ！	The demon looks happy!	word 15B
+23	800C8A0C	悪魔はニヤニヤしている	The demon is grinning.	word 15B
+24	800C8A1C	悪魔はふてくされている	The demon is sulking.	word 15B
+25	800C8A2C	＞<FFF4>を、<FFF6>　手に入れた。	> Obtained<FFF6>  <FFF4>.	word 21B
+26	800C8A44	＞<FFF8>円を、<FFF6>　手に入れた。	> Obtained<FFF6>  <FFF8> yen.	word 23B
+27	800C8A5C	＞<FFF8>ＥＸＰ、<FFF6>　手に入れた。	> Obtained<FFF6>  <FFF8> EXP.	word 26B
+28	800C8A78	＞<FFF3>は、<FFF6>　魔石を使った。	> <FFF3><FFF6>  used a Life Stone.	word 23B
+29	800C8A90	＞<FFF9>は、<FFF6>　回復した。	> <FFF9><FFF6>  recovered.	word 20B
+30	800C8AA4	＞<FFF9>は、<FFF6>　ダメージをもらった。	> <FFF9><FFF6>  took damage.	word 26B
+31	800C8AC0	＞しかし<FFF9>は<FFF6>　要求額を持っていなかった。	> But <FFF9><FFF6>  lacked the amount.	word 31B
+32	800C8AE0	＞しかし<FFF9>は<FFF6>　魔石を持っていなかった。	> But <FFF9><FFF6>  had no Life Stone.	word 29B
+33	800C8B00	悪魔から話しかけてきた！	The demon spoke to you first!	word 18B
+34	800C8B14	＞<FFF3>の、<FFF6>　スペルカードにくっついて、<FFF6>　もう１枚、カードがあった！<FFEF>　＞魔神ヴィシュヌの、<FFF6>　アヴァターラを手に入れた！	> <FFF3>'s spell<FFF6>  card had another<FFF6>  card on it!<FFEF>  > Got Avatar of<FFF6>  Deity Vishnu!	word 93B
+35	800C8B74	あはははは！　ラッキー！<FFFC><FFF6>これ「アヴァターラ」でしょ？<FFFC><FFF6>すごい、すごいよ！	Ahahaha! Lucky!<FFFC><FFF6>This is an Avatar, right?<FFFC><FFF6>Amazing, just amazing!	word 57B
+36	800C8BB0	すっげー！<FFFC><FFF6>これ「アヴァターラ」じゃん！<FFFC><FFF6>さすが、おれ様って感じだな！	Awesome!<FFFC><FFF6>This is an Avatar!<FFFC><FFF6>I'm so great, man!	word 55B
+37	800C8BE8	ほう…<FFFC><FFF6>封神具「アヴァターラ」か…<FFFC><FFF6>日頃の行いが、よいからだな…	Oh...<FFFC><FFF6>An Avatar artifact...<FFFC><FFF6>Must be because I'm so good...	word 55B
+38	800C8C20	うっそ、マッジー！<FFFC>　でも、<FFF6>「アヴァターラ」ってなんだぁ？<FFFC>爆発とか、しねぇだろなぁ…<FFFB><FFF7>マジ、どーすっかな…<FFFC><FFF6>…<FFFC>…<FFFC>…<FFFC>ワハハハハハ！<FFFC><FFF6>考えんのヤメ！　もーらった！	No way, seriously?!<FFFC> But,<FFF6>Avatar?<FFFC>Blows up?<FFFB><FFF7>What to do...<FFFC><FFF6>...<FFFC>...<FFFC>...<FFFC>Wahahaha!<FFFC><FFF6>Stop thinking! I'll take it!	word 129B
+39	800C8CA4	この「アヴァターラ」は、<FFF6>Ｖｉｓｎｅの化身です！<FFF6>すごく、ｌｕｃｋｙですわ！	This Avatar is an<FFF6>incarnation of Visne!<FFF6>I am so lucky!	word 63B
+40	800C8CE4	ちょっとぉ！　変なカードまで<FFF6>こっちに、よこさないでよぉ…<FFFC><FFF6>…<FFFC>…<FFFC>…<FFFC>これ、マジィ～！！<FFFB><FFF7>この「アヴァターラ」って<FFF6>ヴィシュヌ関係のアイテム！？<FFFC><FFF6>超ハッピーじゃん！！	Hey! Don't pass your weird<FFF6>cards over to me!<FFFC><FFF6>...<FFFC>...<FFFC>...<FFFC>What?!<FFFB><FFF7>An Avatar is<FFF6>related to Vishnu!?<FFFC><FFF6>I'm super happy!!	word 133B
+41	800C8D6C	えらい綺麗なカードだね…<FFFC><FFF6>へぇ、「アヴァターラ」って<FFF6>封神具が、これなのかい。<FFFB><FFF7>今日みたいに、ついてる日も、<FFF6>たまには、あるんだね…	What a pretty card...<FFFC><FFF6>Wow, so this is an<FFF6>Avatar.<FFFB><FFF7>Lucky days like this<FFF6>happen sometimes...	word 99B
+42	800C8DD0	これが「アヴァターラ」か…<FFFC><FFF6>フ…<FFFC><FFF6>俺には、要らねぇな…<FFFB><FFF7>＞レイジは、<FFF6>　アヴァターラを捨てた…<FFFB><FFF7>＞<FFFA>は、<FFF6>　アヴァターラを拾った…	So this is an Avatar...<FFFC><FFF6>Heh...<FFFC><FFF6>I don't need it.<FFFB><FFF7>> Reiji threw the<FFF6>  avatar away...<FFFB><FFF7>> <FFFA> took<FFF6>  the Avatar...	word 108B
+43	800C8E3C	＞<FFFA>は、<FFF6>　説得しようとした！	> <FFFA> tried to<FFF6>  persuade the demon!	word 24B
+44	800C8E54	＞<FFFA>は、<FFF6>　悪魔を挑発した！	> <FFFA><FFF6>  taunted the demon!	word 25B
+45	800C8E70	＞<FFFA>は、<FFF6>　悪魔を勧誘した！	> <FFFA><FFF6>  invited the demon!	word 25B
+46	800C8E8C	＞<FFFA>は、<FFF6>　歌った！	> <FFFA><FFF6>  sang!	word 18B
+47	800C8EA0	＞麻希は、<FFF6>　悪魔に頼み込んだ！	> Maki pleaded<FFF6>  with the demon!	word 28B
+48	800C8EBC	＞麻希は、<FFF6>　悪魔をおだててみた！	> Maki flattered<FFF6>  the demon!	word 27B
+49	800C8ED8	＞麻希は、<FFF6>　でまかせを言った！	> Maki<FFF6>  lied!	word 25B
+50	800C8EF4	＞麻希は、<FFF6>　怯えるフリをした！	> Maki<FFF6>  cringed!	word 25B
+51	800C8F10	＞ブラウンは、<FFF6>　悪魔をナンパした！	> Brown picked up<FFF6>  the demon!	word 28B
+52	800C8F2C	＞ブラウンは、<FFF6>　ジョークを言った！	> Brown<FFF6>  joked!	word 29B
+53	800C8F4C	＞ブラウンは、<FFF6>　世間話をした！	> Brown<FFF6>  chatted!	word 26B
+54	800C8F68	＞ブラウンは、<FFF6>　悪魔を驚かそうとした！	> Brown startled<FFF6>  the demon!	word 30B
+55	800C8F88	＞南条は、<FFF6>　悪魔を物でつろうとした！	> Nanjo bribed<FFF6>  the demon!	word 30B
+56	800C8FA8	＞南条は、<FFF6>　演説した！	> Nanjo<FFF6>  pontificated!	word 22B
+57	800C8FC0	＞南条は、<FFF6>　悪魔を一喝した！	> Nanjo condescended<FFF6>  to the demon!	word 27B
+58	800C8FDC	＞南条は、<FFF6>　皮肉を言った！	> Nanjo<FFF6>  used Sarcasm!	word 25B
+59	800C8FF8	＞マークは、<FFF6>　踊ってみせた！	> Mark<FFF6>  danced!	word 23B
+60	800C9010	＞マークは、<FFF6>　悪魔を挑発した！	> Mark taunted<FFF6>  the demon!	word 27B
+61	800C902C	＞マークは、<FFF6>　悪魔を見つめた！	> Mark stared<FFF6>  at the demon!	word 26B
+62	800C9048	＞マークは、<FFF6>　ホラを吹いた！	> Mark<FFF6>  bragged!	word 23B
+63	800C9060	＞エリーは、<FFF6>　怖い話をした！	> Elly horrified<FFF6>  the demon!	word 24B
+64	800C9078	＞エリーは、<FFF6>　歌った！	> Elly<FFF6>  sang!	word 20B
+65	800C908C	＞エリーは、<FFF6>　悪魔を、あやした！	> Elly soothed<FFF6>  the demon!	word 27B
+66	800C90A8	＞エリーは、<FFF6>　悪魔を勧誘した！	> Elly invited<FFF6>  the demon!	word 27B
+67	800C90C4	＞アヤセは、<FFF6>　悪魔を、けなした！	> Ayase abused<FFF6>  the demon!	word 26B
+68	800C90E0	＞アヤセは、<FFF6>　悪魔を誘惑した！	> Ayase seduced<FFF6>  the demon!	word 26B
+69	800C90FC	＞アヤセは、<FFF6>　悪魔を泣き落とそうとした！	> Ayase cried<FFF6>  to the demon!	word 31B
+70	800C911C	＞アヤセは、<FFF6>　悪魔を脅した！	> Ayase threatened<FFF6>  the demon!	word 24B
+71	800C9134	＞ゆきのは、<FFF6>　悪魔をいじめた！	> Yukino bullied<FFF6>  the demon!	word 24B
+72	800C914C	＞ゆきのは、<FFF6>　さとそうとした！	> Yukino persuaded<FFF6>  the demon!	word 22B
+73	800C9164	＞ゆきのは、<FFF6>悪魔を叱った！	> Yukino scolded<FFF6>  the demon!	word 23B
+74	800C917C	＞ゆきのは、<FFF6>　悪魔を無視した！	> Yukino ignored<FFF6>  the demon!	word 26B
+75	800C9198	＞レイジは、<FFF6>　悪魔を無視した！	> Reiji ignored<FFF6>  the demon!	word 27B
+76	800C91B4	＞レイジは、<FFF6>　悪魔を脅した！	> Reiji threatened<FFF6>  the demon!	word 25B
+77	800C91D0	＞レイジは、<FFF6>　叫んだ！	> Reiji<FFF6>  screamed!	word 20B
+78	800C91E4	＞レイジは、<FFF6>　手品をした！	> Reiji<FFF6>  prestidigitated!	word 23B
+79	800C92B8	あげない	I won't give it	word 6B
+80	800C92C0	はい	Yes	word 4B
+81	800C92C4	いいえ	No	word 5B
+82	800C92CC	あげる	I'll give it	word 5B
+83	800C92D4	あーげない	Nooo waaay	word 8B
+84	800C92DC	うん！	Yeah!	word 6B
+85	800C92E4	いや！	No way!	word 6B
+86	800C92EC	もってけドロボウ	Take it, you thief	word 12B
+87	800C92F8	オッケー、やっぱやめ	Okay, actually nevermind	word 15B
+88	800C9308	オッケー	Okay	word 8B
+89	800C9310	い・や・だ	No w-a-y	word 9B
+90	800C931C	くれてやろう	I shall give it	word 8B
+91	800C9324	やらん	I will not	word 5B
+92	800C932C	いいだろう	Very well	word 7B
+93	800C9334	ごめんだな	No thanks	word 7B
+94	800C933C	くれてやらぁ	Here you go	word 8B
+95	800C9344	やらねぇ	Not gonna give it	word 6B
+96	800C934C	しゃーねぇな	Can't be helped	word 9B
+97	800C9358	ざけんな！	Stop joking!	word 8B
+98	800C9360	差し上げます	I will give it	word 10B
+99	800C936C	差し上げられません	I cannot give it	word 13B
+100	800C937C	Ｙｅｓ	Yes	word 8B
+101	800C9384	Ｎｏ	No	word 6B
+102	800C938C	あげる	I'll give it	word 5B
+103	800C9394	ヤダ！　あげない	No way! I won't give it	word 12B
+104	800C93A0	はーい	Suuure	word 6B
+105	800C93A8	やだやだやだ！	No, no, no!	word 10B
+106	800C93B4	やるよ	I'll give it	word 5B
+107	800C93BC	やらないよ	I won't give it	word 7B
+108	800C93C4	しょうがないね	Can't be helped	word 9B
+109	800C93D0	いやだね	No way	word 6B
+110	800C93D8	持ってきな	Take it	word 8B
+111	800C93E0	やれねぇな	I can't give it	word 7B
+112	800C93E8	いいだろう	Very well	word 7B
+113	800C93F0	ふざけんな	Are you kidding	word 7B
+114	800C93F8	ＫブしＳブし０ブし４ブしーブし—ブし『ブし÷ブし□ブし<G0F8>ブしくベしたベしふベしやベしわベしざベしでベしぴベしぉベしキベしソベしヒベしロベしゲベしヂベしボベし<G0A0>ベしＣベしＯベしＷベし４ベし？ベし（ベし＋ベし☆ベし※ベしちょっと待って！		addiu 156B
+115	800C9494	・・・・・・・・・	.........	word 20B
+116	800C94A8	無視する	Ignore	word 8B
+117	800C94B0	答える	Answer	word 6B
+118	800C94B8	ズボしボボしＫボしＣボし０ブし４ブしスペルカード！	Su-pe-ru-ca-rd!	addiu 37B
+119	800C94E0	何かくれ	Give me something	word 7B
+120	800C94E8	去れ	Leave	word 5B
+121	800C94F0	スペルカード！	Spell card!	word 13B
+122	800C9500	何か、ちょうだい♥	Give me something, okay?	word 14B
+123	800C9510	どっか行って！	Go somewhere else!	word 11B
+124	800C951C	スペルカード！	Spell card!	word 13B
+125	800C952C	何かくれよぉ	Give me something, man	word 9B
+126	800C9538	消えちまいな！	Get lost!	word 11B
+127	800C9544	スペルカード！	Spell card!	word 13B
+128	800C9554	何か受け取ってやる	Give me something	word 14B
+129	800C9564	失せろ	Get lost	word 6B
+130	800C956C	スペルカード！	Spell card!	word 13B
+131	800C957C	何かよこせオラ	Give me something, punk	word 10B
+132	800C9588	消えろオラァ	Get lost, punk	word 10B
+133	800C9594	スペルカード！	Spell card!	word 13B
+134	800C95A4	何か頂けます？	Can I have something?	word 12B
+135	800C95B0	Ｂｙｅ　ｂｙｅ	Bye bye	word 15B
+136	800C95C0	スペルカード！	Spell card!	word 13B
+137	800C95D0	何か、ちょーだい♥	Gimme something!	word 15B
+138	800C95E0	どっか行ってくれる？	Can you go somewhere?	word 14B
+139	800C95F0	スペルカード！	Spell card!	word 13B
+140	800C9600	何か、よこしな	Hand something over	word 11B
+141	800C960C	消えな	Disappear	word 6B
+142	800C9614	スペルカード！	Spell card!	word 13B
+143	800C9624	何か置いていけ	Leave something behind	word 11B
+144	800C9630	消えろ	Get lost	word 6B
+145	800C9638	？ボし＋ボし☆ボし※ボし　パしたパしふパしわパしぞパしぴパしウパしテパしヒパしロパしズパしボパしョパしＫパし０パし？パし＋パし※パし　ピししピしとピしやピしぎピし　　　　　　　　　　　　ョピしヴ　　　　　<FFFF>Ｏピし　　ぶ　　０　<FF00><FF00>　　ご　ナ　ポ　ー　<FF00>　　ぶ　　０　<FF00><FF00>　　　０　<FF00><FF00>　　エ　Ｅ　Ｅ　Ｅ　<FF00>　　ぶ　　　　<FF00>　　　<FF00><FF00><FF00><FF00>　　　　エ　Ｅ　<FF00><FF00>エ　エ　エ　Ｅ　<FF00><FF00>ぺあ　　うかき　あいう　ぽあ　　あく　　かき　　オあ　　おき　　くけ　　カあ　　うか　　えお　　ナあ　　いえく　こさ　　ニあ　　えく　　しすせそユあ　　あけ　　てと　　ヨあ　　いう　　たちつ　いいう<FF04><FF05><FF06><FF07><FF08><FF09>いさいしいせ<FF0F><FF11><FF12><FF13><FF15><FF16><FF19><FFFF><FF00>　夜魔		addiu 390B
+146	800C97C0	妖魔	Yoma	word 6B
+147	800C97C8	妖精	Fairy	word 6B
+148	800C97D0	天使	Divine	word 6B
+149	800C97D8	堕天使	Fallen	word 8B
+150	800C97E0	龍王	Snake	word 6B
+151	800C97E8	邪龍	Drake	word 6B
+152	800C97F0	妖鳥	Flight	word 6B
+153	800C97F8	凶鳥	Raptor	word 6B
+154	800C9800	魔獣	Beast	word 6B
+155	800C9808	妖獣	Wilder	word 6B
+156	800C9810	鬼女	Femme	word 6B
+157	800C9818	妖鬼	Brute	word 6B
+158	800C9820	地霊	Jirae	word 6B
+159	800C9828	邪鬼	Jaki	word 6B
+160	800C9830	幽鬼	Haunt	word 6B
+161	800C9838	悪霊	Spirit	word 6B
+162	800C9840	屍鬼	Grave	word 6B
+163	800C9848	外道	Foul	word 6B
+164	800C9850	業	Karma	word 4B
+165	800C9854	超人	Meta	word 6B
+166	800C985C	魔人	Fiend	word 6B
+167	800C9864	ＯプしＳプし０プし８プし？プし（プし＋プし☆プし※プし<G0F8>プし　ペしくペしたペしねペしみペしりペしぎペしぞペしぶペしぁペしょペしウペしサペし　　　　　　　　ぶ　　バ　<FF00>ぞ　０　８　<FF00>ょ　０　８　<FF00>ぞ　０　８　<FF00>ぶ　０　８　<FF00>ぁ　　８　<FF00>ぁ　　８　<FF00>ょ　　バ　<FF00>ょ　　バ　<FF00>み　　８　<FF00>み　　８　<FF00>ょ　０　８　<FF00>ぞ　　８　<FF00>ょ　０　８　<FF00>ぞ　　８　<FF00>た　　バ　<FF00>た　　バ　<FF00>み　ょ　ソ　<FF00>み　ょ　ソ　<FF00>　　　　　　　　………あなたは、つまらない<FFF6>カードを持ちすぎですね。<FFFC><FFF6>このままでは、私は嫌ですよ。		addiu 319B
+168	800C99A4	………君、君！<FFFC><FFF6>カードはそんなに持てませんよ。整理する必要がありますね。	.........Hey, you!<FFFC><FFF6>You can't hold that many cards.	word 57B
+169	800C99E0	は！　持ちすぎだ馬鹿が！<FFFC><FFF6>貴様は、スペルカードの<FFF6>管理すら出来んのか？	Hah! You have too many!<FFFC><FFF6>Can you not even manage<FFF6>your own spell cards?	word 57B
+170	800C9A1C	ふぉっふぉっふぉっ。<FFFC><FFF6>お前さん、カードを<FFF6>持ちすぎのようじゃぞ。	Ho ho ho.<FFFC><FFF6>It seems you are carrying<FFF6>too many cards, young one.	word 45B
+171	800C9A4C	あっ！　てーめーえー！<FFFC><FFF6>カードが、いっぱいじゃねえか！要らねえの、サッサと捨てろ！	Ah! You bas-ta-rd!<FFFC><FFF6>Your cards are full! Toss some!	word 60B
+172	800C9A88	あれ～？<FFF6>カードがいっぱいだよ。<FFFC><FFF6>どれか捨ててよねえ。	Huh~?<FFF6>Your cards are full.<FFFC><FFF6>Throw one away.	word 40B
+173	800C9AB0	ガァーー！<FFFC><FFF6>オレサマ　１３バンメ　イヤ！<FFF6>ナニカ　ステロ	Gaaah!!<FFFC><FFF6>Me thirteenth? No!<FFF6>Throw something away!	word 43B
+174	800C9ADC	もう持てぬようじゃな…<FFFC><FFF6>…わらわのカードは、<FFF6>尊重して欲しいものじゃ。	You cannot hold more...<FFFC><FFF6>...I'd appreciate it if<FFF6>you respected my card.	word 51B
+175	800C9B10	あらぁ、アンタ持ちすぎよ…<FFFC><FFF6>私が欲しいんなら、<FFF6>他の人のカードは捨てて頂戴。	Oh my, you're holding too many...<FFFC><FFF6>If you want me,<FFF6>throw someone else's away.	word 58B
+176	800C9B4C	………アンタ、バカ？<FFFC><FFF6>持てるカードの枚数ぐらい、<FFF6>ちゃんと覚えてなさいよね！	.........Are you an idiot?<FFFC><FFF6>You should at least remember<FFF6>how many cards you can hold!	word 58B
+177	800C9B88	なんだよう<FFFC><FFF6>もうガードいっばいだろお<FFF6>ほがのを捨ててぐれよう	What gives!<FFFC><FFF6>Your cards are already full!<FFF6>Throw some of them away!	word 40B
+178	800C9BB0	アンタねえ！<FFFC><FFF6>カードは１２枚以上持てないのよ<FFFC>要らないのは　捨ててよね	Hey, you!<FFFC><FFF6>Max cards 12!<FFFC>Toss some!	word 52B
+179	800C9BE4	アウッ…<FFFC><FFF6>スペルカード　ノ置キ場モ<FFF6><FFF3>　ニハ　ナイノカ…	Awooo...<FFFC><FFF6>Is there no room<FFF6>left for <FFF3>?	word 43B
+180	800C9C10	もう、信じらんない！<FFFC><FFF6>私が欲しいんなら、<FFF6>他の人のカードは捨てて頂戴。	Jeez, I can't believe this!<FFFC><FFF6>If you want me,<FFF6>throw someone else's away.	word 55B
+181	800C9C48	カードがいっぱいだな…<FFFC><FFF6>早く捨てないと<FFF6>俺が勝手に捨てるぞ！	Your cards are full...<FFFC><FFF6>Throw one away soon, or<FFF6>I'll throw one away for you!	word 46B
+182	800C9C78	チリンチリン！<FFF6>カードが　いっぱいいいいい！<FFFC><FFF6>何か　捨て捨ててえええ？	Ching ching!<FFF6>Your cards are fuuuull!<FFFC><FFF6>Throw something away?	word 49B
+183	800C9CAC	うひ？<FFFC><FFF6>もうカードがいっぱいだよ<FFFC><FFF6>ねえねえ　どれか捨てて！	Uhi?<FFFC><FFF6>Your cards are already full.<FFFC><FFF6>Hey hey, throw one away!	word 42B
+184	800C9CD8	………………………………す<FFFB><FFF7>………………………………………………て<FFFB><FFF7>………………………………………………………………………………………………………………ろ	............Th<FFFB><FFF7>..................ro<FFFB><FFF7>........................w!	word 157B
+185	800C9D78	キサマ　カード　イッパイ！<FFFC><FFF6>グアオオオ！<FFF6>オレ　ヤダ　ナニカ　ステロ！	Your cards full, bastard!<FFFC><FFF6>Gwaooo!<FFF6>I don't like! Throw something!	word 50B
+186	800C9DAC	なんじゃこりゃ～！<FFFC><FFF6>おんどりゃ、カード捨てぇや！<FFF6>おりゃ、ぶち回すど！	What the hell is this?!<FFFC><FFF6>You, throw a card away!<FFF6>Or I'll spin you around!	word 51B
+187	800C9DE0	オバオバオバエ～！<FFF6>カード　モチスギダヨ！	Obaobaobae~!<FFF6>You're holding too many cards!	word 34B
+188	800C9E04	７８９７４１４５<FFF6>７４１２３６９<FFFB><FFF7>７４１２３<FFF6>７４１２３！	78974145<FFF6>7412369<FFFB><FFF7>74123<FFF6>74123!	word 62B
+189	800C9E44	………あなたは、つまらない<FFF6>カードを持ちすぎですよ。<FFFC><FFF6>このままでは、私は嫌です。	.........You are carrying too many<FFF6>boring cards.<FFFC><FFF6>I don't want to join like this.	word 58B
+190	800C9E80	おまぁ、おれなめとんか？！<FFFC><FFF6>もうカードいっぱいじゃん。<FFF6>はよぅ、捨てやぁ！	You makin' a fool out of me?!<FFFC><FFF6>Your cards are already full.<FFF6>Hurry up and throw one away!	word 52B
+191	800C9EB4	………アンタ、バカ？<FFFC><FFF6>持てるカードの枚数ぐらい、<FFF6>ちゃんと覚えてなさいよね！	.........Are you an idiot?<FFFC><FFF6>You should at least remember<FFF6>how many cards you can hold!	word 58B
+192	800C9EF0	あっ！　てーめーえー！<FFFC><FFF6>カードが、いっぱいじゃねえか！要らねえの、サッサと捨てろ！	Ah! You bas-ta-rd!<FFFC><FFF6>Cards full! Toss some!	word 60B
+193	800C9F2C	アンダねぇ！<FFF6>カードは１２枚以上持でないのよ<FFFC>要らないのは　捨ででよね！	Hey!<FFF6>Max cards is 12!<FFFC>Toss some!	word 53B
+194	800C9F64	あっ！　オバエ！<FFF6>カードが　いっぱいだぜ！<FFFC><FFF6>要らねえの　捨てとけよ！	Ah! You!<FFF6>Your cards are full!<FFFC><FFF6>Toss what you don't need!	word 49B
+195	800C9F98	ヌポしョポし＋ポしふァしぉァしズァしＫァし『ァしたィしぉィしズィしＫィし÷ィしたゥしぁゥしラゥしＧゥし（ゥしラェしＧェし＋ェしえォしぴォしヴォしＯォし※ォしわヵしテヵし　　　　　　　　　　　　　　　　　　　　く　ビ造そそこ　　　　　　　　　　　　き　ね神そのこ　　　　　　　　　　　　け　や<G10F>とのとゃ　　　　　す　　　　　え　ねととのこ　　　　　　　　　　　　き　ズ<G10A>そのこ　　　　　　　　　　　　く　１神のそこ　　　　　　　　　　　　け　ょ神のそとゅ　　　　　せ　　　　　お　れこももと　　　　　　　　　　　　え　ぼこもそと　　　　　　　　　　　　い　パもおおのん　　　　　き　　　　　い　ビほおおそ　　　　　　　　　　　　い　！もとおそ　　　　　　　　　　　　お　頼とおおの　　　　　　　　　　　　い　なもこおの　　　　　　　　　　　　う　ねのそそそ　　　　　　　　　　　　え　頼そこおほ　　　　　　　　　　　　あ　めそおとそ　　　　　　　　　　　　あ　パりここほ　　　　　　　　　　　　く　え神おそも　　　　　　　　　　　　き　ズ神おのそ　　　　　　　　　　　　う　なりここも　　　　　　　　　　　　け　ぃ邪りのこ　　　　　　　　　　　　け　か邪そとも　　　　　　　　　　　　お　にほそそりろわ　　　　いお　　　　お　かとそそりわろ　　　　うえ　　　　け　や邪おほりを　　　　　か　　　　　　　ゼほことそカ　　　　　な　　　　　に　ビりここそカ　　　　　に　　　　　　　ビりここそカ　　　　　ぬ　　　　　　　おほここのカケ　　　　ねへ　　　　　　ょほとこそカ　　　　　の　　　　　　　ビりここそカ　　　　　は　　　　　　　バほここそカ　　　　　ひ　　　　　に　よりとほのカサ　　　　ふほ　　　　く　ペ神とのこ　　　　　　　　　　　　く　頼そとその　　　　　　　　　　　　う　なもとそとべ　　　　　さ　　　　　え　ぃのほのこ　　　　　　　　　　　　あ　ぁそほのこ　　　　　　　　　　　　い　縛のとそこ　　　　　　　　　　　　う　ちほとそこ　　　　　　　　　　　　あ　とのこそと　　　　　　　　　　　　お　よのこりり　　　　　　　　　　　　い　縛ほこおこ　　　　　　　　　　　　あ　あのとこそ　　　　　　　　　　　　け　荒とそののざ　　　　　け　　　　　か　ぼせとこと　　　　　　　　　　　　う　ビもほこと？　　　　　そ　　　　　か　ぅおりこお　　　　　　　　　　　　え　ねののとお　　　　　　　　　　　　う　ぃ０そをとお　　　　　　　　　　　　い　？０そをこおッ　　　　　た　　　　　か　ぼ０おをこおヵ　　　　　ち　　　　　き　９１そをそお　　　　　　　　　　　　え　ぼ０おもとお　　　　　　　　　　　　つ　ケ０おをこお　　　　　　　　　　　　つ　い０おをとこ　　　　　　　　　　　　う　バとこおこ　　　　　　　　　　　　け　活ととこそ　　　　　　　　　　　　け　活ととこそ　　　　　　　　　　　　け　活ととこそ　　　　　　　　　　　　う　ソこそとこ　　　　　　　　　　　　う　りここほこ　　　　　　　　　　　　い　ぁ０そほもお　　　　　　　　　　　　く　ね１そほのお　　　　　　　　　　　　く　ね１そほのお　　　　　　　　　　　　く　ね１そほのお　　　　　　　　　　　　け　り１ととをそ　　　　　　　　　　　　か　ょのほこそな　　　　　あ　　　　　き　ガそとこそ　　　　　　　　　　　　か　アのりおそぞ　　　　　こ　　　　　う　みほこそと　　　　　　　　　　　　け　か龍ほこの　　　　　　　　　　　　か　とのほこの　　　　　　　　　　　　お　パもここほ　　　　　　　　　　　　か　？０とをおおぃＶ　　　　しつ　　　　か　け０そのほおョ　　　　　て　　　　　か　れ０おほほお　　　　　　　　　　　　く　り１このりお　　　　　　　　　　　　き　ゼ１とほほこ　　　　　　　　　　　　く　い１おもとこ　　　　　　　　　　　　か　い０おものお　　　　　　　　　　　　か　ぼ０おをとこ　　　　　　　　　　　　き　ビ邪りおそ　　　　　　　　　　　　き　と神ほおの　　　　　　　　　　　　く　バ神とその　　　　　　　　　　　　く　ぁ神ほのそＴ　　　　　と　　　　　き　り神そほお　　　　　　　　　　　　く　ボ邪とのの　　　　　　　　　　　　き　い神ほのお　　　　　　　　　　　　い　バのほおこ　　　　　　　　　　　　う　えそとおほ　　　　　　　　　　　　く　と龍のおと　　　　　　　　　　　　あ　たののおこ　　　　　　　　　　　　い　むのののこ　　　　　　　　　　　　き　ぁ<G10F>りほお　　　　　　　　　　　　う　りそののこ　　　　　　　　　　　　う　アそほとこ　　　　　　　　　　　　い　たのととこてん　　　　　く　　　　う　ネのもりこ　　　　　　　　　　　　え　テそほほと　　　　　　　　　　　　う　りそとりお　　　　　　　　　　　　お　やそとほほ　　　　　　　　　　　　え　ぼ０おをのお　　　　　　　　　　　　い　１０そほのお　　　　　　　　　　　　あ　け０そともお　　　　　　　　　　　　う　い０おとのお　　　　　　　　　　　　き　ビ１ののそそ　　　　　　　　　　　　い　ぼ０おほのこ　　　　　　　　　　　　お　ト０ほともそ　　　　　　　　　　　　き　９１とももお　　　　　　　　　　　　え　り０こほりお　　　　　　　　　　　　く　ゼ１とののお　　　　　　　　　　　　お　り０こののお　　　　　　　　　　　　さ　ヌ１おりをお　　　　　　　　　　　　え　れ０このりお　　　　　　　　　　　　け　か１こもほそ　　　　　　　　　　　　ひ　り０このりこ　　　　　　　　　　　　し　ノ０そををお　　　　　　　　　　　　す　（１のをとこ　　　　　　　　　　　　ね　よ１そももお　　　　　　　　　　　　ね　れ１そももそ　　　　　　　　　　　　の　バ０のののお　　　　　　　　　　　　し　め０そももお　　　　　　　　　　　　そ　り１そこをそ　　　　　　　　　　　　た　ぅ０そともと　　　　　　　　　　　　こ　ズ０そりもお　　　　　　　　　　　　こ　ぼ０そをのお　　　　　　　　　　　　こ　と０のののそ　　　　　　　　　　　　こ　ょ０そもとお　　　　　　　　　　　　さ　く１ののもと　　　　　　　　　　　　は　つ１のほのの　　　　　　　　　　　　こ　め０のほほの　　　　　　　　　　　　こ　め０のほほの　　　　　　　　　　　　な　あ０そのおお　　　　　　　　　　　　せ　ポ０のほこお　　　　　　　　　　　　せ　９０そのとこ　　　　　　　　　　　　し　お０　おおそ　　　　　　　　　　　　ち　ぁ０おそそお　　　　　　　　　　　　て　バ０そのおお　　　　　　　　　　　　ぬ　ぼ０そりりそ　　　　　　　　　　　　と　こ０おそそお　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　な　　ぶ　　　　　　　　　　　　　　　　に　　ぶ　　　　　　　　　　　　　　　　に　　ぶ　　　　　　　　　　　　　　　　に　　ぶ　　　　　　　　　　　　　　　　そ　　ぶ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　そ　　ソ　　　　　　　　　　　　　　　　く<GA0>しふ<GA0>しぎ<GA0>しぴ<GA0>しキ<GA0>しヒ<GA0>しヴ<GA0>しボ<GA0>しＣ<GA0>しＷ<GA0>し？<GA0>し÷<GA0>し<G0F8><GA0>ししッしみッしざッしぁッしサッしマッしゲッしペッしＧッし０ッし—ッし☆ッし<G0FC>ッしたャしやャしぞャしぉャしソャしモャしズャしゥャしＫャし４ャし（ャし□ャし　ュしとュしりュしでュしょュしテュしラュしヂュし<G0A0>ュしＯュし８ュし『ュし※ュしえョしねョしわョしぶョしウョしヌョしロョしバョしョョしＳョしーョし＋ョし♀ョしくヮしふヮしぎヮしぴヮしキヮしヒヮしヴヮしボヮしＣヮしＷヮし？ヮし÷ヮし<G0F8>ヮししＡしみＡしざＡしぁＡしサＡしマＡしゲＡしペＡしＧＡし０Ａし—Ａし☆Ａし<G0FC>ＡしたＢしやＢしぞＢしぉＢしソＢしモＢしズＢしゥＢしＫＢし４Ｂし（Ｂし□Ｂし　ＣしとＣしりＣしでＣしょＣしテＣしラＣしヂＣし<G0A0>ＣしＯＣし８Ｃし『Ｃし※ＣしえＤしねＤしわＤしぶＤしウＤしヌＤしロＤしバＤしョＤしＳＤしーＤし＋Ｄし♀ＤしくＥしふＥしぎＥしぴＥしキＥしヒＥしヴＥしボＥしＣＥしＷＥし？Ｅし÷Ｅし<G0F8>ＥししＦしみＦしざＦしぁＦしサＦしマＦしゲＦしペＦしＧＦし０Ｆし—Ｆし☆Ｆし<G0FC>ＦしたＧしやＧしぞＧしぉＧしソＧしモＧしズＧしゥＧしＫＧし４Ｇし（Ｇし□Ｇし　ＨしとＨしりＨしでＨしょＨしテＨしラＨしヂＨし<G0A0>ＨしＯＨし８Ｈし『Ｈし※ＨしえＩしねＩしわＩしぶＩしウＩしヌＩしロＩしバＩしョＩしＳＩしーＩし＋Ｉし♀ＩしくＪしふＪしく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しく<GA0>しギド得する		addiu 5024B
+196	800CB590	悪魔は、自由な生き物でしょ。<FFF6>人間だからとか、思わないで、<FFF6>少しだけ力を貸してほしいな。	Demons are free creatures.<FFF6>Please don't treat us differently<FFF6>because we're humans. Help us.	word 65B
+197	800CB5D4	大したお礼はできないけど、<FFF6>刺激的な日々は保証できるわ。<FFF6>だから、私の力になって！	I can't offer much in return,<FFF6>but I can guarantee fun days.<FFF6>So, lend me your strength!	word 60B
+198	800CB610	<FFF3>さん？<FFF6>一目で分かっちゃった！<FFF6>さすがに、迫力が違うのねー。	Mr. <FFF3>?<FFF6>I knew it at a glance!<FFF6>You sure have a different aura.	word 47B
+199	800CB640	多くの芸術家が、<FFF6>キミに魅了されてきたけど、<FFF6>その気持ち、分かるなぁ！	Many artists have been<FFF6>fascinated by you,<FFF6>and I can understand why!	word 52B
+200	800CB674	ねえねえ、どうやったら、<FFF6>キミのような力が手に入るの？<FFF6>本当に、うらやましいなー。	Hey, hey, how can I<FFF6>get power like yours?<FFF6>I'm so jealous.	word 56B
+201	800CB6AC	わたしに協力するとね、<FFF6>何か不思議な力が働いて、<FFF6>銅像が建っちゃうんだよ！	If you cooperate with me,<FFF6>a mysterious power will work,<FFF6>and a bronze statue will be built!	word 55B
+202	800CB6E4	実は、今度の事件ねー、<FFF6>陰で糸を引いてるのは<FFF6>宇宙人らしいの。	Actually, the one pulling the<FFF6>strings behind this incident is<FFF6>apparently an alien.	word 50B
+203	800CB718	うーん…あなたの守護霊は、<FFF6>母方の、おじいちゃんかな…<FFF6>ものすごく、強そうだよ！	Hmm... your guardian spirit<FFF6>might be your grandpa...<FFF6>He looks incredibly strong!	word 57B
+204	800CB754	きゃああ！<FFF6>どうか、命だけは助けて！	Kyaaah!<FFF6>Please, just spare my life!	word 26B
+205	800CB770	わたし…迷い込んだ、<FFF6>だけなんですう…<FFF6>どうか、許してください！	I... I just wandered in...<FFF6>Please forgive me!<FFF6>I'm sorry!	word 44B
+206	800CB79C	あ、悪魔！<FFF6>怖い！　来ないでぇ！	A-A demon!<FFF6>Scary! Don't come near me!	word 27B
+207	800CB7B8	お前が悪魔だって構わないぜ！<FFF6>ベイビー、俺たち二人で、<FFF6>愛のハーモニー、奏でようぜ！	I don't care if you're a demon!<FFF6>Baby, let's play<FFF6>the harmony of love together!	word 65B
+208	800CB7FC	ヘイヘイ、そこのキミ～！<FFF6>カラオケ行こーよー。<FFF6>オレ、歌うまいぜー。	Hey, hey, you there~!<FFF6>Let's go to karaoke.<FFF6>I'm a great singer.	word 49B
+209	800CB830	キミつきあってる人いるの？<FFF6>いなきゃ、おれ様なんかどう？<FFF6>きっと楽しいぜー！　なっ？	Are you seeing anyone?<FFF6>If not, how about a guy like me?<FFF6>It'll be fun! Right?	word 55B
+210	800CB868	隣の家に、ヘイができたぜ。<FFF6>ヘー、かっこいー！<FFF6>わはは、おもしれーだろ！！	They built a fence next door.<FFF6>Fence-tastic!<FFF6>Wahahaha, isn't that funny!!	word 53B
+211	800CB8A0	フフフフフフフフフフ！<FFF6>フが１０個でェ！<FFFC><FFF6>とうふ！　<FFFC>笑えよ！	Fufufufufufufufufufu!<FFF6>Ten fus!<FFFC><FFF6>Tofu! <FFFC>Laugh!	word 47B
+212	800CB8D0	よお、今日は何日だぁ？<FFF6>そうか、七日なのか。<FFFC><FFF6>ついでに、火曜かよう！	Hey, what day is it today?<FFF6>Oh, it's the seventh.<FFFC><FFF6>Also, it's Tuesday!	word 54B
+213	800CB908	最近、どうよ？<FFF6>バリバリやってるんだって？<FFF6>俺はボチボチっすよ。	How've you been lately?<FFF6>Working hard?<FFF6>I'm doing so-so.	word 47B
+214	800CB938	いやあー、暑ちいねー！<FFF6>おれ様、夏は好きだけど、<FFF6>こう暑ちいとなー。	Man, it's hot!<FFF6>I like summer, but<FFF6>when it's this hot, well...	word 51B
+215	800CB96C	好きな奴とか、いんの？<FFF6>おれ様も、ちょっと<FFF6>気になる奴、いんだけどさー。	Is there someone you like?<FFF6>I've got someone I'm<FFF6>kinda interested in.	word 51B
+216	800CB9A0	わっ！！<FFF6>へっへー驚いたろ？	Wah!!<FFF6>Heheh, surprised?	word 22B
+217	800CB9B8	あっ、あれはっっ！？<FFFC><FFF6>バーカがー、見るぅー、<FFF6>ブータのケツー。	Ah, what is that!?<FFFC><FFF6>Idiot is looking at<FFF6>a pig's butt.	word 51B
+218	800CB9EC	うっ、うえっ……<FFF6>うえええっ…ぐえええっ…<FFFC><FFF6>…ウソだよー！　わはははは！	Ugh, bleh...<FFF6>Bleegh... guuugh...<FFFC><FFF6>...Just kidding! Wahahaha!	word 51B
+219	800CBA20	土地か？　株か？<FFF6>欲しいものを言え。	Land? Stocks?<FFF6>Tell me what you want.	word 29B
+220	800CBA40	ほんの手付け金だ。<FFF6>裏と表が逆の１０円玉を、<FFF6>くれてやろう。	It's just a deposit.<FFF6>I'll give you a 10-yen coin<FFF6>with the head and tail reversed.	word 47B
+221	800CBA70	俺のサイン入り、<FFF6>ブロマイドを、やろう！	I'll give you<FFF6>my autographed photo!	word 30B
+222	800CBA90	愚鈍なる大衆は、<FFF6>一部のエリートに支配されてこそ幸福を、つかめるものだ！	The masses only find joy<FFF6>when ruled by an elite!	word 53B
+223	800CBAC8	今の境遇に、満足しているか？<FFF6>行動せねば、その境遇、<FFF6>一生変わらんぞ！	Are you satisfied with your<FFF6>circumstances?<FFF6>If you don't act, they won't change!	word 56B
+224	800CBB00	人は善、悪魔は悪………<FFF6>そのような考えは、愚劣の極み！今は共に手をたずさえる刻だ！	Humans good, demons evil...<FFF6>Folly! Let us join hands!	word 64B
+225	800CBB40	ふ…<FFFC>馬鹿め！	Hmph...<FFFC>Fool!	word 14B
+226	800CBB50	この、しれものがぁ！	You insolent fool!	word 14B
+227	800CBB60	たわけが！	Imbecile!	word 8B
+228	800CBB68	貴公のような位の高い<FFF6>悪魔と、相まみえようとは、<FFF6>光栄の極み…	To meet a high-ranking<FFF6>demon such as yourself<FFF6>is the utmost honor...	word 48B
+229	800CBB98	今日も、お美しくて、<FFF6>いらっしゃる…	You are looking<FFF6>beautiful today as well...	word 27B
+230	800CBBB4	我々、人間など、<FFF6>貴様の足元にも、<FFF6>及ばぬだろうな！	We humans probably<FFF6>can't even compare<FFF6>to you!	word 43B
+231	800CBBE0	＞マークは、<FFF6>　軽く、ステップを踏んだ。	> Mark did a<FFF6>  light step.	word 32B
+232	800CBC00	＞マークは、<FFF6>　激しく踊った。	> Mark danced<FFF6>  wildly.	word 24B
+233	800CBC18	＞マークは、<FFF6>　悩ましげに踊った。	> Mark danced<FFF6>  seductively.	word 26B
+234	800CBC34	オラオラオラァ！	Ora ora oraaa!	word 12B
+235	800CBC40	うっふーん♥	Uffuun~	word 10B
+236	800CBC4C	ヘイヘイヘイ！	Hey hey hey!	word 10B
+237	800CBC58	＞マークは悪魔を、<FFF6>　熱く、見つめた。	> Mark stared at the<FFF6>  demon passionately.	word 31B
+238	800CBC78	＞マークは悪魔を、<FFF6>　じっと、見つめた。	> Mark stared at the<FFF6>  demon intently.	word 31B
+239	800CBC98	＞マークは悪魔を、<FFF6>　流し目で、見つめた。	> Mark gave the demon<FFF6>  a sidelong glance.	word 34B
+240	800CBCBC	オレ、実は人間界に留学中の、<FFF6>魔界のプリンスなんだぜー！	Actually, I'm a Prince of the<FFF6>Demon World studying abroad!	word 45B
+241	800CBCEC	オレは呪いのせいで、<FFF6>こんな人間の姿に、<FFF6>変えられちまったのさ！	Because of a curse,<FFF6>I was transformed into<FFF6>this human form!	word 44B
+242	800CBD18	おお！　我が、愛しい子…<FFF6><FFF3>よ！<FFF6>ジュテーム。	Oh! My beloved child...<FFF6><FFF3>!<FFF6>Je t'aime.	word 39B
+243	800CBD40	開かずのトイレってご存じ？<FFFC><FFF6>そこに入ると、用を足すまで、<FFF6>ドアが開かないんですの………	The unopenable toilet...<FFFC><FFF6>Once you enter, the door<FFF6>stays shut until you finish...	word 62B
+244	800CBD80	自殺を目撃した人の子孫は、<FFF6>無意識の内に、その現場に<FFF6>足を運んで、やっぱり………	Descendants of those who witness<FFF6>a suicide subconsciously visit<FFF6>the scene, and as expected.........	word 65B
+245	800CBDC4	１１時１１分１１秒を、<FFF6>三日連続で見てしまうと、<FFF6>寿命が６日、縮むそうよ……	I heard if you see 11:11:11<FFF6>three days in a row,<FFF6>your lifespan drops by 6 days......	word 66B
+246	800CBE08	＞エリーは、<FFF6>　小粋にボサノバを<FFF6>　歌った。	> Elly stylishly<FFF6>  sang<FFF6>  bossa nova.	word 35B
+247	800CBE2C	＞エリーは、<FFF6>　大好きな歌を、<FFF6>　歌った。	> Elly sang her<FFF6>  favorite<FFF6>  song.	word 34B
+248	800CBE50	＞エリーは、<FFF6>　心にしみいる歌を、<FFF6>　歌った。	> Elly sang a song<FFF6>  that touched<FFF6>  the heart.	word 35B
+249	800CBE74	はいはい、Ｄｅｍｏｎちゃん！<FFF6>おイタはいけませんわよ。	Yes, yes, Demon-chan!<FFF6>You mustn't be naughty.	word 38B
+250	800CBE9C	よしよし、いい子いい子。<FFF6>Ｇｏｏｄ　ｎｉｇｈｔ　ｂａｂｙ	There, there, good child.<FFF6>Good night baby.	word 48B
+251	800CBECC	はいはい、<FFF6>ミルクでちゅかあー。	Yes, yes,<FFF6>do you want some milk?	word 22B
+252	800CBEE4	Ｙｏｕ、グレートですわね。<FFF6>私を守る仕事をしてみません？	You are great.<FFF6>Would you like a job protecting me?	word 43B
+253	800CBF10	Ｇｏｏｄな仕事がありますわ。<FFF6>麗しい私のボディガード、<FFF6>いかがかしら？	I have a good job for you.<FFF6>How about being the bodyguard<FFF6>for beautiful me?	word 56B
+254	800CBF48	今度、学校から帰る時、<FFF6>私をエスコートしては、<FFF6>いただけませんか？	Next time I go home<FFF6>from school,<FFF6>would you escort me?	word 49B
+255	800CBF7C	そのカッコ、マジィ？<FFF6>超イモ、マジダサ！<FFF6>アンタ、チョベリバぁ～！	Is that outfit for real?<FFF6>Super lame, seriously uncool!<FFF6>You're chobe-riba~!	word 53B
+256	800CBFB4	ちょっとアンタ～！<FFF6>見た目よりもフケてんでしょ～！としよりクサ～。	Hey, you~!<FFF6>You look old! And smell old!	word 44B
+257	800CBFE0	ねえねえ、なんかさぁ……<FFF6>スッパイ臭いしなぁい？<FFF6>あんたじゃないのぉ？	Hey, hey...<FFF6>Doesn't it smell sour?<FFF6>Is it you?	word 47B
+258	800CC010	アヤセってェ……<FFF6>すごく純情なんだけどぉ…<FFF6>今は大胆になっちゃうのぉ…	Ayase is...<FFF6>actually really pure...<FFF6>but I can get bold sometimes...	word 49B
+259	800CC044	やっだーぁ、そんな怖い顔を<FFF6>しないでえ……アヤセと、<FFF6>もっと仲良くしましょうよ。	Nooo, don't make such<FFF6>a scary face...<FFF6>Let's be better friends with Ayase.	word 54B
+260	800CC07C	…いったぁーい！<FFF6>急に、ムネが苦しくなって……<FFF6>さすって欲しいのぉ…	...Ouuuch!<FFF6>My chest suddenly hurts...<FFF6>I want you to rub it...	word 48B
+261	800CC0AC	うち、アヤセを頭に２３人の<FFF6>兄弟がいて、アヤセが、<FFF6>みんなを食べさせてるの…	Ayase has 23 siblings,<FFF6>and Ayase is feeding<FFF6>all of them...	word 53B
+262	800CC0E4	マッチ買ってえ…<FFF6>マッチが売れないとぉ、<FFF6>アヤセ、パパにぶたれるのぉ…	Please buy some matches...<FFF6>If I don't sell these matches,<FFF6>Ayase's papa will hit her...	word 49B
+263	800CC118	パパはＵＦＯに連れ去られ…<FFF6>ママは悪の秘密結社の一員に…<FFF6>アヤセは改造されちゃったの…	Papa was abducted by a UFO...<FFF6>Mama joined a secret society...<FFF6>And Ayase was remodeled...	word 66B
+264	800CC15C	アヤセの言うこと、<FFF6>聞けないのかよ！<FFF6>てんめぇ～、ブッ殺すぞ！	Can't you listen to<FFF6>what Ayase says?!<FFF6>You bastard, I'll kill you!	word 45B
+265	800CC18C	アヤセねー、悪魔の生首、<FFF6>集めるのがシュミなの！<FFF6>コレクションに入りたい？	Ayase's hobby is<FFF6>collecting severed demon heads!<FFF6>Wanna join my collection?	word 54B
+266	800CC1C4	気をつけた方がいいよぉ…<FFF6>アヤセは優しいし冷静だけどぉ、他のは、すぐ暴走するからぁ。	Careful...<FFF6>Ayase is nice, but others go wild.	word 57B
+267	800CC200	あんた、そのうちアタシのこと、悪魔って、呼びたくなるよ。<FFF6>…フフ、どうしようかな。	You'll want to call me<FFF6>a demon soon too... Hehe.	word 54B
+268	800CC238	ふん！　弱い犬ほど、<FFF6>よく吠えるって言うからね！	Hmph! As they say,<FFF6>a weak dog barks the loudest!	word 34B
+269	800CC25C	あんた、誰に向かって、<FFF6>話してると思ってるんだ？<FFF6>礼儀知らずは、嫌いだよ！	Who do you think you're<FFF6>talking to?<FFF6>I hate people with no manners!	word 54B
+270	800CC294	行動の価値なんて、<FFF6>自分の意思で決めないと、<FFF6>無意味なものでしかないよ。	The value of your actions is<FFF6>meaningless unless you decide<FFF6>them with your own will.	word 55B
+271	800CC2CC	人と悪魔の違いなんて、<FFF6>考えても仕方がないね。<FFF6>そこに意味なんてないのさ。	There's no point in thinking about<FFF6>humans and demons.<FFF6>There's no meaning there.	word 53B
+272	800CC304	半端に生きる位なら、<FFF6>寝てる方がましだよ。<FFF6>そんな奴は、多いけどさ。	I'd rather be sleeping<FFF6>than living halfway.<FFF6>Though there are many like that.	word 50B
+273	800CC338	こらっ！<FFF6>他人様に迷惑をかけるなって、<FFF6>幼稚園で、習っただろ？！	Hey!<FFF6>Didn't you learn in kindergarten<FFF6>not to bother others?!	word 50B
+274	800CC36C	じたばたするのは、やめな！<FFF6>みっともないよ！	Stop struggling!<FFF6>It's disgraceful!	word 28B
+275	800CC388	人の話は、黙って聞きなっ！<FFF6>ちゃかしたら、ヤキ入れるよ！	Shut up and listen to me!<FFF6>Mess around and I'll beat you!	word 40B
+276	800CC3B0	そうだ、今夜の夕はん、<FFF6>いったい、何にするかな…	Right, I wonder what<FFF6>I should have for dinner tonight...	word 35B
+277	800CC3D4	あれ？　アタシ………<FFF6>部屋の電気、消したかな？	Huh? Did I.........<FFF6>turn off the lights in my room?	word 37B
+278	800CC3FC	今度のコンクールに出す写真、<FFF6>早く、決めなきゃなあ…	I gotta decide quickly on<FFF6>the photo for the next contest...	word 40B
+279	800CC424	………………………………………	.............................................	word 32B
+280	800CC444	＞レイジは、<FFF6>　口笛を吹いている。	> Reiji is<FFF6>  whistling.	word 27B
+281	800CC460	＞レイジは、<FFF6>　あらぬことを考えている。	> Reiji is thinking<FFF6>  about something else.	word 28B
+282	800CC47C	生きちゃ帰れねえぜ…<FFF6>運が悪かったな。	You won't make it out alive...<FFF6>Tough luck.	word 28B
+283	800CC498	俺が、お前の分まで、<FFF6>十二分に生きてやる！<FFF6>だから安心して死ね…	I'll live a full life<FFF6>for your sake too!<FFF6>So die in peace...	word 50B
+284	800CC4CC	まず、足を折る。次は腕だ。<FFF6>指を１本づつ逆に曲げていく…<FFF6>最後に目玉を、えぐってやる…	First, I'll break your legs.<FFF6>I'll bend your fingers back...<FFF6>Finally, I'll gouge out your eyes...	word 66B
+285	800CC510	うおおおおおーっ！	Uoooooohhhh!	word 13B
+286	800CC520	ぐわあああー！	Gwaaaaahhh!	word 11B
+287	800CC52C	おりゃあああーっ！	Oryaaaaaahhh!	word 13B
+288	800CC53C	指をならしゃあ、<FFF6>花が出る…<FFFC><FFF6>キレイだろ…	Snap my fingers,<FFF6>and a flower appears...<FFFC><FFF6>Pretty, right...	word 33B
+289	800CC560	いつもより、<FFF6>多く回ってるぜ…	It's spinning more<FFF6>than usual...	word 22B
+290	800CC578	手と手を合わせ、<FFF6>しあわせ…<FFFC>パワーだ…	Put your hands together,<FFF6>and be happy...<FFFC>It's power...	word 32B
+291	800CC598	＞<FFFA>は、<FFF6>　説得した。	> <FFFA><FFF6>  persuaded.	word 20B
+292	800CC5AC	＞<FFFA>は、<FFF6>　挑発した。	> <FFFA><FFF6>  taunted.	word 20B
+293	800CC5C0	＞<FFFA>は、<FFF6>　勧誘した。	> <FFFA><FFF6>  invited.	word 20B
+294	800CC5D4	＞<FFFA>は、<FFF6>　歌った。	> <FFFA><FFF6>  sang.	word 18B
+295	800CC5E8	サＰしバＰし—ＰしたＱしぶＱしモＱしＧＱし÷ＱしねＲしウＲしマＲしゥＲしＳＲし<G0FC>ＲしぎＳしヌＳし<G0A0>Ｓし？ＳしくＴしぞＴしヒＴし<G0A0>ＴしＳＴし□ＴしみＵしぶＵしマＵしバＵし８Ｕし　ＶしぶＶしょＶしソＶしヌＶしペＶしＯＶし＋Ｖし　ＷしねＷしざＷしぶＷしぉＷしキＷしラＷしペＷしＷＷし□ＷしねＸしぶＸしヴＸし４ＸしくＹしわＹしょＹしモＹしゥＹしーＹし÷ＹしたＺしぁＺしロＺしＯＺし＋Ｚした０しぴ０しロ０しＧ０し÷０しね１しサ１しヂ１し４１し　２しぞ２しサ２しボ２しー２しえ３しぞ３しヒ３しズ３しＫ３し—３し<G0FC>３しや４しぴ４しソ４しロ４しペ４しー４した５しみ５しわ５しで５しソ５しラ５しペ５しＧ５し０５し—５しキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしキＰしえおケ　おくおケ　おいおお　ケおケお　お　おケ　おえおケ　おくおケ　おおケお　おいおお　ケ　おぺ　のおおケお　きおケお　かおおケ　えケおお　　おケお　おおケお　かおおケ　きおケお　えケおお　　おケお　くおケお　かおおケ　あおおケ　うケおお　　おぺの　くおケお　かおおケ　うケおお　あおおケ　　おぺの　き　ケおおう　おおケい　おおケあ　おケお　　ケおおき　ケおおう　おおケい　おおケあ　おケお　　ぺおのえおケ　おいおケ　おきケお　おかおお　ケ　おぺ　のえおケ　おいおケ　おかおお　ケきケお　お　おケ　おあ　ケおおお　おおケえ　ケおおか　おケお　　ぺおのあ　ケおおえ　ケおおお　おおケか　おケお　　ぺおのきおケ　おくおケ　おいケお　おうおお　ケ　おぺ　のきおケ　おくおケ　おうおお　ケいケお　お　おぺ　のくおケ　おうおお　ケあおケ　おおケお　お　おぺ　のくおケ　おあおケ　おうおお　ケおケお　お　おケ　おおおケ　おあおおケ　く　おケおえおお　ケ　　ぺのおあおケ　おおおお　ケくおお　ケえおお　ケ　おぺ　のいおケ　おきおケ　おえおおケ　かケお　お　おケ　おえおエおおいおお　ケき　おケおかケお　お　おぺ　のいおケ　おおおケ　おうおお　ケあケお　お　おケ　おおおケ　おいおぺ　のうおお　ケあケお　お　おケ　おくおケお　きおケお　かおおケ　うケおお　　おぺの　くおケお　きおケお　うケおお　かおおケ　　おぺの　あおケ　おおおケ　おかおお　ケいケお　お　おぺ　のあおケ　おおおケ　おかおお　ケいケお　お　おぺ　のえおケ　おきおケ　おくおお　ケあケお　お　おケ　おえおケ　おきおケ　おくおお　ケあケお　お　おケ　おおおケお　かおおケ　うおケお　きケおお　　おぺの　おおケお　かおおケ　うおケお　きケおお　　おぺの　うおケ　おくおケ　おいおお　ケえケお　お　おケ　おうおケ　おいおぺ　のくおの　ぺえケお　お　おぺ　のおおケ　おあおケ　おうおお　ケかケお　お　おケ　おおおケ　おあおお　ケうおお　ケかケお　お　おケ　おおおケお　えおおケ　あおおケ　くケおお　　おぺの　おおケお　えおおケ　くケおお　あおおケ　　おぺの　きおケ　おかおケ　おいおお　ケくケお　お　おケ　おきおケ　おいおお　ケかおケ　おくケお　お　おぺ　のえおケ　おきおケ　おいおお　ケうケお　お　おケ　おえおケ　おきおケ　おいおお　ケうケお　お　おぺ　のう　ケおおい　おケおえ　おケおお　おおケ　　ぺのおう　ケおおお　ケおおい　おケおえ　おおケ　　ぺのおえおケ　おきおケ　おくおお　ケかケお　お　おぺ　のえおケ　おおおケ　おくおケ　おかケお　お　おケ　おかおケ　おいおお　ケうおお　ケあケお　お　おケ　おかおケ　おあおケ　おいおお　ケうおお　ケ　おケ　おあおケ　おおおお　ケくケお　おきケお　お　おぺ　のあおケ　おおおケ　おくおケ　おきケお　お　おケ　おおおケお　いおおケ　うケおお　えおおケ　　おケお　おおケお　いおおケ　えおおケ　うケおお　　おケお　あおケ　おいおお　ケきおケ　おくケお　お　おぺ　のあおケ　おいおお　ケきおケ　おくケお　お　おケ　おくおケお　あおおケ　かぺおの　えケおお　　おケお　くおケお　あおおケ　えおケお　かケおお　　おケお　うおケお　きおケお　おケおお　かおおケ　　おケお　うおケお　きおケお　かおおケ　おケおお　　おぺの　き　ケおおく　おケおえ　おおケか　おケお　　ぺのおき　ケおおく　おケおえ　おおケか　おケお　　ケおおおおケ　おいおの　ぺうおお　ケあケお　お　おケ　おおおケ　おいおお　ケうおケ　おあケお　お　おケ　おお　ケおおか　おケおう　おおケく　おケお　　ぺのおお　ケおおか　おケおう　おおケく　おケお　　ぺのおあおケお　きおケお　いケおお　かおおケ　　おぺの　あおケお　きおケお　かおおケ　いケおお　　おケお　あおおケ　きおケお　かおおケ　いケおお　　おぺの　あおおケ　きおケお　いケおお　かおおケ　　おぺの　うおおケ　きおケお　かおおケ　おケおお　　おぺの　うおおケ　きおケお　おケおお　かおおケ　　おぺの　あ　ケおおえ　おケおく　おケおお　おおケ　　ぺのおあ　ケおおえ　のおぺく　おケおお　おおケ　　ぺおのくお　おケうお　おケえお　おケいお　ケお　お　ケおくお　おケうお　おケえお　おケいお　ケお　お　おケいいみえみ　ぶいかみかあいえか　索　いたいいい　みえいかくいた硬きい心かぶいえか　<G100>うあ　みえ　ういみ　いみえヴたいたいいえいいみえあいぶい　うくえあいあい　抗えいたいいいいみえあいくいた硬他険えぶいいくえ　うあいみえ　ういぶいいみえいたいたいいえたこさ　　しすせ　ぬちつ　　てとなにほねの　　はひふ　ゆまみ　　むめも　わよら　　りるれ　ごをん　　がぎぐ　ぢざじ　　ずぜぞだべづで　　どばび　ぁぼぱ　　ぴぷぺ　ゅぃぅ　　ぇぉっ　オょゎ　　アイウ　シカキ　　クケコサテスセ　　ソタチ　ハトナ　　ニヌネ　ムヒフ　　ヘホマ　　　　メモ　　　　　　　ヤユ　　　　　　　ヨラ　　　　　　　リル　　　　　　　レロ　　　　　　　ワヲ　　　　団　　最腕ヂ徳　　ズゼゾダベヅデ　　ドバビブァボパ　　ピプペポッィゥ　　ェォヵ<GA0>Ｃャュ　　ョヮＡＢＪＤＥ　　ＦＧＨＩＱＫＬ　　ＭＮＯ　ＸＲＳ　　ＴＵＶ　４ＹＺ　　０１２　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ド　あ　バ　い　ビ　う　ブ　え　ベ　お　ボ　か　パ　き　ピ　く　プ　け　ペ　５　　　　　　　　　＆う＆う＆う＆う＞魔石を、<FFF6>　手に入れた。		data block, not text
+296	800CD9E4	ううえ　かけおうくあ　いえき　　いくこあえおうけかし　　かけおうくあ　いえき　　　　　　パンシロン		data block, not text
+297	800CDA5C	￥<FF05>　　　お　￥<FF0A>　　　　　￥<FF00>　　　こ　　　こ　￥<FF00>　　　　　　　　　　　　　　　　　　　　　　　　　<FFFF>　　　　あ　い　　　<FFFF><FFFF><FFF8>にんめ		data block, not text
+298	800CDAAC	<FFF3>？<FFF6>一目で分かっちゃった！<FFF6>さすがに、迫力が違うのねー。	Mr. <FFF3>?<FFF6>I knew it at a glance!<FFF6>You sure have a different aura.	addiu 45B
+299	800CDADC	リル淵姑　　　　　　　　　　い　　　う　　　あ　　　あ　　　う　　　い　　　　　　　　　あ　う　　　　　あ　　　　　　　あ　あ　　　　　あ　い　　　あ　う　　　う　あ　き　　　あ　あ　い　　　い　あ　お　　　お　あ　か　　　え　あ　え　　　か　あ　う　お　け　い　か　こ　え　し　く　　あいうえおかきくけこさナカマに　なれ<FF15>にか　くれ<FF00>たちされ<FF00>　　ラ」しう　あ　　　　　」しう　う　　あ　　ズ」しう　お　　い　　ぐうせくバ」しはい		data block, not text
+300	800CDBC0	いいえ		word 5B
+301	800CDBC8	Ｗ」しう　あ　　　　　０」しう　う　　あ　　むいせか８」し・・・・・<FF00>　ちょっとまて！<FFE8>」しう　あ　　　　　※」しう　う　　あ　　むいせか<GF8>」し・。<FF00>ＣＡＲＤ<FF00>　　　　　　あ<FF02>あね『し　　　　い<FF04>あ　　　　<FF00>　　　　　　<FF00>　　　　　　あ<FF07>あ　　　　　　　　ち<FF14>あふ『し　　　　　　　　　☆　　<FF00>　　　　　　　　　　は　く　８　ー　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　□憑♀憑<G0FC>憑えズししズしとズしふズしやズし　　　　　え　そ　　ふ　　　　　マ　ふ　　　　　マ　÷<FF00>　　　　　÷<FF00>　　　ぎ　ぎ　く　ぎ　あ　<FFFF>く　く　く　ぎ　　　あ　ぎ　く　ぎ　ぎ　　　<FFFF>ぎ　く　く　く　あ　あ　００　　０　　　　　０　　０　　だトじト　　　　　　　　　　　　　　　　　　　　<FFFF><FFFF>　　あかういきおえく　おきょうみ　　　		word 577B
+302	800CDE0C	いかり　　　　		word 9B
+303	800CDE18	きょうふ　　　		word 9B
+304	800CDE24	よろこび　　　		word 9B
+305	800CE02C	フローナンバ		word 8B
+306	800CE034	じょうま　てんし		word 10B
+307	800CE040	じょうま　しんし		word 10B
+308	800CE04C	じょうま　こうまん		word 11B
+309	800CE058	げま　ころう		word 8B
+310	800CE060	げま　きょうき		word 9B
+311	800CE06C	げま　ヒーホー		word 9B
+312	800CE078	げま　けもの		word 8B
+313	800CE080	じょま　こしき		word 9B
+314	800CE08C	じょま　ようえん		word 10B
+315	800CE098	じょま　しょうじょ		word 11B
+316	800CE0A4	ゾンビ　おとこ		word 9B
+317	800CE0B0	ゾンビ　おんな		word 9B
+318	800CE0BC	まよえるもの		word 8B
+319	800CE0C4	くちさけ		word 6B
+320	800CE0CC	ドッペル鈍指		word 10B
+321	800CE0D8	クイックシルバー		word 10B
+322	800CE0E4	ポルター念スト		word 10B
+323	800CE0F0	こっくりさん		word 8B
+324	800CE0F8	ワーム		word 5B
+325	800CE100	やーさん		word 6B
+326	800CE108	すらいむ		word 6B
+327	800CE110	うちゅうじん		word 8B
+328	800CE118	てんしじょせい		word 9B
+329	800CE124	ちんぴら		word 6B
+330	800CE12C	べんきちゃん		word 8B
+331	800CE134	ばすけっとまん		word 9B
+332	800CE140	ざ＋しぶ＋しぉ＋しキ＋しソ＋しヒ＋しラ＋しヴ＋しヂ＋しペ＋しョ＋しＫ＋しＷ＋し４＋しー＋し（＋し÷＋し※＋し<G0F8>＋し　－しく－した－しね－しや－しわ－しざ－し<G0FF><FFFF><FFFF><FFFF><FF03>　ういぶ－し　　こ　Ｇ－し　　ああ　∞　　トークタイプ<FF00>　　　　す　せ　☆　ボ　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ＧＯ		word 368B
+333	800CE2B0	せんたく		word 6B
+334	800CE2B8	ようきゅう		word 7B
+335	800CE2C0	<FFFF><FFFF>い<FF07>えふＳせ<G0FF><FFFF><FF00>　　　　え　　０±しい<FF07>うねＳせ<G0FF><FFFF><FF00>　　　　え　　（±しち<FF01>えＳ±し※±しち<FF01>うＫ±し<G0FC>±しいあきいとＳせ<G0FF><FFFF><FF00>　　　　え　　く×しち　きあＧ±しみ×し　　あい　＋　　メッセー◆くにん		word 131B
+336	800CE6E0	キャラ０		word 6B
+337	800CE6E8	キャラ１		word 6B
+338	800CE6F0	キャラ２		word 6B
+339	800CE6F8	キャラ３		word 6B
+340	800CE700	キャラ４		word 6B
+341	800CE708	おかね		word 5B
+342	800CE710	いちえん		word 6B
+343	800CE718	おさつ		word 5B
+344	800CE720	<FFFF><FFFF>ぼかきけやＳせ<G0FF><FFFF><FF00>　　　<FFC9>ァづみ＆しぼおきくみＳせ<G0FF><FFFF><FF00>　　　<FFC9>ァづぞ＆しぼ<FF07>きモよま<G0FF><FFFF><FF00>　　　<FFC9>ァづょ＆しち<FF02>けね＆しヌ＆しち<FF02>くた＆しモ＆しち<FF01>きく＆しヴ＆しぼえさおナ「お<G0FF>　　　あ　　　け　　　ヂ＆しち<FF01>お　＆しョ＆しぼうさえル）お<G0FF>　　　あ　　　け　　　Ｋ＆しち<FF01>え<GF8>＃し８＆しぼいさうデ（お<G0FF>　　　あ　　　け　　　—＆しち<FF01>う※＃し□＆しぼあさいャ…お<G0FF>　　　あ　　　け　　　<GF8>＆しち<FF01>い☆＃した☆しぼ　さあＱ～お<G0FF>　　　あ　　　け　　　ふ☆しち<FF01>あ＋＃しざ☆し　　あき　○　　いろいろいじる		word 309B
+345	800CE940	／カードない／		addiu 9B
+346	800CE94C	<FFFF><FFFF>　　あし　∞　　スペルカード		addiu 20B
+347	800CEA44	トークタイプ		word 8B
+348	800CEA4C	アドレスじょうほう		word 11B
+349	800CEA58	メッセー◆くにん		word 11B
+350	800CEA64	いろいろひょうじちゅう		word 13B
+351	800CEA74	<FFFF><FFFF>ちかうきぎ★しモ○しちおうか—＃しヴ○しちえうおテ○しヂ○しぐううえぉ○しペ○しちいううキ○しョ○しちあういで○しＫ○しち　うあぴ○しＷ○し　　あき　±　　デバッ確ニュー<FF00>　　そ　こ　４　た　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>あ　　　　　　　・・・メッセージなし・・・		word 368B
+352	800CEBE4	<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>　　　　<FFFF><FFFF><FFFF><FFFF>ぁ輝ょ輝<G0FC>輝モ取Ｏ取ぞ取☆取ペ誤　ゼきとゾきヒダきぶビきテピきみ<GA0>き４<GA0>き８ュきあ　　　　　　　　　　　　　　　　　　　　ソくえねょかえ　　　　　　ね　り　ぞ　ぁ　キ　ヌ　ラ　ズ　ペ　Ｃ　Ｓ　８　（　☆　<GF8>　くあ　　　みみみみみみみみみみみみみみみぞ　　　ねたたたたたたたたたたたたたたたね　　　<FFFF><FFFF>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　お　た　　　　　て　た　　　　　お　み　　　　　て　み　<GA0>●せう　　　Ｓ●せす　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　スペルカード		addiu 559B
+353	800C92B0	あげる	I'll give it	word 5B
+354	800C9488	ちょっと待って！	Wait a second!	word 12B
+355	800C94D0	スペルカード！	Spell card!	word 13B
+356	800C9968	………あなたは、つまらない<FFF6>カードを持ちすぎですね。<FFFC><FFF6>このままでは、私は嫌ですよ。	.........You are carrying too many<FFF6>boring cards.<FFFC><FFF6>I don't want this at all.	word 59B
+357	800CD518	＞魔石を、<FFF6>　手に入れた。	> Obtained a Life<FFF6>  Stone.	addiu 23B
+358	800CB55C	わたしの力には限りがあるわ…<FFF6>だから、助けてほしいの……<FFF6>お願い…ねっ？	My power has its limits...<FFF6>So I'd like your help...<FFF6>Please... okay?	word 50B
+359	800C97B8	夜魔	Night	word 6B

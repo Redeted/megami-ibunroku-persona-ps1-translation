@@ -1,0 +1,243 @@
+idx	ram	ja	en	note
+0	80047D58	アギ	Agi	official PSP
+1	80047D6C	アギラオ	Agilao	official PSP
+2	80047D80	アギダイン	Agidyne	official PSP
+3	80047D94	マハラギ	Maragi	official PSP
+4	80047DA8	マハラギオン	Maragion	official PSP
+5	80047DBC	マハラギダイン	Maragidyne	official PSP
+6	80047DD0	ブフ	Bufu	official PSP
+7	80047DE4	ブフーラ	Bufula	official PSP
+8	80047DF8	ブフダイン	Bufudyne	official PSP
+9	80047E0C	マハーブフ	Mabufu	official PSP
+10	80047E20	マハブフーラ	Mabufula	official PSP
+11	80047E34	マハブフダイン	Mabufudyne	official PSP
+12	80047E48	ガル	Garu	official PSP
+13	80047E5C	ガルーラ	Garula	official PSP
+14	80047E70	ガルダイン	Garudyne	official PSP
+15	80047E84	マハーガル	Magaru	official PSP
+16	80047E98	マハガルーラ	Magarula	official PSP
+17	80047EAC	マハガルダイン	Magarudyne	official PSP
+18	80047EC0	マグナ	Magna	official PSP
+19	80047ED4	マグナス	Magnara	official PSP
+20	80047EE8	マグダイン	Magnadyne	official PSP
+21	80047EFC	マハマグナ	Mamagna	official PSP
+22	80047F10	マハマグナス	Mamagnara	official PSP
+23	80047F24	マハマグダイン	Mamagnadyne	official PSP
+24	80047F38	フレイ	Frei	official PSP
+25	80047F4C	フレイラ	Freila	official PSP
+26	80047F60	フレイダイン	Freidyne	official PSP
+27	80047F74	メギド	Megido	official PSP
+28	80047F88	メギドラ	Megidola	official PSP
+29	80047F9C	メギドラオン	Megidolaon	official PSP
+30	80047FB0	ザン	Zan	official PSP
+31	80047FC4	ザンマ	Zanma	official PSP
+32	80047FD8	ザンダイン	Zandyne	official PSP
+33	80047FEC	マハザン	Mazan	official PSP
+34	80048000	マハザンマ	Mazanma	official PSP
+35	80048014	マハザンダイン	Mazandyne	official PSP
+36	80048028	グライ	Gry	official PSP
+37	8004803C	グライバ	Gryva	official PSP
+38	80048050	グラダイン	Grydyne	official PSP
+39	80048064	マハグライ	Magry	official PSP
+40	80048078	マハグライバ	Magryva	official PSP
+41	8004808C	マハグラダイン	Magrydyne	official PSP
+42	800480A0	ジオ	Zio	official PSP
+43	800480B4	ジオンガ	Zionga	official PSP
+44	800480C8	ジオダイン	Ziodyne	official PSP
+45	800480DC	マハジオ	Mazio	official PSP
+46	800480F0	マハジオンガ	Mazionga	official PSP
+47	80048104	マハジオダイン	Maziodyne	official PSP
+48	80048118	エイハ	Eiha	official PSP
+49	8004812C	バイエイハ	Baeiha	official PSP
+50	80048140	マハエイハ	Maeiha	official PSP
+51	80048154	ムド	Mudo	official PSP
+52	80048168	ムドオン	Mudoon	official PSP
+53	8004817C	マハムド	Mamudo	official PSP
+54	80048190	ドルミナー	Dormina	official PSP
+55	800481A4	シバブー	Shibaboo	official PSP
+56	800481B8	プリンパ	Pulinpa	official PSP
+57	800481CC	ハピルマ	Hapirma	official PSP
+58	800481E0	マリンカリン	Marin Karin	official PSP
+59	800481F4	マカジャマ	Makajam	official PSP
+60	80048208	デライト	Delyte	official PSP
+61	8004821C	スランパ	Slumpa	official PSP
+62	80048230	デカバー	Decover	official PSP
+63	80048244	デサンガ	Desanga	official PSP
+64	80048258	ドロンパ	Doronpa	official PSP
+65	8004826C	ドロイド	Doroid	official PSP
+66	80048280	クイッカ	Quikka	official PSP
+67	80048294	バルザック	Balzac	official PSP
+68	800482A8	マドール	Mador	official PSP
+69	800482BC	ウルバーン	Wolvaan	official PSP
+70	800482D0	デスティカ	Deathtika	official PSP
+71	800482E4	ペトラマ	Petrama	official PSP
+72	800482F8	パララマ	Paralama	official PSP
+73	8004830C	ポイズマ	Poisma	official PSP
+74	80048320	シシリッカ	Nervma	official PSP
+75	80048334	オメガクラスタ	Omega Cluster	official PSP
+76	80048348	コウハ	Kouha	official PSP
+77	8004835C	バイコウハ	Baikouha	official PSP
+78	80048370	マハコウハ	Makouha	official PSP
+79	80048384	ハンマ	Hama	official PSP
+80	80048398	ハマオン	Hamaon	official PSP
+81	800483AC	マハンマ	Mahama	official PSP
+82	800483C0	タルンダ	Tarunda	official PSP
+83	800483D4	ラクンダ	Rakunda	official PSP
+84	800483E8	スクンダ	Sukunda	official PSP
+85	800483FC	デクンダ	Dekunda	official PSP
+86	80048410	タルカジャ	Tarukaja	official PSP
+87	80048424	ラクカジャ	Rakukaja	official PSP
+88	80048438	スクカジャ	Sukukaja	official PSP
+89	8004844C	マカカジャ	Makakaja	official PSP
+90	80048460	デカジャ	Dekaja	official PSP
+91	80048474	テトラジャ	Tetraja	official PSP
+92	80048488	マカラカーン	Makarakarn	official PSP
+93	8004849C	テトラカーン	Tetrakarn	official PSP
+94	800484B0	ディア	Dia	official PSP
+95	800484C4	ディアラマ	Diarama	official PSP
+96	800484D8	ディアラハン	Diarahan	official PSP
+97	800484EC	メディア	Media	official PSP
+98	80048500	メディラマ	Mediarama	official PSP
+99	80048514	メディアラハン	Mediarahan	official PSP
+100	80048528	パトラ	Patra	official PSP
+101	8004853C	ペンパトラ	Pen Patra	official PSP
+102	80048550	ポズムディ	Posumudi	official PSP
+103	80048564	パララディ	Paraladi	official PSP
+104	80048578	ペトラディ	Petradi	official PSP
+105	8004858C	シシリディ	Nervundi	official PSP
+106	800485A0	リカーム	Recarm	official PSP
+107	800485B4	サマリカーム	Samarecarm	official PSP
+108	800485C8	リカームドラ	Recarmdra	official PSP
+109	800485DC	アルファブラスタ	Alpha Blaster	official PSP
+110	800485F0	マッパー	Mappa	official PSP
+111	80048604	トラフーリ	Trafuri	not in the P1 PSP skill table; standard franchise name (P2/P3) - review
+112	80048618	トラエスト	Traesto	official PSP
+113	8004862C	アウトマ	Outoma	official PSP
+114	80048640	リフトマ	Liftoma	official PSP
+115	80048654	アルサンガ	Alsanga	official PSP
+116	80048668	パララアイズ	Paral Eyes	official PSP
+117	8004867C	ペトラアイズ	Petra Eyes	official PSP
+118	80048690	ヘルズアイズ	Hell Eyes	official PSP
+119	800486A4	ギルトアイズ	Guilt Eyes	official PSP
+120	800486B8	テリブルアイズ	Terror Eyes	official PSP
+121	800486CC	セクシーダンス	Sexy Dance	official PSP
+122	800486E0	ハッピーダンス	Happy Dance	official PSP
+123	800486F4	ふこうのフラダンス	Misfortune Hula	official PSP "Hula of Misfortune" (18) reordered to fit 15
+124	80048708	デスペルタンゴ	Dispel Tango	official PSP "Tango of Dispelling" (19) shortened to fit 15
+125	8004871C	かなしみのワルツ	Sadness Waltz	official PSP "Waltz of Sadness" (16) reordered to fit 15
+126	80048730	こもりうた	Lullaby	official PSP
+127	80048744	パニックボイス	Panic Voice	official PSP
+128	80048758	バインドボイス	Bind Voice	official PSP
+129	8004876C	きょうらんのうた	Frenzy Song	official PSP
+130	80048780	キャンディボイス	Candy Voice	official PSP
+131	80048794	あついくちづけ	Passionate Kiss	official PSP
+132	800487A8	あくまのキス	Demon's Kiss	official PSP
+133	800487BC	デビルスマイル	Evil Smile	official PSP
+134	800487D0	デスタッチ	Deathtouch	official PSP
+135	800487E4	ファイアブレス	Fire Breath	official PSP
+136	800487F8	アイスブレス	Ice Breath	official PSP
+137	8004880C	どくガスブレス	Poison Breath	official PSP
+138	80048820	フォッグブレス	Fog Breath	official PSP
+139	80048834	みずのかべ	Water Wall	official PSP
+140	80048848	ほのおのかべ	Fire Wall	official PSP
+141	8004885C	すいしょうのかべ	Crystal Wall	official PSP
+142	80048870	こうてつのかべ	Steel Wall	official PSP
+143	80048884	しようのあか　	Crim. Sublation	official PSP "Crimson Sublation" (17) abbreviated to fit 15
+144	80048898	しゅうえんのあお	Azure Cessation	official PSP
+145	800488AC	ごうのなみ　　	Mighty Wave	official PSP
+146	800488C0	じゅうのなみ　	Gentle Wave	official PSP
+147	800488D4	てんのせんぷう	Heaven Cyclone	official PSP "Heavenly Cyclone" (16) shortened to fit 15
+148	800488E8	ちのれっぷう　	Earthly Vortex	official PSP
+149	800488FC	じごくおろし　	Hell Drop	official PSP
+150	80048910	ごくらくおとし	Gokuraku Fall	official PSP
+151	80048924	とうしょうは　	Eastern Impact	official PSP
+152	80048938	せいげきは　　	Western Blow	official PSP
+153	8004894C	さんらいげき　	Sanraigeki	official PSP
+154	80048960	しゅうらいげき	Shuuraigeki	official PSP
+155	80048974	ふめつのくろ　	Eternal Black	official PSP
+156	80048988	やみのしんぱん	Dark Verdict	official PSP
+157	8004899C	えいえんのしろ	Eternal White	official PSP
+158	800489B0	ひかりのさばき	Bright Judgment	official PSP "Bright Judgement" (16) with US spelling to fit 15
+159	800489C4	ヒエロスグリュペイン	Hieroglyphein	official PSP
+160	800489D8	しょうかん	Summon	official PSP name of 召喚; also the しょうかんSP label context
+161	800489EC	ルナトラップ	Luna Trap	official PSP
+162	80048A00	かみつき	Feral Bite	official PSP (persona1.wikidot.com/skill)
+163	80048A14	どくかみつき	Venom Bite	official PSP (persona1.wikidot.com/skill)
+164	80048A28	まひかみつき	Stun Bite	official PSP (persona1.wikidot.com/skill)
+165	80048A3C	ウイルスかみつき	Virus Bite	official PSP (persona1.wikidot.com/skill)
+166	80048A50	せきかかみつき	Stone Bite	official PSP (persona1.wikidot.com/skill)
+167	80048A64	ひっかき	Feral Claw	official PSP (persona1.wikidot.com/skill)
+168	80048A78	どくひっかき	Venom Claw	official PSP (persona1.wikidot.com/skill)
+169	80048A8C	まひひっかき	Stun Claw	official PSP (persona1.wikidot.com/skill)
+170	80048AA0	ウイルスひっかき	Virus Claw	official PSP (persona1.wikidot.com/skill)
+171	80048AB4	せきかひっかき	Stone Claw	official PSP (persona1.wikidot.com/skill)
+172	80048AC8	どくばり	Toxic Sting	official PSP (persona1.wikidot.com/skill)
+173	80048ADC	まひばり	Stun Needle	official PSP (persona1.wikidot.com/skill)
+174	80048AF0	つくもばり	Needle Rush	official PSP (persona1.wikidot.com/skill)
+175	80048B04	めっさつちゅうせん	Genocide Fan	official PSP (persona1.wikidot.com/skill)
+176	80048B18	たいあたり	Tackle	literal (no official name found); 体当り not on the P1 wiki list; common franchise name Tackle - review
+177	80048B2C	ボーンクラッシュ	Bonecrusher	official PSP (persona1.wikidot.com/skill)
+178	80048B40	おしつぶし	Squash	official PSP (persona1.wikidot.com/skill)
+179	80048B54	かいてんげき	Heavenly Hit	official PSP (persona1.wikidot.com/skill)
+180	80048B68	メガトンレイド	Megaton Raid	official PSP (persona1.wikidot.com/skill)
+181	80048B7C	くちばし	Beak	official PSP (persona1.wikidot.com/skill)
+182	80048B90	はばたき	Wing Flap	official PSP (persona1.wikidot.com/skill)
+183	80048BA4	きゅうこうか	Dive	official PSP (persona1.wikidot.com/skill)
+184	80048BB8	スパイククロー	Spike Claw	official PSP (persona1.wikidot.com/skill)
+185	80048BCC	デスクロー	Death Claw	official PSP (persona1.wikidot.com/skill)
+186	80048BE0	ティンクルパンチ	Twinkle Punch	official PSP (persona1.wikidot.com/skill)
+187	80048BF4	いかりのてっけん	Fist of Fury	official PSP (persona1.wikidot.com/skill)
+188	80048C08	からさでやおろずうち	Deadly Fist	official PSP (persona1.wikidot.com/skill)
+189	80048C1C	スピンキック	Spin Kick	official PSP (persona1.wikidot.com/skill)
+190	80048C30	らいていげり	Thunder Kick	official PSP (persona1.wikidot.com/skill)
+191	80048C44	えいこうくりからげり	Lightning Kick	official PSP (persona1.wikidot.com/skill)
+192	80048C58	ツインスラッシュ	Twin Slash	official PSP (persona1.wikidot.com/skill)
+193	80048C6C	ヒートウェイブ	Heat Wave	official PSP (persona1.wikidot.com/skill)
+194	80048C80	デスバウンド	Deathbound	official PSP (persona1.wikidot.com/skill)
+195	80048C94	いちもんじぎり	Ichimonji Slash	official PSP (persona1.wikidot.com/skill)
+196	80048CA8	ろうがてんちゅうぎり	Wolf Fang	official PSP (persona1.wikidot.com/skill)
+197	80048CBC	らくようさんだんうち	Triple Slice	official PSP (persona1.wikidot.com/skill)
+198	80048CD0	にだんづき	Double Thrust	official PSP (persona1.wikidot.com/skill)
+199	80048CE4	りゅうがせんかい	Dragon Whirl	literal (no official name found); wiki lists 竜牙旋回 (game data 竜駕旋回)
+200	80048CF8	しゃくねつしゃが	Burning Spear	official PSP (persona1.wikidot.com/skill)
+201	80048D0C	どとうのれんだ	Flurry Stab	official PSP (persona1.wikidot.com/skill)
+202	80048D20	ごくらくおうじょうは	Destruct Smash	official PSP (persona1.wikidot.com/skill); abbreviated from Destruction Smash
+203	80048D34	てんきょうちばくだん	Earth Slicer	official PSP (persona1.wikidot.com/skill)
+204	80048D48	あいのムチ	Love Whip	official PSP (persona1.wikidot.com/skill)
+205	80048D5C	つくもらせんげき	Infinite Spiral	official PSP (persona1.wikidot.com/skill)
+206	80048D70	うげつさいは	Moon Shatterer	official PSP (persona1.wikidot.com/skill)
+207	80048D84	ごうそっきゅう	Fastball	official PSP (persona1.wikidot.com/skill)
+208	80048D98	あんぱそうひそう	Darkness Nail	official PSP (persona1.wikidot.com/skill)
+209	80048DAC	たかまれっぷうだん	Sonic Bullet	official PSP (persona1.wikidot.com/skill)
+210	80048DC0	れんぞくうち	Rapid Fire	official PSP (persona1.wikidot.com/skill)
+211	80048DD4	せつなさみだれうち	Myriad Arrows	official PSP (persona1.wikidot.com/skill)
+212	80048DE8	ごぜつせっぱ	Arrow Volley	official PSP (persona1.wikidot.com/skill)
+213	80048DFC	シングルショット	Single Shot	official PSP (persona1.wikidot.com/skill)
+214	80048E10	ドライブショット	Drive Shot	official PSP (persona1.wikidot.com/skill)
+215	80048E24	ミドルショット	Middle Shot	official PSP (persona1.wikidot.com/skill)
+216	80048E38	パウダーショット	Powder Shot	official PSP (persona1.wikidot.com/skill)
+217	80048E4C	ロングショット	Long Shot	official PSP (persona1.wikidot.com/skill)
+218	80048E60	スウィートトラップ	Sweet Trap	official PSP (persona1.wikidot.com/skill)
+219	80048E74	バイパースマッシュ	Viper Smash	official PSP (persona1.wikidot.com/skill)
+220	80048E88	ドラムロールパンチ	Drumroll Punch	official PSP (persona1.wikidot.com/skill)
+221	80048E9C	しちしきれんごくは	Rainbow Strike	official PSP (persona1.wikidot.com/skill)
+222	80048EB0	バイナルストライク	Binal Strike	official PSP (persona1.wikidot.com/skill)
+223	80048EC4	じばく	Self-Destruct	official PSP (persona1.wikidot.com/skill: 自爆); agy had it swapped
+224	80048ED8	みちづれ	Last Resort	official PSP (persona1.wikidot.com/skill: 道連れ); agy had it swapped
+225	80048EEC	ぶんしん	Clone	official PSP (persona1.wikidot.com/skill)
+226	80048F00	ようかいえき	Dissolvent	official PSP (persona1.wikidot.com/skill)
+227	80048F14	イリュージョン	Illusion	official PSP (persona1.wikidot.com/skill)
+228	80048F28	ばらまき	Scatter	official PSP (persona1.wikidot.com/skill)
+229	80048F3C	パライズプリックル	Paralyze Punct.	literal (no official name found); wiki lists パライズブリックル; abbreviated from Paralyze Puncture
+230	80048F50	ダークミラー　　　　	Dark Mirror	official PSP (persona1.wikidot.com/skill)
+231	80048F64	ファイアーアロー	Fire Arrow	official PSP (persona1.wikidot.com/skill)
+232	80048F78	あんこくのねむり	Dark Slumber	official PSP (persona1.wikidot.com/skill)
+233	80048F8C	リベンジリーク	Revenge Leak	official PSP (persona1.wikidot.com/skill)
+234	80048FA0	アブソルートゼロ	Absolute Zero	official PSP (persona1.wikidot.com/skill)
+235	80048FB4	デビルウォール	Devil's Wall	official PSP (persona1.wikidot.com/skill)
+236	80048FC8	はいよるこんとん	Crawling Chaos	official PSP (persona1.wikidot.com/skill)
+237	80048FDC	なげきのシンフォニー	Symph of Lament	official PSP (persona1.wikidot.com/skill); abbreviated from Symphony of Lament
+238	80048FF0	オールガード	All Guard	official PSP (persona1.wikidot.com/skill)
+239	80049004	バタフライストーム	Butterfly Storm	official PSP (persona1.wikidot.com/skill)
+240	80049018	ブラッディローズ	Bloody Rose	official PSP (persona1.wikidot.com/skill)
+241	8004902C	ディレンジボイス	Derange Voice	official PSP (persona1.wikidot.com/skill); abbreviated from Derangement Voice

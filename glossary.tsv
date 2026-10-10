@@ -1,0 +1,893 @@
+japanese	english	category	source	notes
+マーク	Mark	character	game-text	nickname used in the Japanese text; speaker label "Mark:"
+ブラウン	Brown	character	game-text	nickname used in the Japanese text; speaker label "Brown:"
+エリー	Elly	character	game-text	nickname used in the Japanese text; speaker label "Elly:"
+アヤセ	Ayase	character	game-text	speaker label "Ayase:"
+ゆきの	Yukino	character	game-text	speaker label "Yukino:"
+南条	Nanjo	character	game-text	family name; full name 南条 圭 -> Nanjo Kei (Japanese order, see guide 3)
+上杉	Uesugi	character	game-text	family name of Brown
+ペルソナ	Persona	system	official-psp
+ペルソナ様	Persona-sama	story	game-text	the "Persona" fortune game; keep -sama
+スペルカード	Spell Card	system	project	verify against the 2009 PSP release
+稲葉	Inaba	character	project	family name of Mark (Mark is his nickname); Hepburn; check 2009 PSP release
+山岡	Yamaoka	character	project	family name of the elderly man who looks after Nanjo; Hepburn; check 2009 PSP release
+園村	Sonomura	character	project	family name of Maki Sonomura; Hepburn; check 2009 PSP release
+麻希	Maki	character	project	given name of Sonomura; honorific kept: Maki-san
+セベク	SEBEC	organization	project	company name; spelling to verify against the 2009 PSP release
+看護婦	Nurse	speaker label	project	
+女子大生	College Girl	speaker label	project	female college student
+妊婦	Pregnant Woman	speaker label	project	
+サラリーマン	Salaryman	speaker label	project	kept as the Japanese-English loanword
+怪我した男	Injured Man	speaker label	project	
+ぼっちゃま	young master	honorific	project	Yamaoka addressing Nanjo
+御彰	(unverified)	place	project	kanji of this place name come from the auto-built font map and may be misread (影?); boxes naming it are left untranslated until checked
+ジョイ通	Joy-dori	place	project	shopping street; "-dori" kept (street)
+ピースダイナー	Peace Diner	place	project	restaurant on Joy-dori
+イナバクリーニング	Inaba Cleaning	organization	project	Mark's family business
+白い女の子	Girl in White	speaker label	project	the crying girl of the opening scene
+稲葉 正男	Inaba Masao	character	project	Mark's full name, Japanese order; the hiragana reading in parentheses in the intro cards is dropped (it would repeat the romanization)
+南条 圭	Nanjo Kei	character	project	Nanjo's full name, Japanese order
+黛 ゆきの	Mayuzumi Yukino	character	project	Yukino's full name; 黛 = Mayuzumi
+上杉 秀彦	Uesugi Hidehiko	character	project	Brown's full name
+綾瀬 優香	Ayase Yuka	character	project	Ayase's full name
+桐島 英理子	Kirishima Eriko	character	project	Elly's full name
+通称	Known as	phrase	project	intro cards: 通称マーク -> Known as Mark
+財閥	zaibatsu	term	project	kept as the Japanese term (Nanjo zaibatsu)
+コギャル	kogal	term	project	kept as the Japanese term
+なんじょうくん	Nanjo-kun	nickname	project	honorific kept
+ゆきのさん	Yukino-san	nickname	project	honorific kept
+玲司	Reiji	character	project	Kido Reiji (城戸 玲司); from tools/names_audit.py
+神取	Kandori	character	project	the main antagonist; from tools/names_audit.py
+生徒	Student	speaker label	project	confirmed reading; from tools/names_audit.py
+客	Customer	speaker label	project	confirmed reading; from tools/names_audit.py
+店員	Clerk	speaker label	project	confirmed reading; from tools/names_audit.py
+店主	Shopkeeper	speaker label	project	confirmed reading; from tools/names_audit.py
+医師	Doctor	speaker label	project	confirmed reading; from tools/names_audit.py
+科学者	Scientist	speaker label	project	confirmed reading; from tools/names_audit.py
+男	Man	speaker label	project	confirmed reading; from tools/names_audit.py
+青年	Young Man	speaker label	project	confirmed reading; from tools/names_audit.py
+老人	Old Man	speaker label	project	confirmed reading; from tools/names_audit.py
+患者	Patient	speaker label	project	confirmed reading; from tools/names_audit.py
+先生	Teacher	speaker label	project	confirmed reading; from tools/names_audit.py
+悪魔	Demon	speaker label	project	confirmed reading; from tools/names_audit.py
+警官	Police Officer	speaker label	project	confirmed reading; from tools/names_audit.py
+警部	Inspector	speaker label	project	confirmed reading; from tools/names_audit.py
+街の人	Townsperson	speaker label	project	confirmed reading; from tools/names_audit.py
+町の人	Townsperson	speaker label	project	confirmed reading; from tools/names_audit.py
+女子高生	Schoolgirl	speaker label	project	confirmed reading; from tools/names_audit.py
+男子生徒	Boy Student	speaker label	project	confirmed reading; from tools/names_audit.py
+女子生徒	Girl Student	speaker label	project	confirmed reading; from tools/names_audit.py
+黒い女の子	Girl in Black	speaker label	project	confirmed reading; from tools/names_audit.py
+麻希の母	Maki's Mother	speaker label	project	confirmed reading; from tools/names_audit.py
+玲司の母	Reiji's Mother	speaker label	project	confirmed reading; from tools/names_audit.py
+マークの母	Mark's Mother	speaker label	project	confirmed reading; from tools/names_audit.py
+久美の父親	Kumi's Father	speaker label	project	confirmed reading; from tools/names_audit.py
+神取の声	Kandori's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+麻希の声	Maki's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+冴子先生	Saeko-sensei	character	project	honorific kept; from tools/names_audit.py
+夏美先生	Natsumi-sensei	character	project	吉野 夏美 Yoshino Natsumi; from tools/names_audit.py
+姫野	Himeno	character	project	姫野 由子 Himeno Yuko; from tools/names_audit.py
+たまきちゃん	Tamaki-chan	character	project	confirmed reading; from tools/names_audit.py
+ただしくん	Tadashi-kun	character	project	confirmed reading; from tools/names_audit.py
+久美	Kumi	character	project	confirmed reading; from tools/names_audit.py
+あき	Aki	character	project	confirmed reading; from tools/names_audit.py
+まい	Mai	character	project	confirmed reading; from tools/names_audit.py
+陽介	Yosuke	character	project	confirmed reading; from tools/names_audit.py
+知美	Tomomi	character	project	confirmed reading; from tools/names_audit.py
+百合子	Yuriko	character	project	confirmed reading; from tools/names_audit.py
+美智子	Michiko	character	project	confirmed reading; from tools/names_audit.py
+真理子	Mariko	character	project	confirmed reading; from tools/names_audit.py
+クイーン	Queen	speaker label	project	casino/Queen figure; check against the story; from tools/names_audit.py
+雪の女王	Snow Queen	speaker label	project	official PSP name; from tools/names_audit.py
+雪の女王の声	Snow Queen's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+イゴール	Igor	speaker label	project	official; from tools/names_audit.py
+ヒュプノス	Hypnos	speaker label	project	official PSP; from tools/names_audit.py
+パンドラ	Pandora	speaker label	project	official; from tools/names_audit.py
+ケルベロス	Cerberus	speaker label	project	official; from tools/names_audit.py
+ハリティー	Hariti	speaker label	project	official; from tools/names_audit.py
+仮面の男子生徒	Masked Boy	speaker label	project	confirmed reading; from tools/names_audit.py
+仮面の女子生徒	Masked Girl	speaker label	project	confirmed reading; from tools/names_audit.py
+仮面	Mask	speaker label	project	confirmed reading; from tools/names_audit.py
+演劇部員	Drama Club Member	speaker label	project	confirmed reading; from tools/names_audit.py
+演劇部部長	Drama Club President	speaker label	project	confirmed reading; from tools/names_audit.py
+？？？	???	speaker label	project	confirmed reading; from tools/names_audit.py
+声	Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+女王	Queen	speaker label	project	confirmed reading; from tools/names_audit.py
+生徒会長	Student Council President	speaker label	project	confirmed reading; from tools/names_audit.py
+役員	Council Member	speaker label	project	confirmed reading; from tools/names_audit.py
+受付嬢	Receptionist	speaker label	project	confirmed reading; from tools/names_audit.py
+見張り	Guard	speaker label	project	confirmed reading; from tools/names_audit.py
+黒服の男	Man in Black	speaker label	project	confirmed reading; from tools/names_audit.py
+マスター	Master	speaker label	project	bar/shop owner; from tools/names_audit.py
+博士の声	Doctor's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+下級生	Underclassman	speaker label	project	confirmed reading; from tools/names_audit.py
+先生の彼	Teacher's Boyfriend	speaker label	project	confirmed reading; from tools/names_audit.py
+男子部員	Boy Club Member	speaker label	project	confirmed reading; from tools/names_audit.py
+女子部員	Girl Club Member	speaker label	project	confirmed reading; from tools/names_audit.py
+婦警	Policewoman	speaker label	project	confirmed reading; from tools/names_audit.py
+女の子	Girl	speaker label	project	confirmed reading; from tools/names_audit.py
+若者	Youth	speaker label	project	confirmed reading; from tools/names_audit.py
+カエル	Frog	speaker label	project	confirmed reading; from tools/names_audit.py
+化学教師	Chemistry Teacher	speaker label	project	confirmed reading; from tools/names_audit.py
+生徒の霊	Student's Ghost	speaker label	project	confirmed reading; from tools/names_audit.py
+教師	Teacher	speaker label	project	confirmed reading; from tools/names_audit.py
+一同	Everyone	speaker label	project	confirmed reading; from tools/names_audit.py
+全員	Everyone	speaker label	project	confirmed reading; from tools/names_audit.py
+怪物	Monster	speaker label	project	confirmed reading; from tools/names_audit.py
+魔物	Monster	speaker label	project	confirmed reading; from tools/names_audit.py
+男たち	Men	speaker label	project	confirmed reading; from tools/names_audit.py
+青年たち	Young Men	speaker label	project	confirmed reading; from tools/names_audit.py
+女性の声	Woman's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+男の声	Man's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+女の子の声	Girl's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+まいの声	Mai's Voice	speaker label	project	confirmed reading; from tools/names_audit.py
+警官の霊	Police Officer's Ghost	speaker label	project	confirmed reading; from tools/names_audit.py
+悪魔警官	Demon Officer	speaker label	project	confirmed reading; from tools/names_audit.py
+悪魔警部	Demon Inspector	speaker label	project	confirmed reading; from tools/names_audit.py
+部長	President	speaker label	project	drama club president
+大石校長	Principal Oishi	character	project	Oishi-kocho
+比麗文石	Hiremon Stone	term	project	
+比麗文	Hiremon	term	project	
+サマタイト	Samatite	term	project	
+テイラーズ	Tailors	place	project	
+アラヤ神社	Araya Shrine	place	project	
+ナイキ	Nike	persona	official-psp	Elly's starting Persona
+楽園の扉	Door to Paradise	story	project	painting title
+チューインソウル	Chewing Soul	item	official-psp	
+御影大通り	Mikage-dori	place	project	"-dori" kept (street)
+蝶	Butterfly	speaker label	project	
+デヴァ・システム	Deva System	term	project	
+反谷教頭	Vice Principal Hanya	speaker label	project	confirmed reading; from E0
+ハンニャ教頭	Vice Principal Hannya	nickname	project	
+留置場	Holding Cell	place	project	police station jail; used in E0 entries 48-49
+留置場の鍵	Holding Cell Key	item	project	key item found in the police station
+セキュリティカード	security card	item	project	written lowercase in quotes in dialogue (E0 29)
+タコおやじ	octopus geezer	nickname	project	Mark's nickname for the Inspector; same wording as E0 entry 19
+オニ警部	ogre Inspector	nickname	project	Mark on the Inspector; オニ = oni/ogre
+おれ様	the great me	phrase	project	Brown's self-reference (rendered "the great me" sparingly)
+優香	Yuka	character	project	given name of Ayase (綾瀬 優香); used by Maki
+由子	Yuko	character	project	given name of Himeno (姫野 由子); used by Maki
+桐島	Kirishima	character	project	family name of Elly (桐島 英理子); used by Ayase
+黛	Mayuzumi	character	project	family name of Yukino (黛 ゆきの); Himeno says 黛さん -> Mayuzumi-san
+カイ	Kai	character	project	Snow Queen story
+ゲルダ	Gerda	character	project	Snow Queen story
+悪魔の鏡	Devil's Mirror	story	project	Snow Queen story
+氷の城	Ice Castle	story	project	Snow Queen story
+聖エルミン学園	St. Hermelin High School	place	project	official PSP name; used in the overworld door text
+エルミン	Hermelin	place	project	short form of the school name
+アギ	Agi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アギラオ	Agilao	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アギダイン	Agidyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハラギ	Maragi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハラギオン	Maragion	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハラギダイン	Maragidyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ブフ	Bufu	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ブフーラ	Bufula	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ブフダイン	Bufudyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハーブフ	Mabufu	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハブフーラ	Mabufula	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハブフダイン	Mabufudyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ガル	Garu	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ガルーラ	Garula	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ガルダイン	Garudyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハーガル	Magaru	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハガルーラ	Magarula	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハガルダイン	Magarudyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マグナ	Magna	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マグナス	Magnara	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マグダイン	Magnadyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハマグナ	Mamagna	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハマグナス	Mamagnara	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハマグダイン	Mamagnadyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+フレイ	Frei	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+フレイラ	Freila	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+フレイダイン	Freidyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メギド	Megido	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メギドラ	Megidola	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メギドラオン	Megidolaon	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ザン	Zan	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ザンマ	Zanma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ザンダイン	Zandyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハザン	Mazan	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハザンマ	Mazanma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハザンダイン	Mazandyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+グライ	Gry	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+グライバ	Gryva	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+グラダイン	Grydyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハグライ	Magry	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハグライバ	Magryva	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハグラダイン	Magrydyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ジオ	Zio	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ジオンガ	Zionga	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ジオダイン	Ziodyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハジオ	Mazio	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハジオンガ	Mazionga	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハジオダイン	Maziodyne	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+エイハ	Eiha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+バイエイハ	Baeiha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハエイハ	Maeiha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ムド	Mudo	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ムドオン	Mudoon	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハムド	Mamudo	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ドルミナー	Dormina	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+シバブー	Shibaboo	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+プリンパ	Pulinpa	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ハピルマ	Hapirma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マリンカリン	Marin Karin	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マカジャマ	Makajam	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デライト	Delyte	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+スランパ	Slumpa	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デカバー	Decover	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デサンガ	Desanga	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ドロンパ	Doronpa	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ドロイド	Doroid	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+クイッカ	Quikka	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+バルザック	Balzac	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マドール	Mador	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ウルバーン	Wolvaan	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デスティカ	Deathtika	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ペトラマ	Petrama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+パララマ	Paralama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ポイズマ	Poisma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+シシリッカ	Nervma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+オメガクラスタ	Omega Cluster	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+コウハ	Kouha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+バイコウハ	Baikouha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハコウハ	Makouha	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ハンマ	Hama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ハマオン	Hamaon	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マハンマ	Mahama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+タルンダ	Tarunda	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ラクンダ	Rakunda	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+スクンダ	Sukunda	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デクンダ	Dekunda	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+タルカジャ	Tarukaja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ラクカジャ	Rakukaja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+スクカジャ	Sukukaja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マカカジャ	Makakaja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デカジャ	Dekaja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+テトラジャ	Tetraja	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マカラカーン	Makarakarn	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+テトラカーン	Tetrakarn	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ディア	Dia	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ディアラマ	Diarama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ディアラハン	Diarahan	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メディア	Media	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メディラマ	Mediarama	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+メディアラハン	Mediarahan	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+パトラ	Patra	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ペンパトラ	Pen Patra	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ポズムディ	Posumudi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+パララディ	Paraladi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ペトラディ	Petradi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+シシリディ	Nervundi	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+リカーム	Recarm	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+サマリカーム	Samarecarm	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+リカームドラ	Recarmdra	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アルファブラスタ	Alpha Blaster	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+マッパー	Mappa	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+トラフーリ	Trafuri	skill	project	not in the P1 PSP list; standard franchise name (P2/P3); review
+トラエスト	Traesto	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アウトマ	Outoma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+リフトマ	Liftoma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アルサンガ	Alsanga	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+パララアイズ	Paral Eyes	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ペトラアイズ	Petra Eyes	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ヘルズアイズ	Hell Eyes	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ギルトアイズ	Guilt Eyes	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+テリブルアイズ	Terror Eyes	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+セクシーダンス	Sexy Dance	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ハッピーダンス	Happy Dance	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ふこうのフラダンス	Hula of Misfortune	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Misfortune Hula" (15-glyph limit)
+デスペルタンゴ	Tango of Dispelling	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Dispel Tango" (15-glyph limit)
+かなしみのワルツ	Waltz of Sadness	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Sadness Waltz" (15-glyph limit)
+こもりうた	Lullaby	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+パニックボイス	Panic Voice	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+バインドボイス	Bind Voice	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+きょうらんのうた	Frenzy Song	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+キャンディボイス	Candy Voice	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+あついくちづけ	Passionate Kiss	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+あくまのキス	Demon's Kiss	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デビルスマイル	Evil Smile	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+デスタッチ	Deathtouch	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ファイアブレス	Fire Breath	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+アイスブレス	Ice Breath	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+どくガスブレス	Poison Breath	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+フォッグブレス	Fog Breath	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+みずのかべ	Water Wall	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ほのおのかべ	Fire Wall	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+すいしょうのかべ	Crystal Wall	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+こうてつのかべ	Steel Wall	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+しようのあか	Crimson Sublation	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Crim. Sublation" (15-glyph limit)
+しゅうえんのあお	Azure Cessation	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ごうのなみ	Mighty Wave	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+じゅうのなみ	Gentle Wave	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+てんのせんぷう	Heavenly Cyclone	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Heaven Cyclone" (15-glyph limit)
+ちのれっぷう	Earthly Vortex	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+じごくおろし	Hell Drop	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ごくらくおとし	Gokuraku Fall	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+とうしょうは	Eastern Impact	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+せいげきは	Western Blow	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+さんらいげき	Sanraigeki	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+しゅうらいげき	Shuuraigeki	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ふめつのくろ	Eternal Black	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+やみのしんぱん	Dark Verdict	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+えいえんのしろ	Eternal White	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ひかりのさばき	Bright Judgement	skill	official-psp	official PSP name (megamitensei wiki, PSP column); shown as "Bright Judgment" (15-glyph limit)
+ヒエロスグリュペイン	Hieroglyphein	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+しょうかん	Summon	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+ルナトラップ	Luna Trap	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
+噛み付き	Feral Bite	skill	official-psp	official PSP (megamitensei wiki)
+毒噛み付き	Venom Bite	skill	official-psp	official PSP (megamitensei wiki)
+麻痺噛み付き	Stun Bite	skill	official-psp	official PSP (megamitensei wiki)
+ウイルス噛み付き	Virus Bite	skill	official-psp	official PSP (megamitensei wiki)
+石化噛み付き	Stone Bite	skill	official-psp	official PSP (megamitensei wiki)
+引っ掻き	Feral Claw	skill	official-psp	official PSP (megamitensei wiki)
+毒引っ掻き	Poison Claw	skill	official-psp	official PSP (megamitensei wiki)
+麻痺引っ掻き	Stun Claw	skill	official-psp	official PSP (megamitensei wiki)
+ウイルス引っ掻き	Virus Claw	skill	official-psp	official PSP (megamitensei wiki)
+石化引っ掻き	Stone Claw	skill	official-psp	official PSP (megamitensei wiki)
+毒針	Toxic Sting	skill	official-psp	official PSP (megamitensei wiki)
+麻痺針	Stun Needle	skill	official-psp	official PSP (megamitensei wiki)
+九十九針	Needle Rush	skill	official-psp	official PSP (megamitensei wiki)
+滅殺袖箭	Genocide Fan	skill	official-psp	official PSP (megamitensei wiki)
+体当り	Tackle	skill	project	体当り not on the P1 wiki list; common franchise name Tackle - review
+ボーンクラッシュ	Bonecrusher	skill	official-psp	official PSP (megamitensei wiki)
+押し潰し	Squash	skill	official-psp	official PSP (megamitensei wiki)
+回天撃	Heavenly Hit	skill	official-psp	official PSP (megamitensei wiki)
+メガトンレイド	Megaton Raid	skill	official-psp	official PSP (megamitensei wiki)
+くちばし	Beak	skill	official-psp	official PSP (megamitensei wiki)
+羽ばたき	Wing Flap	skill	official-psp	official PSP (megamitensei wiki)
+急降下	Dive	skill	official-psp	official PSP (megamitensei wiki)
+スパイククロー	Spike Claw	skill	official-psp	official PSP (megamitensei wiki)
+デスクロー	Death Claw	skill	official-psp	official PSP (megamitensei wiki)
+ティンクルパンチ	Twinkle Punch	skill	official-psp	official PSP (megamitensei wiki)
+怒りの鉄拳	Fist of Fury	skill	official-psp	official PSP (megamitensei wiki)
+神等去出八百万撃	Deadly Fist	skill	official-psp	official PSP (megamitensei wiki)
+スピンキック	Spin Kick	skill	official-psp	official PSP (megamitensei wiki)
+雷霆蹴	Thunder Kick	skill	official-psp	official PSP (megamitensei wiki)
+曳光倶梨伽羅蹴	Lightning Kick	skill	official-psp	official PSP (megamitensei wiki)
+ツインスラッシュ	Twin Slash	skill	official-psp	official PSP (megamitensei wiki)
+ヒートウェイブ	Heat Wave	skill	official-psp	official PSP (megamitensei wiki)
+デスバウンド	Deathbound	skill	official-psp	official PSP (megamitensei wiki)
+一文字斬	Ichimonji Slash	skill	official-psp	official PSP (megamitensei wiki)
+狼牙天誅斬	Wolf Fang	skill	official-psp	official PSP (megamitensei wiki)
+落陽三段撃	Triple Slice	skill	official-psp	official PSP (megamitensei wiki)
+二段突	Double Thrust	skill	official-psp	official PSP (megamitensei wiki)
+竜駕旋回	Dragon Whirl	skill	project	wiki lists 竜牙旋回 (game data 竜駕旋回)
+灼熱車駕	Burning Spear	skill	official-psp	official PSP (megamitensei wiki)
+怒涛の連打	Flurry Stab	skill	official-psp	official PSP (megamitensei wiki)
+極楽往生破	Destruction Smash	skill	official-psp	official PSP (megamitensei wiki)
+天驚地爆断	Earth Slicer	skill	official-psp	official PSP (megamitensei wiki)
+愛のムチ	Love Whip	skill	official-psp	official PSP (megamitensei wiki)
+九十九螺旋撃	Infinite Spiral	skill	official-psp	official PSP (megamitensei wiki)
+浮月砕破	Moon Shatterer	skill	official-psp	official PSP (megamitensei wiki)
+豪速球	Fastball	skill	official-psp	official PSP (megamitensei wiki)
+暗波双飛爪	Darkness Nail	skill	official-psp	official PSP (megamitensei wiki)
+高天烈風弾	Sonic Bullet	skill	official-psp	official PSP (megamitensei wiki)
+連続撃	Rapid Fire	skill	official-psp	official PSP (megamitensei wiki)
+刹那五月雨撃	Myriad Arrows	skill	official-psp	official PSP (megamitensei wiki)
+伍絶切羽	Arrow Volley	skill	official-psp	official PSP (megamitensei wiki)
+シングルショット	Single Shot	skill	official-psp	official PSP (megamitensei wiki)
+ドライブショット	Drive Shot	skill	official-psp	official PSP (megamitensei wiki)
+ミドルショット	Middle Shot	skill	official-psp	official PSP (megamitensei wiki)
+パウダーショット	Powder Shot	skill	official-psp	official PSP (megamitensei wiki)
+ロングショット	Long Shot	skill	official-psp	official PSP (megamitensei wiki)
+スウィートトラップ	Sweet Trap	skill	official-psp	official PSP (megamitensei wiki)
+バイパースマッシュ	Viper Smash	skill	official-psp	official PSP (megamitensei wiki)
+ドラムロールパンチ	Drumroll Punch	skill	official-psp	official PSP (megamitensei wiki)
+七色煉獄破	Rainbow Strike	skill	official-psp	official PSP (megamitensei wiki)
+バイナルストライク	Binal Strike	skill	official-psp	official PSP (megamitensei wiki)
+自爆	Last Resort	skill	official-psp	official PSP (megamitensei wiki)
+道連れ	Self Destruct	skill	official-psp	official PSP (megamitensei wiki)
+分身	Clone	skill	official-psp	official PSP (megamitensei wiki)
+溶解液	Dissolvent	skill	official-psp	official PSP (megamitensei wiki)
+イリュージョン	Illusion	skill	official-psp	official PSP (megamitensei wiki)
+ばらまき	Scatter	skill	official-psp	official PSP (megamitensei wiki)
+パライズプリックル	Paralyze Puncture	skill	project	wiki lists パライズブリックル
+ダークミラー	Dark Mirror	skill	official-psp	official PSP (megamitensei wiki)
+ファイアーアロー	Fire Arrow	skill	official-psp	official PSP (megamitensei wiki)
+暗黒の眠り	Dark Slumber	skill	official-psp	official PSP (megamitensei wiki)
+リベンジリーク	Revenge Leak	skill	official-psp	official PSP (megamitensei wiki)
+アブソルートゼロ	Absolute Zero	skill	official-psp	official PSP (megamitensei wiki)
+デビルウォール	Devil's Wall	skill	official-psp	official PSP (megamitensei wiki)
+這い寄る混沌	Crawling Chaos	skill	official-psp	official PSP (megamitensei wiki)
+嘆きのシンフォニー	Symphony of Lament	skill	official-psp	official PSP (megamitensei wiki)
+オールガード	All Guard	skill	official-psp	official PSP (megamitensei wiki)
+バタフライストーム	Butterfly Storm	skill	official-psp	official PSP (megamitensei wiki)
+ブラッディローズ	Bloody Rose	skill	official-psp	official PSP (megamitensei wiki)
+ディレンジボイス	Derangement Voice	skill	official-psp	official PSP (megamitensei wiki)
+傷薬	Medicine	item	official-psp	official PSP (megamitensei wiki)
+ガラガラドリンク	Rattle Drink	item	official-psp	official PSP (megamitensei wiki)
+宝玉	Bead	item	official-psp	official PSP (megamitensei wiki)
+地返しの玉	Revival Bead	item	official-psp	official PSP (megamitensei wiki)
+反魂香	Balm of Life	item	official-psp	official PSP (megamitensei wiki)
+ディストーン	Dis-Stone	item	official-psp	official PSP (megamitensei wiki)
+ディスパライズ	Dis-Para	item	official-psp	official PSP (megamitensei wiki)
+ディスポイズン	Dis-Poison	item	official-psp	official PSP (megamitensei wiki)
+ディスシック	Dis-Sick	item	official-psp	official PSP (megamitensei wiki)
+つるつるドロップ	Slick Drop	item	official-psp	official PSP (megamitensei wiki)
+かめかめキャンディ	Turtle Candy	item	official-psp	official PSP (megamitensei wiki)
+銀のマニ車	Silver Prayer Wheel	item	official-psp	official PSP (megamitensei wiki)
+マジカルガード	Magical Guard	item	official-psp	official PSP (megamitensei wiki)
+フィジカルガード	Physical Guard	item	official-psp	official PSP (megamitensei wiki)
+ドクロの振り子	Skull Pendulum	item	project	not on the P1 wiki item list; literal - review
+魔石	Life Stone	item	official-psp	official PSP (megamitensei wiki)
+封魔の鈴	Repulse Bell	item	official-psp	official PSP (megamitensei wiki)
+コアシールド	Core Shield	item	official-psp	official PSP (megamitensei wiki)
+ＳＴＲインセンス	St Incense	item	official-psp	official PSP (megamitensei wiki)
+ＶＩＴインセンス	Vi Incense	item	official-psp	official PSP (megamitensei wiki)
+ＴＥＣインセンス	Dx Incense	item	official-psp	official PSP (megamitensei wiki)
+ＡＧＬインセンス	Ag Incense	item	official-psp	official PSP (megamitensei wiki)
+ＬＵＫインセンス	Lu Incense	item	official-psp	official PSP (megamitensei wiki)
+ＨＰインセンス	HP Incense	item	official-psp	official PSP (megamitensei wiki)
+ＳＰインセンス	SP Incense	item	official-psp	official PSP (megamitensei wiki)
+マッスルドリンコ	Muscle Drink	item	official-psp	official PSP (megamitensei wiki)
+ヒランヤ	Hiranya	item	official-psp	official PSP (megamitensei wiki)
+ソーマ	Soma	item	official-psp	official PSP (megamitensei wiki)
+数多の鐘	Numerous Bell	item	official-psp	official PSP (megamitensei wiki)
+ゴッドボイス	Divine Voice	item	official-psp	official PSP (megamitensei wiki)
+ミリオネアボム	Millionaire Bomb	item	official-psp	official PSP (megamitensei wiki)
+悪魔の家	Demon House	item	official-psp	official PSP (megamitensei wiki)
+悪魔の棲む家	Demon Den	item	official-psp	official PSP (megamitensei wiki)
+メタルカード	Metal Card	item	official-psp	official PSP (megamitensei wiki)
+アギダインストーン	Agidyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハラギストーン	Maragi Stone	item	official-psp	official PSP (megamitensei wiki)
+マハラギオンストーン	Maragion Stone	item	official-psp	official PSP (megamitensei wiki)
+炎魔の石板	Evil Fire Tablet	item	official-psp	official PSP (megamitensei wiki)
+ブフダインストーン	Bufudyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハブフストーン	Mabufu Stone	item	official-psp	official PSP (megamitensei wiki)
+マハブフーラストーン	Mabufula Stone	item	official-psp	official PSP (megamitensei wiki)
+凍魔の石板	Evil Ice Tablet	item	official-psp	official PSP (megamitensei wiki)
+ガルダインストーン	Garudyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハガルストーン	Magaru Stone	item	official-psp	official PSP (megamitensei wiki)
+マハガルーラストーン	Magarula Stone	item	official-psp	official PSP (megamitensei wiki)
+風魔の石板	Evil Wind Tablet	item	official-psp	official PSP (megamitensei wiki)
+マグダインストーン	Magnadyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハマグナストーン	Mamagna Stone	item	official-psp	official PSP (megamitensei wiki)
+マハマグナスストーン	Mamagnara Stone	item	official-psp	official PSP (megamitensei wiki)
+震魔の石板	Evil Quake Tablet	item	official-psp	official PSP (megamitensei wiki)
+フレイダインストーン	Freidyne Stone	item	official-psp	official PSP (megamitensei wiki)
+メギドストーン	Megido Stone	item	official-psp	official PSP (megamitensei wiki)
+メギドラストーン	Megidola Stone	item	official-psp	official PSP (megamitensei wiki)
+灼熱の石板	Scorching Tablet	item	official-psp	official PSP (megamitensei wiki)
+ザンダインストーン	Zandyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハザンストーン	Mazan Stone	item	official-psp	official PSP (megamitensei wiki)
+マハザンマストーン	Mazanma Stone	item	official-psp	official PSP (megamitensei wiki)
+烈波の石板	Gale Tablet	item	official-psp	official PSP (megamitensei wiki)
+グラダインストーン	Grydyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハグライストーン	Magry Stone	item	official-psp	official PSP (megamitensei wiki)
+マハグライバストーン	Magryva Stone	item	official-psp	official PSP (megamitensei wiki)
+双壁の石板	Wall Tablet	item	project	wiki lists 双璧の石版
+ジオダインストーン	Ziodyne Stone	item	official-psp	official PSP (megamitensei wiki)
+マハジオストーン	Mazio Stone	item	official-psp	official PSP (megamitensei wiki)
+マハジオンガストーン	Mazionga Stone	item	official-psp	official PSP (megamitensei wiki)
+閃光の石板	Flash Tablet	item	official-psp	official PSP (megamitensei wiki)
+影破の石板	Dark Wave Tablet	item	official-psp	official PSP (megamitensei wiki)
+愚詩の石板	Doggerel Tablet	item	official-psp	official PSP (megamitensei wiki)
+黒縄の石板	Ebon Rope Tablet	item	official-psp	official PSP (megamitensei wiki)
+ペトラマストーン	Petra Stone	item	official-psp	official PSP (megamitensei wiki)
+パララマストーン	Para Stone	item	official-psp	official PSP (megamitensei wiki)
+ポイズマストーン	Poisma Stone	item	official-psp	official PSP (megamitensei wiki)
+シシリッカストーン	Nerve Stone	item	official-psp	official PSP (megamitensei wiki)
+虚偽の石板	Falsehood Tablet	item	official-psp	official PSP (megamitensei wiki)
+光破の石板	Light Wave Tablet	item	official-psp	official PSP (megamitensei wiki)
+聖文の石板	Holy Writ Tablet	item	official-psp	official PSP (megamitensei wiki)
+三日月の石板	Quarter Moon Tablet	item	official-psp	official PSP (megamitensei wiki)
+半月の石板	Half Moon Tablet	item	official-psp	official PSP (megamitensei wiki)
+ポズムディストーン	Posumudi Stone	item	official-psp	official PSP (megamitensei wiki)
+パララディストーン	Paraladi Stone	item	official-psp	official PSP (megamitensei wiki)
+ペトラディストーン	Petradi Stone	item	official-psp	official PSP (megamitensei wiki)
+シシリディストーン	Nervundi Stone	item	official-psp	official PSP (megamitensei wiki)
+満月の石板	Full Moon Tablet	item	official-psp	official PSP (megamitensei wiki)
+真実の石板	Verity Tablet	item	official-psp	official PSP (megamitensei wiki)
+アレキサンドライト	Alexandrite	item	project	gem; plain English (not on the wiki item templates)
+ダイアモンド	Diamond	item	project	gem; plain English (not on the wiki item templates)
+サファイア	Sapphire	item	project	gem; plain English (not on the wiki item templates)
+エメラルド	Emerald	item	project	gem; plain English (not on the wiki item templates)
+ルビー	Ruby	item	project	gem; plain English (not on the wiki item templates)
+パール	Pearl	item	project	gem; plain English (not on the wiki item templates)
+タンザナイト	Tanzanite	item	project	gem; plain English (not on the wiki item templates)
+オパール	Opal	item	project	gem; plain English (not on the wiki item templates)
+アメジスト	Amethyst	item	project	gem; plain English (not on the wiki item templates)
+ガーネット	Garnet	item	project	gem; plain English (not on the wiki item templates)
+アクアマリン	Aquamarine	item	project	gem; plain English (not on the wiki item templates)
+トパーズ	Topaz	item	project	gem; plain English (not on the wiki item templates)
+ムーンストーン	Moonstone	item	project	gem; plain English (not on the wiki item templates)
+マラカイト	Malachite	item	project	gem; plain English (not on the wiki item templates)
+オニキス	Onyx	item	project	gem; plain English (not on the wiki item templates)
+ターコイズ	Turquoise	item	project	gem; plain English (not on the wiki item templates)
+アップルパイ	Apple Pie	item	official-psp	official PSP (megamitensei wiki)
+アッブルパイ	Abble Pie	item	project	misspelled duplicate of アップルパイ in the data, kept literal - review
+マッブルパイ	Mabble Pie	item	project	misspelled duplicate of アップルパイ in the data, kept literal - review
+イルダーナ	Ildanach	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ハヌマーン	Hanuman	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヴァルナ	Varuna	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヘルモーズ	Hermod	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+クーフーリン	Cu Chulainn	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ウルヴァシー	Urvashi	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+フーリー	Houri	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+スクルド	Skuld	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ラクシュミ	Laksmi	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヴェルザンディ	Verdandi	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ウシャス	Usas	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+テンセンニャンニャン	Tensen Nyannyan	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ウルズ	Urdr	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ハトホル	Hathor	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+サティー	Sati	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アメノウズメ	Ame no Uzume	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+マソ	Maso	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+カーリー	Kali	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+イシュタル	Ishtar	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ドゥルガー	Durga	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+セイオウボ	Seioubo	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ブリジット	Brigid	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アリアンフロッド	Arianrhod	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+モコシ	Mokosh	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヴェスタ	Vesta	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヴィシュヌ	Vishnu	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アメンラー	Amen Ra	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+バール	Baal	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+オーディン	Odin	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+マルドゥーク	Marduk	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ブラフマー	Brahma	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アガートラーム	Airgetlam	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+セイメンコンゴウ	Seimen Kongou	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+インドラ	Indra	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+フヘディーメルゲン	Fuhedi Mergane	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+トール	Thor	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+タケミカズチ	Take-Mikazuchi	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+オーマ	Ogma	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ショウキ	Shouki	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アイゼンミョウオウ	Aizen Myouou	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヤマ	Yama	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ジャックランタン	Pyro Jack	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ジャックフロスト	Jack Frost	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ピクシー	Pixie	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+シヴァ	Shiva	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+スサノオ	Susano-o	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+セイテンタイセイ	Seiten Taisei	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ホクトセイクン	Hokuto Seikun	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ゴズテンノウ	Gozu-Tennou	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+オグン	Ogun	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+オトヒメ	Otohime	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ビャッコ	Byakko	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アンヴァル	Aonbarr	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+フウタイ	Fuutai	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+パラスアテナ	Pallas Athena	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ビシャモンテン	Bishamonten	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ティール	Tyr	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+モーリアン	Morrigan	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ウルスラグナ	Verethragna	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+マッハ	Macha	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+トリグラフ	Triglav	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ネヴァン	Nemhain	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+バルバトス	Barbatos	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+モト	Mot	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アンクウ	Ankou	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヘル	Hel	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ゲンブ	Genbu	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アヌビス	Anubis	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ルシファー	Lucifer	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ベルゼブブ	Beelzebub	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ロキ	Loki	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ブレス	Bres	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アマツミカボシ	Amatsu Mikaboshi	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ニャルラトホテプ	Nyarlathotep	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヤヌス	Janus	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+サキュバス	Succubus	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+リリム	Lilim	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ガルーダ	Garuda	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+スザク	Suzaku	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヤタガラス	Yatagarasu	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヴィゾフニル	Vidofnir	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ベンヌ	Bennu	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ウォフマナフ	Vohu Manah	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+サタン	Satan	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ミカエル	Michael	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ヤマオカ	Yamaoka	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アールマティ	Armaiti	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+アズラエル	Azrael	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ファレグ	Phaleg	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ニケー	Nike	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ショクイン	Shokuin	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ムチャリンダ	Mucalinda	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+セイリュウ	Seiryuu	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+イルルヤンカシュ	Illuyanka	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ケツアルカトル	Quetzalcoatl	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+カマクラゴンゴロウ	Kamakura Gongoro	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+ナルカミ	Narukami	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+テンジクトクベイ	Tenjiku Tokubei	persona	official-psp	Persona name (megamitensei wiki, PSP column)
+フレイ	Frey	persona	official-psp	Persona name; same katakana as a skill name (see the skill row), context decides
+武多	Takeda	character	project	Kandori's subordinate (story battle); Hepburn, check 2009 PSP
+神取 鷹久	Kandori Takahisa	character	project	full name (Japanese order)
+千里	Chisato	character	project	Maki-related story battle; Hepburn
+横内	Yokouchi	character	project	Ayase: "Yokouchi-kun"
+テッソ	Tesso	speaker label	project	rat demon (story battle)
+サルワ	Saurva	speaker label	project	demon; check 2009 PSP
+ネメシス	Nemesis	speaker label	project	
+タナトス	Thanatos	speaker label	project	
+トロ	Toro	speaker label	project	check 2009 PSP
+右の黒服	Man in Black (R)	speaker label	project	右/左の黒服 = right/left man in black
+左の黒服	Man in Black (L)	speaker label	project	
+ニャルラトホテプの声	Nyarlathotep's Voice	speaker label	project	
+精霊	Element	term	official-psp	Persona Type 精霊 (Agi/Bufu/Garu/Magna); affinity lines abbreviate to Elem (tools/affinity.py)
+物理	Force	term	official-psp	Persona Type 物理 / 物理まほう (opposite of Element); 物理こうげき = Phys (physical attacks)
+ぞくせい	Type	ui	official-psp	status page header above Type / Subtype (4 cells)
+魔攻	MATK	ui	literal	status page label, 3-cell bitmap (tools/menu_gfx.py LABELS)
+魔防	MDEF	ui	literal	status page label, 3-cell bitmap (tools/menu_gfx.py LABELS)
+かみつき	Feral Bite	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+どくかみつき	Venom Bite	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+まひかみつき	Stun Bite	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ウイルスかみつき	Virus Bite	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+せきかかみつき	Stone Bite	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ひっかき	Feral Claw	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+どくひっかき	Venom Claw	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+まひひっかき	Stun Claw	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ウイルスひっかき	Virus Claw	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+せきかひっかき	Stone Claw	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+どくばり	Toxic Sting	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+まひばり	Stun Needle	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+つくもばり	Needle Rush	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+めっさつちゅうせん	Genocide Fan	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+たいあたり	Tackle	skill	literal	literal (no official name found); 体当り not on the P1 wiki list; common franchise name Tackle - review
+おしつぶし	Squash	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+かいてんげき	Heavenly Hit	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+はばたき	Wing Flap	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+きゅうこうか	Dive	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+いかりのてっけん	Fist of Fury	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+からさでやおろずうち	Deadly Fist	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+らいていげり	Thunder Kick	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+えいこうくりからげり	Lightning Kick	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+いちもんじぎり	Ichimonji Slash	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ろうがてんちゅうぎり	Wolf Fang	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+らくようさんだんうち	Triple Slice	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+にだんづき	Double Thrust	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+りゅうがせんかい	Dragon Whirl	skill	literal	literal (no official name found); wiki lists 竜牙旋回 (game data 竜駕旋回)
+しゃくねつしゃが	Burning Spear	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+どとうのれんだ	Flurry Stab	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ごくらくおうじょうは	Destruct Smash	skill	official-psp	official PSP (persona1.wikidot.com/skill); abbreviated from Destruction Smash
+てんきょうちばくだん	Earth Slicer	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+あいのムチ	Love Whip	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+つくもらせんげき	Infinite Spiral	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+うげつさいは	Moon Shatterer	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ごうそっきゅう	Fastball	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+あんぱそうひそう	Darkness Nail	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+たかまれっぷうだん	Sonic Bullet	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+れんぞくうち	Rapid Fire	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+せつなさみだれうち	Myriad Arrows	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ごぜつせっぱ	Arrow Volley	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+しちしきれんごくは	Rainbow Strike	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+じばく	Self-Destruct	skill	official-psp	official PSP (persona1.wikidot.com/skill: 自爆); agy had it swapped
+みちづれ	Last Resort	skill	official-psp	official PSP (persona1.wikidot.com/skill: 道連れ); agy had it swapped
+ぶんしん	Clone	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+ようかいえき	Dissolvent	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+あんこくのねむり	Dark Slumber	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+はいよるこんとん	Crawling Chaos	skill	official-psp	official PSP (persona1.wikidot.com/skill)
+なげきのシンフォニー	Symph of Lament	skill	official-psp	official PSP (persona1.wikidot.com/skill); abbreviated from Symphony of Lament
+レイピア	Rapier	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アセイミナイフ	Athame Knife	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メイルブレイカー	Mail Breaker	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ルナブレード	Luna Blade	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ふうまのわきざし	Fuuma's Wakizashi	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+クリスナーガ	Kris Naga	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+プルバダガー	Phurba Dagger	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+せきじゃのつるぎ	Lone Sword	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+フツノミタマ	Futsu-no-Mitama	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+くさなぎのけん	Kusanagi-no-Tsurugi	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュピーゲルブレード	Spiegel Blade	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+モップ	Mop	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+バックソード	Backsword	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+プラズマソード	Plasma Sword	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ソニックブレード	Sonic Blade	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ソルブレード	Sol Blade	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+クラウソナス	Claimh Solais	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アンスウェラー	Answeller	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ようとうニヒル	Nihiru	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+けんうんまる	Kenunmaru	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+こんりゅうまる	Konryumaru	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ブリューナク	Brionac	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あめのむらくも	Ameno-Murakumo	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アパッチランス	Apache Lance	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+コルセック	Corseque	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+フォシャール	Fauchard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+マルドギール	Mard Geer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ズフタフランス	Dubthach Lance	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+けんこんせき	Kenkonseki	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ロンギヌス	Longinus	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ほうてんがげき	Fang Tian Huaji	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゲイボルグ	Gae Bolg	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+こうまじょう	Kouma Staff	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ひそうふたかげ	Hisou Futakage	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あめのぬぼこ	Ameno-Nuboko	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ツーハンアクス	Two-Handed Axe	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ギロチンアクス	Guillotine Axe	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゴーデンダック	Guten Tag	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヘッドバッシャー	Head Basher	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+らいがのオノ	Raiga Axe	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+バルディッシュ	Bardiche	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ほうとうふ	Houtoufu	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+レイドッグ	Raydog	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+かぶつちきょうこ	Kabutsuchi Kyouko	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ごうまだいせつだん	Gouma Daisetsudan	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+くびかりスプーン	Mandau Spoon	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ごくふてんのう	Gokufu Tennou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+しんたいそうロープ	Gymnast's Rope	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+さそりムチ	Scorpion Whip	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ぐれんのムチ	Guren no Muchi	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ストライクテイル	Strike Tail	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+クィーンビュート	Queen's Whip	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ブリザストーム	Blizzard Storm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+キンモウキュビノムチ	Kyubi no Muchi	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+へいじのとりなわ	Heiji's Rope	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+しせんちゅう	Shisenchu	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+グレイプニル	Gleipnir	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シルバーメデューサ	Silver Medusa	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ジングルビュート	Jingle Lash	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+かみそりづる	Crane Razor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シャドウニードル	Shadow Needle	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+まじょうせん	Majou-Sen	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+チャクラム	Chakram	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スパイクソマイ	Spike Somai	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ツインバード	Twin Bird	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+おにぐるま	Oniguruma	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エンケラ	Enkeller	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ごかしんえんせん	Wu Huo Shen Yan Shan	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ジャスティスコイン	Justice Coin	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+せんこうりんだ	Senko Rinda	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+インフィニティ	Infinity	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アーチェリー	Archery Set	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+デルタストーム	Delta Storm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+こくてききゅう	Kokuteki Bow	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ガンフィッシュ	Gunfish	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スターゲイザー	Stargazer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヘキサドライブ	Hexa Drive	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+げんじゅう	Yuan Rong	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パパゲーノ	Papageno	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+かぎろひまる	Kagirohi-maru	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ハディングのゆみ	Harald's Bow	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+デスクロス	Death Cross	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ホーリーコメット	Holy Comet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ボクシンググラブ	Boxing Glove	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+フリスカープラス	Frisker Plus	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アイアンクロー	Iron Claw	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メガトングラブ	Megaton Glove	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エレキングラブ	Eleking Glove	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アダマンチウムクロー	Adamantium Claw	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+バグナウ	Bagh Nakh	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ダマスカスハンド	Damascus Hand	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+やみなでのてぶくろ	Stroke of Darkness	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ナックルバロン	Knuckle Barong	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゆうまあんこくしょう	Yuuma Ankoku Sho	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+じんさばくねつしょう	Shinsa Bakunetsu Sho	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+トカレフ	Tokarev	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+グロック２６	Glock 26	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+リゾルバーＭ３８０	M380 Revolver	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＨＫ　ＶＰ７０Ｚ	HK VP70Z	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+グレイゴースト	Gray Ghost	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ストライクガン	Strike Gun	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+デザートイーグル	Desert Eagle	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ダラーショット	Dollar Shot	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+サンダラー	Thunderer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パイレーツスカル	Jolly Roger	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+しにがみコルト	Reaper Colt	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ピースメーカー	Peacemaker	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スコーピオン	Scorpion	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+イングラム	Ingram	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ステアーＴＭＰ	Steyr TMP	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＨＫ　ＭＰ５Ｋ	HK MP5K	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ひえんれんぱつほう	Hien Renhappou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ファントムキラー	Phantom Killer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+Ｍ１３４バルカン	M134 Vulcan	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アヴェンジャー	Avenger	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+げっとそうてんほう	Gettou Shoutenhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+クレイジーチェーン	Crazy Chain	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヘルレイン	Hell Rain	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ここのえらいじんほう	Kokonoe Raijinhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ランダルカスタム	Randall Custom	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+モスバーグＭ５００	Mossberg M500	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＳＰＡＳ１２	SPAS-12	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+フランキＰＡー３	Franchi PA3	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＳＰＡＳ１５	SPAS-15	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＭＡＤＭＡＸ	MADMAX	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+きらいほう	Kiraihou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スレイブハンター	Manhunter	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+じゃこうふういんほう	Jakou Fuuinhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+バイバスター	Bi-Buster	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+こっぱみじんほう	Koppa-Mijinhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メギドファイア	Megido Fire	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+Ｍ１６Ａ２	M16A2	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＡＫ４７	AK-47	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＳＩＧーＳＧ５５０	SIG-SG550	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ハイドロジェット	Hydrojet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ステアーＡＵＧ／Ａ１	Steyr AUG A1	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＦＡーＭＡＳカービン	FA-MAS Carbine	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＨＫ　Ｇ１１	HK G11	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゲパードＭ２	Gepard M2	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+Ｍ４１Ａパルスガン	M41A Pulse Gun	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+マーズ１３３	Mars 133	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ツインタワー	Double Death	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヘブンズゲイト	Heaven's Gate	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+９ミリパラベラム	9mm Parabellum	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ショットシェル	Shot Shells	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+サーペントファング	Serpent Fangs	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+せんこうだん	Flashbangs	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ますいだん	Tranquilizers	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メイジキラー	Mage Killer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+サークルバレット	Circle Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+キューピット	Cupid Rounds	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+はくぎんのたま	Silver Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+くろがねのたま	Iron Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+デッドエンド	Dead Ends	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エンジェルウィスパー	Angel Whisper	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＱＱメット	QQ Helmet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヘッドギア	Headgear	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シャドウマスク	Shadow Mask	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+フィーバークラウン	Fever Crown	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アイアンパンプキン	Iron Pumpkin	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+かぜよみのかぶと	Kazeyomi Kabuto	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パレードヘルム	Parade Helm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ウィッチズハット	Witch's Hat	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ドラゴンヘルム	Dragon Helm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あかつきのかぶと	Daybreak Helmet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エギルのかぶと	Egili's Helmet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スザクのかぶと	Suzaku Helmet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヤクトヘルム	Jagd Helm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュツルムヘルム	Sturm Helm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シーザーヘルム	Caesar Helm	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュピーゲルマスク	Spiegel Mask	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+がくせいふく	School Uniform	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スペクトラベスト	Spectra Vest	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ステルススーツ	Stealth Suit	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+セブンズコート	Sevens Coat	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ＴＡＣーＶ２	TAC-V2	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+こんじきのよろい	Golden Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パレードアーマー	Parade Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ビッグバードスーツ	Spinney Suit	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エンジェルウイング	Angel Wing	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あかつきのよろい	Daybreak Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メギンギョルズ	Megin Gjord	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゲンブのよろい	Genbu Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヤクトアーマー	Jagd Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュツルムアーマー	Sturm Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シーザーアーマー	Caesar Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュピーゲルメイル	Spiegel Mail	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+アームガード	Arm Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+チタニウムガード	Titanium Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ダークガード	Dark Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+プラチナクィーン	Platinum Queen	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ジャミングガード	Jamming Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+はまがりのこて	Hamagari Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パレードガード	Parade Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ししおうのこて	Shishiou Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+きめんのこて	Kimen Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あかつきのこて	Daybreak Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+らいめいのこて	Raime Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+セイリュウのこて	Seiryuu Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヤクトガード	Jagd Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュツルムガード	Sturm Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シーザーガード	Caesar Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュピーゲルシールド	Spiegel Shield	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+かわぐつ	Leather Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+トウシューズ	Toe Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ブラックシューズ	Black Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ルージュノワール	Rouge Noir	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ハイパーフォックス	Hyper Fox	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+すずなりのぐそく	Bell Greaves	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+パレードブーツ	Parade Boots	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+スライムシューズ	Slime Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ゆうれいのげた	Ghost Geta	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あかつきのぐそく	Daybreak Graves	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヴィーザルのくつ	Vidar's Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ビャッコのぐそく	Byakko Greaves	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ヤクトレッグ	Jagd Leg	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュツルムレッグ	Sturm Leg	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シーザーレッグ	Caesar Leg	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+シュピーゲルバイン	Spiegel Beine	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+店主	Shopkeeper	speaker label	project	store owner (Tadashi's uncle); label "Shopkeeper:"
+客	Customer	speaker label	project	unnamed customer; label "Customer:"
+神取	Kandori	character	project	surname only; matches the story text
+破魔の鏡	Hama Mirror	item	project	破魔 explained in-game as "breaking evil"; use this in story text and the item name
+ヨグソトスＪｒ	Yog-Sothoth Jr.	speaker label	project	subway boss
+混沌の鏡	Mirror of Chaos	item	project	Kandori key item (story)
+デヴァ・ユガ	Deva Yuga	place	project	Kandori castle (Hepburn)

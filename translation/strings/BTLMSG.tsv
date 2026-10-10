@@ -1,0 +1,74 @@
+idx	ram	ja	en	note
+0	800D1D4C	必ず、逃げられる		debug menu, left Japanese for space (English: Always escape)
+1	800D1D5C	絶対に死なない		debug menu, left Japanese for space (English: Never die)
+2	800D1D68	必ず殺す		debug menu, left Japanese for space (English: Always kill)
+3	800D1D70	敵が動かない		debug menu, left Japanese for space (English: Enemies don't move)
+4	800D1D7C	ＳＰが減らない		debug menu, left Japanese for space (English: SP doesn't drop)
+5	800D1D88	ペルソナの魔攻、魔防を使わない		debug menu, left Japanese for space (English: Ignore Persona MAtk/MDef)
+6	800D1DA0	バッドステータスにかからない		debug menu, left Japanese for space (English: No bad status)
+7	800D1DB4	グループを固定する		debug menu, left Japanese for space (English: Fix the group)
+8	800D1DC4	ゲームオーバーにならない		debug menu, left Japanese for space (English: No game over)
+9	800D1DD8	１にするなったら、するな		debug menu, left Japanese for space (English: If it becomes 1, don't)
+10	800D1DE8	悪魔は防御だけ、かわいそう		debug menu, left Japanese for space (English: Demons only defend, poor things)
+11	800D1DFC	逃げるんじゃねぇ！！		debug menu, left Japanese for space (English: Don't run away!!)
+12	800D1E0C	にくだんご		debug menu, left Japanese for space (English: Meat dumplings)
+13	800D1E14	イベント戦闘しない		debug menu, left Japanese for space (English: No event battles)
+14	800D1E24	かりんとう		debug menu, left Japanese for space (English: Karinto)
+15	800D1E2C	なんにもならない		debug menu, left Japanese for space (English: Does nothing)
+16	800D1E38	潜在的な力が発動	Latent power activates	
+17	800D1E48	カウンター攻撃！！	Counterattack!!	
+18	800D1E58	全員、行動入力不可です	No one can be given commands	
+19	800D1E70	行動入力不能キャラがいます	Someone can't be given commands	
+20	800D1E88	セーブしますか？	Save?	
+21	800D1E98	上書きしますか？	Overwrite?	
+22	800D1EA8	範囲に敵がいません	No enemies in range	
+23	800D1EB8	発動ＳＰが足りません	Not enough SP to invoke	発動 = invoke (a Persona)
+24	800D1ECC	相性が合わず　発動できません	Incompatible: cannot invoke	相性が合わず
+25	800D1EE4	グッドステータス　ＣＬＯＡＫ	Good status: CLOAK	
+26	800D1F00	バッドステータス　ＧＵＩＬＴ	Bad status: GUILT	
+27	800D1F1C	バッドステータス　ＣＬＯＳＥ	Bad status: CLOSE	
+28	800D1F38	グッドステータス　ＰＵＰＰＥＴ	Good status: PUPPET	
+29	800D1F54	バッドステータス　ＢＬＩＮＤ	Bad status: BLIND	
+30	800D1F70	瀕死のキャラがいません	No one is KO'd	瀕死 = dying status; check the PSP term
+31	800D1F80	フォーメーションを戻しますか？	Restore the formation?	
+32	800D1F98	ＧＵＮが装備されていません	No GUN equipped	
+33	800D1FAC	弾が装備されていません	No ammo equipped	
+34	800D1FBC	使えるアイテムがありません	No usable items	
+35	800D1FCC	ペルソナがついていません	No Persona equipped	
+36	800D1FDC	タルタロスに封印されています	Sealed in Tartarus	
+37	800D1FF0	予備のペルソナがいません	No reserve Personas	
+38	800D2004	ペルソナを変更できません	Cannot change Persona	
+39	800D2018	新月時は使えません	Unusable during the new moon	
+40	800D2028	既に壁の効果がかかっています	A wall is active	no reference found: stays in place; no reference: must fit its 20-byte slot
+41	800D203C	復活失敗！！	Revival failed!!	
+42	800D204C	攻撃失敗！！	Attack failed!!	
+43	800D205C	発動失敗！！	Invocation failed!!	
+44	800D206C	失敗！！	Failed!!	
+45	800D2078	・<FFFC>・<FFFC>・<FFFC>・<FFFC>・<FFFC>・<FFFC>・<FFFC>・<FFFC>・		
+46	800D209C	逃げのびた	Escaped	
+47	800D20A4	逃げられない！！	Can't escape!!	
+48	800D20B4	これで、いいですか？	Is this all right?	
+49	800D20C4	<FFF8>ポイント振り分けて下さい	Allocate <FFF8> points	<FFF8> = number; moved before "points"
+50	800D20D8	<FFF9>が復活した	<FFF9> revived	
+51	800D20E4	<FFF9>たちは全滅した………	<FFF9> and the others were wiped out...	
+52	800D20F8	先制攻撃！！	Preemptive strike!!	
+53	800D2108	バックアタック！！	Back attack!!	
+54	800D2118	メスを手に入れた	Obtained a Scalpel	
+55	800D2124	モップを手に入れた	Obtained a Mop	
+56	800D2134	戦闘に入る	Start the battle	Triangle help: FIGHT
+57	800D2140	交渉に入る	Start negotiating	Triangle help: CONTACT
+58	800D214C	自動戦闘に入る	Start automatic battle	Triangle help: AUTO
+59	800D215C	逃げる	Escape	Triangle help: ESCAPE
+60	800D2164	フォーメーションを変更する	Change the formation	Triangle help: FORM
+61	800D217C	デビルアナライズ	Devil Analyze	Triangle help: ANALYZE
+62	800D218C	剣で攻撃する	Attack with a sword	Triangle help: SWORD
+63	800D2198	ペルソナを発動する	Invoke a Persona	Triangle help: PERSONA
+64	800D21A8	アイテムを使う	Use an item	Triangle help: ITEM
+65	800D21B4	銃で攻撃する	Attack with a gun	Triangle help: GUN
+66	800D21C0	ペルソナを変更する	Change Persona	Triangle help: PRS-CHG
+67	800D21D0	防御する	Defend	Triangle help: DEFEND
+68	800D21D8	全員、剣で攻撃	Everyone attacks with swords	AUTO submenu help
+69	800D21E8	前回のコマンドを継続する	Repeat the previous commands	AUTO submenu help
+70	800D21FC	個別に設定できる	Set each member individually	AUTO submenu help
+71	800D220C	マニュアルで設定	Set manually	help
+72	800D221C	ロードして設定	Load and set	help

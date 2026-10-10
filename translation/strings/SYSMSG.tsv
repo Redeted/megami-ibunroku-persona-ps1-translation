@@ -1,0 +1,26 @@
+idx	ram	size	refs	ja	en
+0	800BB0E8	12	code:800A6574	お金が足りません<FF01>	Not enough money.
+1	800BB0F4	14	code:800A6510	もうコインは持てません<FF01>	No more coins fit.
+2	800BB102	19	code:80099ED0	　　枚数を指定して下さい<FF01>	Specify the quantity.
+3	800BB166	20		　　このペルソナを消すのだね？<FF01>	
+4	800BB17A	21	code:8009F530,code:8009F530	　　このペルソナで良いですかな？<FF01>	Will this Persona do?
+5	800BB18F	20	code:8009F704	　同じペルソナがすでにおりますぞ<FF01>	Persona already owned.
+6	800BB1A3	19	code:8009F520	　あなたのレベルでは扱えません<FF01>	Your level is too low.
+7	800BB1B6	20	code:800A4194	　　このペルソナを消すのだね？<FF01>	Erase this Persona?
+8	800BB1CA	36	code:8009A920,code:800A52DC	　　?RQQLK　　ゲームを終了します<FF03>よろしいですか？<FF01>	The game will end.<FF03>Is that OK?
+9	800BB1EE	49	code:8009AE00	　　電源を切って下さい<FF03>（何かボタンを押すと<FF03>　ゲームに戻ります）<FF01>	Turn off the power.<FF03>(Any button returns to<FF03>the game)
+10	800BB21F	44	ptr:800BB518	　メモリーカードが<FF03>セットされていません<FF03>セーブが出来ません<FF02><FF01>	No memory card is<FF03>inserted. Cannot save.<FF02>
+11	800BB24B	36	code:8009C308	　使用するメモリーカードの<FF03>スロットを選んで下さい<FF01>	Select the memory card<FF03>slot to use.
+12	800BB26F	53	ptr:800BB524	　メモリーカードが壊れています<FF03>このメモリーカードには<FF03>セーブ出来ません<FF02><FF01>	The memory card is<FF03>damaged. Cannot save<FF03>to it.<FF02>
+13	800BB2A4	45	ptr:800BB51C	メモリーカードに<FF03>空き容量がありません<FF03>セーブが出来ません<FF02><FF01>	The memory card is<FF03>full. Cannot save.<FF02>
+14	800BB2D1	25	ptr:800BB520	　　　セーブは無事完了しました<FF02><FF01>	Save complete.<FF02>
+15	800BB2EA	57	ptr:800BB528,code:8009BA14	　　メモリーカードが<FF03>フォーマットされていません<FF02><FF04>フォーマットしますか？<FF03><FF0E>　<FF01>	The memory card is not<FF03>formatted.<FF02><FF04>Format it?<FF03><FF0E>　
+16	800BB323	44	code:8009BAD4	　メモリーカードを<FF03>フォーマットしています<FF03>しばらくお待ちください<FF01>	Formatting the<FF03>memory card.<FF03>Please wait.
+17	800BB34F	34	ptr:800BB52C	　メモリーカードのフォーマットが終了しました<FF02><FF01>	Memory card format<FF03>complete.<FF02>
+18	800BB371	36	ptr:800BB530	　　　メモリーカードのフォーマットに失敗しました<FF02><FF01>	Memory card format<FF03>failed.<FF02>
+19	800BB395	46	code:8009B6B0	　　　データを書き込んでいます<FF03>メモリーカードを<FF03>抜かないで下さい<FF01>	Writing data. Do not<FF03>remove the memory card.
+20	800BB3C3	148	ptr:800BB534	　中断データのセーブが<FF03>完了しました<FF03>ゲームを終了します<FF02><FF04>ＣＯＮＴＩＮＵＥで<FF03>このデータの続きを始めることができます<FF02><FF04>このまま電源を切って下さい<FF03>（何かボタンを押すと<FF03>　タイトル画面に戻ります）<FF02><FF01>	Suspend data saved.<FF03>The game will end.<FF02><FF04>Choose CONTINUE to resume<FF03>from this data.<FF02><FF04>Turn off the power.<FF03>(Any button: title<FF03>screen)<FF02>
+21	800BB457	52	ptr:800BB538	　上書きすると　元のデータは<FF03>消えてしまいます<FF02><FF03>上書きしますか？<FF03><FF0E>　<FF01>	Old data will be erased.<FF02><FF03>Overwrite?<FF03><FF0E>　
+22	800BB48B	71	ptr:800BB53C	　中断データ（Ｃデータ）領域に<FF03>セーブデータ（Ｓデータ）を<FF03>上書きすることはできません<FF02><FF01>	Save Data (S) cannot<FF03>overwrite the Suspend<FF03>Data (C) area.<FF02>
+23	800BB4D2	70	ptr:800BB540	　　セーブデータ（Ｓデータ）領域に中断データ（Ｃデータ）を<FF03>上書きすることはできません<FF02><FF01>	Suspend Data (C) cannot<FF03>overwrite the Save<FF03>Data (S) area.<FF02>
+24	800BB154	18	code:8009D020,code:8009E0D0	さらにアイテムを加えるかね？<FF01>	Will you add an item as well?

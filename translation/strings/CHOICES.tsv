@@ -1,0 +1,33 @@
+idx	ptr	params	ja	en
+0	8004D430	02010300	はい<FF03>いいえ<FF01>	Yes<FF03>No
+1	8004D43C	02010300	いいよ<FF03>いやだ<FF01>	Sure<FF03>No way
+2	8004D448	02010500	知っている<FF03>知らない<FF01>	I know<FF03>I don't know
+3	8004D458	02020700	ゲームスタート　やめる<FF03>コイン枚数確認　説明を見る<FF01>	Start Game|Quit<FF03>Check Coins|Explanation
+4	8004D480	02010300	いいえ<FF03>はい<FF01>	No<FF03>Yes
+5	8004D48C	02020700	ゲームのルール　操作方法<FF03>役について　　　前に戻る<FF01>	Game Rules|Controls<FF03>About Hands|Go Back
+6	8004D4B4	02020700	ゲームのルール　操作方法<FF03>アドバイス　　　前に戻る<FF01>	Game Rules|Controls<FF03>Advice|Go Back
+7	8004D4DC	02010700	一緒に行こう<FF03>連れていかない<FF01>	Let's go together<FF03>Don't take them
+8	8004D4F4	02010600	手を貸す<FF03>手を貸さない<FF01>	Lend a hand<FF03>Don't lend a hand
+9	8004D508	02010500	外に出ない<FF03>外に出る<FF01>	Don't go outside<FF03>Go outside
+10	8004D51C	02010400	開けない<FF03>開ける<FF01>	Don't open it<FF03>Open it
+11	8004D52C	02010400	聞かない<FF03>聞く<FF01>	Don't listen<FF03>Listen
+12	8004D538	02020600	合体　　　　　やめておく<FF03>降魔／消去　　話が聞きたい<FF01>	Fuse|Never Mind<FF03>Summon/Erase|Hear Story
+13	8004D560	02020600	逃げるな　　　うん安全だ<FF03>そうだけど…　わからないぞ<FF01>	Don't run|It's safe<FF03>True, but...|Who knows
+14	8004D584	02020600	自分のため　　なんとなく<FF03>みんなのため　なりゆきで<FF01>	For myself|No reason<FF03>For everyone|It just happened
+15	8004D5A4	02010900	…何でだろう？<FF03>その答えを探すため<FF01>	...Why, I wonder?<FF03>To find that answer
+16	8004D5C0	02010800	赤いボタンを押す<FF03>青いボタンを押す<FF01>	Press the red button<FF03>Press the blue button
+17	8004D5DC	02010700	回復してほしい<FF03>用はない<FF01>	Heal me<FF03>No business
+18	8004D5F0	02010a00	ハリティーと戦う<FF03>ハリティーと戦わない<FF01>	Fight Hariti<FF03>Don't fight Hariti
+19	8004D60C	02010900	逃げるな！<FF03>そうかもしれない…<FF01>	Don't run!<FF03>Maybe so...
+20	8004D624	02020400	戻らない　８Ｆへ<FF03>４Ｆへ　　１Ｆへ<FF01>	Stay|To 8F<FF03>To 4F|To 1F
+21	8004D640	02020600	セルフ合体　　ガイド合体<FF03>カードを見る　やめておく<FF01>	Self Fusion|Guided Fusion<FF03>View Cards|Never Mind
+22	8004D668	02010c00	クイーンの絵の方が上手い<FF03>麻希の絵の方が上手い<FF01>	Queen's painting is better<FF03>Maki's painting is better
+23	8004D690	02020700	初心者向けの話　中級者向けの話ペルソナの話　　上級者向けの話<FF01>	Beginner|Intermediate<FF03>Persona|Advanced
+24	8004D6C4	02020700	ゲームスタート　やめる<FF03>カード枚数確認　説明を見る<FF01>	Start Game|Quit<FF03>Check Cards|Explanation
+25	8004D6EC	02010700	マークにのる<FF03>ブラウンにのる<FF01>	Bet on Mark<FF03>Bet on Brown
+26	8004D700	02010a00	そのつもり<FF03>そういうわけじゃない<FF01>	That's the plan<FF03>Not exactly
+27	8004D714	02010800	そうだな<FF03>そんなことはない<FF01>	I guess so<FF03>That's not true
+28	8004D724	02010300	いる<FF03>いない<FF01>	Yes, I do<FF03>No, I don't
+29	8004D730	02010200	ある<FF03>ない<FF01>	I do<FF03>I don't
+30	8004D738	02010700	前の方がいい<FF03>今のままでいい<FF01>	The old one's better<FF03>This is fine as is
+31	8004D74C	02010500	登録する<FF03>登録しない<FF01>	Register<FF03>Don't register

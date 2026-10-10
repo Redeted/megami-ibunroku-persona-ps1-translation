@@ -1,0 +1,686 @@
+unit	ja	en
+0	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>セットク　リカイシタ<FFFB><FFF7>コウショウ　シダイデ<FFF6>オマエ　好キニナル<FFF5>	Nuu...<FFFC> You persuaded me.<FFF6>Me get it.<FFF6><FFFB><FFF7>Depends on deal. Me like you.<FFF5>
+1	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>欲シイ　ヨク　ワカッタ<FFFB><FFF7>ナンカ　クレ<FFF6>オマエ　好キニナル<FFF1><FFF5>	Nuu...<FFFC> You want me. Me get it.<FFF6><FFFB><FFF7>Give me something.<FFF6>Me like you.<FFF1><FFF5>
+2	オマエ　ニンゲン！<FFF6>オレサマ　<FFF0>！<FFFB><FFF7>血ガ　アワナイ<FFF6>カード　ヤレナイ！！<FFF5>	You human! Me, <FFF0>!<FFF6><FFFB><FFF7>Blood no match.<FFF6>No card for you!!<FFF5>
+3	オマエ　ニンゲン！<FFF6>オレサマ　<FFF0>！<FFF6>血ガ　アワナイ！！<FFFB><FFF7>オマエ　ウルサイ！<FFF6>ガァーー！<FFF6>スコシ　ダマレ！<FFFD>　<FFF5>	You human! Me, <FFF0>!<FFF6>Blood no match! You noisy!<FFF6><FFFB><FFF7>Gaaa! Shut up a bit!<FFFD>　<FFF5>
+4	オマエ　セットク<FFF6>オレサマ　<FFF3><FFFB><FFF7>アオーン！<FFFC><FFF6>オレ　嬉シイ<FFF5>	You persuade. Me, <FFF3>!<FFF6><FFFB><FFF7>Aooon!<FFFC><FFF6>Me happy.<FFF5>
+5	オマエ　セットク<FFF6>オレサマ　嬉シイ<FFFB><FFF7>オマエ　オレサマ<FFF6>チカラ　欲シイカ？<FFFD>あ<FFF5>	You persuade me. Me happy.<FFF6><FFFB><FFF7>You want my power?<FFFD>あ<FFF5>
+6	ヌウ…<FFFC><FFF6>オマエ　強気ダナ<FFFB><FFF7>オレサマ　強イ<FFF6>オマエ　強イカ？<FFFD>い<FFF5>	Nuu...<FFFC> You bold.<FFF6><FFFB><FFF7>Me strong. You strong?<FFFD>い<FFF5>
+7	ヌウ…<FFFC><FFF6>オマエ　ムテッポウ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ムテッポウ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>気ガ　アイソウダ<FFF5>	Nuu...<FFFC> You reckless!<FFF6><FFFB><FFF7>Nuu...<FFFC> Me reckless!<FFF6><FFFB><FFF7>Nuu...<FFFC> We get along.<FFF5>
+8	ガァーー！<FFFC><FFF6>オレサマ　キゲン　ソコネタ<FFFB><FFF7>オレサマ　オマエ　マルカジリ！オマエ　ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC> Me in bad mood.<FFF6><FFFB><FFF7>Me chomp you! Give me stuff!<FFF1><FFF5>
+9	オレサマ　<FFF3>！<FFFC><FFF6>オマエ　チョウハツ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　ゴキゲンナナメ<FFF6>オマエ　嫌イダ！<FFF5>	Me, <FFF3>!<FFFC> You provoke me!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Me in bad mood.<FFF6>Me hate you!<FFF5>
+10	グゥ………<FFFC><FFF6>オレサマ　眠イ<FFF6>トウミン　ジャマスルナ…<FFFD>う<FFF5>	Guu......<FFFC> Me sleepy.<FFF6>Hibernating. No bother...<FFFD>う<FFF5>
+11	グゥ………<FFFC><FFF6>オマエ　怖イ…<FFFB><FFF7>オレサマ　帰ル…<FFFC><FFF6>デモ　マダ帰レナイ…<FFF5>	Guu......<FFFC> You scary...<FFF6><FFFB><FFF7>Me go home...<FFFC> Can't go yet...<FFF5>
+12	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>カンユウ　理解シタ<FFFB><FFF7>ナンカ　クレレバ<FFF6>オレサマ　チカラ<FFF6>オマエ　カシテモ　イイ<FFF1><FFF5>	Nuu...<FFFC> Me get your pitch.<FFF6><FFFB><FFF7>Give me stuff, and<FFF6>me lend you my power.<FFF1><FFF5>
+13	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>カンユウ　嬉シイ<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　芸ナイ<FFF6>ソレデモ　イイカ？<FFFD>え<FFF5>	Nuu...<FFFC> Your pitch make me glad.<FFF6><FFFB><FFF7>Nuu...<FFFC> Me no tricks.<FFF6>That okay?<FFFD>え<FFF5>
+14	オマエ　ニンゲン！<FFF6>オレサマ　<FFF0>！<FFF6>血ガ　アワナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　考エテカラ<FFF6>声カケロ！<FFF5>	You human! Me, <FFF0>!<FFF6>Blood no match!!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Think, then talk!<FFF5>
+15	ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFFB><FFF7>オレサマ　<FFF3>！<FFF6>オマエ　理解シテルカ？<FFFD>お<FFF5>	Gaaa!<FFFC> You noisy!<FFF6><FFFB><FFF7>Me, <FFF3>!<FFF6>You get that?<FFFD>お<FFF5>
+16	グゥ………<FFFC><FFF6>オレサマ　ドウシヨウ…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　ニンゲン<FFF6>ヨク　ワカラナイ…<FFFD>か<FFF5>	Guu......<FFFC> What do me do...<FFF6><FFFB><FFF7>Guu......<FFFC> Me not get<FFF6>humans...<FFFD>か<FFF5>
+17	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>カンユウ　嬉シイガ…<FFFB><FFF7>コレ　ワナ？<FFFC><FFF6>キケン　イヤダ<FFF5>	Guu......<FFFC> Glad you invite, but...<FFF6><FFFB><FFF7>A trap?<FFFC> Danger bad.<FFF5>
+18	オマエ　ヒドイ！<FFF6>ウタ　ヒドイ！！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　ゴキゲンナナメ！<FFFC><FFF6>ナンカ　ヨコセ！<FFF1><FFF5>	You cruel! Singing cruel!!<FFF6><FFFB><FFF7>Gaaa! Me in bad mood!<FFFC><FFF6>Give me stuff!<FFF1><FFF5>
+19	オレサマ　ソノ歌　好キ！<FFF6>ナノニ　オマエ　ヘタ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>歌ガ　カワイソウ！<FFF6>オレサマ　オマエ　許サナイ！<FFF5>	Me like that song! You bad!!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Pity the song!<FFF6>Me never forgive you!<FFF5>
+20	ヒドイ　ウタ…<FFFC><FFF6>オレサマ　アタマ　イタイ…<FFFC><FFF6>オマエ　ヤメロ…<FFFD>き<FFF5>	Awful song...<FFFC><FFF6>Me head hurt...<FFFC><FFF6>You stop...<FFFD>き<FFF5>
+21	オマエ　ウタウ…<FFFC><FFF6>オレサマ　アタマ　イタイ…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　ソノ歌　キライ<FFF6>オマエ　ヤメロ…<FFF5>	You sing...<FFFC> Me head hurt...<FFF6><FFFB><FFF7>Guu......<FFFC> Me hate that song.<FFF6>You stop...<FFF5>
+22	アオーン！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFFB><FFF7>オマエ　イイ声　デル<FFF6>オレサマ　好キ！<FFF5>	Aooon!<FFFC> Me in great mood!<FFF6><FFFB><FFF7>Your voice good.<FFF6>Me like!<FFF5>
+23	アオーン！<FFFC><FFF6>オレサマ　ウタ　好キ！<FFFB><FFF7>オマエ　イイ声　デル<FFF6>オレサマ　嬉シイ<FFF6>ホカノ　歌モ　聞ク！<FFFD>く<FFF5>	Aooon!<FFFC> Me love songs!<FFF6><FFFB><FFF7>Your voice good. Me happy.<FFF6>Sing others too!<FFFD>く<FFF5>
+24	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>ヒツヨウ　リカイシタ<FFFB><FFF7>コウショウ　シダイデ<FFF6>オマエ　好キニナル…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ブルー<FFF6>オマエ　好キナ　色ナンダ？<FFFD>け<FFF5>	Nuu...<FFFC> Me get it.<FFF6><FFFB><FFF7>Depends on deal.<FFF6>Me like you...<FFFB><FFF7>Nuu...<FFFC> Me blue.<FFF6>Your fave color?<FFFD>け<FFF5>
+25	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>タノミ　ヨク　ワカッタ<FFFB><FFF7>ナンカ　クレレバ<FFF6>オレサマ　オマエ<FFF6>チカラ　ナル！<FFF1><FFF5>	Nuu...<FFFC> Me get your plea.<FFF6><FFFB><FFF7>Give me stuff, and<FFF6>me become your power!<FFF1><FFF5>
+26	ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFF6>オレサマ　ゴキゲンナナメ！<FFF5>	Gaaa!<FFFC> You noisy!<FFF6>Me in bad mood!<FFF5>
+27	オレサマ　<FFF3>！<FFF6>オマエ　ニンゲン<FFF6>キョウミ　ナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>キョウミ　モツ　ナゼダ？<FFFD>こ<FFF5>	Me, <FFF3>!<FFF6>No interest in humans!!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Why you interest in me?<FFFD>こ<FFF5>
+28	アオーン！<FFFC><FFF6>オレサマ　タノマレル<FFF6>トテモ　嬉シイ！！<FFFB><FFF7>オマエ　オレサマ<FFF6>トッテモ　好キカ？<FFFC><FFF6>ナラ　ナニカ　クレ<FFF1><FFF5>	Aooon!<FFFC> Me being asked!<FFF6>Me very happy!!<FFF6><FFFB><FFF7>You love me lots?<FFFC> Then give stuff!<FFF1><FFF5>
+29	アオーン！<FFFC><FFF6>オレサマ　タノマレル<FFF6>チカラ　欲シイカ？<FFFD>さ<FFF5>	Aooon!<FFFC> Me being asked!<FFF6>You want my power?<FFFD>さ<FFF5>
+30	オマエ　オベッカ<FFF6>オレサマ　キライ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オマエ　マルカジリ<FFF5>	You flatter. Me hate that!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Me chomp you!<FFF5>
+31	オレサマ　オダテル<FFF6>オマエ　オチョウシ者！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オマエ　マルカジリ！<FFFD>し<FFF5>	You flatter me. You cheeky!<FFF6><FFFB><FFF7>Gaaa!<FFFC> Me chomp you!<FFFD>し<FFF5>
+32	オレサマ　テレル…<FFF6>ケド　グゥ………<FFFC><FFF6>イヤナ　ヨカン…<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　タメス<FFF6>ドンナ　食イモノ　好キダ？<FFFD>す<FFF5>	Me blush...<FFF6>But guu......<FFFC> Bad feeling...<FFF6><FFFB><FFF7>Guu......<FFFC> Test: what food you like?<FFFD>す<FFF5>
+33	グゥ………<FFFC><FFF6>イヤナ　ヨカン…<FFFB><FFF7>オマエ　オダテル<FFF6>オレサマ　テレル…<FFFC><FFF6>ウマク　イキスギ<FFF5>	Guu......<FFFC> Bad feeling...<FFF6><FFFB><FFF7>You flatter. Me blush...<FFFC><FFF6>Too smooth!<FFF5>
+34	アオーン！<FFFC><FFF6>オレサマ　ウレシイ！<FFFB><FFF7>オマエ　イイコト　イウ！<FFF6>オレサマ　ナニカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC> Me happy!<FFF6><FFFB><FFF7>You say nice things!<FFF6>Me take something!<FFF1><FFF5>
+35	アオーン！<FFFC><FFF6>オマエ　イイコト　イウ！<FFF6>オレサマ　ジョウキゲン！<FFFB><FFF7>オマエ　オレサマ<FFF6>ドレクライ　好キカ？<FFFD>せ<FFF5>	Aooon!<FFFC> You say nice things!<FFF6>Me in great mood!<FFF6><FFFB><FFF7>How much you like me?<FFFD>せ<FFF5>
+36	ヌウ…<FFFC><FFF6>オレサマ　驚キ！<FFF6>オマエ　知識アルナ…<FFFB><FFF7>オレサマ　オマエ　欲シイ！<FFF6>欲シイ！　欲シイ…<FFFC><FFF6>ナニカ　クレ…<FFF1><FFF5>	Nuu...<FFFC> Me surprised!<FFF6>You know stuff...<FFFB><FFF7>Me want you! Want! Want...<FFFC><FFF6>Give stuff...<FFF1><FFF5>
+37	ヌウ…<FFFC><FFF6>オレサマ　驚キ！<FFF6>オマエ　知識アルナ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　知識　欲シイ<FFF6>オマエ　ドコデ　手ニ入レタ？<FFFD>そ<FFF5>	Nuu...<FFFC> Me surprised!<FFF6>You know stuff...<FFFB><FFF7>Nuu...<FFFC> Me want knowledge.<FFF6>Where you get it?<FFFD>そ<FFF5>
+38	ガァーー！<FFFC><FFF6>オマエ　ウソツキ！！<FFF6>オレサマ　ウソ　キライ！<FFFB><FFF7>ウソツキ　倒ス！<FFF6>倒サレタク　ナケレバ<FFF6>何カ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You liar!!<FFF6>Me hate lies! Liars die!<FFF6><FFFB><FFF7>Don't want die? Give stuff!!<FFF1><FFF5>
+39	ガァーー！<FFFC><FFF6>オマエ　ウソツキ！！<FFF6>オレサマ　ウソ　キライ！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　オマエ　マルカジリ！<FFFC>アタマ　出セ！<FFFD>た<FFF5>	Gaaa!<FFFC> You liar!!<FFF6>Me hate lies!<FFFB><FFF7>Gaaa!<FFF6>Me chomp you!<FFFC> Show head!<FFFD>た<FFF5>
+40	アオーン！<FFFC><FFF6>オマエ　オモシロイ<FFF6>オレサマ　ヨロコブ！<FFFB><FFF7>オマエ　ホラ話　好キカ？<FFFC><FFF6>オレサマ　好キ！<FFF6>好キダカラ　ナニカ　クレ！<FFF1><FFF5>	Aooon!<FFFC> You funny.<FFF6>Me joyful!<FFF6><FFFB><FFF7>You like tall tales?<FFFC> Me like!<FFF6>So give me stuff!<FFF1><FFF5>
+41	アオーン！<FFFC><FFF6>オマエ　ホラ話　好キ！<FFF6>オレサマ　モット　好キ！<FFFB><FFF7>アオーン！<FFF6>ナニカ　話　シテクレ！<FFFD>ち<FFF5>	Aooon!<FFFC> You like tall tales!<FFF6>Me like more!<FFF6><FFFB><FFF7>Aooon! Tell me something!<FFFD>ち<FFF5>
+42	ヌウ…<FFFC><FFF6>オマエ　弱気ダナ…<FFF6>オレサマ　食ベルゾ！<FFFD>つ<FFF5>	Nuu...<FFFC> You timid...<FFF6>Me eat you!<FFFD>つ<FFF5>
+43	ヌウ…<FFFC><FFF6>オマエ　弱気ダナ<FFF6>オレサマ　強イカラ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>ナニカ　ヨコスノナラ<FFF6>ミノガシテ　ヤルゾ<FFF1><FFF5>	Nuu...<FFFC> You timid. Me strong...<FFF6><FFFB><FFF7>Nuu...<FFFC> Give me something,<FFF6>me let you go.<FFF1><FFF5>
+44	ガァーー！<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>オクビョウ者　嫌イダ<FFF5>	Gaaa!<FFFC> Me, <FFF3>!<FFF6>Me hate cowards.<FFF5>
+45	ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFF6>オレサマ　ゴキゲンナナメ！<FFFB><FFF7>オマエ　オクビョウ者<FFF6>マルカジリ　スル気ナイ！<FFFC><FFF6>ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC> You noisy! Me in bad mood!<FFF6><FFFB><FFF7>You coward. No mood to chomp.<FFFC><FFF6>Give me stuff!<FFF1><FFF5>
+46	アオーン！<FFFC><FFF6>オレサマ　ツヨイ！<FFF6>オレサマ　サイキョウ！<FFFB><FFF7>オマエ　オレサマ<FFF6>ナンカ　ミツグ　ヨイゾ！<FFF1><FFF5>	Aooon!<FFFC> Me strong!<FFF6>Me the strongest!<FFF6><FFFB><FFF7>Offer me something!<FFF1><FFF5>
+47	アオーン！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFFB><FFF7>オマエ　オレサマ<FFF6>乗セルノ　ウマイ！<FFFC><FFF6>オマエ　ナニ　食ベタイカ？<FFFD>て<FFF5>	Aooon!<FFFC> Me in great mood!<FFF6><FFFB><FFF7>You good at riding me!<FFFC><FFF6>What you want to eat?<FFFD>て<FFF5>
+48	ヌウ…<FFFC><FFF6>オマエ　オス…<FFFC><FFF6>オレサマ　オス…<FFFB><FFF7>ヌウ…<FFFC><FFF6>キミョウナ　コト言ウ奴！<FFF6>オレサマ　ユカイ！<FFF5>	Nuu...<FFFC> You male...<FFFC><FFF6>Me male...<FFF6><FFFB><FFF7>Nuu...<FFFC> You say strange things!<FFF6>Me amused!<FFF5>
+49	ヌウ…<FFFC><FFF6>オマエ　オス…<FFFC><FFF6>オレサマ　オス…<FFFB><FFF7>ヌウ…<FFFC><FFF6>ナニ　スル　ツモリダ？<FFFD>と<FFF5>	Nuu...<FFFC> You male...<FFFC><FFF6>Me male...<FFF6><FFFB><FFF7>Nuu...<FFFC> What you plan?<FFFD>と<FFF5>
+50	ガァーー！<FFFC><FFF6>オレサマ　オス！<FFF6>オマエ　オス！<FFFB><FFF7>オマエ　アタマ　変！！<FFF6>オレサマ　フツウ！！<FFF6>オレサマ　不快　ウセロ！！<FFFD>な<FFF5>	Gaaa!<FFFC> Me male! You male!<FFF6>You head weird!! Me normal!!<FFF6><FFFB><FFF7>Get out of my sight!!<FFFD>な<FFF5>
+51	ガァーー！<FFFC><FFF6>オレサマ　オス！<FFF6>オマエ　オス！<FFFB><FFF7>ナンパ　チガウゾ！<FFF6>メス　誘エ　バカ！！<FFF5>	Gaaa!<FFFC> Me male! You male!<FFF6><FFFB><FFF7>Wrong pickup, fool!<FFF6>Hit on females!!<FFF5>
+52	グゥ………<FFFC><FFF6>オマエ　オス…<FFFC><FFF6>オレサマ　オス…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　セイジョウ……<FFFC><FFF6>オマエ　変ジン　コワイ…<FFF5>	Guu......<FFFC> You male...<FFFC><FFF6>Me male...<FFF6><FFFB><FFF7>Nuu...<FFFC> Me normal......<FFFC><FFF6>You weirdo scary...<FFF5>
+53	グゥ………<FFFC><FFF6>ナンパ　サレタ……<FFFB><FFF7>オレサマ　オス…<FFFC><FFF6>セイジョウ　好キ……<FFFC><FFF6>オマエ　ナニ？<FFFD>に<FFF5>	Guu......<FFFC> Got picked up......<FFF6><FFFB><FFF7>Me male...<FFFC><FFF6>Like normal......<FFFC> What you?<FFFD>に<FFF5>
+54	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナンパ　ウレシイ！！<FFFB><FFF7>ツキアウ　前ニ　キク…<FFFC><FFF6>オマエ　ネマキ　キルカ？<FFFD>ぬ<FFF5>	Aooon!<FFFC> You pick me up.<FFF6>Me happy!!<FFFB><FFF7>Before dating, ask...<FFFC><FFF6>You wear nightgown?<FFFD>ぬ<FFF5>
+55	アオーン！<FFFC><FFF6>オレサマ　メス？<FFFC><FFF6>メス　ナノカ？？<FFFB><FFF7>アオーン！<FFF6>モウ　ドウデモ　イイ！<FFFC><FFF6>ナンカ　クレ！！<FFF1><FFF5>	Aooon!<FFFC> Me female?<FFFC> Female?<FFF6><FFFB><FFF7>Aooon! Whatever now!<FFFC><FFF6>Give me stuff!!<FFF1><FFF5>
+56	ヌウ…<FFFC><FFF6>オマエ　ギャグマン？<FFFB><FFF7>他ニ　オモシロイ<FFF6>ネタ　モッテルカ？<FFFD>ね<FFF5>	Nuu...<FFFC> You a comedian?<FFF6><FFFB><FFF7>Got other funny stuff?<FFFD>ね<FFF5>
+57	ヌウ…<FFFC><FFF6>オレサマ　オマエ　ギャグ<FFF6>ヨク　理解シタ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　審査シテヤル…<FFF6>ナンカ　クレ…<FFF1><FFF5>	Nuu...<FFFC> Me get your gag well!<FFF6><FFFB><FFF7>Nuu...<FFFC> Me judge it...<FFF6>Give me stuff...<FFF1><FFF5>
+58	ガァーー！<FFFC><FFF6>オマエ　ツマラナイ！！<FFF6>ギャグ　サイテイ！！！<FFFB><FFF7>オレサマ　オカンムリ！<FFF6>オマエ　次マデニ<FFF6>ネタ　シイレテコイ！<FFFD>の<FFF5>	Gaaa!<FFFC> You boring!!<FFF6>Worst gag!!!<FFFB><FFF7>Me furious!<FFF6>Bring new material<FFF6>next time!<FFFD>の<FFF5>
+59	ガァーー！<FFFC><FFF6>ギャグ　サイテイ！！<FFF6>オマエ　芸人シッカク！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>シッカク　イヤ　ナラ<FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> Worst gag!!<FFF6>You lose comedian license!!<FFF6><FFFB><FFF7>Gaaa!<FFFC> No want lose? Give stuff!!<FFF1><FFF5>
+60	グゥ………<FFFC><FFF6>ヒドスギル…<FFFB><FFF7>オマエ…<FFFC><FFF6>ソレ　ギャグカ…？<FFFD>は<FFF5>	Guu......<FFFC><FFF6>Too harsh...<FFFB><FFF7>You...<FFFC><FFF6>Is that a gag...?<FFFD>は<FFF5>
+61	グゥ………<FFFC><FFF6>ツマラナイ…<FFFC><FFF6>オレサマ　ドウシヨウ…<FFFB><FFF7>ココハ　ワラウカ…<FFFC><FFF6>アオーン！　アオーン！<FFF5>	Guu......<FFFC> Boring...<FFFC><FFF6>What me do...<FFFB><FFF7>Laugh here...?<FFFC><FFF6>Aooon! Aooon!<FFF5>
+62	アオーン！<FFFC><FFF6>オマエ　サイコウ！！<FFF6>ギャグ　サイキョウ！！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　気ニイッタ！<FFF6>ナンカ　モラウ！！<FFF1><FFF5>	Aooon!<FFFC> You the best!!<FFF6>Gag the strongest!!!<FFFB><FFF7>Aooon!<FFFC> Me like it!<FFF6>Me get something!!<FFF1><FFF5>
+63	アオーン！<FFFC><FFF6>オマエ　ユカイ！！<FFF6>ギャグ　サイコウ！！！<FFFB><FFF7>オレサマ　ジョウキゲン！<FFF6>歌　ウタイタイ！！<FFFC><FFF6>ナニカ　リクエスト　アルカ？<FFFD>ひ<FFF5>	Aooon!<FFFC> You funny!!<FFF6>Gag the best!!!<FFFB><FFF7>Me in great mood!<FFF6>Want to sing!!<FFFC><FFF6>Any requests?<FFFD>ひ<FFF5>
+64	ヌウ…<FFFC><FFF6>ニンゲン　フシギ<FFF6>ハナシ　ソンナニ　好キカ？<FFFD>ふ<FFF5>	Nuu...<FFFC> Humans weird.<FFF6>You like talking so much?<FFFD>ふ<FFF5>
+65	ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>ハナシ　ヨク　ワカラナイ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>ワカラナイ…<FFFC><FFF6>ナニカ　モラットク…<FFF1><FFF5>	Nuu...<FFFC> Me not get<FFF6>what you talk about...<FFFB><FFF7>Nuu...<FFFC> Not get it...<FFFC><FFF6>But me get something...<FFF1><FFF5>
+66	オマエ　ニンゲン<FFF6>オレサマ　<FFF0>！<FFFB><FFF7>ガァーー！<FFFC><FFF6>ハナシ　アワナイ！！<FFF6>オレサマ　オカンムリ！！<FFF5>	You human.<FFF6>Me, <FFF0>!<FFFB><FFF7>Gaaa!<FFFC> Story no match!!<FFF6>Me furious!!<FFF5>
+67	オマエ　ニンゲン<FFF6>オレサマ　<FFF0>！<FFFB><FFF7>ガァーー！<FFFC><FFF6>ハナシ　アワナイ！！<FFF6>オマエ　アワセロ！！<FFFD>へ<FFF5>	You human.<FFF6>Me, <FFF0>!<FFFB><FFF7>Gaaa!<FFFC> Story no match!!<FFF6>You match me!!<FFFD>へ<FFF5>
+68	アオーン！<FFFC><FFF6>オレサマ　ハナシ　好キ！<FFFC><FFF6>オマエ　好キカ？<FFFD>ほ<FFF5>	Aooon!<FFFC> Me like talking!<FFFC><FFF6>You like?<FFFD>ほ<FFF5>
+69	アオーン！<FFFC><FFF6>オマエ　セケンバナシ<FFF6>オレサマ　ハツタイケン！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFF6>ナンカ　欲シイゾ！！<FFF1><FFF5>	Aooon!<FFFC> You chitchat.<FFF6>My first time!!<FFFB><FFF7>Aooon!<FFFC> Me in great mood!<FFF6>Me want something!!<FFF1><FFF5>
+70	オレサマ　ビックリ！！<FFFC><FFF6>オマエ　ヤッタナ！<FFFB><FFF7>ヌウ…<FFF6>オドロク　ヒサシブリ！<FFF6>チョット　ヨカッタ…<FFF5>	Me surprised!!<FFFC><FFF6>You did it!<FFFB><FFF7>Nuu...<FFF6>Long time no surprise!<FFF6>Kinda nice...<FFF5>
+71	ヌウ…<FFFC><FFF6>オレサマ　オドロイタ！<FFFC><FFF6>オマエ　オドロイタ？<FFFD>ま<FFF5>	Nuu...<FFFC> Me surprised!<FFFC><FFF6>You surprised?<FFFD>ま<FFF5>
+72	ガァーー！<FFFC><FFF6>オレサマ　ビックリ！！<FFF6>チョット　ムッ　トシタ…<FFFB><FFF7>オマエ　アヤマレ！<FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> Me surprised!!<FFF6>Kinda annoyed...<FFFB><FFF7>You apologize!<FFF6>Give me stuff!!<FFF1><FFF5>
+73	ガァーー！<FFFC><FFF6>オレサマ　不意ツカレタ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オマエ<FFF6>不意　ツキカエス！！<FFFD>み<FFF5>	Gaaa!<FFFC> Me caught off guard!!<FFFB><FFF7>Gaaa!<FFFC> Me catch you<FFF6>off guard back!!<FFFD>み<FFF5>
+74	グゥ………<FFFC><FFF6>オレサマ　コシヌケタ…<FFF5>	Guu......<FFFC> Me legs gave out...<FFF5>
+75	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>イジメル　イヤナ奴……<FFFD>む<FFF5>	Guu......<FFFC> You bully.<FFF6>You meanie...<FFFD>む<FFF5>
+76	ヌウ…<FFFC><FFF6>オレサマ　ソレ欲シイ<FFF6>デモ　オマエ　ヨク知ラナイ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>クレル　ホントウナラ<FFF6>マズ　定番ノ物　クレ<FFF1><FFF5>	Nuu...<FFFC> Me want that.<FFF6>But me not know you well...<FFFB><FFF7>Nuu...<FFFC> If giving for real,<FFF6>give normal stuff first.<FFF1><FFF5>
+77	ヌウ…<FFFC><FFF6>オマエ　イイモノ　モッテル<FFF6>オレサマ　ソレ欲シイ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　マガイモノ　ヤダ<FFF6>ソレ　本物カ？<FFFD>め<FFF5>	Nuu...<FFFC> You got good stuff.<FFF6>Me want it...<FFFB><FFF7>Nuu...<FFFC> Me hate fakes.<FFF6>That real?<FFFD>め<FFF5>
+78	ガァーー！<FFFC><FFF6>オレサマ　ソレ　イラナイ！<FFFB><FFF7>モット　実入リノ　アルモノ<FFF6>オレサマ　欲シイ！<FFF1><FFF5>	Gaaa!<FFFC> Me no want that!<FFFB><FFF7>Me want something<FFF6>more useful!<FFF1><FFF5>
+79	ガァーー！<FFFC><FFF6>オレサマ　ソレ　イラナイ！<FFF6>別ノ　モノ　クレ！<FFFD>も<FFF5>	Gaaa!<FFFC> Me no want that!<FFF6>Give something else!<FFFD>も<FFF5>
+80	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>欲シイ物　ヨクワカッタ！<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFF6>ホカニモ　ナンカ　クレ<FFF1><FFF5>	Aooon!<FFFC> You know well<FFF6>what me want!<FFFB><FFF7>Aooon!<FFFC> Me in great mood!<FFF6>Give me more stuff!<FFF1><FFF5>
+81	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>欲シイ物　ヨクワカッタ！<FFFB><FFF7>アイショウ　ミテヤル！<FFFC><FFF6>オマエ　チャガマ<FFF6>オレサマ　ナンダ？<FFFD>や<FFF5>	Aooon!<FFFC> You know well<FFF6>what me want!<FFFB><FFF7>Check compatibility!<FFFC><FFF6>You teakettle.<FFF6>What me?<FFFD>や<FFF5>
+82	ヌウ…<FFFC><FFF6>オマエ　カゲキ！<FFF6>オレサマ　カゲキ！<FFFB><FFF7>ナンカ　クレレバ<FFF6>ヨリ　意見アウカモ…<FFF1><FFF5>	Nuu...<FFFC> You extreme!<FFF6>Me extreme!<FFFB><FFF7>Give me stuff,<FFF6>we might agree more...<FFF1><FFF5>
+83	ヌウ…<FFFC><FFF6>オマエ　シッカリ者<FFF6>オレサマ　シッカリ者<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>ナカマニ　シタイ…<FFFD>ゆ<FFF5>	Nuu...<FFFC> You dependable.<FFF6>Me dependable.<FFFB><FFF7>Nuu...<FFFC> Me want you<FFF6>as companion...<FFFD>ゆ<FFF5>
+84	ガァーー！<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>演説ニ　キョウミ　ナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　ナンカ　欲シイ！<FFF1><FFF5>	Gaaa!<FFFC> Me, <FFF3>!<FFF6>No interest in speech!!<FFFB><FFF7>Gaaa!<FFFC> Me want stuff!<FFF1><FFF5>
+85	ガァーー！<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>演説ニ　キョウミ　ナイ！！<FFFB><FFF7>オマエ　ナゼ<FFF6>オレサマ　演説シタ？<FFFD>よ<FFF5>	Gaaa!<FFFC> Me, <FFF3>!<FFF6>No interest in speech!!<FFFB><FFF7>Why you give<FFF6>speech to me?<FFFD>よ<FFF5>
+86	アオーン！<FFFC><FFF6>オマエ　オレサマ　演説シタ！<FFFB><FFF7>オレサマ　オマエ<FFF6>ナンカ　モラウ！！<FFF1><FFF5>	Aooon!<FFFC> You gave me speech!<FFFB><FFF7>Me take something<FFF6>from you!!<FFF1><FFF5>
+87	アオーン！<FFFC><FFF6>オレサマ　ヨクワカラナイ<FFF6>デモ　ナンカ　嬉シイ！！<FFFB><FFF7>オレサマ　オマエ　質問スル！<FFFC><FFF6>アオーン！<FFF6>オレサマ　カッコイイカ？<FFFD>ら<FFF5>	Aooon!<FFFC> Me no understand.<FFF6>But kinda happy!!<FFFB><FFF7>Me ask you!<FFFC><FFF6>Aooon!<FFF6>Me cool?<FFFD>ら<FFF5>
+88	ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>強ガリ　言ッテル　ワカル！<FFFB><FFF7>ナンカ　クレレバ<FFF6>ホントノ　コト　言ッテモ<FFF6>オソワナイゾ<FFF1><FFF5>	Nuu...<FFFC> Me get<FFF6>you acting tough!<FFFB><FFF7>Give me stuff,<FFF6>me no attack even if<FFF6>you tell truth.<FFF1><FFF5>
+89	ヌウ…<FFFC><FFF6>オレサマ　イッカツ<FFF6>オマエ　ツヨイノカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　軍師ト　将軍ト<FFF6>ドッチ　ナリタイ？<FFFD>り<FFF5>	Nuu...<FFFC> Me shout.<FFF6>You strong?<FFFB><FFF7>Nuu...<FFFC> You wanna be<FFF6>tactician or general?<FFFD>り<FFF5>
+90	ガァーー！<FFFC><FFF6>ソノ　コトバ　許セナイ！<FFF6>オレサマ　オカンムリ！！<FFFB><FFF7>ガァーー！<FFF6>オマエ　アヤマレ！！<FFFD>る<FFF5>	Gaaa!<FFFC> Words unforgivable!<FFF6>Me furious!!<FFFB><FFF7>Gaaa!<FFF6>You apologize!!<FFFD>る<FFF5>
+91	ガァーー！<FFFC><FFF6>オマエ　ブレイ者！<FFF6>オレサマ　オマエ　キライ！！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　オマエ　マルカジリ！<FFFC>イヤナラ　ナニカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You rude!<FFF6>Me hate you!!<FFFB><FFF7>Gaaa!<FFF6>Me chomp you!<FFFC><FFF6>Give stuff if you no want!!<FFF1><FFF5>
+92	グゥ………<FFFC><FFF6>オマエ　コワイ……<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　オナカ　痛イ…<FFFC><FFF6>モウ　ドナルナ…<FFF5>	Guu......<FFFC> You scary...<FFFB><FFF7>Guu......<FFFC> Me stomach hurts...<FFFC><FFF6>No yell anymore...<FFF5>
+93	グゥ………<FFFC><FFF6>ナゼ　ドナル……<FFFC><FFF6>オレサマ　ワルイノカ？<FFFD>れ<FFF5>	Guu......<FFFC> Why yell...<FFFC><FFF6>Am me bad?<FFFD>れ<FFF5>
+94	ヌウ…<FFFC><FFF6>オレサマ　バカ　ジャナイ<FFF6>オマエ　考エ　ワカル<FFFB><FFF7>ヌウ…<FFF6>オレサマ　タメシタナ…<FFFC><FFF6>合格ナラ　ナンカ　クレ<FFF1><FFF5>	Nuu...<FFFC> Me no idiot.<FFF6>Me get your thoughts.<FFFB><FFF7>Nuu...<FFF6>You tested me...<FFFC><FFF6>If pass, give stuff.<FFF1><FFF5>
+95	ヌウ…<FFFC><FFF6>オレサマ　ホメラレタ？！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>アンナニ　ナゼ　ホメル？<FFFD>ろ<FFF5>	Nuu...<FFFC> Me praised?!<FFFB><FFF7>Nuu...<FFFC> Why you<FFF6>praise me so much?<FFFD>ろ<FFF5>
+96	ガァーー！<FFFC><FFF6>オレサマ　バカ　チガウ！<FFFB><FFF7>オマエ　オレサマ<FFF6>バカニシタ　許セナイ！<FFFC><FFF6>オレサマ　オマエ　タオス！！<FFFD>わ<FFF5>	Gaaa!<FFFC> Me no idiot!<FFFB><FFF7>You make fun of me!<FFF6>Unforgivable!<FFFC><FFF6>Me defeat you!!<FFFD>わ<FFF5>
+97	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>バカニシタ　許セナイ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>許スニハ　ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC> You make fun of me!<FFF6>Unforgivable!<FFFB><FFF7>Gaaa!<FFFC> Give stuff to be forgiven!<FFF1><FFF5>
+98	アオーン！<FFFC><FFF6>オレサマ　スゴイ！！<FFF6>オマエ　理解シテル　イイ！<FFF5>	Aooon!<FFFC> Me amazing!!<FFF6>Good you get it!<FFF5>
+99	アオーン！<FFFC><FFF6>オマエ　言ウトオリ！<FFF6>オレサマ　スゴイ！！<FFFB><FFF7>オマエ　オレサマ　シタガエ！<FFF6>ココデ　死ンダフリ　シロ！<FFFD>を<FFF5>	Aooon!<FFFC> Like you say!<FFF6>Me amazing!!<FFFB><FFF7>You obey me!<FFF6>Play dead here!<FFFD>を<FFF5>
+100	ヌウ…<FFFC><FFF6>ソノ　オドリ<FFF6>オレサマ　知ラナイ<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　フシギ　フシギ…<FFF5>	Nuu...<FFFC> That dance...<FFF6>Me no know.<FFFB><FFF7>Nuu...<FFFC> Me wonder...<FFF5>
+101	ヌウ…<FFFC><FFF6>オマエ　ダンス　ウマイ！<FFF6>オレサマ　カンシン！！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>オドリ　オシエテクレ！<FFFD>ん<FFF5>	Nuu...<FFFC> You dance well!<FFF6>Me impressed!!<FFFB><FFF7>Nuu...<FFFC> You teach me<FFF6>how to dance!<FFFD>ん<FFF5>
+102	ガァーー！<FFFC><FFF6>オマエ　オドリ　ヘタクソ！<FFF6>オレサマ　教エテヤル！！<FFFD>が<FFF5>	Gaaa!<FFFC> Your dance sucks!<FFF6>Me teach you!!<FFFD>が<FFF5>
+103	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>ツマラナイモノ　見セラレタ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　ゴリップク！！<FFF6>オマエ　ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You show me<FFF6>boring thing!<FFFB><FFF7>Gaaa!<FFFC> Me angry!!<FFF6>Give me stuff!!<FFF1><FFF5>
+104	アオーン！<FFFC><FFF6>オレサマ　オドリ　好キ！<FFF6>オマエ　オドリ　ジョウズ！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　大ヨロコビ！！<FFF6>ナンカ　モラウ！！<FFF1><FFF5>	Aooon!<FFFC> Me like dance!<FFF6>You dance good!!<FFFB><FFF7>Aooon!<FFFC> Me super joyful!!<FFF6>Me take something!!<FFF1><FFF5>
+105	アオーン！<FFFC><FFF6>オマエ　オドリ　ウマイ！<FFF6>オレサマ　楽シメタ！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オマエ　アクマ<FFF6>楽シマセル　好キカ？<FFFD>ぎ<FFF5>	Aooon!<FFFC> You dance well!<FFF6>Me had fun!!<FFFB><FFF7>Aooon!<FFFC> You like<FFF6>entertaining demons?<FFFD>ぎ<FFF5>
+106	ヌウ…<FFFC><FFF6>オマエ　ワカイナ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ネンキアル<FFF6>オマエ　ネンキ　アルカ？<FFFD>ぐ<FFF5>	Nuu...<FFFC> You young...<FFFB><FFF7>Nuu...<FFFC> Me got experience.<FFF6>You got experience?<FFFD>ぐ<FFF5>
+107	ヌウ…<FFFC><FFF6>オレサマ　山ノゴトシ<FFF6>オマエ　チョウハツ　ムダ<FFFB><FFF7>ヌウ…<FFFC><FFF6>ナンカ　クレレバ<FFF6>動イテ　ヤル<FFF1><FFF5>	Nuu...<FFFC> Me like mountain.<FFF6>Your provoke useless.<FFFB><FFF7>Nuu...<FFFC> Give me stuff,<FFF6>me will move.<FFF1><FFF5>
+108	ガァーー！<FFFC><FFF6>オマエ　ナマイキ！！<FFF6>オレサマ　アオスジ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>アオスジ　見エルカ？<FFFD>げ<FFF5>	Gaaa!<FFFC> You cheeky!!<FFF6>Me veins popping!!<FFFB><FFF7>Gaaa!<FFFC> You see<FFF6>me veins popping?<FFFD>げ<FFF5>
+109	ガァーー！<FFFC><FFF6>オマエ　チョウハツ！<FFF6>オレサマ　受ケテヤル！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>死ニタク　ナケレバ<FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You provoke me!<FFF6>Me accept!!<FFFB><FFF7>Gaaa!<FFFC> No want die?<FFF6>Give stuff!!<FFF1><FFF5>
+110	グゥ………<FFFC><FFF6>オレサマ　<FFF3>…<FFF6>イイ　アクマ……<FFFB><FFF7>オマエ　オレサマ<FFF6>イジメテ　嬉シイカ？<FFFD>ご<FFF5>	Guu......<FFFC> Me, <FFF3>...<FFF6>Good demon......<FFFB><FFF7>You happy<FFF6>bullying me?<FFFD>ご<FFF5>
+111	グゥ………<FFFC><FFF6>オレサマ　ムテイコウ…<FFFC><FFF6>戦イタク　ナイ………<FFF5>	Guu......<FFFC> Me no resist...<FFFC><FFF6>No want fight.........<FFF5>
+112	ヌウ…<FFFC><FFF6>オマエ　見ツメル…<FFF6>穴デモ　開イテルカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ソンナニ<FFF6>見ラレルト　恥ズカシイ…<FFF5>	Nuu...<FFFC> You stare...<FFF6>Got a hole in me?<FFFB><FFF7>Nuu...<FFFC> Me embarrassed<FFF6>being stared at...<FFF5>
+113	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>カナリ　好キダロウ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　照レル<FFF6>モウ　見ナイデクレ<FFFD>ざ<FFF5>	Nuu...<FFFC> You probably<FFF6>like me a lot!<FFFB><FFF7>Nuu...<FFFC> Me blush.<FFF6>Don't look anymore.<FFFD>ざ<FFF5>
+114	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナゼ　ジロジロ見ル？<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　カネ　ナイゾ！<FFF6>オマエ　ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> Why you<FFF6>stare at me?<FFFB><FFF7>Gaaa!<FFFC> Me got no money!<FFF6>Give me stuff!!<FFF1><FFF5>
+115	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナゼ　ジロジロ見ル？<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　無礼ダナ！<FFF6>オレサマ　コラシメル！<FFFD>じ<FFF5>	Gaaa!<FFFC> Why you<FFF6>stare at me?<FFFB><FFF7>Gaaa!<FFFC> You rude!<FFF6>Me punish you!<FFFD>じ<FFF5>
+116	アオーン！<FFFC><FFF6>オレサマ　ニンキ者！<FFF6>見ラレル　気モチイイ！！<FFFB><FFF7>オマエ　オレサマ<FFF6>モット　ヨク　見タイカ？<FFFD>ず<FFF5>	Aooon!<FFFC> Me popular!<FFF6>Feels good being looked at!!<FFFB><FFF7>You want<FFF6>look at me more?<FFFD>ず<FFF5>
+117	アオーン！<FFFC><FFF6>オレサマ　ニンキモノ！<FFF6>見ラレル　カイカン！！<FFFB><FFF7>アオーン！<FFFC><FFF6>アオーン！<FFFC><FFF6>ナニカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC> Me popular!<FFF6>Being looked at feels good!!<FFFB><FFF7>Aooon!<FFFC> Aooon!<FFFC><FFF6>Me take something!<FFF1><FFF5>
+118	ヌウ…<FFFC><FFF6>オレサマ　ビックリ！！<FFF6>オマエ　トンデモナイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>チカラ　カソウカ？<FFFD>ぜ<FFF5>	Nuu...<FFFC> Me surprised!!<FFF6>You incredible!<FFFB><FFF7>Nuu...<FFFC> Shall me<FFF6>lend you power?<FFFD>ぜ<FFF5>
+119	ヌウ…<FFFC><FFF6>オレサマ　オドロキ！<FFFC><FFF6>オマエ　スゴイ奴！！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　スゴイ奴　好キ<FFF6>キネンニ　ナンカ　クレ<FFF1><FFF5>	Nuu...<FFFC> Me surprised!<FFFC><FFF6>You amazing!!<FFFB><FFF7>Nuu...<FFFC> Me like amazing guys.<FFF6>Give stuff for memory.<FFF1><FFF5>
+120	ガァーー！<FFFC><FFF6>オマエ　ホラフキ！！<FFF6>オレサマ　シンジラレナイ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オマエ　マルカジリ！オマエ　命ゴイ　シロ！<FFF1><FFF5>	Gaaa!<FFFC> You liar!!<FFF6>Me no believe you!<FFFB><FFF7>Gaaa!<FFFC> Me chomp you!<FFF6>Beg for your life!<FFF1><FFF5>
+121	ガァーー！<FFFC><FFF6>オマエ　ホラフキ！！<FFF6>オレサマ　ウソ　キライ！<FFFB><FFF7>ホラ　フクナラ<FFF6>オマエ　オレサマ<FFF6>聞コエナイ　場所デシロ！！<FFFD>ぞ<FFF5>	Gaaa!<FFFC> You liar!!<FFF6>Me hate lies!<FFFB><FFF7>If you tell tall tales,<FFF6>do it where<FFF6>me no hear!!<FFFD>ぞ<FFF5>
+122	アオーン！<FFFC><FFF6>オマエ　ホラ話　オモシロイ！<FFF6>オレサマ　タノシイ！<FFFB><FFF7>オレサマ　タノシイナラ<FFF6>オマエ　タノシイ　ナラ<FFF6>オレサマ　タノシイ！！<FFF5>	Aooon!<FFFC> Your tall tales funny!<FFF6>Me having fun!<FFFB><FFF7>If me having fun,<FFF6>if you having fun,<FFF6>me having fun!!<FFF5>
+123	アオーン！<FFFC><FFF6>オレサマ　ホラ　デモ　ユカイ！タノシイ　タノシイ！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オマエ　オレサマデ<FFF6>ナニカ　ホラ話　ツクッテクレ<FFFD>だ<FFF5>	Aooon!<FFFC> Tall tales fun!<FFF6>Fun, fun!!<FFFB><FFF7>Aooon!<FFFC> Make up a tall tale<FFF6>about me.<FFFD>だ<FFF5>
+124	ガァーー！<FFFC><FFF6>オレサマ　ソンナ話<FFF6>マッタク　コワクナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナメテルダロウ！！<FFFD>ぢ<FFF5>	Gaaa!<FFFC> That story<FFF6>not scary at all!!<FFFB><FFF7>Gaaa!<FFFC> You making fun<FFF6>of me!?<FFFD>ぢ<FFF5>
+125	ガァーー！<FFFC><FFF6>ソンナ話　コワクナイ！！<FFF6>オレサマ　コワイ話　知ッテル<FFFB><FFF7>オレサマ　オマエ　マルカジリ！<FFFC>トテモ　コワイ　ダロ！？<FFF6>ワカッタラ　ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC> Story not scary!!<FFF6>Me know scary story.<FFFB><FFF7>Me chomp you!<FFFC><FFF6>Very scary, right!?<FFF6>Give stuff if you get it!<FFF1><FFF5>
+126	グゥ………<FFFC><FFF6>オレサマ　ソノ手ノ話<FFF6>チョット　ニガテ……<FFFB><FFF7>オマエ　オレサマ<FFF6>コンナニ　コワガラセテ<FFF6>イッタイ　ナニヲ得ル？<FFFD>づ<FFF5>	Guu......<FFFC> Me no like<FFF6>that kind of story...<FFFB><FFF7>What you gain<FFF6>scaring me<FFF6>so much?<FFFD>づ<FFF5>
+127	グゥ………<FFFC><FFF6>オマエ　カイダン　好キカ？<FFF6>オレサマ　キライ…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　カイダン<FFF6>ノボリタク　ナイ……<FFF5>	Guu......<FFFC> You like ghost stories?<FFF6>Me hate them...<FFFB><FFF7>Guu......<FFFC> Me no want<FFF6>climb stairs...<FFF5>
+128	アオーン！<FFFC><FFF6>オレサマ　コドモ　ソツギョウ！オマエ　マダ　コドモ…<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　コドモ　好キ！<FFF6>オマエノ　コワイ話　好キ！！<FFF5>	Aooon!<FFFC> Me no child!<FFF6>You still child...<FFFB><FFF7>Aooon!<FFFC> Me like kids!<FFF6>Me like your scary story!!<FFF5>
+129	アオーン！<FFFC><FFF6>オレサマ　コワイ話　好キ！<FFF6>モット　コワイ話　聞キタイ！<FFFD>で<FFF5>	Aooon!<FFFC> Me like scary stories!<FFF6>Want to hear more!<FFFD>で<FFF5>
+130	ヌウ…<FFFC><FFF6>オマエ　ウタウ…<FFF6>イイ　ウタ　ウタウ……<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　フシギ<FFF6>ナゼ　オマエ　ウタウノダ？<FFFD>ど<FFF5>	Nuu...<FFFC> You sing...<FFF6>Sing good song...<FFFB><FFF7>Nuu...<FFFC> Me wonder...<FFF6>Why you sing?<FFFD>ど<FFF5>
+131	ヌウ…<FFFC><FFF6>オマエ　ジョウズ<FFF6>オレサマ　ウタ　聞ク<FFFB><FFF7>ヌウ…<FFFC><FFF6>ココロ　シミイル……<FFF5>	Nuu...<FFFC> You good.<FFF6>Me listen to song.<FFFB><FFF7>Nuu...<FFFC> It touch heart......<FFF5>
+132	オマエ　ヒドイ！<FFF6>ウタ　ヒドイ！！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　ゴキゲンナナメ！<FFFC><FFF6>オマエ　アヤマレ！！<FFFD>ば<FFF5>	You cruel!<FFF6>Song cruel!!<FFFB><FFF7>Gaaa!<FFF6>Me in bad mood!<FFFC><FFF6>You apologize!!<FFFD>ば<FFF5>
+133	オレサマ　ソノ歌　好キ！<FFF6>ナノニ　オマエ　ヘタ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>歌ガ　ムクワレナイ！<FFF6>オレサマ　オマエ　許サナイ！<FFF5>	Me like that song!<FFF6>But you bad!!<FFFB><FFF7>Gaaa!<FFFC> Song unrewarded!<FFF6>Me never forgive you!<FFF5>
+134	アオーン！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFFB><FFF7>オマエノ声　マルデ<FFF6>イップクノ　セイリョウザイ！<FFF6>オレサマ　大好キ！<FFF5>	Aooon!<FFFC> Me in great mood!<FFFB><FFF7>Your voice like<FFF6>refreshing medicine!<FFF6>Me love it!<FFF5>
+135	アオーン！<FFFC><FFF6>オレサマ　ウタ　好キ！<FFFB><FFF7>オマエ　イイ声　デル<FFF6>オレサマ　嬉シイ<FFF6>ホカノ　歌モ　聞ク！<FFFD>び<FFF5>	Aooon!<FFFC> Me love songs!<FFF6><FFFB><FFF7>Your voice good. Me happy.<FFF6>Sing others too!<FFFD>び<FFF5>
+136	ヌウ…<FFFC><FFF6>オマエ　オトナ？<FFF6>オレサマ　コドモ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>ニンゲン　ネンレイ　ワカラナイオマエ　イクツダ？<FFFD>ぶ<FFF5>	Nuu...<FFFC> You adult?<FFF6>Me child?<FFFB><FFF7>Nuu...<FFFC> Human age confusing.<FFF6>How old you?<FFFD>ぶ<FFF5>
+137	ヌウ…<FFFC><FFF6>オマエ　カワイイ　コエ…<FFFC><FFF6>オレサマ　食ベタイ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>デモ　食ベルノ　ヤメル<FFF6>カワリニ　ナニカ　欲シイ<FFF1><FFF5>	Nuu...<FFFC> You got cute voice...<FFFC><FFF6>Me want to eat...<FFFB><FFF7>Nuu...<FFFC> But me no eat.<FFF6>Me want something instead.<FFF1><FFF5>
+138	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>コドモ　アツカイ！！！<FFFB><FFF7>オレサマ　リッパナ　オトナ！<FFF6>オマエ　ナメテルノカ？<FFFD>べ<FFF5>	Gaaa!<FFFC> You treat me<FFF6>like child!!!<FFFB><FFF7>Me fine adult!<FFF6>You making fun of me?<FFFD>べ<FFF5>
+139	ガァーー！<FFFC><FFF6>オレサマ　<FFF3>！<FFFC><FFF6>ミドリゴ　アツカイ　スルナ！<FFF5>	Gaaa!<FFFC> Me, <FFF3>!<FFFC><FFF6>Do not treat me like baby!<FFF5>
+140	アオーン！<FFFC><FFF6>オマエ　ソソル　コエ！<FFF6>オレサマ　ショクヨク　デル<FFFB><FFF7>アオーン！<FFFC><FFF6>オマエ　ナニ食ウ？<FFF6>ヤサイ？　コメ？　肉カ？<FFFD>ぼ<FFF5>	Aooon!<FFFC> You got tempting voice!<FFF6>Me getting appetite.<FFFB><FFF7>Aooon!<FFFC> What you eat?<FFF6>Veggies? Rice? Meat?<FFFD>ぼ<FFF5>
+141	アオーン！<FFFC><FFF6>オマエ　親ミタイ！<FFF6>オレサマ　ナンカ　嬉シイ！<FFFB><FFF7>オレサマ　ダダッ子！<FFF6>オレサマ　ナンカ　欲シイ<FFF1><FFF5>	Aooon!<FFFC> You like parent!<FFF6>Me kinda happy!<FFFB><FFF7>Me spoiled child!<FFF6>Me want something.<FFF1><FFF5>
+142	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>カンユウ　理解シタ<FFFB><FFF7>デモ　オレサマ　<FFF0><FFF6>オマエ　ニンゲン……<FFFC><FFF6>チョット　マヨッテル…<FFF5>	Nuu...<FFFC> Me get<FFF6>you inviting me.<FFFB><FFF7>But me, <FFF0>.<FFF6>You human......<FFFC><FFF6>Me little unsure...<FFF5>
+143	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>カンユウ　嬉シイ<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ヨク　食ベル<FFF6>オマエ　１ニチ　何ショク？<FFFD>ぱ<FFF5>	Nuu...<FFFC> Me glad<FFF6>you invite me.<FFFB><FFF7>Nuu...<FFFC> Me eat a lot.<FFF6>How many meals you eat a day?<FFFD>ぱ<FFF5>
+144	オマエ　ニンゲン！<FFF6>オレサマ　<FFF0>！<FFF6>血ガ　アワナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　コノ　違イ<FFF6>チャント　理解シロ！<FFF5>	You human!<FFF6>Me, <FFF0>!<FFF6>Blood no match!!<FFFB><FFF7>Gaaa!<FFFC> You understand<FFF6>this difference!<FFF5>
+145	ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFF6>オレサマ　働ク　イヤ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　遊ビタイ！<FFF6>オマエ　オレサマ　相手シロ！<FFFD>ぴ<FFF5>	Gaaa!<FFFC> You noisy!<FFF6>Me no want to work!<FFFB><FFF7>Gaaa!<FFFC> Me want to play!<FFF6>You play with me!<FFFD>ぴ<FFF5>
+146	アオーン！<FFF6>オマエ　オレサマ　必要カ？<FFFC><FFF6>ナンカ　イイ感ジ！<FFFB><FFF7>オレサマ　オマエ<FFF6>ツキソッテモ　イイ…<FFFC><FFF6>タダシ　条件　アルゾ！<FFF1><FFF5>	Aooon!<FFF6> You need me?<FFFC><FFF6>Feels kinda nice!<FFFB><FFF7>Me going with you<FFF6>is fine...<FFFC><FFF6>But me got condition!<FFF1><FFF5>
+147	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>ソバニイテ　欲シイノカ！<FFFB><FFF7>オレサマ　<FFF0><FFF6>ソレハ　無理…<FFFC><FFF6>デモ　気モチ　嬉シイゾ！<FFF5>	Aooon!<FFFC> You want me<FFF6>by your side!<FFFB><FFF7>Me <FFF0>.<FFF6>That impossible...<FFFC><FFF6>But feelings make me glad!<FFF5>
+148	ヌウ…<FFFC><FFF6>オマエ　クチ　悪イ！<FFF6>オレサマ　ビックリ！！<FFFB><FFF7>ヌウ…<FFFC><FFF6>ニンゲン　ミナ<FFF6>クチ　悪イノカ？<FFFD>ぷ<FFF5>	Nuu...<FFFC> You foul-mouthed!<FFF6>Me surprised!!<FFFB><FFF7>Nuu...<FFFC> All humans<FFF6>foul-mouthed?<FFFD>ぷ<FFF5>
+149	ヌウ…<FFFC><FFF6>オマエ　ケナス<FFF6>オレサマ　ビックリ！<FFFB><FFF7>オマエ　ヨッキュウ　フマン？<FFFC><FFF6>ナラ　オレサマニ<FFF6>ナニカ　ヨコス　ソレイイ！<FFF1><FFF5>	Nuu...<FFFC> You insult me.<FFF6>Me surprised!<FFFB><FFF7>You frustrated?<FFFC><FFF6>Then give stuff to me,<FFF6>that good!<FFF1><FFF5>
+150	ガァーー！<FFFC><FFF6>オマエ　ケナス<FFF6>オレサマ　オカンムリ！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　オマエ　マルカジリ！<FFFC>オマエ　ドコ　カジラレル？<FFFD>ぺ<FFF5>	Gaaa!<FFFC> You insult me.<FFF6>Me furious!<FFFB><FFF7>Gaaa!<FFF6>Me chomp you!<FFFC> Where me chomp?<FFFD>ぺ<FFF5>
+151	ガァーー！<FFFC><FFF6>オマエ　ココロ　ナイ奴！<FFF6>オレサマ　セイバイ！！<FFF5>	Gaaa!<FFFC> You heartless!<FFF6>Me punish you!!<FFF5>
+152	グゥ………<FFFC><FFF6>オマエ　ケナス<FFF6>オレサマ　ワル者？<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　アヤマル<FFF6>ソレデ　イイノカ？<FFFD>ぽ<FFF5>	Guu......<FFFC> You insult me.<FFF6>Am me the bad guy?<FFFB><FFF7>Nuu...<FFFC> Me apologize.<FFF6>Is that okay?<FFFD>ぽ<FFF5>
+153	グゥ………<FFFC><FFF6>ソコマデ　言ウノカ……<FFFC><FFF6>オレサマ　ションボリ…<FFF5>	Guu......<FFFC> You say that much......<FFFC><FFF6>Me depressed...<FFF5>
+154	ヌウ…<FFFC><FFF6>オマエ　ニンゲン<FFF6>オレサマ　<FFF0>…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>ドコガ　イイ？<FFFD>ぁ<FFF5>	Nuu...<FFFC> You human.<FFF6>Me, <FFF0>...<FFFB><FFF7>Nuu...<FFFC> What you like<FFF6>about me?<FFFD>ぁ<FFF5>
+155	ヌウ…<FFFC><FFF6>オレサマ　ココロ　ユラグ…<FFFB><FFF7>オマエ　食ベタイ<FFF6>デモ　オレ　ダンジキ…<FFFC><FFF6>カワリニ　ナンカ　クレ<FFF1><FFF5>	Nuu...<FFFC> My heart wavers...<FFFB><FFF7>Want to eat you,<FFF6>but me fasting...<FFFC><FFF6>Give stuff instead.<FFF1><FFF5>
+156	ガァーー！<FFFC><FFF6>オレサマ　サワル<FFF6>オマエ　コワレテシマウ！<FFFB><FFF7>ニンゲン　モロイ！！<FFF6>モット　カタク　ナレ！<FFFD>ぃ<FFF5>	Gaaa!<FFFC> Me touch,<FFF6>you will break!<FFFB><FFF7>Humans fragile!!<FFF6>Get tougher!<FFFD>ぃ<FFF5>
+157	ガァーー！<FFFC><FFF6>オレサマ　<FFF0>！<FFF6>ニンゲン　キョウミ　ナイ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　目ザワリ！<FFF6>ハヤク　ウセロ！<FFF5>	Gaaa!<FFFC> Me, <FFF0>!<FFF6>No interest in humans!<FFFB><FFF7>Gaaa!<FFFC> You an eyesore!<FFF6>Get lost quickly!<FFF5>
+158	アオーン！<FFFC><FFF6>オマエ　ミリョクテキ！<FFF6>オレサマ　メロメロ！<FFFB><FFF7>アオーン！<FFFC><FFF6>オマエ　オレサマ　愛シテル？<FFFD>ぅ<FFF5>	Aooon!<FFFC> You charming!<FFF6>Me swooning!<FFFB><FFF7>Aooon!<FFFC> You love me?<FFFD>ぅ<FFF5>
+159	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>ユウワク　スレスレ！<FFFB><FFF7>アオーン！<FFFC><FFF6>キブン　サイキョウ！<FFF6>オレサマ　ナンカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC> You borderline<FFF6>tempting me!<FFFB><FFF7>Aooon!<FFFC> Best feeling!<FFF6>Me take something!<FFF1><FFF5>
+160	ヌウ…<FFFC><FFF6>オマエ　不幸…<FFF6>オレサマ　ドウジョウ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　助ケテヤリタイ<FFF6>オマエ　ドウシテ　欲シイ？<FFFD>ぇ<FFF5>	Nuu...<FFFC> You unhappy...<FFF6>Me sympathize...<FFFB><FFF7>Nuu...<FFFC> Me want to help.<FFF6>What you want?<FFFD>ぇ<FFF5>
+161	ヌウ…<FFFC><FFF6>オマエ　不幸…<FFF6>オレサマ　泣ケル…<FFF5>	Nuu...<FFFC> You unhappy...<FFF6>Me tearing up...<FFF5>
+162	ガァーー！<FFFC><FFF6>オレサマ　グチ　嫌イ！<FFF6>オマエ　イクジナシ！<FFFB><FFF7>オレサマ　オマエ<FFF6>モット　不幸ニスル！<FFFC><FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> Me hate whining!<FFF6>You coward!<FFFB><FFF7>Me make you<FFF6>more unhappy!<FFFC><FFF6>Give me stuff!!<FFF1><FFF5>
+163	ガァーー！<FFFC><FFF6>ニンゲン　オマエ　不幸<FFF6>オレサマ　無カンケイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFF6>泣ク　スグ　ヤメロ！！<FFFD>ぉ<FFF5>	Gaaa!<FFFC> You unhappy human.<FFF6>Me got nothing to do with it!!<FFFB><FFF7>Gaaa!<FFFC> You noisy!<FFF6>Stop crying now!!<FFFD>ぉ<FFF5>
+164	グゥ………<FFFC><FFF6>ニンゲン　タイヘン…<FFF6><FFF0>デ　ヨカッタ……<FFF5>	Guu......<FFFC> Humans got it hard...<FFF6>Glad me <FFF0>......<FFF5>
+165	グゥ………<FFFC><FFF6>オレサマ　ソンナノ　イヤダ…<FFFC><FFF6>オマエ　カカワリタクナイ…<FFFD>っ<FFF5>	Guu......<FFFC> Me hate that...<FFFC><FFF6>Me no want to get involved...<FFFD>っ<FFF5>
+166	ヌウ…<FFFC><FFF6>オレサマ　オドス<FFF6>オマエ　ムコウ見ズ！<FFFB><FFF7>オレサマ　<FFF3>！<FFF6>ツヨイ　サイキョウ！<FFF6>オマエ　ソレ　知ッテルカ？<FFFD>ゃ<FFF5>	Nuu...<FFFC> Me threaten.<FFF6>You reckless!<FFFB><FFF7>Me, <FFF3>!<FFF6>Strong! The strongest!<FFF6>You know that?<FFFD>ゃ<FFF5>
+167	ヌウ…<FFFC><FFF6>オマエ　オレサマ　オドス<FFF6>ゼンゼン　コワクナイ<FFFB><FFF7>オレサマ　思ウ<FFF6>オマエ　オドシ　ムイテナイ<FFF5>	Nuu...<FFFC> You threaten me.<FFF6>Not scary at all.<FFFB><FFF7>Me think<FFF6>you not cut out for it.<FFF5>
+168	ガァーー！<FFFC><FFF6>オマエ　オレサマ　アナドル！<FFF6>オレサマ　オカンムリ！<FFFB><FFF7>オレサマ　アマクミタ　バツ！<FFF6>オマエ　ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You underestimate me!<FFF6>Me furious!<FFFB><FFF7>Punishment for that!<FFF6>Give me stuff!!<FFF1><FFF5>
+169	ガァーー！<FFFC><FFF6>オレサマ　オドシ　負ケナイ！<FFF6>オマエ　ギャクニ　オドス！！<FFFB><FFF7>オレサマノ　種族　アテロ！<FFFC><FFF6>ハズレレバ　オレサマ<FFF6>オマエ　マルシャブリ！！<FFFD>ゅ<FFF5>	Gaaa!<FFFC> Me won not lose to threats!<FFF6>Me threaten back!!<FFFB><FFF7>Guess my race!<FFFC><FFF6>If wrong, me<FFF6>suck you dry!!<FFFD>ゅ<FFF5>
+170	グゥ………<FFFC><FFF6>オレサマ　オマエ　シタガウ…<FFF6>痛イノ　キライ……<FFF5>	Guu......<FFFC> Me obey you...<FFF6>Me hate pain......<FFF5>
+171	グゥ………<FFFC><FFF6>オレサマ　眠イ<FFF6>トウミン　ジャマスルナ…<FFF5>	Guu......<FFFC> Me sleepy.<FFF6>Hibernating. No bother...<FFF5>
+172	ガァーー！<FFFC><FFF6>ニンゲン　チョウシ　乗ルナ！<FFF6>オレサマ　ゴリップク！！<FFF5>	Gaaa!<FFFC> Human, do not get cocky!<FFF6>Me furious!!<FFF5>
+173	ガァーー！<FFFC><FFF6>イジメ　ヨクナイ！！<FFFB><FFF7>オレサマ　正義ノ　ミカタ！！<FFFC><FFF6>オマエ　ワル者！<FFF6>オレサマ　コラシメル！<FFFD>ょ<FFF5>	Gaaa!<FFFC> Bullying bad!!<FFFB><FFF7>Me ally of justice!!<FFFC><FFF6>You bad guy!<FFF6>Me punish you!<FFFD>ょ<FFF5>
+174	グゥ………<FFFC><FFF6>オマエ　イジメッ子？<FFF6>オレサマ　オマエ　キライ…<FFF5>	Guu......<FFFC> You bully?<FFF6>Me hate you...<FFF5>
+175	グゥ………<FFFC><FFF6>オレサマ　平和シュギ…<FFF6>オマエ　デンジャラス……<FFF5>	Guu......<FFFC> Me pacifist...<FFF6>You dangerous......<FFF5>
+176	アオーン！<FFFC><FFF6>オマエ　自信家！<FFF6>オレサマ　ソウイウノ　好キ！<FFFB><FFF7>ニンゲン　オモシロイ！<FFF6>チカラ　弱イノニ<FFF6>ドウシテ　ツヨガル？<FFFD>ゎ<FFF5>	Aooon!<FFFC> You confident!<FFF6>Me like that!<FFFB><FFF7>Humans funny!<FFF6>Weak power,<FFF6>why act tough?<FFFD>ゎ<FFF5>
+177	アオーン！<FFFC><FFF6>オレサマ　イイ感ジ！<FFF6>セスジ　ゾクゾク！！<FFF5>	Aooon!<FFFC> Feels good!<FFF6>Chills down me spine!!<FFF5>
+178	ヌウ…<FFFC><FFF6>オマエ　考エテ　生キテル<FFF6>オレサマ　ソノ日　グラシ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>ニンゲン　頭イイ<FFF6>オレサマ　勉強ニナル<FFF5>	Nuu...<FFFC> You live thinking.<FFF6>Me live day to day...<FFFB><FFF7>Nuu...<FFFC> Humans smart.<FFF6>Me learning.<FFF5>
+179	ヌウ…<FFFC><FFF6>オマエ　ヨク　言ッタ<FFF6>オレサマ　ソレ　同感！！<FFFB><FFF7>ヌウ…<FFFC><FFF6>セイカツ　カエタイ<FFF6>オレサマ　ドウスレバ　イイ？<FFFD>ア<FFF5>	Nuu...<FFFC> You spoke well.<FFF6>Me agree!!<FFFB><FFF7>Nuu...<FFFC> Me want change life.<FFF6>What should me do?<FFFD>ア<FFF5>
+180	ガァーー！<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>言ワレル　スジアイ　ナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>チョッカイ　ダス<FFF6>オマエ　ドウナンダ？<FFFD>イ<FFF5>	Gaaa!<FFFC> Me, <FFF3>!<FFF6>No reason to be told that!!<FFFB><FFF7>Gaaa!<FFFC> You meddling.<FFF6>How about you?<FFFD>イ<FFF5>
+181	ガァーー！<FFFC><FFF6>オレサマ　ナガ生キ！<FFF6>オマエ　ニンゲン　若イ！<FFFB><FFF7>オマエ　オレサマ　サトス<FFF6>マッタク　オカド違イ！！<FFF5>	Gaaa!<FFFC><FFF6>Me live long!<FFF6>You human young!<FFFB><FFF7>You lecture me?<FFF6>Totally off base!!<FFF5>
+182	アオーン！<FFFC><FFF6>オレサマ　生キカタ　変エル！<FFFB><FFF7>アオーン！<FFFC><FFF6>ハラ　ヘッタ……<FFF6>ナンカ　クレ…<FFF1><FFF5>	Aooon!<FFFC><FFF6>Me change way of life!<FFFB><FFF7>Aooon!<FFFC><FFF6>Me hungry...<FFF6>Give me something...<FFF1><FFF5>
+183	アオーン！<FFFC><FFF6>オレサマ　生キカタ　変エル！<FFF6>オマエ　イイコト　言ウ！！<FFF5>	Aooon!<FFFC><FFF6>Me change way of life!<FFF6>You say good thing!!<FFF5>
+184	ガァーー！<FFFC><FFF6>オマエ　オレサマ　シカル<FFF6>理由　ワカラナイ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　ジブンカッテ！<FFF6>オレサマ　オカンムリ！！<FFF5>	Gaaa!<FFFC><FFF6>You scold me<FFF6>for no reason!!<FFFB><FFF7>Gaaa!<FFFC><FFF6>You so selfish!<FFF6>Me furious!!<FFF5>
+185	ガァーー！<FFFC><FFF6>オレサマ　悪クナイ！<FFF6>オマエ　シカル　オカシイ！<FFFB><FFF7>オレサマ　悪イナラ　シカレ！<FFF6>ガァーー！<FFFC><FFF6>オレサマ　悪イノ　ドコダ？<FFFD>ウ<FFF5>	Gaaa!<FFFC><FFF6>Me not bad!<FFF6>You scolding is weird!<FFFB><FFF7>If me bad, then scold me!<FFF6>Gaaa!<FFFC><FFF6>Where me bad?<FFFD>ウ<FFF5>
+186	グゥ………<FFFC><FFF6>オレサマ　悪イ…<FFF6>シカラレル　コワイ……<FFF5>	Guu......<FFFC><FFF6>Me bad...<FFF6>Scolding scary......<FFF5>
+187	グゥ………<FFFC><FFF6>オレサマ　シカラレル　イヤ<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　オナカ　痛イ…<FFF6>オマエ　ヤクビョウガミ……<FFF5>	Guu......<FFFC><FFF6>Me hate being scolded<FFFB><FFF7>Guu......<FFFC><FFF6>Me stomach hurts...<FFF6>You plague god......<FFF5>
+188	アオーン！<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>シカラレテモ　ヘイキ！<FFF5>	Aooon!<FFFC><FFF6>Me, <FFF3>!<FFF6>Scolding no bother!<FFF5>
+189	アオーン！<FFFC><FFF6>オレサマ　シカル　ニンゲン<FFF6>トテモ　メズラシイ！<FFFB><FFF7>オマエ　キチョウ！<FFFC><FFF6>キネンニ　ナニカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>Human who scolds me<FFF6>very rare!<FFFB><FFF7>You precious!<FFFC><FFF6>For memory, me take something!<FFF1><FFF5>
+190	ヌウ…<FFFC><FFF6>ニンゲン　交渉シヨウ！<FFF6>オレサマ　話　シタイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>オマエ　ナマエ　何？<FFFD>エ<FFF5>	Nuu...<FFFC><FFF6>Human, let's negotiate!<FFF6>Me want talk!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, <FFF3>!<FFF6>You name what?<FFFD>エ<FFF5>
+191	ヌウ…<FFFC><FFF6>ニンゲン　交渉シヨウ！<FFF6>オレサマ　話　シタイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ハラ　ヘッタ！<FFF6>オマエ　ナンカ　クレ！<FFF1><FFF5>	Nuu...<FFFC><FFF6>Human, let's negotiate!<FFF6>Me want talk!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me hungry!<FFF6>You give something!<FFF1><FFF5>
+192	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>無視スルナ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　失礼！<FFF6>オレサマ　ゴキゲンナナメ！！<FFFD>オ<FFF5>	Gaaa!<FFFC><FFF6>You, ignore me not!!<FFFB><FFF7>Gaaa!<FFFC><FFF6>You rude!<FFF6>Me in bad mood!!<FFFD>オ<FFF5>
+193	ガァーー！<FFFC><FFF6>オマエ　オレサマ　シカト！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オカンムリ！<FFF6>オマエ　許サナイ！<FFF5>	Gaaa!<FFFC><FFF6>You snub me!<FFFB><FFF7>Gaaa!<FFFC><FFF6>Me furious!<FFF6>Me never forgive you!<FFF5>
+194	グゥ………<FFFC><FFF6>オマエ　オレサマ　シカト…<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>交渉　シテルノニ…<FFF5>	Guu......<FFFC><FFF6>You snub me...<FFFB><FFF7>Guu......<FFFC><FFF6>You, me negotiating...<FFF5>
+195	グゥ………<FFFC><FFF6>オマエ　オレサマ　無視…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　イイ　アクマ<FFF6>ヤッパリ　ニンゲン　コワイ<FFF5>	Guu......<FFFC><FFF6>You ignore me...<FFFB><FFF7>Guu......<FFFC><FFF6>Me good demon<FFF6>Humans scary after all<FFF5>
+196	ヌウ…<FFFC><FFF6>ニンゲン　交渉シヨウ！<FFF6>オレサマ　話　シタイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　<FFF3>！<FFF6>オマエ　ナマエ　何？<FFFD>カ<FFF5>	Nuu...<FFFC><FFF6>Human, let's negotiate!<FFF6>Me want talk!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, <FFF3>!<FFF6>You name what?<FFFD>カ<FFF5>
+197	ヌウ…<FFFC><FFF6>ニンゲン　交渉シヨウ！<FFF6>オレサマ　話　シタイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ハラ　ヘッタ！<FFF6>オマエ　ナンカ　クレ！<FFF1><FFF5>	Nuu...<FFFC><FFF6>Human, let's negotiate!<FFF6>Me want talk!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me hungry!<FFF6>You give something!<FFF1><FFF5>
+198	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>無視スルナ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　失礼！<FFF6>オレサマ　ゴキゲンナナメ！！<FFFD>キ<FFF5>	Gaaa!<FFFC><FFF6>You, ignore me not!!<FFFB><FFF7>Gaaa!<FFFC><FFF6>You rude!<FFF6>Me in bad mood!!<FFFD>キ<FFF5>
+199	ガァーー！<FFFC><FFF6>オマエ　オレサマ　シカト！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オカンムリ！<FFF6>オマエ　許サナイ！<FFF5>	Gaaa!<FFFC><FFF6>You snub me!<FFFB><FFF7>Gaaa!<FFFC><FFF6>Me furious!<FFF6>Me never forgive you!<FFF5>
+200	グゥ………<FFFC><FFF6>オマエ　オレサマ　シカト…<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>交渉　シテルノニ…<FFF5>	Guu......<FFFC><FFF6>You snub me...<FFFB><FFF7>Guu......<FFFC><FFF6>You, me negotiating...<FFF5>
+201	グゥ………<FFFC><FFF6>オマエ　オレサマ　無視…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　イイ　アクマ<FFF6>ニンゲン　ナゼ　シカト？<FFFD>ク<FFF5>	Guu......<FFFC><FFF6>You ignore me...<FFFB><FFF7>Guu......<FFFC><FFF6>Me good demon<FFF6>Why humans snub?<FFFD>ク<FFF5>
+202	ヌウ…<FFFC><FFF6>オレサマ　オドス<FFF6>オマエ　ムコウ見ズ！<FFFB><FFF7>オレサマ　<FFF3>！<FFF6>ツヨイ　サイキョウ！<FFF6>オマエ　ソレ　知ッテルカ？<FFFD>ケ<FFF5>	Nuu...<FFFC> Me threaten.<FFF6>You reckless!<FFFB><FFF7>Me, <FFF3>!<FFF6>Strong! The strongest!<FFF6>You know that?<FFFD>ケ<FFF5>
+203	ヌウ…<FFFC><FFF6>オマエ　オレサマ　オドス<FFF6>ゼンゼン　コワクナイ<FFFB><FFF7>オマエ　オレサマ<FFF6>ナニカ　ミツグ　ヨイ！<FFF1><FFF5>	Nuu...<FFFC><FFF6>You threaten me<FFF6>not scary at all<FFFB><FFF7>You, me<FFF6>should offer something!<FFF1><FFF5>
+204	ガァーー！<FFFC><FFF6>オマエ　オレサマ　アナドル！<FFF6>オレサマ　オカンムリ！<FFFB><FFF7>オレサマ　アマクミタ　バツ！<FFF6>オマエ　ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC> You underestimate me!<FFF6>Me furious!<FFFB><FFF7>Punishment for that!<FFF6>Give me stuff!!<FFF1><FFF5>
+205	ガァーー！<FFFC><FFF6>オレサマ　オドシ　負ケナイ！<FFF6>オマエ　ギャクニ　オドス！！<FFFB><FFF7>オレサマノ　種族　アテロ！<FFFC><FFF6>ハズレレバ　オレサマ<FFF6>オマエ　マルシャブリ！！<FFFD>コ<FFF5>	Gaaa!<FFFC> Me won not lose to threats!<FFF6>Me threaten back!!<FFFB><FFF7>Guess my race!<FFFC><FFF6>If wrong, me<FFF6>suck you dry!!<FFFD>コ<FFF5>
+206	グゥ………<FFFC><FFF6>オレサマ　オマエ　シタガウ…<FFF6>痛イノ　キライ……<FFF5>	Guu......<FFFC> Me obey you...<FFF6>Me hate pain......<FFF5>
+207	グゥ………<FFFC><FFF6>オレサマ　眠イ<FFF6>トウミン　ジャマスルナ…<FFF5>	Guu......<FFFC> Me sleepy.<FFF6>Hibernating. No bother...<FFF5>
+208	ガァーー！<FFFC><FFF6>オマエ　叫ブ　ウルサイ<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>トウミン　邪魔スルカ！？<FFFD>サ<FFF5>	Gaaa!<FFFC><FFF6>You shout, noisy<FFFB><FFF7>Gaaa!<FFFC><FFF6>You disturb my hibernation!?<FFFD>サ<FFF5>
+209	ガァーー！<FFFC><FFF6>オマエ　ウルサイ！<FFF6>オレサマ　アタマ　痛イ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　ダマレ<FFF6>オレサマ　怒ッテル！！<FFF5>	Gaaa!<FFFC><FFF6>You noisy!<FFF6>Me head hurts!<FFFB><FFF7>Gaaa!<FFFC><FFF6>You shut up<FFF6>Me angry!!<FFF5>
+210	グゥ………<FFFC><FFF6>オマエ　変人………<FFF5>	Guu......<FFFC><FFF6>You weirdo......<FFF5>
+211	グゥ………<FFFC><FFF6>オマエ　ニンゲン…<FFF6>ナノニ　ナゼ　叫ブ？<FFFD>シ<FFF5>	Guu......<FFFC><FFF6>You human...<FFF6>Why you shout?<FFFD>シ<FFF5>
+212	アオーン！<FFFC><FFF6>オマエ　叫ブ<FFF6>野性ノ　ショウメイ！<FFFB><FFF7>オレサマ　叫ぶ！<FFF6>アオーン！　アオーン！<FFFC><FFF6>オレサマ　ナンカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>You shout<FFF6>proof of wildness!<FFFB><FFF7>Me shout too!<FFF6>Aooon! Aooon!<FFFC><FFF6>Me take something!<FFF1><FFF5>
+213	アオーン！<FFFC><FFF6>オマエ　イイ　叫ビ！<FFF6>オレサマ　嬉シイ！<FFFB><FFF7>オマエ　モット　モット<FFF6>叫ビ　ヨクナル！！<FFF5>	Aooon!<FFFC><FFF6>You good shout!<FFF6>Me happy!<FFFB><FFF7>You more, more<FFF6>shout get better!!<FFF5>
+214	ヌウ…<FFFC><FFF6>オレサマ　オドロキ！<FFF6>オマエ　スゴイ技　モッテル<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　知リタイ<FFF6>オマエ　教エテクレルカ？<FFFD>ス<FFF5>	Nuu...<FFFC><FFF6>Me surprised!<FFF6>You have amazing skill!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me want to know<FFF6>You teach me?<FFFD>ス<FFF5>
+215	ヌウ…<FFFC><FFF6>オマエ　マジシャン<FFF6>オレサマ　<FFF0><FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　イカス！！<FFF6>ナンカ　スゴイ奴！<FFF5>	Nuu...<FFFC><FFF6>You magician<FFF6>Me, <FFF0><FFFB><FFF7>Nuu...<FFFC><FFF6>You cool!!<FFF6>Something amazing guy!<FFF5>
+216	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>トッテモ　オドロカス…<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　怪シイ術　ツカウ<FFF6>オレサマ　コワイ…<FFF5>	Guu......<FFFC><FFF6>You, me<FFF6>very surprised...<FFFB><FFF7>Guu......<FFFC><FFF6>You use strange arts<FFF6>Me scared...<FFF5>
+217	グゥ………<FFFC><FFF6>オマエ　マジュツ　ツカウ…<FFFC><FFF6>オレサマ　コワイ…<FFFB><FFF7>オレサマ　ワカル…<FFFC><FFF6>オマエ　シクンデル…<FFFD>セ<FFF5>	Guu......<FFFC><FFF6>You use magic...<FFFC><FFF6>Me scared...<FFFB><FFF7>Me understand...<FFFC><FFF6>You are scheming...<FFFD>セ<FFF5>
+218	アオーン！<FFFC><FFF6>オマエ　ジョウズ！<FFF6>オレサマ　ユカイ！！<FFFB><FFF7>アオーン！<FFFC><FFF6>オレサマ　モット　見タイ！<FFFD>ソ<FFF5>	Aooon!<FFFC><FFF6>You good!<FFF6>Me having fun!!<FFFB><FFF7>Aooon!<FFFC><FFF6>Me want to see more!<FFFD>ソ<FFF5>
+219	アオーン！<FFFC><FFF6>オマエ　ジョウズ！<FFF6>マジュツ　プロ！<FFFB><FFF7>オレサマ　手品　好キ！<FFFC><FFF6>ナンカ　出シテクレ<FFF6>オレサマ　ソレ　モラウ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>You good!<FFF6>Magic pro!<FFFB><FFF7>Me like magic tricks!<FFFC><FFF6>Pull something out<FFF6>Me take it!<FFF1><FFF5>
+220	ヌウ…<FFFC><FFF6>オレサマ　話　キイタ…<FFF6>…オモシロカッタゾ！<FFF5>	Nuu...<FFFC><FFF6>Me heard talk...<FFF6>...was interesting!<FFF5>
+221	ヌウ…<FFFC><FFF6>オマエ　話　好キナノカ？<FFF6>オレサマ　話　大好キ！<FFF5>	Nuu...<FFFC><FFF6>You like talk?<FFF6>Me love talk!<FFF5>
+222	ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>話　キイテ　ヤッタ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>ナンカ　クレ…<FFF1><FFF5>	Nuu...<FFFC><FFF6>Me, you<FFF6>listened to you...<FFFB><FFF7>Nuu...<FFFC><FFF6>Give me something...<FFF1><FFF5>
+223	ガァーー！<FFFC><FFF6>オレサマ　話　キョウミナイ！<FFF6>オマエ　ウルサイ　ダマレ！！<FFF5>	Gaaa!<FFFC><FFF6>Me no interest in talk!<FFF6>You noisy, shut up!!<FFF5>
+224	ガァーー！<FFFC><FFF6>オマエ　話　クダラナイ！<FFF6>別ノ話　シロ！<FFF5>	Gaaa!<FFFC><FFF6>Your talk worthless!<FFF6>Talk about something else!<FFF5>
+225	ガァーー！<FFFC><FFF6>オマエ　ウルサイ<FFF6>オレサマ　ゴキゲン　ナナメ！<FFFB><FFF7>オマエ　オレサマ<FFF6>ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>You noisy<FFF6>Me in bad mood!<FFFB><FFF7>You, me<FFF6>give me something!<FFF1><FFF5>
+226	グゥ………<FFFC><FFF6>ニンゲン　話　スル<FFF6>ナニカ　アルトキ……<FFFB><FFF7>オレサマ　オマエ<FFF6>シンヨウ　デキナイ……<FFF5>	Guu......<FFFC><FFF6>Humans talk<FFF6>when something is up...<FFFB><FFF7>Me cannot trust you...<FFF5>
+227	グゥ………<FFFC><FFF6>ニンゲン　話　スル<FFF6>ナニカ　アルトキ……<FFFB><FFF7>シンヨウ　デキナイ……<FFFC><FFF6>ナニカ　クレレバ<FFF6>チョットハ　信ジル…<FFF1><FFF5>	Guu......<FFFC><FFF6>Humans talk<FFF6>when something is up...<FFFB><FFF7>Cannot trust...<FFFC><FFF6>If you give something,<FFF6>me maybe believe a bit...<FFF1><FFF5>
+228	アオーン！<FFFC><FFF6>ユカイ！　ユカイ！！<FFF6>オマエ　話　オモシロイ！<FFF5>	Aooon!<FFFC><FFF6>Fun! Fun!!<FFF6>You talk is funny!<FFF5>
+229	アオーン！<FFFC><FFF6>オレサマ　ニンゲン　好キ<FFF6>ニンゲン　話　好キ<FFFB><FFF7>アオーン！<FFF6>ダカラ　オレサマ　話　好キ！<FFF5>	Aooon!<FFFC><FFF6>Me like humans<FFF6>like human talk<FFFB><FFF7>Aooon!<FFF6>So me like talk!<FFF5>
+230	アオーン！<FFFC><FFF6>オレサマ　話　好キ<FFF6>ナニカ　クレレバ　大好キ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>Me like talk<FFF6>if you give something, love!<FFF1><FFF5>
+231	ヌウ…<FFFC><FFF6>オレサマ　頼リニナル獣！<FFF6>オマエ　見ル目　アル！<FFF5>	Nuu...<FFFC><FFF6>Me reliable beast!<FFF6>You have good eye!<FFF5>
+232	ヌウ…<FFFC><FFF6>オマエ　オレサマ　必要カ？<FFFC><FFF6>…オレサマ　愛サレテル？！<FFF5>	Nuu...<FFFC><FFF6>You need me?<FFFC><FFF6>...Me loved?!<FFF5>
+233	ヌウ…<FFFC><FFF6>オレサマ　ツヨイケド…<FFF6>スゴク　燃費　悪イゾ<FFF1><FFF5>	Nuu...<FFFC><FFF6>Me strong, but...<FFF6>Me eat a lot!<FFF1><FFF5>
+234	ガァーー！<FFFC><FFF6>オレサマ　<FFF0>！<FFF6>ニンゲン　カマウナ！！<FFF5>	Gaaa!<FFFC><FFF6>Me, <FFF0>!<FFF6>Don't bother with humans!!<FFF5>
+235	ガァーー！<FFFC><FFF6>オレサマ　直球　交渉<FFF6>好キジャナイ！<FFFB><FFF7>オマエ　モウ　チョット<FFF6>楽シイ　交渉術シロ！<FFF5>	Gaaa!<FFFC><FFF6>Me no like blunt deal!<FFF6>Not like it!<FFFB><FFF7>You, a bit more<FFF6>fun negotiating!<FFF5>
+236	ガァーー！<FFFC><FFF6>オレサマ　<FFF0>！<FFF6>ニンゲン　相手　シナイ！<FFFB><FFF7>オマエ　オレサマ<FFF6>力　本当ニ　ホシケレバ<FFF6>ナニカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>Me, <FFF0>!<FFF6>Me not deal with humans!<FFFB><FFF7>If you really want my power,<FFF6>give something!!<FFF1><FFF5>
+237	グゥ………<FFFC><FFF6>オレサマ　ショウシン者…<FFF6>コノ話　ワナ　カモ………<FFF5>	Guu......<FFFC><FFF6>Me timid...<FFF6>This talk maybe trap......<FFF5>
+238	グゥ………<FFFC><FFF6>ニンゲン　交渉　スル<FFF6>ナニカ　アルトキ……<FFFB><FFF7>オレサマ　オマエ<FFF6>シンヨウ　デキナイ……<FFF5>	Guu......<FFFC><FFF6>Humans negotiate<FFF6>when something is up...<FFFB><FFF7>Me cannot trust you......<FFF5>
+239	ヌウ…<FFFC><FFF6>オレサマ　安月給　イヤ…<FFF6>ビンボウ　ツライ…<FFFB><FFF7>オマエ　ドレクライ<FFF6>払エルカ　チェック　スル…<FFF1><FFF5>	Nuu...<FFFC><FFF6>Me hate low pay...<FFF6>Being poor is hard...<FFFB><FFF7>Let me check<FFF6>how much you can pay...<FFF1><FFF5>
+240	アオーン！<FFFC><FFF6>オレサマ　タノマレル　嬉シイ！<FFF5>	Aooon!<FFFC><FFF6>Me asked for help, happy!<FFF5>
+241	アオーン！<FFFC><FFF6>ナンカ　テレルナ……<FFFC><FFF6>アオーン！　アオーン！<FFF5>	Aooon!<FFFC><FFF6>Me feel shy......<FFFC><FFF6>Aooon! Aooon!<FFF5>
+242	アオーン！<FFFC><FFF6>オマエ　オレサマ<FFF6>実力ワカル　エライ奴！<FFFB><FFF7>アオーン！<FFFC><FFF6>ナンカ　クレレバ<FFF6>オマエ　好キ　ナルゾ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>You, me<FFF6>know my power, great guy!<FFFB><FFF7>Aooon!<FFFC><FFF6>If you give something<FFF6>me will like you!<FFF1><FFF5>
+243	ヌウ…<FFFC><FFF6>オレサマ　怒ラナイ<FFF6><FFF0>ハ　ココロ　ヒロイ！<FFF5>	Nuu...<FFFC><FFF6>Me not angry<FFF6><FFF0> is big-hearted!<FFF5>
+244	ヌウ…<FFFC><FFF6>オマエ　交渉スル気　アルカ？<FFF6>オレサマ　ワカラナイゾ<FFF5>	Nuu...<FFFC><FFF6>You want to negotiate?<FFF6>Me not know...<FFF5>
+245	ヌウ…<FFFC><FFF6>オマエ　交渉ジュツ<FFF6>本当ニ　ソノテイドカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　レクチュアー<FFF6>ナンカ　クレ<FFF1><FFF5>	Nuu...<FFFC><FFF6>Your negotiation skill<FFF6>really that level?<FFFB><FFF7>Nuu...<FFFC><FFF6>Me want lecture...<FFF6>Give something<FFF1><FFF5>
+246	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>馬鹿ニ　シテルダロ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　オレサマ　ナメテル！<FFF6>ムカツク　カジロウカ！！<FFF5>	Gaaa!<FFFC><FFF6>You, me<FFF6>making me a fool, right!<FFFB><FFF7>Gaaa!<FFFC><FFF6>You look down on me!<FFF6>Me gonna bite you, annoying!!<FFF5>
+247	ガァーー！<FFFC><FFF6>オレサマ　ゴキゲンナナメ！<FFF6>オマエ　交渉スル　資格ナイ！<FFF5>	Gaaa!<FFFC><FFF6>Me in bad mood!<FFF6>You no right to negotiate!<FFF5>
+248	ガァーー！<FFFC><FFF6>オレサマ　<FFF0>！<FFF6>ソンナ　交渉　相手シナイ！<FFFB><FFF7>オレサマ　ゴリップク！<FFF6>オマエ　ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>Me, <FFF0>!<FFF6>Not deal with such talk!<FFFB><FFF7>Me furious!<FFF6>You give something!!<FFF1><FFF5>
+249	グゥ………<FFFC><FFF6>オレサマ　キブン　悪イ<FFF6>オマエ　嫌ナ　感ジ…<FFF5>	Guu......<FFFC><FFF6>Me mood bad<FFF6>You feel unpleasant...<FFF5>
+250	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>バカニシテ　タノシイカ…<FFF5>	Guu......<FFFC><FFF6>You, me<FFF6>making fun, fun?...<FFF5>
+251	グゥ………<FFFC><FFF6>オマエ　オソロシイ…<FFF6>嫌ナ　ニンゲン…<FFF5>	Guu......<FFFC><FFF6>You scary...<FFF6>Nasty human...<FFF5>
+252	アオーン！<FFFC><FFF6>オレサマ　ゲダツ！<FFFC><FFF6>イツモ　ニコニコ　スル！<FFF5>	Aooon!<FFFC><FFF6>Me enlightened!<FFFC><FFF6>Always smile!<FFF5>
+253	アオーン！<FFFC><FFF6>オレサマ　ヨク　ワカラナイ<FFF6>デモ　ナンカ　楽シイ<FFF5>	Aooon!<FFFC><FFF6>Me not understand well<FFF6>but kinda fun<FFF5>
+254	アオーン！<FFFC><FFF6>オマエ　交渉ジュツ　マチガイ<FFF6>オレサマ　教エテ　アゲル！<FFFB><FFF7>アオーン！<FFFC><FFF6>オマエサン　ナンカ　オクレ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>Your negotiation wrong<FFF6>Me teach you!<FFFB><FFF7>Aooon!<FFFC><FFF6>Send me something, pal!<FFF1><FFF5>
+255	ヌウ…<FFFC><FFF6>オマエ　今ノ　芸ナノカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>モット　ミガク　ヨイ<FFF6>オレサマ　期待シテル！<FFF5>	Nuu...<FFFC><FFF6>Is that your act now?<FFFB><FFF7>Nuu...<FFFC><FFF6>Should polish more!<FFF6>Me expecting!<FFF5>
+256	ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>今ノ芸　ナカナカ　イイ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>ナンカ　好キ！<FFF5>	Nuu...<FFFC><FFF6>Me, you<FFF6>this act pretty good!<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, you<FFF6>kinda like!<FFF5>
+257	ヌウ…<FFFC><FFF6>オレサマ　オモウ…<FFF6>オマエ　今ノ芸　今イッポ<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　評価シテヤッタ<FFF6>ダカラ　ナニカ　オクレ<FFF1><FFF5>	Nuu...<FFFC><FFF6>Me think...<FFF6>You act, one more step<FFFB><FFF7>Nuu...<FFFC><FFF6>Me gave you a rating<FFF6>so send something<FFF1><FFF5>
+258	ガァーー！<FFFC><FFF6>オマエ　芸　ヘタッピ！<FFF6>オレサマ　オカンムリ！！<FFF5>	Gaaa!<FFFC><FFF6>You act bad!<FFF6>Me furious!!<FFF5>
+259	ガァーー！<FFFC><FFF6>オレサマ　ゴキゲンナナメ<FFF6>オマエ　芸　オソマツ！<FFF5>	Gaaa!<FFFC><FFF6>Me in bad mood<FFF6>You act sloppy!<FFF5>
+260	ガァーー！<FFFC><FFF6>オマエ　芸　ヘタクソ！<FFF6>オマエ　交渉　ヘタクソ！<FFFB><FFF7>ガァーー！<FFFC><FFF6>オレサマ　オカンムリ<FFF6>ナンカ　モラウゾ！！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>You act lousy!<FFF6>You negotiate lousy!<FFFB><FFF7>Gaaa!<FFFC><FFF6>Me furious<FFF6>Me take something!!<FFF1><FFF5>
+261	グゥ………<FFFC><FFF6>オレサマ　眠イ……<FFF5>	Guu......<FFFC><FFF6>Me sleepy......<FFF5>
+262	グゥ………<FFFC><FFF6>オマエ　ナンカ　アヤシイ…<FFF6>オレサマ　芸ニン　コワイ…<FFF5>	Guu......<FFFC><FFF6>You somehow suspicious...<FFF6>Me scared of entertainers...<FFF5>
+263	アオーン！<FFFC><FFF6>オレサマ　芸　大好キ！<FFF6>オマエ　芸ニン　ユカイ！<FFF5>	Aooon!<FFFC><FFF6>Me love acts!<FFF6>You entertainer fun!<FFF5>
+264	アオーン！<FFFC><FFF6>オマエ　芸　楽シイ！<FFF6>オレサマ　楽シイ！！<FFF5>	Aooon!<FFFC><FFF6>You act fun!<FFF6>Me fun!!<FFF5>
+265	アオーン！<FFFC><FFF6>オマエ　エンタテイナー！<FFF6>オレサマ　ホスト！<FFFB><FFF7>アオーン！<FFFC><FFF6>ホスト　ナンカ　モラウ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>You entertainer!<FFF6>Me host!<FFFB><FFF7>Aooon!<FFFC><FFF6>Host take something!<FFF1><FFF5>
+266	ヌウ…<FFFC><FFF6>オマエ　オレサマ　マドワセル<FFF6>オレサマ　ドウシヨウ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　コマッタ<FFF6>オマエ　ケッコウ　魅力テキ…<FFF5>	Nuu...<FFFC><FFF6>You bewilder me<FFF6>what do me do...<FFFB><FFF7>Nuu...<FFFC><FFF6>Me troubled<FFF6>You quite charming...<FFF5>
+267	ヌウ…<FFFC><FFF6>オレサマ　ココロ　ユレテル…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　アヤシイ　ケド…<FFF6>トテモ　ミワクテキ！<FFF5>	Nuu...<FFFC><FFF6>Me heart wavering...<FFFB><FFF7>Nuu...<FFFC><FFF6>You suspicious, but...<FFF6>very alluring!<FFF5>
+268	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>ココロ　ユサブル　ニクイヤツ<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　興味アル<FFF6>オレサマ　ナニカ　欲シイ<FFF1><FFF5>	Nuu...<FFFC><FFF6>You, me<FFF6>annoying one who shakes heart<FFFB><FFF7>Nuu...<FFFC><FFF6>You interest me<FFF6>Me want something<FFF1><FFF5>
+269	ガァーー！<FFFC><FFF6>オレサマ　シリ　カルクナイ！<FFF6>オマエ　ホカ　アタレ！！<FFF5>	Gaaa!<FFFC><FFF6>Me not easy!<FFF6>Try someone else!!<FFF5>
+270	ガァーー！<FFFC><FFF6>オレサマ　<FFF0>！<FFF6>ニンゲン　興味ナイ！！<FFF5>	Gaaa!<FFFC><FFF6>Me, <FFF0>!<FFF6>No interest in humans!!<FFF5>
+271	ガァーー！<FFFC><FFF6>オマエ　交渉スル　早イ<FFF6>モノゴト　ジュンジョ　アル！<FFFB><FFF7>オレサマ　ハラ　ヘッテル…<FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>You negotiate too fast!<FFF6>Things need order!<FFFB><FFF7>Me hungry...<FFF6>Give me something!!<FFF1><FFF5>
+272	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>ココロ　乱ス…<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　困ル……<FFF5>	Guu......<FFFC><FFF6>You, me<FFF6>heart all messed up...<FFFB><FFF7>Guu......<FFFC><FFF6>Me troubled......<FFF5>
+273	グゥ………<FFFC><FFF6>オレサマ　オマエ<FFF6>誘ワレル　嬉シイケド…<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　ニンゲン…<FFF6>オレサマ…<FFFC>…<FFFC>…<FFF5>	Guu......<FFFC><FFF6>Me glad you invite me...<FFFB><FFF7>Guu......<FFFC><FFF6>You human...<FFF6>Me...<FFFC>...<FFFC>...<FFF5>
+274	グゥ………<FFFC><FFF6>オレサマ　センヤク　アル…<FFFB><FFF7>オレサマ　オマエ<FFF6>嫌イジャ　ナイガ……<FFF5>	Guu......<FFFC><FFF6>Me have prior engagement...<FFFB><FFF7>Me, you<FFF6>not hate, but......<FFF5>
+275	アオーン！<FFFC><FFF6>オマエ　オレサマ　サソウ<FFF6>オレサマ　チョウ　嬉シイ！<FFF5>	Aooon!<FFFC><FFF6>You invite me<FFF6>Me super happy!<FFF5>
+276	アオーン！<FFFC><FFF6>オマエ　オレサマ　サソウ！<FFF6>ソレ　トテモ　イイ話！<FFF5>	Aooon!<FFFC><FFF6>You invite me!<FFF6>That very good talk!<FFF5>
+277	アオーン！<FFFC><FFF6>オマエ　オレサマ　気ニ入ル！<FFF6>マルマル嬉シイ！<FFF5>	Aooon!<FFFC><FFF6>You like me!<FFF6>Super happy!<FFF5>
+278	ヌウ…<FFFC><FFF6>オマエ　演技ジョウズ<FFF6>オレサマ　気ニイッタ！<FFF5>	Nuu...<FFFC><FFF6>You acting good<FFF6>Me like it!<FFF5>
+279	ヌウ…<FFFC><FFF6>オマエ　演技ジョウズ<FFF6>オマエ　出世　シソウダ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>今ノ　ウチニ<FFF6>ナンカ　モラットク！<FFF1><FFF5>	Nuu...<FFFC><FFF6>You acting good<FFF6>You look like rising high!<FFFB><FFF7>Nuu...<FFFC><FFF6>Before that,<FFF6>me take something!<FFF1><FFF5>
+280	ガァーー！<FFFC><FFF6>オマエ　コシ　低スギ！<FFF6>オレサマ　交渉　ヘタ！<FFF5>	Gaaa!<FFFC><FFF6>You too humble!<FFF6>Me bad at talks!<FFF5>
+281	ガァーー！<FFFC><FFF6>オマエ　ナニシニ　来タ？<FFF6>カジラレタイ　ノカ！！<FFF5>	Gaaa!<FFFC><FFF6>Why you come here?<FFF6>Want to get bitten!!<FFF5>
+282	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>シンヨウ　シテナイ！<FFFB><FFF7>オレサマ　ゴキゲンナナメ<FFF6>オマエ　ナンカ　ヨコセ！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>You don't trust me!<FFFB><FFF7>Me in bad mood<FFF6>You give something!<FFF1><FFF5>
+283	グゥ………<FFFC><FFF6>オマエ　オレサマ　オダテル<FFF6>ソレ　裏ナイカ……<FFF5>	Guu......<FFFC><FFF6>You flatter me<FFF6>is there a catch...?<FFF5>
+284	グゥ………<FFFC><FFF6>オマエ　コビ売リスギ<FFF6>ナンカ　アヤシイ………<FFF5>	Guu......<FFFC><FFF6>You fawn too much<FFF6>somehow suspicious.........<FFF5>
+285	アオーン！<FFFC><FFF6><FFF3>　嬉シイ！<FFF6>オマエ　乗セルノ　ジョウズ！<FFF5>	Aooon!<FFFC><FFF6><FFF3> happy!<FFF6>You good at getting me going!<FFF5>
+286	アオーン！<FFFC><FFF6><FFF0>　スゴイ！<FFF6>アオーン！　アオーン！<FFF5>	Aooon!<FFFC><FFF6><FFF0> amazing!<FFF6>Aooon! Aooon!<FFF5>
+287	アオーン！<FFFC><FFF6>オレサマ　イイ　気分！<FFF6>アオーン！　ジョウキゲン！<FFFB><FFF7>オレサマ　スゴイ！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナニカ　ミツグヨイ！<FFF1><FFF5>	Aooon!<FFFC><FFF6>Me feel great!<FFF6>Aooon! Good mood!<FFFB><FFF7>Me amazing!<FFFC><FFF6>You, me<FFF6>should offer something!<FFF1><FFF5>
+288	ヌウ…<FFFC><FFF6>オマエ　オレサマカード<FFF6>モウ　持ッテル！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　カード　捨テタラ<FFF6>オレサマ　オマエ　マルカジリ<FFEF>	Nuu...<FFFC><FFF6>You already have<FFF6>my card!<FFFB><FFF7>Nuu...<FFFC><FFF6>If you throw card away,<FFF6>me chomp you<FFEF>
+289	アオーン！<FFFC><FFF6>オレサマ　コレ　アゲル！<FFEF>	Aooon!<FFFC><FFF6>Me give this!<FFEF>
+290	ヌウ…<FFFC><FFF6>オマエ　何モ　イラナイ<FFF6>ケンキョナ　ニンゲン…<FFEF>	Nuu...<FFFC><FFF6>You want nothing<FFF6>modest human...<FFEF>
+291	アオーン！　グゥ………<FFF6>ガァーー！　ヌウ…<FFEF>	Aooon! Guu......<FFF6>Gaaa! Nuu...<FFEF>
+292	ガァーー！<FFFC><FFF6>オマエ　ミジュク者！！<FFF6>キタエテ　マタ　交渉シロ！！<FFEF>	Gaaa!<FFFC><FFF6>You inexperienced!!<FFF6>Train, then negotiate again!!<FFEF>
+293	ヌウ…<FFFC><FFF6>ソレデモ　オレサマ<FFF6>コレ　ヤル！<FFEF>	Nuu...<FFFC><FFF6>Even so, me<FFF6>give this!<FFEF>
+294	ヌウ…<FFFC><FFF6>オレサマ　ソロソロ<FFF6>カエル時間…<FFEF>	Nuu...<FFFC><FFF6>Me time to go<FFF6>soon...<FFEF>
+295	オレサマ　オマエ<FFF6>トッテモ　好キダカラ<FFF6>コレモ　ヤル！<FFEF>	Me like you a lot,<FFF6>so this too, take it!<FFEF>
+296	ガァーー！<FFFC><FFF6>ハヤク　シロ！<FFF6>オレサマ　ハラヘッタ！<FFEF>	Gaaa!<FFFC><FFF6>Hurry up!<FFF6>Me hungry!<FFEF>
+297	アオーン！<FFFC><FFF6><FFF0><FFF3><FFF6>スペルカード　渡スゾ！<FFFB><FFF7>強イ　ペルソナ<FFF6>オレサマ　キボウスル！<FFFC><FFF6>オマエ　頼ンダゾ！<FFEF>	Aooon!<FFFC><FFF6><FFF0><FFF3><FFF6>Spell Card, me give!<FFFB><FFF7>Strong Persona,<FFF6>me hope for it!<FFFC><FFF6>You, I count on you!<FFEF>
+298	オレサマ　アタマ<FFF6>イタイ　イタイ　イタイ！<FFF6>交渉ヤメテ　モウ　帰ル…<FFEF>	Me head<FFF6>hurts hurts hurts!<FFF6>Stop talk, me go home...<FFEF>
+299	ガァーー！<FFFC><FFF6>ツマリ　オマエ　ツマラナイ！<FFF6>オレサマ　モウ　ヤメタ！！<FFEF>	Gaaa!<FFFC><FFF6>So you boring!<FFF6>Me quit!!<FFEF>
+300	ガァーー！<FFFC><FFF6>ツマリ　オマエ　ツマラナイ！<FFF6>オレサマ　モウ　ヤメタ！！<FFFB><FFF7>オレサマ　コレヤル<FFF6>少シハ　ベンキョウシロ！<FFEF>	Gaaa!<FFFC><FFF6>So you boring!<FFF6>Me quit!!<FFFB><FFF7>Me give this<FFF6>study a little!<FFEF>
+301	………<FFFC><FFF6>オマエ　デカスギ！！<FFF6>オレサマ　アゴ　ハズレル…<FFEF>	......<FFFC><FFF6>You too big!!<FFF6>Me jaw comes off...<FFEF>
+302	ガァーー！<FFF6>オレサマ　カジリタイノニ！？<FFFC><FFF6>モウヤケ！　カード　ヤル！！<FFEF>	Gaaa!<FFF6>Me want to bite, but!?<FFFC><FFF6>Oh well! Take card!!<FFEF>
+303	オマエ　カード　足リテルカ？<FFF6>オレサマ　カード　持ッテル！<FFEF>	You have enough cards?<FFF6>Me have cards!<FFEF>
+304	オマエ　オレサマカード<FFF6>使イコナセル　ダロウ！<FFF6>アゲルカラ　後ハ　タノムゾ！<FFEF>	You, my card<FFF6>can use well, right!<FFF6>I give it, rest is up to you!<FFEF>
+305	グゥ………<FFFC><FFF6>オレサマ　戦イ　キライ！<FFEF>	Guu......<FFFC><FFF6>Me hate fights!<FFEF>
+306	オマエ　ナニカ　欲シイダロ？<FFF6>オレサマ　オマエ<FFF6>コレデ　支援シテアゲル！<FFEF>	You want something, right?<FFF6>Me, you<FFF6>with this I support you!<FFEF>
+307	オワリナラ　オレサマ<FFF6>ヤルコト　ヤラナケレバ！<FFFC><FFF6>マズハ　目ノ前ノ　コトカラ…<FFEF>	If over, me<FFF6>must do what I must!<FFFC><FFF6>First, what's in front...<FFEF>
+308	…………<FFFC><FFF6>オマエ　オレサマカード<FFF6>ヤルカラ　見逃シテクレ…<FFEF>	.........<FFFC><FFF6>You, my card<FFF6>I give it, let me go...<FFEF>
+309	ヌウ…<FFFC><FFF6>ニンゲン　オレサマ<FFF6>聞クコト　アル……<FFFB><FFF7>空ノ　マンナカ　アッタ<FFF6>オ月サマ　ドコダロウ…<FFFC><FFF6>オマエ　知ッテルカ？<FFFD>タ<FFF5>	Nuu...<FFFC><FFF6>Human, me heard<FFF6>a thing......<FFFB><FFF7>Moon that was<FFF6>in middle of sky...<FFFC><FFF6>Where is it, you know?<FFFD>タ<FFF5>
+310	ヌウ…<FFFC><FFF6>ニンゲン　メズラシイ<FFF6>オレサマ　交渉シテミル！<FFF5>	Nuu...<FFFC><FFF6>Human, rare<FFF6>Me try negotiating!<FFF5>
+311	ヌウ…<FFFC><FFF6>オレサマ　<FFF3><FFF6><FFF0>　ノ生マレ！<FFFB><FFF7>ヌウ…<FFFC><FFF6>オマエ　ニンゲン？<FFFC><FFF6>オレサマ　ナニカ　欲シイ！<FFF1><FFF5>	Nuu...<FFFC><FFF6>Me, <FFF3><FFF6>Born of <FFF0>!<FFFB><FFF7>Nuu...<FFFC><FFF6>You human?<FFFC><FFF6>Me want something!<FFF1><FFF5>
+312	ガァーー！<FFFC><FFF6>ココ　オレサマ　ナワバリ！<FFF6>オマエ　フホウシンニュウ！<FFFB><FFF7>ココ　通レルノ<FFF6>トクベツナ　職業ダケ！！<FFF6>オマエ　ナニ者ダ！<FFFD>チ<FFF5>	Gaaa!<FFFC><FFF6>This is my turf!<FFF6>You trespass!<FFFB><FFF7>Only special jobs<FFF6>can pass here!!<FFF6>Who are you!<FFFD>チ<FFF5>
+313	ガァーー！<FFFC><FFF6>マンマルマン月！！<FFF6>オレサマ　血ガ欲シイ！！<FFF5>	Gaaa!<FFFC><FFF6>Full moon night!!<FFF6>Me want blood!!<FFF5>
+314	ガァーー！<FFFC><FFF6>ココ　オレサマ　ナワバリ！<FFF6>オマエ　フホウシンニュウ！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　ポリス！！<FFFC><FFF6>オマエ　バッキン　ハラエ！！<FFF1><FFF5>	Gaaa!<FFFC><FFF6>This is my turf!<FFF6>You trespass!<FFFB><FFF7>Gaaa!<FFF6>Me police!!<FFFC><FFF6>You pay fine!!<FFF1><FFF5>
+315	グゥ………<FFFC><FFF6>オレサマ　<FFF3><FFF6>オマエ　名ヲ　ナノレ…<FFFD>ツ<FFF5>	Guu......<FFFC><FFF6>Me, <FFF3><FFF6>You, state your name...<FFFD>ツ<FFF5>
+316	グゥ………<FFFC><FFF6>オレサマ　平和シュギ……<FFFC><FFF6>オマエ　戦イ　サケタイ……<FFF5>	Guu......<FFFC><FFF6>Me pacifist......<FFFC><FFF6>You, want to avoid fight......<FFF5>
+317	グゥ………<FFFC><FFF6>オマエ　アクマ？<FFF6>オマエ　ニンゲン？<FFFB><FFF7>オマエ　ヤバン？<FFF6>オマエ　血ガ　好キ？<FFFC><FFF6>オレサマ　モノゴイ……<FFF1><FFF5>	Guu......<FFFC><FFF6>You demon?<FFF6>You human?<FFFB><FFF7>You savage?<FFF6>You like blood?<FFFC><FFF6>Me scared......<FFF1><FFF5>
+318	アオーン！<FFF6>マルマル　オ月サマ！！<FFFB><FFF7>オレサマ　ジョウキゲン！！<FFF6>オマエ　コンヤ　ヒマ？<FFFD>テ<FFF5>	Aooon!<FFF6>Round, round moon!!<FFFB><FFF7>Me in great mood!!<FFF6>You free tonight?<FFFD>テ<FFF5>
+319	アオーン！<FFFC><FFF6>オマエ　オレサマ　声　キイタ！ダカラ　交渉スル！<FFF5>	Aooon!<FFFC><FFF6>Me heard your voice! So let's talk!<FFF5>
+320	アオーン！<FFFC><FFF6>オレサマ　オ月ミ　好キ！<FFF6>デモ　サケ　金カカル……<FFFB><FFF7>オマエ　オレサマ<FFF6>ボキン　シテクレナイカ？<FFF6>サケ　ノ代ワリ　デモイイ…<FFF1><FFF5>	Aooon!<FFFC><FFF6>Me like moon-viewing!<FFF6>But sake costs money......<FFFB><FFF7>You, me<FFF6>won't you donate?<FFF6>Instead of sake is fine...<FFF1><FFF5>
+321	<FFED>オマエ　ニンゲン……<FFFC><FFF6>オレサマ　知リアイ　チガウ！<FFF6>オマエ　ダマシタ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ　タメス！<FFF6>マル　シカク　ドッチ　好キ？<FFFD>ト<FFF5>	<FFED>You human......<FFFC><FFF6>Me not acquaintance!<FFF6>You tricked me?<FFFB><FFF7>Nuu...<FFFC><FFF6>Me test you!<FFF6>Circle or square, which you like?<FFFD>ト<FFF5>
+322	<FFEE>フシギ………<FFFC><FFF6>オレサマ　オマエ　声カケタ？<FFF6>ソラミミ　チガウカ………<FFF5>	<FFEE>Strange......<FFFC><FFF6>Me, did I call you?<FFF6>Not hearing things?......<FFF5>
+323	<FFED>ココ　オレサマ　ナワバリ！<FFFC><FFF6>ココデ　交渉スルナラ<FFF6>ショバダイ　モラウゾ！<FFF1><FFF5>	<FFED>This is my turf!<FFFC><FFF6>If negotiate here,<FFF6>me take turf fee!<FFF1><FFF5>
+324	<FFEE>オレサマ　<FFF3><FFF6>オマエ　ヘンナ　ニンゲン…<FFFB><FFF7>オレサマ　シツモン！<FFFC><FFF6>大キナ　ツズラ　小サナ　ツズラオマエ　ドッチ　開ケル？<FFFD>ナ<FFF5>	<FFEE>Me, <FFF3><FFF6>You weird human...<FFFB><FFF7>Me question!<FFFC><FFF6>Big or small box, which you open?<FFFD>ナ<FFF5>
+325	<FFEE>オレサマ　<FFF3><FFF6>オマエ　ヤサシソウ……<FFFC><FFF6>オレサマ　交渉スル……<FFF5>	<FFEE>Me, <FFF3><FFF6>You seem kind......<FFFC><FFF6>Me will negotiate......<FFF5>
+326	<FFEC>オレサマ　<FFF3><FFF6>オマエ　ナニ　欲シイ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>ヤッパリ　オレサマ<FFF6>先ニ　ナンカ　モラウ…<FFF1><FFF5>	<FFEC>Me, <FFF3><FFF6>You want what?<FFFB><FFF7>Nuu...<FFFC><FFF6>After all, me<FFF6>take something first...<FFF1><FFF5>
+327	<FFEB>オレサマ　ゼッコウチョウ！<FFFC><FFF6>オマエ　ニンゲン<FFF6>ゲンキ　シテルカ？<FFFD>ニ<FFF5>	<FFEB>Me in peak condition!<FFFC><FFF6>You human<FFF6>doing well?<FFFD>ニ<FFF5>
+328	<FFEB>アオーン！！<FFFC><FFF6>オレサマ　アタマ　スッキリ！<FFF6>交渉　マルマル　バッチリ！<FFF5>	<FFEB>Aooon!!<FFFC><FFF6>Me head clear!<FFF6>Negotiation all perfect!<FFF5>
+329	<FFEE>オレサマ　<FFF3><FFF6>ニンゲン　ヨク　シラナイ！<FFFC><FFF6>ダカラ　ニンゲン　シリタイ！<FFFB><FFF7>オマエ　ヨケレバ<FFF6>サッソク　交渉シヨウ！！<FFFC><FFF6>ソノマエニ　ナンカ　欲シイ…<FFF1><FFF5>	<FFEE>Me, <FFF3><FFF6>Not know humans!<FFFC><FFF6>So me want to know humans!<FFFB><FFF7>If you okay,<FFF6>let's negotiate right away!!<FFFC><FFF6>But first, want something...<FFF1><FFF5>
+330	<FFED>ニンゲン　ナニシテル……<FFFC><FFF6>ココ　オレサマ　ナワバリ！<FFF6>オマエ　ソレ　知ッテルカ？<FFFD>ヌ<FFF5>	<FFED>What humans doing......<FFFC><FFF6>This is my turf!<FFF6>You know that?<FFFD>ヌ<FFF5>
+331	<FFED>オマエ　悪魔ノ血　ニオウ……<FFFC><FFF6>交渉　ウマク　イカナケレバ<FFF6>オレサマ　オマエ　マルノミ！<FFF5>	<FFED>You smell of demon blood......<FFFC><FFF6>If negotiation not go well,<FFF6>me gulp you down!<FFF5>
+332	<FFED>オマエ　フカイ……<FFFC><FFF6>アサイ　違ウゾ！<FFF6>オマエ　気分ワルクナル！<FFF5>	<FFED>You deep......<FFFC><FFF6>Not shallow!<FFF6>Makes me feel sick!<FFF5>
+333	<FFEB>ニンゲン　オマエ　見ロ！<FFF6>グレイト　オ月サマ！！！<FFFC><FFF6>チョウ　マンマルマンマル！！<FFFB><FFF7>オレサマ　負ケル気シナイ！<FFF6>アオーン！<FFFC><FFF6>オマエ　マル　好キカ？<FFFD>ネ<FFF5>	<FFEB>Human, look!<FFF6>Great moon!!!<FFFC><FFF6>Super round, round!!<FFFB><FFF7>Me no lose feeling!<FFF6>Aooon!<FFFC><FFF6>You like round?<FFFD>ネ<FFF5>
+334	<FFEB>アオーン！<FFFC><FFF6>ニンゲン　エモノ！！<FFF6>オレサマ　ハラペコ！！<FFFB><FFF7>交渉シダイデ<FFF6>オレサマ　オマエ<FFF6>美味シク　マルカジリ！<FFF5>	<FFEB>Aooon!<FFFC><FFF6>Human, prey!!<FFF6>Me starving!!<FFFB><FFF7>Depending on talk,<FFF6>me chomp you deliciously!<FFF5>
+335	<FFED>ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>予定ノ　エモノ　違ウ！！<FFFB><FFF7>マア　イイ…<FFF6>オマエ　命ノ　カワリ<FFF6>ナンカ　ヨコセ！！<FFF1><FFF5>	<FFED>Gaaa!<FFFC><FFF6>You, me<FFF6>not planned prey!!<FFFB><FFF7>Well, fine...<FFF6>Instead of your life,<FFF6>give me something!!<FFF1><FFF5>
+336	<FFEC>グゥ………<FFFC><FFF6>オレサマ　オマエ　知ラナイ…<FFF6>ナノニ　オマエ　イル………<FFFB><FFF7>ココ　オレサマ　ナワバリ<FFF6>イチオウ　カンゲイスル…<FFFC><FFF6>オマエ　ナニ　食ベタイ？<FFFD>ノ<FFF5>	<FFEC>Guu......<FFFC><FFF6>Me don't know you...<FFF6>Yet you are here......<FFFB><FFF7>This is my turf<FFF6>I welcome you, sort of...<FFFC><FFF6>What you want to eat?<FFFD>ノ<FFF5>
+337	<FFEB>オレサマ　<FFF3><FFF6>イチオウ　ジコショウカイ…<FFFB><FFF7>オマエ　好キニナル<FFF6>ソレ　交渉　シダイ……<FFF5>	<FFEB>Me, <FFF3><FFF6>Let me introduce myself...<FFFB><FFF7>You will like me<FFF6>depends on negotiation......<FFF5>
+338	<FFEB>オレサマ　<FFF3><FFF6>イチオウ　ジコショウカイ…<FFFB><FFF7>交渉スル　前ニ<FFF6>ナンカ　クレレバ<FFF6>オマエ　好キニナル<FFF1><FFF5>	<FFEB>Me, <FFF3><FFF6>Let me introduce myself...<FFFB><FFF7>Before negotiating,<FFF6>if you give something,<FFF6>you will like me<FFF1><FFF5>
+339	ヌヌウ！<FFFC><FFF6>オレサマ　オマエ<FFF6>イキトウゴウ！！<FFFB><FFF7>オレサマ　オマエ　ダイジ！<FFF6>オマエ　何　欲シイ？<FFEF>	Nnnuu!<FFFC><FFF6>Me, you<FFF6>us as one!!<FFFB><FFF7>Me, you precious!<FFF6>You want what?<FFEF>
+340	ガガァーー！<FFFC><FFF6>オレサマ　オマエ　マルカジリ！イカリ　サイコウチョウ！！<FFEF>	Gagaaa!<FFFC><FFF6>Me chomp you! Rage at peak!!<FFEF>
+341	グゥ………<FFFC><FFF6>オレサマ　恐ロシイ<FFF6>コノ世ノ　オワリカモ…<FFEF>	Guu......<FFFC><FFF6>Me scared<FFF6>end of world, maybe...<FFEF>
+342	アオーン！<FFFC><FFF6>オレサマ　スゴク　楽シイ！<FFF6>オレサマ　スゴク　嬉シイ！<FFEF>	Aooon!<FFFC><FFF6>Me super fun!<FFF6>Me super happy!<FFEF>
+343	オマエ　オモシロイ！<FFF6>ダケド　交渉ギジュツ　マダマダ<FFFC>面倒ナノデ　用ダケ　言エ！<FFEF>	You funny!<FFF6>Talk still weak,<FFFC><FFF6>so just state business!<FFEF>
+344	オマエ　オモシロイ！<FFF6>ケド　オレサマ　不安アル…<FFFB><FFF7>オレサマ　オマエ<FFF6>トモダチ　ナレルカ……<FFFC><FFF6>トリアエズ　用件キコウ<FFEF>	You funny!<FFF6>But me have doubts...<FFFB><FFF7>Me, you<FFF6>can we be friends......<FFFC><FFF6>Anyway, state business<FFEF>
+345	オマエ　オモシロイ！！<FFF6>オレサマ　マルマル　ユカイ！！オレタチ　モウ　シンユウ！！<FFFB><FFF7>オレサマ　ソノ　アカシ<FFF6>オマエ　見セルゾ！！<FFFC><FFF6>シンユウ　ナニ　欲シイ？<FFEF>	You funny!!<FFF6>Me super fun!! Best friends now!!<FFFB><FFF7>Me, proof of that<FFF6>I show you!!<FFFC><FFF6>Best friend, what you want?<FFEF>
+346	オレサマ　ガァーグゥ…<FFFC><FFF6>………オマエ　交渉シタセイデ<FFF6>オレサマ　ワケワカラン！！<FFEF>	Me, Gaaguu...<FFFC><FFF6>......Because you negotiated,<FFF6>me confused!!<FFEF>
+347	オマエ　交渉<FFF6>マッタク　オモシロクナイ！<FFF6>アマリニ　クダラナイ！<FFEF>	You negotiation<FFF6>not interesting at all!<FFF6>Too worthless!<FFEF>
+348	オマエ　イケル…<FFF6>イケル　ニンゲン　スゴイ！<FFF6>オレサマ　従ウ！！<FFEF>	You good...<FFF6>Good human, amazing!<FFF6>Me obey!!<FFEF>
+349	ヌウ…<FFFC><FFF6>オレサマ　金　欲シイ！<FFF6><FFF8>エン！<FFEF>	Nuu...<FFFC><FFF6>Me want money!<FFF6><FFF8> yen!<FFEF>
+350	アオーン！<FFFC><FFF6>金　金　金！！<FFF6>アオーン！<FFF5>	Aooon!<FFFC><FFF6>Money money money!!<FFF6>Aooon!<FFF5>
+351	グゥ………<FFFC><FFF6>オレサマ　ガッカリ……<FFF5>	Guu......<FFFC><FFF6>Me disappointed......<FFF5>
+352	ガァーー！<FFF6>オマエ　金　ナイ！！<FFFC><FFF6>金ナイ　ダメナ奴！！<FFF5>	Gaaa!<FFF6>You no money!!<FFFC><FFF6>No money, useless guy!!<FFF5>
+353	ガァーー！<FFFC><FFF6>オマエ　本当ニ　オレサマ<FFF6>交渉スル気　アルノカ！！<FFF5>	Gaaa!<FFFC><FFF6>You, really me<FFF6>you want to negotiate or what!!<FFF5>
+354	グゥ………<FFFC><FFF6>オマエ　ケチンボ<FFF6>オレサマ　ケチ　シラン……<FFF5>	Guu......<FFFC><FFF6>You cheapskate<FFF6>Me not know cheap......<FFF5>
+355	ヌウ…<FFFC><FFF6>オレサマ　魔石　欲シイ！<FFF6>オマエ　１ツデイイ！<FFEF>	Nuu...<FFFC><FFF6>Me want Life Stone!<FFF6>Just one, is fine!<FFEF>
+356	アオーン！<FFFC><FFF6>魔石　魔石　魔石！！<FFF6>アオーン！<FFF5>	Aooon!<FFFC><FFF6>Life Stone! Life Stone!!<FFF6>Aooon!<FFF5>
+357	ガァーー！<FFF6>オマエ　魔石　ナイ！！<FFFC><FFF6>魔石ナイ　ダメナ奴！！<FFF5>	Gaaa!<FFF6>You no Life Stone!!<FFFC><FFF6>No Life Stone, useless guy!!<FFF5>
+358	グゥ………<FFFC><FFF6>オレサマ　ガッカリ……<FFF5>	Guu......<FFFC><FFF6>Me disappointed......<FFF5>
+359	オレサマ　魔石<FFF6>ダイ好キ　ナノニ！<FFFC><FFF6>オマエ　嫌ナ奴！！<FFF5>	Me, Life Stone<FFF6>love so much, but!<FFFC><FFF6>You nasty guy!!<FFF5>
+360	グゥ………<FFFC><FFF6>オマエ　ケチンボ<FFF6>オレサマ　ケチ　シラン……<FFF5>	Guu......<FFFC><FFF6>You cheapskate<FFF6>Me not know cheap......<FFF5>
+361	ヌウ…<FFFC><FFF6>オレサマ　宝石　欲シイ！<FFF6><FFF4>！<FFEF>	Nuu...<FFFC><FFF6>Me want gem!<FFF6><FFF4>!<FFEF>
+362	アオーン！<FFFC><FFF6><FFF4>！！<FFF6>アオーン！<FFF5>	Aooon!<FFFC><FFF6><FFF4>!!<FFF6>Aooon!<FFF5>
+363	グゥ………<FFFC><FFF6>宝石…グフッ……<FFF5>	Guu......<FFFC><FFF6>Gem...guhh......<FFF5>
+364	ガァーー！<FFFC><FFF6>オレサマ　宝石　欲シイノニ！！オマエ　大キライ！！！<FFF5>	Gaaa!<FFFC><FFF6>Me want gem!! I hate you!!!<FFF5>
+365	ヌウ…<FFFC><FFF6>オマエ　宝石ノ　価値ワカル<FFF6>シッカリ者　ヌウ………<FFF5>	Nuu...<FFFC><FFF6>You know gem value<FFF6>reliable one, nuu......<FFF5>
+366	ヌウ…<FFFC><FFF6>オレサマ　スイタイ……<FFFC><FFF6>オマエ　生気　クレ…<FFEF>	Nuu...<FFFC><FFF6>Me want to suck......<FFFC><FFF6>Give me your life force...<FFEF>
+367	アオーン！<FFFC><FFF6>オマエ　美味ソウ！<FFF6>オレサマ　イッキノミ！<FFF5>	Aooon!<FFFC><FFF6>You look tasty!<FFF6>Me gulp you down!<FFF5>
+368	ガァーー！<FFFC><FFF6>オマエ　生気　ミセトイテ<FFF6>ソレハ　ナイ！！<FFFB><FFF7>ガァーー！<FFF6>オレサマ　ジツリョクコウシ！<FFF5>	Gaaa!<FFFC><FFF6>You show life force, then<FFF6>no way!!<FFFB><FFF7>Gaaa!<FFF6>Me settle by strength!<FFF5>
+369	オレサマ　スイタイ……<FFFC><FFF6>スイタイケド　オマエ　イヤ……<FFFC>ガッカリ……<FFF5>	Me want to suck......<FFFC><FFF6>Want to, but you gross......<FFFC><FFF6>Disappointed......<FFF5>
+370	ニンゲン　話　ワカル……<FFF6>オレサマ　カジル　ヤメトク<FFF5>	Human, you understand talk......<FFF6>Me stop biting, then<FFF5>
+371	オマエ　ツカエル！！<FFF6>Ｏ型　チョウホウ！！<FFF5>	You useful!!<FFF6>Type O blood, great!!<FFF5>
+372	オマエ　バカ？<FFFC><FFF6>ニンゲン　<FFF0>　違ウ！！<FFF6>オレサマ　アキレカエル！！<FFF5>	You idiot?<FFFC><FFF6>Human, <FFF0> is different!!<FFF6>Me exasperated!!<FFF5>
+373	イヤ……<FFFC><FFF6>オレサマ　チョット<FFF6>イジワル　シテミタイ<FFF5>	No......<FFFC><FFF6>Me want to be mean a little<FFF5>
+374	オマエ　オレサマ<FFF6>ジツリョク　知ッテル！！<FFFC><FFF6>オレサマ　ウレシイ！<FFF5>	You, me<FFF6>know my real power!!<FFFC><FFF6>Me happy!<FFF5>
+375	グゥ………<FFFC><FFF6>ナラ　オマエ<FFF6>交渉ジュツ　ナゼ　使ッタ？…<FFF5>	Guu......<FFFC><FFF6>Then you<FFF6>why use negotiation skill?...<FFF5>
+376	ナラ　オレサマ<FFF6>勝負シテミタイ！！<FFF5>	Then me<FFF6>want to have a match!!<FFF5>
+377	オレサマ　強イ奴　好キ！<FFF6>オマエ　交渉シテ　ヨカッタ！<FFF5>	Me like strong guys!<FFF6>Good that you negotiated!<FFF5>
+378	ソコソコ　ナンテ奴ニ<FFF6>オレサマ　興味ナイ<FFF5>	Mediocre guys<FFF6>me no interest<FFF5>
+379	オマエ　弱イ　クセニ<FFF6>オレサマ　チョウハツ！<FFFC><FFF6>コレハ　ムカツク！！<FFF5>	You weak yet<FFF6>me taunt you!<FFFC><FFF6>This is annoying!!<FFF5>
+380	オレサマ　眠イ……<FFFC><FFF6>タダ　寝タイ　ダケ……<FFF5>	Me sleepy......<FFFC><FFF6>Just want to sleep......<FFF5>
+381	ガァーー！<FFFC><FFF6>ソレデ　寝コミ　襲ウダロ！<FFF6>オマエ　ヒキョウ！！<FFF5>	Gaaa!<FFFC><FFF6>Then you'll sneak attack!<FFF6>You cheat!!<FFF5>
+382	オレサマ　ヨク　ネボウスル…<FFFC><FFF6>オマエ　起コシテ　クレル<FFF6>オレサマ　助カル！！<FFF5>	Me oversleep often...<FFFC><FFF6>You wake me up,<FFF6>me saved!!<FFF5>
+383	アオーン！<FFFC><FFF6>オマエ　イイ奴！<FFF6>オレサマ　好キニナッタ！<FFF5>	Aooon!<FFFC><FFF6>You good guy!<FFF6>Me like you!<FFF5>
+384	グゥ………<FFFC><FFF6>オマエ　オレサマ<FFF6>ナニ　教エル？<FFFB><FFF7>ナンカ………<FFFC><FFF6>オマエ　スルコト<FFF6>痛ソウダナ……<FFF5>	Guu......<FFFC><FFF6>You, me<FFF6>what to teach?<FFFB><FFF7>Something......<FFFC><FFF6>What you do<FFF6>looks painful......<FFF5>
+385	ガァーー！<FFF6>オレサマ　<FFF0>！<FFFC><FFF6>オマエ　ムリ　言ウナ！！<FFF5>	Gaaa!<FFF6>Me, <FFF0>!<FFFC><FFF6>Don't say impossible!!<FFF5>
+386	ナラ　オマエ<FFF6>ホカノ　交渉ジュツ　ツカエ！<FFF5>	Then you<FFF6>use other negotiation skill!<FFF5>
+387	交渉アイテ　知ラナイ<FFF6>ソレ　オマエ　バカ！<FFF5>	Don't know your partner<FFF6>you idiot!<FFF5>
+388	ヌウ…<FFFC><FFF6>オマエ　イイコト言ウ<FFFB><FFF7>タシカニ　種族ノ違イ<FFF6>カンケイ　ナイ！<FFFC><FFF6>ミンナ　キョウダイ！<FFF5>	Nuu...<FFFC><FFF6>You say good things<FFFB><FFF7>True, race differences<FFF6>don't matter!<FFFC><FFF6>We are all siblings!<FFF5>
+389	オマエ　マジメ<FFF6>オレサマ　コウインショウ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>シンヨウ　シテヤル！<FFF5>	You serious<FFF6>me impressed...<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, you<FFF6>I trust you!<FFF5>
+390	……………<FFFC><FFF6>聞カナイ　ホウガ<FFF6>ヨカッタ……<FFF5>	..............<FFFC><FFF6>Should not have<FFF6>listened......<FFF5>
+391	ヤハリ　ニンゲン<FFF6>ジブンカッテ！！<FFFC><FFF6>オマエ　ヨクナイ！！<FFF5>	Humans after all<FFF6>so selfish!!<FFFC><FFF6>You bad!!<FFF5>
+392	オマエ　ソレデ　イイ<FFF5>	If that's fine for you<FFF5>
+393	オレサマ　アタマ　ズツウ…<FFFC><FFF6>オマエ　ヒドイ奴………<FFF5>	Me head aches...<FFFC><FFF6>You cruel guy.........<FFF5>
+394	オマエ　何　ウタッテモ<FFF6>ダメ！　ダメ！　ダメ！<FFFC><FFF6>オレサマ　アタマ　イタイ！！<FFF5>	Whatever you sing,<FFF6>no! no! no!<FFFC><FFF6>Me head hurts!!<FFF5>
+395	ソノ　歌………<FFFC><FFF6>オレサマ　評価ヤメトク<FFF6>ナンカ　ヤバソウダカラ……<FFF5>	That song......<FFFC><FFF6>Me stop rating it,<FFF6>seems dangerous......<FFF5>
+396	オマエ　ソレ　違ウ！！<FFF6><FFF0>ノ歌　ソレ　違ウ！！<FFFB><FFF7>オマエ　ウソツキ！<FFF6>オレサマ　ゴリップク！！<FFF5>	That's wrong!!<FFF6><FFF0>'s song, that's wrong!!<FFFB><FFF7>You liar!<FFF6>Me furious!!<FFF5>
+397	オレサマ　ノリノリ！<FFFC><FFF6>オマエ　シンガー　イイ！<FFF5>	Me in the groove!<FFFC><FFF6>You singer good!<FFF5>
+398	アカ……<FFFC><FFF6>オマエ　セイシン　アブナイ？<FFFB><FFF7>グゥ………<FFFC><FFF6>オレサマ　ケイエン……<FFF5>	Red......<FFFC><FFF6>You mentally dangerous?<FFFB><FFF7>Guu......<FFFC><FFF6>Me keep away......<FFF5>
+399	オマエ　オレサマ　オナジ…<FFF6>イッショ　ツマラナイ…<FFF5>	You, me same......<FFF6>together boring......<FFF5>
+400	ミドリ　ケッコウ　イイ！<FFF6>オレサマ　草原　走リタイ！<FFFC><FFF6>アオーン！　アオーン！！<FFF5>	Green pretty good!<FFF6>Me want run on grassland!<FFFC><FFF6>Aooon! Aooon!!<FFF5>
+401	ガァーー！　ダメ！<FFF5>	Gaaa! No!<FFF5>
+402	ニンゲン　ヨクバリ<FFF6>ムカシ　カラ　カワラナイ…<FFF5>	Humans greedy<FFF6>unchanged since old times...<FFF5>
+403	オマエ　理由ナイ　本当カ？<FFFC><FFF6>ソノ　♥ガ<FFFC><FFF6>オレサマ　気ニナル……<FFF5>	You no reason, true?<FFFC><FFF6>That heart thing<FFFC><FFF6>Me curious......<FFF5>
+404	オマエ　スナオ！！<FFF6>オレサマ　正直者　好キ！<FFF5>	You honest!!<FFF6>Me like honest guys!<FFF5>
+405	ナラ　交渉　意味ナイ<FFF6>オマエ　変ナ奴…<FFF5>	Then negotiation no meaning<FFF6>You weird guy...<FFF5>
+406	オマエ　ユウジュウフダン！<FFF6>ナゼ　交渉スルノカ<FFF6>ハッキリ　決メテオケ！<FFF5>	You indecisive!<FFF6>Why negotiate?<FFF6>Decide clearly!<FFF5>
+407	マルカジリ　ナノニ<FFF6>オマエ　ナゼ　ヨロコブ？<FFFB><FFF7>グゥ………<FFFC><FFF6>オマエ　モシカシテ<FFF6>石ミタク　カタイノカ……<FFF5>	Me going to chomp,<FFF6>why you happy?<FFFB><FFF7>Guu......<FFFC><FFF6>You maybe, like stone,<FFF6>hard......<FFF5>
+408	オマエ　泣イテモ<FFF6>オレサマ　オマエ　マルカジリ<FFF5>	Even if you cry,<FFF6>me chomp you<FFF5>
+409	オマエ　嫌デモ<FFF6>オレサマ　オマエ　マルカジリ<FFF5>	Even if you hate it,<FFF6>me chomp you<FFF5>
+410	オレサマ　スシ！！<FFF6>オマエ　気ガ　アイソウ！<FFF5>	Me sushi!!<FFF6>You seem like a good match!<FFF5>
+411	オレサマ　ハンバーグ！！<FFF6>オマエ　気ガ　アイソウ！<FFF5>	Me hamburg steak!!<FFF6>You seem like a good match!<FFF5>
+412	オレサマ　チャーハン！！<FFF6>オマエ　気ガ　アイソウ！<FFF5>	Me fried rice!!<FFF6>You seem like a good match!<FFF5>
+413	オレサマ　嬉シイ！！<FFF6>オマエ　カワイイ　ニンゲン！<FFF5>	Me happy!!<FFF6>You cute human!<FFF5>
+414	オレサマ　嬉シイ　ケド<FFF6>オマエ　オオゲサ…<FFFC><FFF6>ナンカ　キニカカル……<FFF5>	Me happy, but<FFF6>you exaggerate...<FFFC><FFF6>Something bothers me......<FFF5>
+415	オマエ　オレサマ<FFF6>好キジャナイ……<FFFC><FFF6>チョット　ガッカリ<FFF5>	You, me<FFF6>not like......<FFFC><FFF6>A little disappointed<FFF5>
+416	オレサマ　ジュギョウ<FFF6>ワカラナイ……<FFFC><FFF6>デモ　ジュギョウ　美味ソウ<FFF5>	Me lessons<FFF6>don't understand......<FFFC><FFF6>But lessons look tasty<FFF5>
+417	オレサマ　<FFF0><FFFC><FFF6>ガッコウ　イケナイ……<FFFB><FFF7>オマエ　ガッコウ　イケル<FFF6>ニンゲン　ウラヤマシイ…<FFF5>	Me, <FFF0><FFFC><FFF6>Can't go to school......<FFFB><FFF7>You can go to school<FFF6>Humans, envious...<FFF5>
+418	オマエ　ケチンボ！<FFF6>オレサマ　ゴリップク！！<FFF5>	You stingy!<FFF6>Me furious!!<FFF5>
+419	ナラ　オレサマ　オマエ<FFF6>イヨイヨ　マルカジリ！！<FFF5>	Then me, you<FFF6>now chomp for sure!!<FFF5>
+420	オマエ　オレサマ<FFF6>サラニ　ナメテル！！<FFF6>オレサマ　アタマ来タ！<FFF5>	You, me<FFF6>look down even more!!<FFF6>Me angry!<FFF5>
+421	マルカジリ　ウソ！<FFFC><FFF6>オレサマ　オマエ　オカエシ<FFF6>コレデ　オアイコ！！<FFF5>	Chomp, a lie!<FFFC><FFF6>Me, you, pay back<FFF6>now we're even!!<FFF5>
+422	オレサマ　戦イ好キ！<FFF6><FFF0>ノ　血ガ　サワグ！！<FFF6>オレサマ　オマエ　戦ウ！！<FFF5>	Me like battle!<FFF6><FFF0>'s blood stirs!!<FFF6>Me fight you!!<FFF5>
+423	ヌウ…<FFFC><FFF6>ソノ話　ベンキョウ　ナル<FFF6>オレサマ　オン　忘レナイ！<FFF5>	Nuu...<FFFC><FFF6>That talk teaches me<FFF6>me won't forget the favor!<FFF5>
+424	ウサギ　バカ！<FFF6>オレサマ　イツモ　ゼンリョク！カメ　アナドル　ダメ<FFF5>	Hare dumb!<FFF6>Me always full speed!<FFF6>Tortoise, don't underestimate<FFF5>
+425	ナラ……<FFF6>オレサマ　食ベナイ<FFF5>	Then......<FFF6>me won't eat<FFF5>
+426	オマエ　ソンナニ<FFF6>弱気ジャ　コノ先　タイヘン…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ドウシヨウ……<FFF5>	You so<FFF6>timid, hard going forward...<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, what to do......<FFF5>
+427	………デモ　オマエ<FFF6>ドンナ　味スルカ　ワカラン…<FFFC><FFF6>オレサマ　食ベルノ　ヤメタ…<FFF5>	......But you<FFF6>don't know what taste......<FFFC><FFF6>Me stop eating......<FFF5>
+428	オマエ　オレサマ<FFF6>食ベル　ツモリカ？<FFFC><FFF6>オマエ　スゴイ　ショクヨク！<FFF5>	You, me<FFF6>planning to eat?<FFFC><FFF6>You have great appetite!<FFF5>
+429	オマエ　ソレ　食ベスギ！！<FFF6>カロリー　カンガエロ！！<FFF5>	You eat too much!!<FFF6>Think of calories!!<FFF5>
+430	オマエ　ソレ　ダメ<FFF6>食ベナイ　ヨクナイ！<FFFB><FFF7>ヤセタ　ニンゲン<FFF6>美味シク　ナイカラ……<FFF5>	That's bad<FFF6>not eating is bad!<FFFB><FFF7>Skinny humans<FFF6>not tasty......<FFF5>
+431	オマエ　バカ…<FFFC><FFF6>オレサマ　期待ハズレ<FFF5>	You idiot...<FFFC><FFF6>Me disappointed<FFF5>
+432	オマエ　アヤシイゾ……<FFFC><FFF6>オレサマ　変ナコト　ヤダ…<FFF5>	You suspicious......<FFFC><FFF6>Me hate weird things...<FFF5>
+433	アオーン！<FFFC><FFF6>オレサマ　スッゲーコト　スル！ナニカ　タノシミ！<FFF5>	Aooon!<FFFC><FFF6>Me do something awesome!<FFF6>Look forward!<FFF5>
+434	ガァーー！<FFFC><FFF6>オレサマ　オマエ<FFF6>ケンカ　買ウ！！<FFF5>	Gaaa!<FFFC><FFF6>Me, you<FFF6>pick a fight!!<FFF5>
+435	トホホ　ジャナクテ<FFF6>オマエ　ホカ　アタレ！<FFF5>	Not sad sighs!<FFF6>Try someone else!<FFF5>
+436	オマエ　オレサマ<FFF6>ソンナニ　怖イノカ？<FFFB><FFF7>オレサマ　エラゲ！<FFF6>ナンカ　キブン　イイゾ<FFF5>	You, me<FFF6>so scared?<FFFB><FFF7>Me big shot!<FFF6>Feeling good!<FFF5>
+437	ガァーー！<FFF6>オレサマ　聞キタイコト　違ウ！ヤッパリ　オマエ　変！<FFF5>	Gaaa!<FFF6>Not what me wanted to hear!<FFF6>You weird after all!<FFF5>
+438	グゥ………<FFFC><FFF6>ナンカ　アヤシイ……<FFF5>	Guu......<FFFC><FFF6>Somehow suspicious......<FFF5>
+439	マニア　許ス！<FFFC><FFF6>オマエ　オレサマ<FFF6>ナンパ　オーケー！<FFF5>	Maniac, I allow!<FFFC><FFF6>You, me<FFF6>pickup okay!<FFF5>
+440	オレサマ　自然ジャナイ奴<FFF6>キライ！<FFF5>	Me hate unnatural guys!<FFF5>
+441	オレサマ　自然！<FFF6>オマエ　自然！<FFF6>オレサマ　自然　大好キ！！<FFF5>	Me natural!<FFF6>You natural!<FFF6>Me love nature!!<FFF5>
+442	アオーン！<FFF6>ソレ　オモシロイ！<FFF6>オレサマ　マンゾク！！<FFF5>	Aooon!<FFF6>That funny!<FFF6>Me satisfied!!<FFF5>
+443	ソレ　話　ナガイ！<FFF6>オレサマ　オチ　ワカラナイ！<FFF5>	That talk long!<FFF6>Me don't get the punchline!<FFF5>
+444	オマエ　ゲヒン！！<FFF6>オレサマ　品ノナイ奴　キライ！<FFF5>	You vulgar!!<FFF6>Me hate tasteless guys!<FFF5>
+445	オマエ　スナオ！<FFF6>オレサマ　楽シミ！<FFF5>	You honest!<FFF6>Me looking forward!<FFF5>
+446	オマエ　オレサマ　ハンコウ！<FFF6>チャンス　ヤッタノニ<FFF6>生カサナイ　オロカ者！！<FFF5>	You, me rebel!<FFF6>Had a chance,<FFF6>you wasted it, fool!!<FFF5>
+447	オマエ　バカ！<FFF6>チャンス　ヤッタノニ<FFF6>迷ウ　オロカ者！！<FFF5>	You idiot!<FFF6>Had a chance,<FFF6>you hesitate, fool!!<FFF5>
+448	オマエ　短気！<FFF6>気　ミジカイ奴<FFF6>オレサマ　キライ！！<FFF5>	You hot-tempered!<FFF6>Short-tempered guy<FFF6>me hate!!<FFF5>
+449	ツマラナイ　ギャグ<FFF6>ツマラナイ　言ッタダケ……<FFF5>	Boring gag<FFF6>just said something boring......<FFF5>
+450	オマエ　ソウ　気オトスナ<FFFC><FFF6>ドリョク　スレバ<FFF6>アシタ　キット　来ルダロウ<FFF5>	Don't be discouraged<FFFC><FFF6>if you try,<FFF6>tomorrow surely will come<FFF5>
+451	ソレハ　歌エナイ……<FFFC><FFF6>ワケ　聞クナ……<FFF5>	Can't sing that......<FFFC><FFF6>Don't ask why......<FFF5>
+452	ナラ　オレサマ<FFF6>モチ歌　ウタウ……<FFFC><FFF6>アオーン！<FFFB><FFF7>アオーン！　アオーン！<FFF6>アオーン！　アオーン！<FFF6>アオーン！　アオーン！<FFF5>	Then me<FFF6>sing my song......<FFFC><FFF6>Aooon!<FFFB><FFF7>Aooon! Aooon!<FFF6>Aooon! Aooon!<FFF6>Aooon! Aooon!<FFF5>
+453	ソレハ　ザンネン……<FFFC><FFF6>オレサマ　スゴク　ジョウズ<FFF6>コンド　キカセテ　ヤル<FFF5>	That's a shame......<FFFC><FFF6>Me very good<FFF6>next time I let you hear<FFF5>
+454	グゥ………<FFFC><FFF6>オレサマ　オシャベリナ奴<FFF6>シンヨウ　デキナイ……<FFF5>	Guu......<FFFC><FFF6>Me not chatty type<FFF6>can't trust......<FFF5>
+455	ソレデモ　オマエ　話ウマイ<FFF6>ニンゲン　ミナ<FFF6>オマエ　ミタイナノカ？……<FFF5>	Even so, you talk well<FFF6>are all humans<FFF6>like you......?<FFF5>
+456	ツギカラ　ソウシテ　クレ<FFF5>	From now on, do that<FFF5>
+457	オマエ　強気ダナ……<FFFC><FFF6>グゥ………<FFF6>オレサマ　マケトク……<FFF5>	You're bold......<FFFC><FFF6>Guu......<FFF6>Me'll give in......<FFF5>
+458	オマエ　ユウジュウフダン！<FFF6>ソノ　迷イガ　イノチトリ！<FFF6>オマエ　死ヌゾ……<FFFB><FFF7>ドウセ　死ヌナラ<FFF6>オレサマガ　マルカジリ！！<FFF5>	You indecisive!<FFF6>That hesitation will cost life!<FFF6>You'll die......<FFFB><FFF7>If you're dying anyway,<FFF6>me chomp you!!<FFF5>
+459	オマエ　オレサマ<FFF6>同ジ　考エ　ビックリ！！<FFF6>オレサマ　嬉シイ！！<FFF5>	You, me<FFF6>same thought, surprised!!<FFF6>Me happy!!<FFF5>
+460	オマエ　ダサン的…<FFFC><FFF6>デモ　オレサマ　ソウイウノ<FFF6>ワルクナイ　思ウゾ<FFF5>	You lame......<FFFC><FFF6>But me think that kind of thing<FFF6>isn't bad<FFF5>
+461	オマエ　クダラナイ！<FFF6>タタカウ　ニンゲン　違ウ！<FFFB><FFF7>オレサマ　アンシンシテ<FFF6>オマエ　マルカジリ！<FFF5>	You worthless!<FFF6>Human who fights, different!<FFFB><FFF7>Me relieved,<FFF6>me chomp you!<FFF5>
+462	オレサマ　驚ク　スゴイコト！<FFFC><FFF6>オマエ　チャント　ワカッテル<FFF6>オレサマ　ジョウキゲン！<FFF5>	Me surprised, amazing thing!<FFFC><FFF6>You understand properly<FFF6>Me in good mood!<FFF5>
+463	オマエ　イミ　ワカッテナイ！<FFFC><FFF6>オレサマ　質問シタ<FFF6>オマエ　チャント　コタエロ！<FFF5>	You don't get meaning!<FFFC><FFF6>Me asked a question,<FFF6>you answer properly!<FFF5>
+464	オマエ　オレサマ<FFF6>ドコ　足リナイ！？<FFFB><FFF7>テキトウ　言ウナラ<FFF6>オレサマ　オマエ　カジルゾ！<FFF5>	You, me<FFF6>what's lacking!?<FFFB><FFF7>If you say random things,<FFF6>me bite you!<FFF5>
+465	ガァーー！<FFFC><FFF6>オマエ　オレサマ　ナメテル！<FFF6>スゴク　ムカツク！！！<FFF5>	Gaaa!<FFFC><FFF6>You look down on me!<FFF6>Very annoying!!!<FFF5>
+466	オマエ　コウカイ　テオクレ<FFF6>オレサマ　オカンムリ！！<FFF5>	You'll regret it<FFF6>me furious!!<FFF5>
+467	オマエ　アワテル<FFF6>ソレ　ネライドオリ！<FFFC><FFF6>オレサマ　ジョウキゲン！<FFF5>	You panic<FFF6>that's my plan!<FFFC><FFF6>Me in good mood!<FFF5>
+468	オマエ　思ッテナクトモ<FFF6>オレサマ　サッキノ<FFF6>セイシンテキクツウ……<FFF5>	Even if you didn't mean it,<FFF6>me earlier<FFF6>mental pain......<FFF5>
+469	ヤハリ　オマエ<FFF6>ヒドイ　ニンゲン………<FFF5>	After all, you<FFF6>cruel human.........<FFF5>
+470	オレサマ　キレタ！<FFF6>アタマ　ブチット　音ガシタ！<FFF5>	Me snapped!<FFF6>Heard head go snap!<FFF5>
+471	オマエ　ソウ言ウナラ<FFF6>オレサマ　気ニシナイ<FFF5>	If you say so<FFF6>me won't mind<FFF5>
+472	オマエ　本物カ　ドウカ<FFF6>ワカラナイ物　ヨコスノカ！？<FFFC><FFF6>オマエ　ムセキニン！！<FFF5>	You, real or not<FFF6>giving me unknown thing!?<FFFC><FFF6>You irresponsible!!<FFF5>
+473	本物カ…<FFFC><FFF6>シカシ　オマエ　鼻デ笑ッタ<FFF6>チョット　ムカツク……<FFF5>	Real...?<FFFC><FFF6>But you laughed through nose<FFF6>a bit annoying......<FFF5>
+474	オマエ　オレサマ　シタガウ！<FFF6>オレサマ　ジョウキゲン！！<FFF5>	You, me obey!<FFF6>Me in good mood!!<FFF5>
+475	ソコマデ　コバムナラ<FFF6>オレサマ　イラナイ……<FFF5>	If you flatter this much,<FFF6>me don't need......<FFF5>
+476	オマエ　ムカツク！！<FFF6>オレサマ　ゲキド！！<FFF5>	You annoying!!<FFF6>Me furious!!<FFF5>
+477	ガァーー！<FFFC><FFF6>オレサマ　タヌキ違ウ！！<FFF6>オマエ　シツレイナ奴！！<FFF5>	Gaaa!<FFFC><FFF6>Me not tanuki!!<FFF6>You rude guy!!<FFF5>
+478	オレサマ　ドビン　ナラ<FFF6>オマエ　マルノミ<FFF6>オレサマ　リョウリ　スル！<FFF5>	If me teapot,<FFF6>me swallow you whole,<FFF6>me cook you!<FFF5>
+479	オレサマ　言葉ノ<FFF6>キャッチボール　シタイダケ…<FFFC><FFF6>オマエ　ツレナイ奴…<FFF5>	Me just want to play<FFF6>catch with words...<FFFC><FFF6>You cold guy...<FFF5>
+480	オマエ　話ワカル！<FFFC><FFF6>オレサマ　カシコイ奴<FFF6>ソンケイ　スル！<FFF5>	You understand talk!<FFFC><FFF6>Me think you smart,<FFF6>respect you!<FFF5>
+481	サソイ　コトワル<FFF6>オマエ　ソレ　バカ！！<FFFC><FFF6>オレサマ　バカ　キライ！！<FFF5>	Refuse invitation<FFF6>you're idiot for that!!<FFFC><FFF6>Me hate idiots!!<FFF5>
+482	オマエ　迷ウコト　ナイ！<FFF6>オレサマ　楽シイゾ！！<FFFC><FFF6>アオーン！　アオーン！<FFF5>	You no need to hesitate!<FFF6>Me fun!!<FFFC><FFF6>Aooon! Aooon!<FFF5>
+483	オレサマ　欲シイナラ<FFF6>ニンゲン　他ノ　交渉術ツカエ<FFF6>オレサマ　演説　イヤダ<FFF5>	If you want me,<FFF6>use other talk skill.<FFF6>Me hate speeches!<FFF5>
+484	オレサマ　理解シナイ！<FFF6>ケッキョク　オマエ　キライ！<FFF5>	Me don't understand!<FFF6>After all, me hate you!<FFF5>
+485	ソノ　フフン　気ニナル…<FFFC><FFF6>…………<FFFC>ソウカ！<FFF6>オマエ　照レテルンダナ！<FFFB><FFF7>オレサマ　理解シタ<FFF6>オマエ　イイ奴！！<FFF5>	That 'hmph', bugs me...<FFFC><FFF6>..........<FFFC>I see!<FFF6>You're embarrassed, huh!<FFFB><FFF7>Me understand<FFF6>you good guy!!<FFF5>
+486	オマエ　オレサマ<FFF6>鼻デ　ワラッタ！！<FFF6>スゴイ　クツジョク！！<FFFB><FFF7>オレサマ　オマエ<FFF6>マルマル　マルカジリ！！<FFF5>	You, me<FFF6>laughed through nose!!<FFF6>Great humiliation!!<FFFB><FFF7>Me, you<FFF6>totally chomp chomp!!<FFF5>
+487	アオーン！<FFFC><FFF6>オレサマ　チョウシ<FFF6>ノッテミタ　ダケ！<FFF5>	Aooon!<FFFC><FFF6>Me got carried away<FFF6>just a little!<FFF5>
+488	軍師　アタマ　イイ！<FFFC><FFF6>オレサマ　オマエ<FFF6>ケッコウ　気ニ入ッタ！！<FFF5>	Strategist, smart!<FFFC><FFF6>Me, you<FFF6>quite like you!!<FFF5>
+489	ショウグン……デモ<FFF6>オマエ　強ソウニ　見エナイ<FFFC><FFF6>ナンカ　顔　デカイダケ<FFF5>	General...but<FFF6>you don't look strong<FFFC><FFF6>just a big face<FFF5>
+490	オマエ　ヨクバリ！<FFFC><FFF6>ニトヲ　オウ者ハ<FFF6>イットヲモ　エズ　ダ！！<FFF5>	You greedy!<FFFC><FFF6>Chase two rabbits,<FFF6>catch neither!!<FFF5>
+491	オマエ　ソレデ<FFF6>アヤマッタ　ツモリカ？！<FFFB><FFF7>オマエ　ミタイニ<FFF6>オウヘイナ　ニンゲン<FFF6>オレサマ　ハジメテ！<FFF5>	You, with that,<FFF6>think you apologized?!<FFFB><FFF7>Arrogant human like you,<FFF6>me first time seeing!<FFF5>
+492	ガァーー！<FFFC><FFF6>オマエ　ツッパルナラ<FFF6>オレサマ　ジツリョクコウシ！<FFF5>	Gaaa!<FFFC><FFF6>If you keep being tough,<FFF6>me settle by strength!<FFF5>
+493	ソノ　ユウチョウナ　タイド<FFF6>オレサマ　ムカツク！<FFF5>	That leisurely attitude<FFF6>me annoyed!<FFF5>
+494	グゥ………<FFFC><FFF6>オレサマ　悪イラシイ………<FFF5>	Guu......<FFFC><FFF6>Me seems bad......<FFF5>
+495	アオーン！<FFFC><FFF6>オレサマ　気ニシナイ！<FFF5>	Aooon!<FFFC><FFF6>Me don't mind!<FFF5>
+496	アンナコト　言ワレレバ<FFF6>オレサマ　気ニナル！！<FFF6>オマエ　ムチャクチャ！！<FFF5>	If you say such things,<FFF6>me will mind!!<FFF6>You're outrageous!!<FFF5>
+497	アオーン！<FFFC><FFF6>オレサマ　嬉シイ！！<FFF6>オマエ　ホメ　ジョウズ！！！<FFF5>	Aooon!<FFFC><FFF6>Me happy!!<FFF6>You good at praise!!!<FFF5>
+498	グゥ………<FFFC><FFF6>オレサマ　ソンナニ　スゴイカ？<FFFB><FFF7>オレサマ　タシカニ　スゴイ<FFF6>ケド　オマエ…<FFFC><FFF6>言イカタ　ナンカ　アヤシイ…<FFF5>	Guu......<FFFC><FFF6>Me that amazing?<FFFB><FFF7>Me really amazing,<FFF6>but you...<FFFC><FFF6>Way you talk, suspicious...<FFF5>
+499	オマエ　ウソ　ツイタ…<FFFC><FFF6>オレサマ　ゴキゲンナナメ<FFF5>	You lied...<FFFC><FFF6>Me in bad mood<FFF5>
+500	オマエ　強気！<FFF6>オマエ　ナマイキ！！<FFF6>オレサマ　ゴリップク！！！<FFF5>	You bold!<FFF6>You cheeky!!<FFF6>Me furious!!!<FFF5>
+501	オマエ　オレサマ<FFF6>バカ　違ウ　言ッテルノニ！！<FFF6>オマエ　実ハ　バカダロ…<FFF5>	You, me<FFF6>not dumb, I said!!<FFF6>You're really dumb, right...<FFF5>
+502	グゥ………<FFFC><FFF6>オレサマ　タオレル　イヤ…<FFF5>	Guu......<FFFC><FFF6>Me don't want to collapse...<FFF5>
+503	オマエ　バカ？<FFFC><FFF6>ココデ　オレサマ　マルノミ<FFF6>オマエ　モンク　言エナイゾ<FFF5>	You idiot?<FFFC><FFF6>Here me swallow you whole<FFF6>you can't complain!<FFF5>
+504	オマエ　バカ正直！<FFFC><FFF6>デモ　オレサマ　気ニイッタ！<FFF6>オマエ　シンヨウ　デキル！<FFF5>	You too honest!<FFFC><FFF6>But me like it!<FFF6>You can be trusted!<FFF5>
+505	オマエ　ツマラナイ奴…<FFFC><FFF6>オレサマ　ゴキゲンナナメ！<FFF5>	You boring guy...<FFFC><FFF6>Me in bad mood!<FFF5>
+506	……オソワルノ　ヤメタ！<FFFC><FFF6>オマエ　ナンカ　イヤイヤ<FFF6>オレサマ　フユカイ！<FFF5>	......Me stop attacking!<FFFC><FFF6>You, something displeasing,<FFF6>me unpleasant!<FFF5>
+507	デモ　オレサマ　オドリタイ！<FFF6>ドウシヨウ…………………<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　オマエ<FFF6>ズット　見テイル！！<FFF5>	But me want to dance!<FFF6>What to do.................<FFFB><FFF7>Nuu...<FFFC><FFF6>Me, you<FFF6>keep watching you!!<FFF5>
+508	ヌウ…<FFFC><FFF6>オレサマ　ビンボウ……<FFFC><FFF6>ヤハリ　ヨノナカ　金シダイ…<FFF5>	Nuu...<FFFC><FFF6>Me poor......<FFFC><FFF6>After all, world runs on money...<FFF5>
+509	グゥ………<FFFC><FFF6>本当ハ　オレサマ　ヘタ<FFF6>ウソ　ツイテマシタ……<FFF5>	Guu......<FFFC><FFF6>Really, me bad at it<FFF6>I lied......<FFF5>
+510	ガァーー！<FFFC><FFF6>オマエ　オレサマ　ウタガウ<FFF6>オレサマ　ゴキゲン　ナナメ！<FFF5>	Gaaa!<FFFC><FFF6>You doubt me!<FFF6>Me in bad mood!<FFF5>
+511	グゥ………<FFFC><FFF6>本当ハ　オレサマ　ヘタ<FFF6>ウソ　ツイテマシタ……<FFF5>	Guu......<FFFC><FFF6>Really, me bad at it<FFF6>I lied......<FFF5>
+512	グゥ………<FFFC><FFF6>オマエ　アクマ　好キカ…<FFFB><FFF7>オレサマ　オマエ<FFF6>好キニ　ナッテモ<FFF6>オマエ　ウワキ　シソウ……<FFF5>	Guu......<FFFC><FFF6>You like demons?<FFFB><FFF7>Me, you<FFF6>even if me like you,<FFF6>you'd cheat......<FFF5>
+513	オレサマ　ユカイ！！<FFF6>オマエ　イッショナラ<FFF6>ナンカ　楽シソウダ！<FFF5>	Me fun!!<FFF6>If with you,<FFF6>seems fun!<FFF5>
+514	ナンダ　キライカ…<FFFC><FFF6>オレサマ　ガッカリ……<FFF5>	Hate me, huh...<FFFC><FFF6>Me disappointed......<FFF5>
+515	ヌウ…<FFFC><FFF6>オマエ　ネンキ　アルノカ…<FFF6>アナドレナイ　奴ダ……<FFFB><FFF7>アナドラレナイ　ヨウニ<FFF6>ナンカ　モラットク！<FFF1><FFF5>	Nuu...<FFFC><FFF6>You have resolve...<FFF6>Not someone to underestimate......<FFFB><FFF7>So you can't underestimate,<FFF6>take something!<FFF1><FFF5>
+516	オマエ　ミジュク者！<FFF6>オレサマ　チョウハツ<FFF6>スル　シカク　ナイ！！<FFF5>	You inexperienced!<FFF6>Me taunt,<FFF6>you no right!!<FFF5>
+517	オマエ　ドウシテ　笑ウ？<FFFC><FFF6>オレサマ　負ケナイ！<FFF6>アオーン！　アオーン！！<FFF5>	You, why laugh?<FFFC><FFF6>Me no lose!<FFF6>Aooon! Aooon!!<FFF5>
+518	見エルナラ　オレサマ<FFF6>ゲキド　ショウコ！！<FFF6>オマエ　ヨク　見トケ！！<FFF5>	If you see, me<FFF6>furious proof!!<FFF6>You watch closely!!<FFF5>
+519	ソウカ？……<FFFC><FFF6>ナラ　オレサマ<FFF6>キット　ナンデモナイ<FFFB><FFF7>ヘイジョウシン…<FFFC><FFF6>ナンカ　クレ！<FFF1><FFF5>	Really?......<FFFC><FFF6>Then me<FFF6>surely fine<FFFB><FFF7>Normal mind...<FFFC><FFF6>Give me something!<FFF1><FFF5>
+520	オレサマ　ミドリ？！<FFF6>ソレハ　タイヘン！！<FFF6>ヌウ………<FFFB><FFF7>レイセイニ　考エレバ<FFF6>オレサマ　悪魔ダカラ<FFF6>ミドリ　トウゼンダ…<FFF5>	Me green?!<FFF6>That's terrible!!<FFF6>Nuu.........<FFFB><FFF7>Calmly think,<FFF6>me a demon,<FFF6>green is natural......<FFF5>
+521	オマエ　モシカシテ<FFF6>ショウシンショウメイ　サド…<FFF5>	You maybe<FFF6>genuine sadist...<FFF5>
+522	ソコマデ　言ワレレバ<FFF6>オレサマ　黙ッテ　ナイ！！<FFF6>オマエ　ガァーー！！<FFF5>	If you say that much,<FFF6>me not keep quiet!!<FFF6>You, Gaaa!!<FFF5>
+523	グゥ………<FFFC><FFF6>オマエ　ウソツキダロ…<FFF6>オレサマ　イジメ　キライ…<FFF5>	Guu......<FFFC><FFF6>You liar, right...<FFF6>Me hate bullying...<FFF5>
+524	オレサマ　シンケン！<FFF6>笑ウノ　スゴク　シツレイ！<FFF6>オマエ　ムカツク！！<FFF5>	Me serious!<FFF6>Laughing very rude!<FFF6>You annoying!!<FFF5>
+525	オマエ　イジワル……<FFFC><FFF6>オレサマ　モウ　ゲンカイ！<FFF6>オマエ　好キニナル！！<FFF5>	You mean......<FFFC><FFF6>Me at my limit!<FFF6>Me like you!!<FFF5>
+526	ナンデ　オマエ　テレル？<FFFC><FFF6>ニンゲン　ヨク　ワカラナイ…<FFF5>	Why you embarrassed?<FFFC><FFF6>Humans, don't understand...<FFF5>
+527	ガァーー！<FFFC><FFF6>モウ　ヘイワテキ　カイケツ<FFF6>オマエ　ノゾメナイ！！<FFF5>	Gaaa!<FFFC><FFF6>No peaceful solution now,<FFF6>you can't hope for it!!<FFF5>
+528	オマエ　コウカイ　シテル？<FFF6>ソレナラ　オレサマ<FFF6>オマエ　カジルノ　ヤメトク<FFFB><FFF7>ソノカワリ…<FFFC><FFF6>ナンカ　モラウゾ！<FFF1><FFF5>	You regret it?<FFF6>Then me<FFF6>stop chomping you<FFFB><FFF7>Instead...<FFFC><FFF6>Me take something!<FFF1><FFF5>
+529	オマエ　キュウキョク　ブレイ！オレサマ　イカリ　バクハツ！<FFF6>オマエ　マルカジリ！！<FFF5>	Rudest you!! Me rage explodes!<FFF6>Me chomp you!!<FFF5>
+530	オマエ　オレサマ<FFF6>ジャクテン　サガス気ダロ！！<FFFB><FFF7>ガァーー！<FFFC><FFF6>ニンゲン　ズルガシコイ！！<FFF5>	You, me<FFF6>looking for weak spot, right!!<FFFB><FFF7>Gaaa!<FFFC><FFF6>Humans so sly!!<FFF5>
+531	アオーン！<FFFC><FFF6>オレサマ　オマエ　見セル！<FFF6>カイカン　クセニナル！<FFF5>	Aooon!<FFFC><FFF6>Me show you!<FFF6>Get hooked on the thrill!<FFF5>
+532	オマエ　オレサマ<FFF6>ドウシテ　見ツメタ！！<FFFC><FFF6>オマエ　ヨク　ワカラナイ……<FFF5>	You, me<FFF6>why you stare at me!!<FFFC><FFF6>You, don't understand......<FFF5>
+533	オマエ　本当ニ<FFF6>ソウ　思ッテルノカ？<FFFB><FFF7>タンニ　ペルソナ材料<FFF6>ツカウダケ　イヤダゾ…<FFF5>	You really<FFF6>think so?<FFFB><FFF7>Just use me as Persona material<FFF6>I hate that...<FFF5>
+534	オマエ　本当ニ<FFF6>ソウ　思ッテルノカ？<FFFB><FFF7>オレサマ　スゴイ<FFF6>ゼッタイ　ヤクニ　タツゾ！<FFF5>	You really<FFF6>think so?<FFFB><FFF7>Me amazing,<FFF6>definitely useful!<FFF5>
+535	オマエ　オレサマ<FFF6>力アルカ　ウタガウカ！？<FFFB><FFF7>ソレ　フホンイ！<FFF6>オレサマ　チョット<FFF6>ゴキゲンナナメ<FFF5>	You, me<FFF6>doubt my power!?<FFFB><FFF7>Not what me meant!<FFF6>Me a bit<FFF6>in bad mood<FFF5>
+536	ガァーー！<FFFC><FFF6>オマエ　ホラフキ！！<FFF6>ソレ　ウソ　ダロウ！！<FFF5>	Gaaa!<FFFC><FFF6>You big liar!!<FFF6>That's a lie, right!!<FFF5>
+537	オマエ　ホラフキ<FFF6>ダカラ……………<FFFB><FFF7>オマエ　他ノ場所デ<FFF6>ホラ　フクッテコト　ダナ！<FFF6>オレサマ　嬉シイ！！<FFF5>	You big liar<FFF6>so............<FFFB><FFF7>You, somewhere else<FFF6>tell tall tales, right!<FFF6>Me happy!!<FFF5>
+538	オマエ　迷ウコトナイ！<FFF6>スナオニ　ウナズケ！！<FFF5>	You no need to hesitate!<FFF6>Just nod honestly!!<FFF5>
+539	ガァーー！<FFFC><FFF6>オレサマ　今デモ　強イ！<FFF6>オマエ　ホラ　ナッテナイゾ！<FFF5>	Gaaa!<FFFC><FFF6>Me still strong now!<FFF6>You, not a tall tale!<FFF5>
+540	チョット　ミリョクテキ…<FFFC><FFF6>デモ　カシコイノモ<FFF6>トキニハ　フコウ　カモ…<FFF5>	A little charming...<FFFC><FFF6>But being smart<FFF6>sometimes unlucky, maybe...<FFF5>
+541	オマエ　オレサマ<FFF6>ミニクイ　思ッテルダロ…<FFFB><FFF7>オマエ　ニンゲン<FFF6>オレサマ　<FFF0><FFF6>美ノ　カチカン　違ウ！<FFF5>	You, me<FFF6>think I'm ugly, right...<FFFB><FFF7>You human,<FFF6>Me, <FFF0><FFF6>sense of beauty different!<FFF5>
+542	オマエ　ムカツク！<FFF6>オレサマ　オマエ　マルカジリ！<FFF5>	You annoying!<FFF6>Me chomp you!<FFF5>
+543	オマエ　オレサマ<FFF6>オソロシサ　知ラナイノカ？<FFFB><FFF7>人間ナラ　シカタナイカ…<FFFC><FFF6>ナンカ　ヨコセバ<FFF6>教エテ　ヤルカモ…<FFF1><FFF5>	You, me<FFF6>don't know my fearsomeness?<FFFB><FFF7>If human, can't help...<FFFC><FFF6>If you give something,<FFF6>me might teach you...<FFF1><FFF5>
+544	違ウナラ　オマエ<FFF6>別ノ　交渉ジュツ　使エ！<FFFC><FFF6>オマエ　センタク　マチガイ！<FFF5>	If wrong, you<FFF6>use other negotiation!<FFFC><FFF6>Your choice wrong!<FFF5>
+545	オマエ　オレサマ<FFF6>レンシュウ　シタ！<FFFC><FFF6>オレサマ　ゴキゲンナナメ<FFF5>	You, me<FFF6>practiced!<FFFC><FFF6>Me in bad mood<FFF5>
+546	オレサマ　ヨワミ<FFF6>オマエ　ニギラレタ…<FFFC><FFF6>オレサマ　サカラエナイノカ…<FFF5>	Me weakness<FFF6>you grasped...<FFFC><FFF6>Me can't resist......<FFF5>
+547	オマエ　オレサマ<FFF6>ニガテナ　タイプ……<FFF5>	You, me<FFF6>bad type for me......<FFF5>
+548	フシギナ話　怖い話<FFF6>オマエ　ソレ　違ウゾ<FFF5>	Strange talk, scary talk<FFF6>you, that's wrong<FFF5>
+549	ソレ　怖イ　トイウカ<FFF6>オモシロイ　話ダ！<FFF6>オレサマ　キョウミ　アル！<FFF5>	Scary, I mean<FFF6>interesting talk!<FFF6>Me interested!<FFF5>
+550	グゥ………<FFFC><FFF6>ソレハ　オレサマ<FFF6>知ラナカッタ……<FFF5>	Guu......<FFFC><FFF6>That, me<FFF6>didn't know......<FFF5>
+551	歌ハ　楽シイノカ！<FFFC><FFF6>ナラ　オレサマモ　楽シイ！<FFF6>アオーン！　アオーン！！<FFF5>	Singing fun?!<FFFC><FFF6>Then me fun too!<FFF6>Aooon! Aooon!!<FFF5>
+552	ヌウ…<FFFC><FFF6>オマエ　ジュンスイ<FFF6>オレサマ　ソウイウノ　好キ！<FFF5>	Nuu...<FFFC><FFF6>You pure<FFF6>Me like that kind!<FFF5>
+553	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>カクシゴト　ヨクナイ！！<FFF5>	Gaaa!<FFFC><FFF6>You, me<FFF6>secrets not good!!<FFF5>
+554	オマエ　スナオ<FFF6>アヤマレバ　ソレデ　イイ<FFF5>	You honest<FFF6>if you apologize, that's fine<FFF5>
+555	オレサマ　二ド　言ワナイ！<FFF6>オマエ　次カラ　メモ用意シロ！ガァーー！！<FFF5>	Me won't say twice!<FFF6>Next time, bring notes! Gaaa!!<FFF5>
+556	ガァーー！<FFFC><FFF6>神ニ　スガッテモ<FFF6>オマエ　歌ヘタ　カワラナイ！<FFF5>	Gaaa!<FFFC><FFF6>Even if you pray to god,<FFF6>your singing bad, no change!<FFF5>
+557	ソノ　歌………<FFFC><FFF6>オレサマ　評価ヤメトク<FFF6>ナンカ　ヤバソウダカラ……<FFF5>	That song......<FFFC><FFF6>Me stop rating it,<FFF6>seems dangerous......<FFF5>
+558	オマエ　ソレ　違ウ！！<FFF6><FFF0>ノ歌　ソレ　違ウ！！<FFFB><FFF7>デモ　アレンジ<FFF6>ソンナニ　悪クナイゾ<FFF5>	That's wrong!!<FFF6><FFF0>'s song, that's wrong!!<FFFB><FFF7>But arrangement<FFF6>not that bad<FFF5>
+559	オマエ　テレルナ…<FFFC><FFF6>オレサマ　ソウイウノ<FFF6>気ニシナイ　ダイジョウブ<FFF5>	Don't be embarrassed...<FFFC><FFF6>Me don't mind that kind<FFF6>it's fine<FFF5>
+560	ヌウ…<FFFC><FFF6>オマエ　気ノ強イ　ニンゲン！<FFF6>ワルクナイ　カモシレナイ…<FFF5>	Nuu...<FFFC><FFF6>You strong-willed human!<FFF6>Maybe not bad...<FFF5>
+561	オマエ　オレサマ<FFF6>シツモン　コタエナイ！？<FFFB><FFF7>ガァーー！<FFFC><FFF6>オマエ　ハンコウキ！！<FFF6>ソウイウノ　ヨクナイ！！<FFF5>	You, me<FFF6>won't answer my question!?<FFFB><FFF7>Gaaa!<FFFC><FFF6>You rebellious!!<FFF6>That's not good!!<FFF5>
+562	オマエ　ムカツク！<FFF6>オレサマ　オマエ　マルカジリ！<FFF5>	You annoying!<FFF6>Me chomp you!<FFF5>
+563	オマエ　オレサマ<FFF6>オソロシサ　知ラナイノカ？<FFFB><FFF7>人間ナラ　シカタナイカ…<FFF6>ナンカ　ヨコセバ<FFF6>教エテ　ヤルカモ…<FFF1><FFF5>	You, me<FFF6>don't know my fearsomeness?<FFFB><FFF7>If human, can't help...<FFF6>If you give something,<FFF6>me might teach you...<FFF1><FFF5>
+564	違ウナラ　オマエ<FFF6>オレサマ　コドモ　アツカイ<FFF6>次カラ　ヤメロ！！<FFF5>	If not, you<FFF6>don't treat me like kid,<FFF6>stop it!!<FFF5>
+565	オマエ　ヤサイ<FFF6>力ツカナイゾ！<FFF6>肉クエ　肉…………<FFFB><FFF7>肉………<FFFC><FFF6>オマエ　ウマソウダナ…<FFF5>	You, vegetables<FFF6>no strength!<FFF6>Eat meat, meat...........<FFFB><FFF7>Meat......<FFFC><FFF6>You look tasty...<FFF5>
+566	オマエ　コメ　食ウカ<FFF6>オレサマ　アマリ　食ワナイ…<FFFC><FFF6>アイショウ　ワルイカモ…<FFFB><FFF7>アイショウ　チェック！<FFF6>オマエ　ナンカ　クレ！<FFF1><FFF5>	You eat rice?<FFF6>Me don't eat much...<FFFC><FFF6>Compatibility maybe bad...<FFFB><FFF7>Check compatibility!<FFF6>You give something!<FFF1><FFF5>
+567	オレサマ　肉　好き！<FFFC><FFF6>オマエ　話　アウ！！<FFF6>オレタチ　トモダチ！！<FFF5>	Me like meat!<FFFC><FFF6>You good talk partner!!<FFF6>We're friends!!<FFF5>
+568	ソレシカ　食ベナイノカ…<FFFC><FFF6>オマエ　ガシ　スルゾ…<FFFB><FFF7>オレサマ　トテモジャナイガ<FFF6>オマエ　ツキアエナイ……<FFF5>	Only that you eat...<FFFC><FFF6>You picky, I tell you...<FFFB><FFF7>Me not that, but<FFF6>can't go out with you......<FFF5>
+569	オマエ　ダイエット？<FFFC><FFF6>オレサマ　思ウ<FFF6>オマエ　ソンナ　必要ナイゾ<FFF5>	You diet?<FFFC><FFF6>Me think<FFF6>you don't need that<FFF5>
+570	オマエ　ヨク　食ベル！<FFF6>食ベル　ヨク　ソダツ！<FFF6>オレサマ　楽シミ！！<FFF5>	You eat lots!<FFF6>Eat, grow strong!<FFF6>Me looking forward!!<FFF5>
+571	オマエ　嬉シイノカ？<FFFC><FFF6>カナリ変ナ　ニンゲンダナ<FFF5>	You happy?<FFFC><FFF6>Quite strange human<FFF5>
+572	オマエ　何　ソウゾウシテル？<FFF6>ニンゲン　意識カジョウダゾ<FFF5>	What you imagining?<FFF6>Humans too self-conscious!<FFF5>
+573	オマエ　ムカツク！！<FFF6>オレサマ　オカンムリ！！<FFF5>	You annoying!!<FFF6>Me furious!!<FFF5>
+574	ナンダ　クチ　悪イ<FFF6>オマエ　ダケジャナイノカ…<FFFC><FFF6>ナラ　キョウミ　ナイゾ<FFF5>	What, your mouth bad!<FFF6>Are you the only one...?<FFFC><FFF6>Then no interest in you<FFF5>
+575	オマエ　ジカク　ナイ！？<FFFC><FFF6>ソレ　最悪ノ　パターン！<FFF6>オレサマ　オマエ　ミハナシ！<FFF5>	You no sense!?<FFFC><FFF6>That worst pattern!<FFF6>Me abandon you!<FFF5>
+576	オレサマ　頭ハ　嫌ダ…<FFFC><FFF6>食ベタラ　バカ　ウツリソウ…<FFF5>	Me don't want head...<FFFC><FFF6>If eat, stupid may spread...<FFF5>
+577	ナンカ　ウマソウ………<FFFC><FFF6>焼イタラ　ペキンダック<FFF6>ミタイニ　ナルゾ！！<FFF5>	Looks tasty.........<FFFC><FFF6>Grill, becomes<FFF6>Peking duck-like!!<FFF5>
+578	オレサマ　ウソ　ツカナイ！<FFF6>カジル　言ウタラ　カジル！！<FFF5>	Me never lie!<FFF6>If say chomp, chomp!!<FFF5>
+579	ナンカ　ハギレ悪イナ…<FFFC><FFF6>オマエ　マダ　ナニカ<FFF6>要求スル　ツモリナノカ……<FFF5>	Somehow unclean...<FFFC><FFF6>You still plan<FFF6>to ask something......<FFF5>
+580	ナラ　オマエ　オレサマ<FFF6>ドウシロト　言ウノダ！<FFFC><FFF6>オマエ　ムチャクチャ！！<FFF5>	Then, you, me<FFF6>what do you want me to do!<FFFC><FFF6>You're outrageous!!<FFF5>
+581	オマエ　サクサク　決メロ！<FFFC><FFF6>ガァーー！<FFF6>オレサマ　アヤマル　ヤメタ！<FFF5>	Decide quickly!<FFFC><FFF6>Gaaa!<FFF6>Me stop apologizing!<FFF5>
+582	オマエ　オベッカ　ダメ！<FFFC><FFF6>オレサマ　ジブン　知ッテル<FFF6>オダテラレナイ！！<FFF5>	You no flattery!<FFFC><FFF6>Me know myself<FFF6>can't be flattered!!<FFF5>
+583	アオーン！<FFFC><FFF6>オマエ　言ウトオリ！！<FFF6>オレサマ　サイキョウ！<FFF5>	Aooon!<FFFC><FFF6>You say right!!<FFF6>Me the strongest!<FFF5>
+584	サスガ　ニンゲン<FFF6>見ルトコロ　違ウナ……<FFF5>	Humans, as expected<FFF6>different in what they see...<FFF5>
+585	オマエ　ウソツキ！<FFFC><FFF6>ドウセ　テキトウニ<FFF6>オレサマ　ゴマカス気ダロウ！<FFF5>	You liar!<FFFC><FFF6>Anyway, make it up<FFF6>you plan to fool me!<FFF5>
+586	オマエ　ワカッテナイ！<FFFC><FFF6>オモイ　筋肉ダメ　デモ<FFF6>ツケバ　フツウ　ツヨクナル！<FFF5>	You don't get it!<FFFC><FFF6>Heavy muscle no good, but<FFF6>build it, normal gets strong!<FFF5>
+587	チョウ　ナラ　シカタナイ…<FFFC><FFF6>オレサマ　オマエ　サワラナイ<FFF5>	If butterfly, can't help...<FFFC><FFF6>Me won't touch you<FFF5>
+588	グゥ………<FFFC><FFF6>ソンナニ　愛サレルト<FFF6>アトガ　メンドウダ……<FFF5>	Guu......<FFFC><FFF6>If loved so much,<FFF6>then trouble after......<FFF5>
+589	オレタチ　愛　アル！<FFF6>オレサマ　チョウ　ウレシイ！<FFF5>	We have love!<FFF6>Me very happy!<FFF5>
+590	ガァーー！<FFFC><FFF6>オマエ　オレサマ<FFF6>ジュンジョウ　フミニジッタ！<FFFB><FFF7>ニンゲン　愛　ナイノカ！<FFFC><FFF6>トニカク　オレサマ<FFF6>オマエ　マルカジリ！！<FFF5>	Gaaa!<FFFC><FFF6>You trample on order!<FFFB><FFF7>Humans have no love?!<FFFC><FFF6>Anyway, me<FFF6>chomp you!!<FFF5>
+591	オレサマ　スペルカード<FFF6>アゲテモ　タブン……<FFFC><FFF6>オマエ　不幸　救エナイ…<FFF5>	Me give Spell Card,<FFF6>maybe not......<FFFC><FFF6>You can't save misfortune...<FFF5>
+592	オマエ　ソノ　不幸<FFF6>物デ　カイケツ　スルノカ？<FFFB><FFF7>オレサマ　トテモ<FFF6>ソウハ　思エナイゾ…<FFF5>	Your misfortune,<FFF6>solve with things?<FFFB><FFF7>Me very much<FFF6>can't think so...<FFF5>
+593	オマエ　オレサマ<FFF6>シンセツ　言ッテルノニ！<FFFB><FFF7>オレサマ　シンセツシン<FFF6>ムダ　スル　オマエ　バカ！！<FFF5>	Me kindly speaking to you!<FFFB><FFF7>My kindness<FFF6>wasted, you idiot!!<FFF5>
+594	オマエ　オレサマ<FFF6>言ウコト　キイタ！<FFF6>エライ　ニンゲン！<FFF5>	You listened to me!<FFF6>Good human!<FFF5>
+595	オマエ　オレサマ<FFF6>ヤサシク　言ッテルノニ<FFF6>マダ　不満アルノカ！！<FFF5>	You, me<FFF6>speaking gently,<FFF6>still not satisfied!?<FFF5>
+596	オレサマ　言葉　ツヨスギタ<FFFC><FFF6>オマエ　アヤマルカラ<FFF6>泣クノ　ヤメテクレ<FFF5>	Me words too harsh<FFFC><FFF6>You apologize,<FFF6>so stop crying!<FFF5>
+597	オマエ　ナゼ　笑ウ………<FFFC><FFF6>オレサマ　オマエ<FFF6>ニンゲン　ヨク　ワカラン<FFF5>	You, why laugh.........<FFFC><FFF6>Me, you<FFF6>humans don't understand well<FFF5>
+598	ヒキトメテモ　ダメダ！<FFF6>オレサマ　トラブル　キライ！<FFF5>	Even if I stop you!<FFF6>Me hate trouble!<FFF5>
+599	オレサマ　オマエ　見捨テル<FFF6>コレモ　<FFF0>族ノタメ……<FFFC><FFF6>悪ク　思ウナ………<FFF5>	Me abandon you<FFF6>this too, for <FFF0> clan......<FFFC><FFF6>Don't take it badly........<FFF5>
+600	オマエ　オレサマ　知ッテル<FFF6>ナノニ　オドス　バカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>マア　オレサマ<FFF6>バカ者　キライ　ジャナイ<FFF5>	You know me<FFF6>yet you threaten? Fool?<FFFB><FFF7>Nuu...<FFFC><FFF6>Well, me<FFF6>don't dislike fools<FFF5>
+601	オレサマ　<FFF3><FFF6><FFF0>デ　イチバン！！<FFFB><FFF7>オマエ　ツギマデニ<FFF6>シッカリ　キオク　シテオケ！<FFF5>	Me, <FFF3><FFF6>Number one in <FFF0>!!<FFFB><FFF7>You, by next time<FFF6>remember it well!<FFF5>
+602	オマエ　交渉マエニ<FFF6>アクマ　ケンキュウ　シロ！<FFFB><FFF7>オレサマ　ミタク<FFF6>ヤサシイ　シンセツナ<FFF6><FFF0>　バカリジャナイ<FFF5>	Study demons before negotiating!<FFFB><FFF7>Like me,<FFF6>kind and gentle<FFF6><FFF0> not all fools<FFF5>
+603	ガァーー！<FFFC><FFF6>オレサマ　トリ違ウ！！<FFF6>オマエ　ナメンナ！<FFF5>	Gaaa!<FFFC><FFF6>Me no bird!!<FFF6>Don't mess with me!<FFF5>
+604	オマエ　セイカイ！<FFFC><FFF6>ヤクソク　ドオリ<FFF6>今回　オシオキ　ナシ！<FFF5>	You right!<FFFC><FFF6>As promised,<FFF6>no punishment this time!<FFF5>
+605	ガァーー！<FFFC><FFF6>オレサマ　穴ノ中デ<FFF6>生活ナンテ　シナイ！！<FFF5>	Gaaa!<FFFC><FFF6>Me no live in hole!!<FFF5>
+606	オマエ　イサギヨイ奴<FFF6>ナカナカ　リッパ！！<FFFB><FFF7>オマエ　オレサマ<FFF6>思ウヨリ　イイ奴カモ…<FFF5>	You brave guy!<FFF6>Quite admirable!!<FFFB><FFF7>You, me<FFF6>maybe better guy than thought...<FFF5>
+607	オマエ　オレサマ<FFF6>ダメ　言ウ　権利ナイ！<FFFB><FFF7>オマエ　ジブン　シタコト<FFF6>ヨク考エテ　ミロ！！！<FFF5>	You, me<FFF6>no right to say no!<FFFB><FFF7>What you did<FFF6>think about it well!!!<FFF5>
+608	オマエ　マサニ　悪役！<FFFC><FFF6>オレサマ　オマエ　タオシテ<FFF6>正義ノ　ヒーロー　ナル！！<FFF5>	You, true villain!<FFFC><FFF6>Me beat you,<FFF6>become hero of justice!!<FFF5>
+609	ヌウ…<FFFC><FFF6>オマエ　イマ<FFF6>難シイコト　言ッタ…<FFFB><FFF7>ヌウ…<FFFC><FFF6>オレサマ　ワカッタゾ！<FFF6>アオーン！　アオーン！！<FFF5>	Nuu...<FFFC><FFF6>You, now<FFF6>said difficult thing...<FFFB><FFF7>Nuu...<FFFC><FFF6>Me understood!<FFF6>Aooon! Aooon!!<FFF5>
+610	ヌウ…<FFFC><FFF6>オマエ　イマ<FFF6>難シイコト　言ッタ…<FFFB><FFF7>オレサマ　ヨク　ワカラナイ<FFFC><FFF6>ケド　オクノ　フカサ<FFF6>ナントナク　感ジタゾ<FFF5>	Nuu...<FFFC><FFF6>You, now<FFF6>said difficult thing...<FFFB><FFF7>Me don't understand well<FFFC><FFF6>But depth of it<FFF6>sort of felt<FFF5>
+611	オマエ　ジブン　知ラナイ！？<FFFC><FFF6>ジコカンリ　デキナイ奴<FFF6>オマエ　ダメ　ガァーー！<FFF5>	You don't know yourself!?<FFFC><FFF6>Can't manage yourself,<FFF6>you bad! Gaaa!<FFF5>
+612	オレサマ　好キキライ　ナイ！<FFF6>ヤサイ　食ベテルゾ！！<FFFC><FFF6>オマエ　ナンカ　イイカゲン！<FFF5>	Me no like or dislike!<FFF6>Me eat vegetables!!<FFFC><FFF6>You, somehow sloppy!<FFF5>
+613	オレサマ　ニンゲン　ナリタイ！オマエ　イッショ　ナラ<FFF6>ニンゲン　ナレルカモ……<FFF5>	Me want to be human!<FFF6>With you,<FFF6>maybe can become human......<FFF5>
+614	オレサマ　テオクレ…<FFFC><FFF6>モウ　ダメ…………<FFFC><FFF6>グゥ……………<FFF5>	Me too late...<FFFC><FFF6>No good already...<FFFC><FFF6>Guu.............<FFF5>
+615	ソノ　笑イ　ナンダ！？<FFFC><FFF6>オレサマ　気ニナルゾ…<FFF5>	What's that laugh?!<FFFC><FFF6>Me want to know...<FFF5>
+616	オマエ　オレサマ<FFF6>聞イテルノニ　笑ウナ！！<FFFB><FFF7>オマエ　話聞ケナイ<FFF6>ロクナ　ニンゲン　ジャナイ！<FFF5>	You, me<FFF6>laugh while I'm talking!!<FFFB><FFF7>You can't listen<FFF6>not a good human at all!<FFF5>
+617	オマエ　フテキ………<FFFC><FFF6>アヤシイ　ニンゲン………<FFF5>	You unfair........<FFFC><FFF6>Suspicious human........<FFF5>
+618	ソレ　生マレツキ…<FFFC><FFF6>ショウガナイ……<FFF5>	That's from birth...<FFFC><FFF6>Can't help it......<FFF5>
+619	オマエ　イイドキョウ！<FFFC><FFF6>オレサマ　オマエ<FFF6>チョット　マルカジリ！<FFF5>	You good courage!<FFFC><FFF6>Me, you<FFF6>me chomp a bit!<FFF5>
+620	オマエ　ソウイウノ　ナシ！<FFFC><FFF6>シカル　イジョウ<FFF6>チャント　悪イトコロ　言エ！<FFF5>	You not like that!<FFFC><FFF6>Beyond scolding<FFF6>say bad points properly!<FFF5>
+621	ソコマデ　無視サレレバ<FFF6>オレサマ　アキラメ　ツイタ<FFF5>	If ignored that much,<FFF6>me gave up.<FFF5>
+622	ユキノ　ユキノ　ユキノ…<FFF6>オマエ　ナマエ　ユキノ…<FFFC><FFF6>ユキノ　オレサマ　ユキノ？<FFF5>	Yukino Yukino Yukino...<FFF6>You name Yukino...<FFFC><FFF6>Yukino, me Yukino?<FFF5>
+623	アオーン！<FFFC><FFF6>オマエ　コタエテ　クレタ<FFF6>ソレダケデ　オレサマ　嬉シイ<FFF5>	Aooon!<FFFC><FFF6>You answered me<FFF6>just that makes me happy<FFF5>
+624	イマ　オマエ　アヤマル<FFF6>ナゼ　ハジメニ　無視シタ？<FFF6>ニンゲン　ヨク　ワカラン<FFF5>	Now you apologize<FFF6>why ignore me first?<FFF6>Humans not understood well<FFF5>
+625	オレサマ　キレタ……<FFFC><FFF6>モノスゴイ　音シタ……<FFFC><FFF6>イカリ　ゼッコウチョウ！！<FFF5>	Me snapped......<FFFC><FFF6>Terrible sound......<FFFC><FFF6>Rage at peak!!<FFF5>
+626	グゥ………<FFFC><FFF6>スコシ　グライ　オレサマ<FFF6>相手シテモ　イイダロ……<FFF5>	Guu......<FFFC><FFF6>Me a little, me<FFF6>can deal with you, right......<FFF5>
+627	ソコマデ　無視サレレバ<FFF6>オレサマ　アキラメ　ツイタ<FFF5>	If ignored that much,<FFF6>me gave up.<FFF5>
+628	レイジ……<FFFC><FFF6>ナンカ　イヤナ　ヨカンスル…<FFFC><FFF6>グゥ………………<FFF5>	Rage......<FFFC><FFF6>Feel bad omen...<FFFC><FFF6>Guu.................<FFF5>
+629	アオーン！<FFFC><FFF6>オマエ　コタエテ　クレタ<FFF6>ソレダケデ　オレサマ　嬉シイ<FFF5>	Aooon!<FFFC><FFF6>You answered me<FFF6>just that makes me happy<FFF5>
+630	アオーン！<FFFC><FFF6>オマエ　アヤマルナラ<FFF6>オレサマ　ユルセル！！<FFF5>	Aooon!<FFFC><FFF6>If you apologize,<FFF6>me forgive you!!<FFF5>
+631	オレサマ　キレタ……<FFFC><FFF6>モノスゴイ　音シタ……<FFFC><FFF6>オマエ　バイ　カジリ！！！<FFF5>	Me snapped......<FFFC><FFF6>Terrible sound......<FFFC><FFF6>You, bite bite!!!<FFF5>
+632	グゥ………<FFFC><FFF6>スコシ　グライ　オレサマ<FFF6>相手シテモ　イイダロ……<FFF5>	Guu......<FFFC><FFF6>Me a little, me<FFF6>can deal with you, right......<FFF5>
+633	ナラ　オレサマ<FFF6>オマエ　カマワナイ……<FFF5>	Then me<FFF6>you don't mind......<FFF5>
+634	グゥ………<FFFC><FFF6>ソノ　チンモク　怖イ……<FFF5>	Guu......<FFFC><FFF6>That silence scary......<FFF5>
+635	オレサマ　ドリョクスル！<FFFC><FFF6>ダカラ　オマエ<FFF6>キョウミ　持ッテクレ！<FFF5>	Me will try!<FFFC><FFF6>So you<FFF6>take interest!<FFF5>
+636	オマエ　オレサマ　知ッテル<FFF6>ナノニ　オドス　バカ？<FFFB><FFF7>ヌウ…<FFFC><FFF6>マア　オレサマ<FFF6>バカ者　キライ　ジャナイ<FFF5>	You know me<FFF6>yet you threaten? Fool?<FFFB><FFF7>Nuu...<FFFC><FFF6>Well, me<FFF6>don't dislike fools<FFF5>
+637	オレサマ　ジコショウカイ<FFF6>オレサマ　<FFF3><FFF6><FFF0>デ　イチバン！！<FFFB><FFF7>ソウダナ…<FFFC><FFF6>トリアエズ　ナンカ　モラウ！<FFF1><FFF5>	Me self-introduction<FFF6>Me, <FFF3><FFF6><FFF0> number one!!<FFFB><FFF7>Well...<FFFC><FFF6>For now, give me something!<FFF1><FFF5>
+638	ナンデ　オレサマ！？<FFFC><FFF6>オマエ　ゴカイシテル！！<FFF6>ソンナ　ツモリ　違ウ！！！<FFF5>	Why me!?<FFFC><FFF6>You misunderstand!!<FFF6>Not my intent!!!<FFF5>
+639	オレサマ　クダラナイ！？<FFF6>オマエ　イッタイ　ナニ者……<FFF5>	Me worthless!?<FFF6>You, what kind of being......<FFF5>
+640	オレサマ　シンケン！！<FFFC><FFF6>オマエ　ソレ　ワカラナイ<FFF6>ダメナ　ニンゲン！！<FFF5>	Me serious!!<FFFC><FFF6>You don't know that<FFF6>bad human!!<FFF5>
+641	グゥ………<FFFC><FFF6>オレサマ　寝ル……………<FFF5>	Guu......<FFFC><FFF6>Me sleep..............<FFF5>
+642	ガァーー！<FFF6>ガァーー！！<FFF6>ガァーー！！！<FFF5>	Gaaa!<FFF6>Gaaa!!<FFF6>Gaaa!!!<FFF5>
+643	グゥ………<FFFC><FFF6>オレサマ　オマエ<FFF6>ウルサイ　ガマンスル……<FFF5>	Guu......<FFFC><FFF6>Me, you<FFF6>noisy, me endure......<FFF5>
+644	オマエ　変……<FFFC><FFF6>オレサマ　タニン　ナル……<FFF5>	You strange.........<FFFC><FFF6>Me become stranger......<FFF5>
+645	ナラ　オマエ　叫ブナ！<FFFC><FFF6>オマエ　回リノ　迷惑ダゾ！<FFF5>	Then you, don't scream!<FFFC><FFF6>You, trouble to others!<FFF5>
+646	オマエ　殺リタイ　オレサマ？<FFF6>オレサマ　違ウ　ダロ………<FFF5>	You want to kill me?<FFF6>Me no, right..........<FFF5>
+647	オマエ　ケチ…<FFFC><FFF6>オレサマ　ガッカリ……<FFF5>	You stingy...<FFFC><FFF6>Me disappointed......<FFF5>
+648	オマエ　無視スルカ…<FFFC><FFF6>ナラ　オレサマ　セメテ<FFF6>見テ楽シム　アオーン！<FFF5>	You ignore me...<FFFC><FFF6>Then me at least<FFF6>watch and enjoy, Aooon!<FFF5>
+649	カンジョウ　ソノマンマ…<FFFC><FFF6>ヤハリ　ニンゲン<FFF6>カナリ　キケンブンシ……<FFF5>	Mood still......<FFFC><FFF6>After all, humans<FFF6>very dangerous......<FFF5>
+650	ヤハリ　オレサマ　シクマレタ<FFFC><FFF6>ガァーー！<FFF6>オレサマ　ゴリップク！！<FFF5>	After all, me got tricked<FFFC><FFF6>Gaaa!<FFF6>Me in great rage!!<FFF5>
+651	アオーン！<FFFC><FFF6>オマエ　ヤサシイ奴！<FFF6>オレサマ　マルマル嬉シイ！<FFF5>	Aooon!<FFFC><FFF6>You kind guy!<FFF6>Me super happy!<FFF5>
+652	オマエ　ツレナイ<FFF6>オレサマ　悲シイ…<FFF5>	You cold<FFF6>Me sad...<FFF5>
+653	ヌウ…<FFFC><FFF6>オレサマ　タダ　見テルダケ<FFF6>ソレナラ　イイダロ？……<FFF5>	Nuu...<FFFC><FFF6>Me just watching<FFF6>then that's fine, right?......<FFF5>
+654	オレサマ　食ベタ？！<FFFC><FFF6>イツノマニ　食ベタノカナ？<FFF6>フシギ　フシギ………<FFFB><FFF7>ヌウ…<FFFC><FFF6>オ月サマ　トイレ<FFF6>ナガレテ　クレルカナ…<FFF5>	Me ate it?!<FFFC><FFF6>When did me eat?<FFF6>Strange, strange.........<FFFB><FFF7>Nuu...<FFFC><FFF6>Moon, toilet<FFF6>will it flow away...<FFF5>
+655	タシカニ　ソウダ！<FFFC><FFF6>フカク　ナヤムノ　ヤメ！<FFF5>	Certainly so!<FFFC><FFF6>Stop worrying deeply!<FFF5>
+656	グゥ………チキュウ？<FFFC><FFF6>グゥ………ウラガワ？<FFFC><FFF6>オレサマ　ヨクワカラン……<FFF5>	Guu......Earth?<FFFC><FFF6>Guu......Other side?<FFFC><FFF6>Me no understand......<FFF5>
+657	コウコウセイ　ダメ！<FFFC><FFF6>オマエ　ヤッパリ<FFF6>ココ　フホウシンニュウ！！<FFF5>	High school student no!<FFFC><FFF6>You, after all<FFF6>trespassing here!!<FFF5>
+658	オマエ　マダ<FFF6>ハタラク顔　シテイナイ！<FFFB><FFF7>オレサマ　嘘ツキ　キライ！<FFF6>オマエ　キライ！！<FFF5>	You still<FFF6>not look like working!<FFFB><FFF7>Me hate liars!<FFF6>I hate you!!<FFF5>
+659	デビルサマナー………<FFFC><FFF6>ムカシ　会ッタヨウナ<FFF6>会ワナイヨウナ……<FFFB><FFF7>トニカク　ココハ<FFF6>オレサマ　ナワバリ<FFF6>オマエ　コンゴ　気ヲツケロヨ<FFF5>	Devil summoner........<FFFC><FFF6>Feels like met before<FFF6>feels like not met......<FFFB><FFF7>Anyway, here<FFF6>is my turf,<FFF6>be careful from now on<FFF5>
+660	ナンダ　オマエ　ニンゲンカ…<FFFC><FFF6>ソレナラ　話ハヤイ<FFF6>オレサマ　モウ　アンシン！<FFF5>	You human...<FFFC><FFF6>Then talk is quick<FFF6>Me relieved already!<FFF5>
+661	オレサマ　オマエ　知ッテル！<FFF6>オレタチ　知リアイ<FFF6>チョット　アンシン……<FFF5>	Me know you!<FFF6>We acquainted<FFF6>a bit relieved......<FFF5>
+662	グゥ………<FFFC><FFF6>オマエ　ダレナンダ？<FFF6>見エナイ敵　モットモ怖イ…<FFF5>	Guu......<FFFC><FFF6>Who are you?<FFF6>Unseen enemy most scary...<FFF5>
+663	オマエ　コンナ<FFF6>イイ夜ニ　ヒトリナノカ？<FFFC><FFF6>サビシイ奴ダナ……<FFF5>	You alone on<FFF6>such a nice night?<FFFC><FFF6>Lonely guy......<FFF5>
+664	オレサマ　ラッキー！<FFFC><FFF6>オマエ　美味ソウ…<FFF6>イヤ　オモシロソウ！<FFF5>	Me lucky!<FFFC><FFF6>You look tasty...<FFF6>No, interesting!<FFF5>
+665	オマエ　オレサマ<FFF6>ハッピー　ミズサシタ！<FFFB><FFF7>オマエ　気クバリ　ナシ！<FFF6>オレサマ　シアワセ<FFF6>テンジテ　ゴキゲンナナメ！<FFF5>	You, me<FFF6>happy, you pour water!<FFFB><FFF7>You no spirit!<FFF6>Me happy<FFF6>sky high, bad mood!<FFF5>
+666	ナラ　オレサマ　オマエ<FFF6>マルマル　マルカジリ！！<FFF5>	Then me, you<FFF6>chomp chomp chomp!!<FFF5>
+667	オマエ　シカクカ……<FFFC><FFF6>カジルト　角ガ　痛ソウダナ…<FFF5>	You square......<FFFC><FFF6>Chomp, corners hurt...<FFF5>
+668	オレサマ　オマエ<FFF6>マル　シカク　聞イタ<FFF6>サンカク　違ウゾ！！<FFF5>	Me, you<FFF6>asked round or square<FFF6>triangle wrong!!<FFF5>
+669	ヌウ…<FFFC><FFF6>オマエ　オレサマ<FFF6>気ガアイソウ！<FFF5>	Nuu...<FFFC><FFF6>You seem like a good match!<FFF5>
+670	オマエ　ショウシン者！<FFF6>オレサマ　ミミッチイ奴<FFF6>アマリ　好キジャナイ！！<FFF5>	You cautious!<FFF6>Me petty guy<FFF6>not much like!!<FFF5>
+671	オマエ　ゴウヨク者ダナ…<FFFC><FFF6>グゥ………<FFFC><FFF6>ニンゲン　ミナ　ジコチュウ…<FFF5>	You greedy guy...<FFFC><FFF6>Guu......<FFFC><FFF6>Humans all selfish...<FFF5>
+672	オマエ　ゲンキ！<FFF6>オレサマ　ゲンキ！<FFF6>アオーン！　アオーン！！<FFF5>	You energetic!<FFF6>Me energetic!<FFF6>Aooon! Aooon!!<FFF5>
+673	ヌウ…<FFF6>ソレ　ヨクナイ…<FFFC><FFF6>ケンコウカンリ　ダイジ<FFF5>	Nuu...<FFF6>That not good...<FFFC><FFF6>Health management important<FFF5>
+674	オマエ　ヨワッテル？<FFFC><FFF6>ソレナラ　オレサマ<FFF6>オマエ　マルカジリ！！！<FFF5>	You weak?<FFFC><FFF6>Then me<FFF6>chomp you!!!<FFF5>
+675	オマエ　知ッテテ<FFF6>オレサマ　ナワバリ　入ッタ…<FFFC><FFF6>ナンカ　嫌ナ　ヨカン……<FFF5>	You know<FFF6>me entered my turf...<FFFC><FFF6>Something bad feeling......<FFF5>
+676	オマエ　ウカツ！！<FFF6>知ラナイ　ソレ<FFF6>イイワケ　ナラナイ！！<FFF5>	You careless!!<FFF6>Don't know that<FFF6>excuse doesn't work!!<FFF5>
+677	オマエ　ニンゲン<FFF6>ミス　シカタナイ……<FFFC><FFF6>次ハ　気ヲツケロヨ<FFF5>	You human<FFF6>mistake can't be helped......<FFFC><FFF6>Next time, be careful<FFF5>
+678	オマエ　オレサマ<FFF6>気ガアウ！　トモダチ！<FFF6>アオーン！　アオーン！！<FFF5>	You, me<FFF6>get along! Friend!<FFF6>Aooon! Aooon!!<FFF5>
+679	オマエ　ダメ！！<FFF6>マル　美シイ　ワカッテナイ！<FFFB><FFF7>キット　オ月サマ　悲シム<FFF6>オレサマ　オマエ　セイバイ！<FFF5>	You bad!!<FFF6>Don't understand beauty of round!<FFFB><FFF7>Moon will surely grieve<FFF6>me will punish you!<FFF5>
+680	オマエ　ユウジュウフダン！<FFFC><FFF6>オレサマ　オマエ　興味ナイ<FFF5>	You responsible guy!<FFFC><FFF6>Me no interest in you<FFF5>
+681	オレサマ　スイカ<FFF6>タネ　トルノ　メンドウ…<FFF5>	Me watermelon<FFF6>removing seeds a bother...<FFF5>
+682	オマエ　考エ　理解シタ！<FFF6>オレサマ　イチゴイチエ<FFF6>ソノ　セイシン　ワスレテタ！<FFFB><FFF7>オマエ　オレサマ<FFF6>ダイジナ　キャクジン！！<FFF5>	You understand, thinking!<FFF6>Me, once in a lifetime<FFF6>forgot that spirit!<FFFB><FFF7>You, me<FFF6>important guest!!<FFF5>
+683	オレサマ　ミカン<FFF6>カワ　ムクノ　メンドウ…<FFF5>	Me orange<FFF6>peeling is a bother...<FFF5>
+684	ダミー<FFF5><80>	Dummy<FFF5>

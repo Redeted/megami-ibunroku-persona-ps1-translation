@@ -1,0 +1,2 @@
+# store every file byte-for-byte: the tools split TSV / asm sources on LF
+* -text

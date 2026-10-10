@@ -1,0 +1,102 @@
+idx	ram	ja	en	note
+0	800CFA14	南条：許さんぞ！　貴様らぁ！！	Nanjo: I will not forgive this!<FFF6>You bastards!!	
+1	800CFA30	ゆきの：みんな　気をつけな！	Yukino: Everyone, watch out!	
+2	800CFA44	マーク：ったってよ！<FFF6>死体相手に<FFF6>どーすりゃいいっつーんだよ！	Mark: Easy for you to say!<FFF6>What're we supposed to do<FFF6>against dead bodies!?	
+3	800CFA74	<FFF9>：！！	<FFF9>: !!	
+4	800CFA80	我は汝…　汝は我…<FFFC><FFF6>我は　汝の心の海より　出でし者<FFFC>力を貸そうぞ…	I am thou... Thou art I...<FFFC><FFF6>From the sea of thy soul I come.<FFFC><FFF6>I shall lend thee my power...	
+5	800CFAB8	南条：桐島！　下がれ！	Nanjo: Kirishima! Stand back!	
+6	800CFAD0	エリー：Ｎｏ　ｐｒｏｂｌｅｍ！<FFFC>私　こう見えても<FFF6>剣術には少々自信がありますの	Elly: No problem!<FFFC><FFF6>Despite appearances, I am rather<FFF6>confident in my swordsmanship.	
+7	800CFB10	ゆきの：英理子！<FFF6>普通の相手じゃないんだよ！	Yukino: Eriko!<FFF6>These aren't ordinary opponents!	
+8	800CFB34	マーク：ったく<FFF6>世間知らずのお嬢様が！	Mark: Geez,<FFF6>this sheltered little rich girl!	
+9	800CFB54	麻希：負けないんだから！	Maki: I won't lose!	
+10	800CFB68	南条：園村　無理はするな！	Nanjo: Sonomura,<FFF6>do not push yourself!	
+11	800CFB80	悪魔：ふぉっ　ふぉっ　ふぉっ！<FFFC>効かんのぉ！	Demon: Fo fo fo!<FFFC> That won't work!	
+12	800CFBA0	悪魔：ウッキャー！！<FFFC><FFF6>トテモイタイ！！	Demon: Ukyaa!!<FFFC><FFF6>VERY PAINFUL!!	no reference found: stays in place
+13	800CFBC4	ブラウン：うわわわわわわ！？<FFFC><FFF6>こ　殺される！	Brown: Uwawawawawawa!?<FFFC><FFF6>Th-they'll kill me!	
+14	800CFBE8	マーク：しゃーねー！！<FFF6>恨むなよ　タコおやじ！	Mark: Can't be helped!!<FFF6>No hard feelings, octopus geezer!	
+15	800CFC0C	悪魔警部：死刑　死刑　死刑！<FFFC><FFF6>スチャッと殺っちまえぇぇ！	Demon Inspector: Death penalty,<FFF6>death penalty, death penalty!<FFFC><FFF6>Snuff 'em out quick!	
+16	800CFC40	ブラウン：ゲッ！？<FFFC><FFF6>な　な　な　な　なんだぁ！？	Brown: Geh!?<FFFC><FFF6>Wh-wh-wh-wh-what the!?	
+17	800CFC68	ブラウン：なんだよお前ら！？<FFFC><FFF6>どーしちゃったんだよぉ！？	Brown: What's with you guys!?<FFFC><FFF6>What happened to you!?	
+18	800CFC94	悪魔警部：ぬぬぬぬぬぬぬぅ！<FFFC><FFF6>かくなる上は　１番弱そうな<FFF6>オマエだけでも道連れだぁ！	Demon Inspector: Nnnnnnngh!<FFFC><FFF6>Then I'll at least drag down YOU,<FFF6>the weakest-looking one!	
+19	800CFCD4	ブラウン：うわぁぁぁぁぁ！！<FFF6>死ぬのはいやだぁぁぁぁぁ！！	Brown: Uwaaaaaah!!<FFF6>I don't wanna diiiiie!!	
+20	800CFCFC	アヤセ：え…　えへ！<FFFC><FFF6>おじさんたち　シッブイ～！<FFF6>アヤセ　しびれちゃーう♥<FFFB><FFF7>ね？　見逃してぇ～　ね　ね？	Ayase: Uh... ehe!<FFFC><FFF6>You guys are sooo cool~!<FFF6>Ayase is all tingly~<FFFB><FFF7>Right? Let me gooo~ Right, right?	
+21	800CFD48	右の黒服：機密がもれるとまずい始末する	Man in Black (R): Leaks would be<FFF6>bad. Dispose of them.	
+22	800CFD68	左の黒服：了解	Man in Black (L): Understood.	
+23	800CFD78	アヤセ：ッブナイわね！！<FFF6>当ったらどーすんのよ！！<FFFC><FFF6>人殺しぃ！！	Ayase: That was close!!<FFF6>What if it had hit me!?<FFFC><FFF6>Murderer!!	
+24	800CFDAC	武多：神取様　お下がり下さい！<FFFB><FFF7>いいか<FFFC><FFF6>一匹たりとも　生かして帰すな！	Takeda: Kandori-sama,<FFF6>please stand back!<FFFB><FFF7>Listen!<FFFC><FFF6>Not one of them leaves alive!	
+25	800CFDE8	南条：神取ぃ！	Nanjo: Kandoriii!	
+26	800CFDF8	神取：これは驚いた…<FFFC><FFFC><FFF6>まさか　お前たちも<FFF6>「ペルソナ使い」とはな	Kandori: Well, this is a surprise...<FFFC><FFFC><FFF6>To think you are also<FFF6>"Persona users".	
+27	800CFE2C	マーク：ナニ！？<FFFC><FFF6>まさか…　てめぇ！？	Mark: What!?<FFFC><FFF6>No way... you bastard!?	
+28	800CFE4C	神取：武多　ここはまかせる<FFFC><FFFC><FFF6>子供相手に<FFF6>おめおめ引けは取るまいな？	Kandori: Takeda, this is yours.<FFFC><FFFC><FFF6>You won't disgrace yourself<FFF6>against mere children, will you?	
+29	800CFE84	武多：ハッ	Takeda: Sir!	
+30	800CFE90	南条：逃がさん！	Nanjo: You will not escape!	
+31	800CFEA0	武多：やらせーん！！	Takeda: I won't let you!!	
+32	800CFEB4	武多：こわっぱども！<FFFC><FFF6>ここから先は　一歩も行かせん！<FFFC>俺のペルソナをくらえぇぇい！	Takeda: You brats!<FFFC><FFF6>You won't take one more step!<FFFC><FFF6>Taste my Persona!	
+33	800CFEF0	玲司：…俺を殺るだと？<FFFC><FFFC><FFFC><FFF6>おもしれぇ…<FFFC><FFFC><FFFC><FFF6>死ぬのはてめぇだ！	Reiji: ...You'll kill me?<FFFC><FFFC><FFFC><FFF6>Interesting...<FFFC><FFFC><FFFC><FFF6>You're the one who's gonna die!	
+34	800CFF28	玲司：アホウが…	Reiji: Fools	no reference found: stays in place
+35	800CFF38	テッソ：ウッヂュー！！	Tesso: Chuuu!!	
+36	800CFF50	マーク：なんだコリャ！？	Mark: What the hell is this!?	
+37	800CFF64	ブラウン：わっはっは！<FFFC><FFF6>わりと　チョロそうじゃん！	Brown: Wahahaha!<FFFC><FFF6>These look like pushovers!	
+38	800CFF88	エリー：良く見ると<FFF6>結構　Ｌｏｖｅｌｙですわね！	Elly: Looking closely,<FFF6>they are quite Lovely!	
+39	800CFFB0	アヤセ：カ　カワイイかも！	Ayase: Th-they might be cute!	
+40	800CFFC4	麻希：か　かわいい～♥	Maki: S-so cute~	
+41	800CFFD8	ブラウン：あ　あっぶねー！！	Brown: Wh-whoa!!	no reference found: stays in place
+42	800CFFF0	エリー：ぜ　前言は撤回しますわ	Elly: I take it back.	no reference found: stays in place
+43	800D0008	アヤセ：あにすんのよぉ！<FFFC><FFF6>ぜんっぜんカワイクない！	Ayase: Hey, what gives!<FFFC><FFF6>Not cute at ALL!	
+44	800D002C	麻希：かわいくない！<FFFC><FFF6>ぜんっぜんかわいくない！	Maki: Not cute!<FFFC><FFF6>Not at all!	no reference found: stays in place
+45	800D0050	南条：なめてかかると<FFF6>痛い目をみるぞ！	Nanjo: Underestimate<FFF6>them and you'll pay!	
+46	800D006C	テッソ：プッヂュー！！	Tesso: Pchuuu!!	
+47	800D0084	悪魔：いあ！　しゅぶにぐらぁといあ！　よぐそとーす！！<FFFC><FFFC><FFF6>あいあいあいあいあああああ！	Demon: Ia! Shub-Niggurath, ia!<FFF6>Yog-Sothoth!!<FFFC><FFFC><FFF6>Aiaiaiaiaaaaaa!	
+48	800D00C0	マーク：うるせー！！	Mark: Shut up!!	
+49	800D00D4	悪魔：いぃぃぃぃあぁぁぁぁぁ！	Demon: Iiiiiaaaaa!	
+50	800D00EC	クイーン：ウケケケケケケケケ！<FFFC><FFFC>アタシの絵画は世界一ィィィ！<FFFC><FFFC><FFF6>アタシの美貌は宇宙一ィィィ！<FFFB><FFF7>さぁ　さっさと死んじゃいなぁ！	Queen: Ukekekekekekekeke!<FFFC><FFFC><FFF6>My paintings are #1 on Earth!<FFFC><FFFC><FFF6>My beauty is #1 in space!<FFFB><FFF7>Now hurry up and die!	
+51	800D0150	麻希：千里！　やめてぇー！<FFFB><FFF7>これ以上　みんなを苦しめるならわたし…<FFFC>…<FFFC>…<FFFC><FFF6>戦わなくちゃなんないよ！	Maki: Chisato! Stop it!<FFFB><FFF7>If you keep hurting everyone,<FFF6>I...<FFFC>...<FFFC>...<FFFC><FFF6>I'll have to fight you!	
+52	800D019C	クイーン：ウキョキョキョキョ！<FFFB><FFF7>アンタの困った顔！　顔！　顔！<FFFC>ィィィィ気・ブ・ンンンンンー！	Queen: Ukyokyokyokyo!<FFFB><FFF7>Your troubled face! Face! Face!<FFFC><FFF6>Feeeels sooo goooood!	
+53	800D01EC	クイーン：う・うぞぉぉぉぉ！？	Queen: N-no waaaay!?	
+54	800D0204	南条：ロボットの次は<FFF6>ヌイグルミか！<FFFC><FFF6>気は進まんが　止むをえん！	Nanjo: After robots,<FFF6>now stuffed toys!?<FFFC><FFF6>Distasteful, but it must be done!	
+55	800D0238	玲司：どけ！　雑魚が！！	Reiji: Move! Small fry!!	
+56	800D0250	マーク：グズグズしてらんねー！速攻　ケリつけるぜ！！	Mark: No time to dawdle!<FFF6>Let's finish this fast!!	
+57	800D0278	サルワ：そのセリフ<FFF6>そっくりそのまま返してくれる！	Saurva: I shall return<FFF6>those very words to you!	
+58	800D0298	サルワ：き…　貴様ら…<FFFC><FFFC><FFF6>本当に　人の子か…？	Saurva: Y-you...<FFFC><FFFC><FFF6>Are you truly children of man...?	
+59	800D02C0	ハリティー：私の子…<FFFC><FFFC><FFF6>かわいい麻希…<FFFC><FFFC><FFF6>麻希を返してぇぇぇぇぇぇぇ！	Hariti: My child...<FFFC><FFFC><FFF6>My precious Maki...<FFFC><FFFC><FFF6>Give Maki back to meeeee!	
+60	800D02FC	マーク：オ　オイ！<FFFC><FFF6>マジに園村のオフクロさん<FFF6>じゃないのか？	Mark: H-hey!<FFFC><FFF6>Isn't that really<FFF6>Sonomura's mom?	
+61	800D0328	南条：来るぞ！	Nanjo: Here it comes!	
+62	800D0338	神取：楽には死ねんぞ…<FFFC><FFF6>覚悟はできているな？	Kandori: You will not die easily...<FFFC><FFF6>Are you prepared?	
+63	800D035C	マーク：うるせー！！<FFFC><FFF6>そりゃ　こっちのセリフだ！！	Mark: Shut up!!<FFFC><FFF6>That's my line!!	
+64	800D0384	麻希：南条君が言ったことが<FFF6>ホントなら…<FFFB><FFF7>まだ間に合うよ！<FFFC><FFF6>バカなことはやめて<FFFC><FFF6>街を…　世界を元にもどして！	Maki: If what Nanjo-kun said<FFF6>is true...<FFFB><FFF7>It's not too late!<FFFC><FFF6>Stop this foolishness<FFFC><FFF6>and put the town... the world back!	
+65	800D03D8	神取：フフ…<FFFC><FFF6>神に　世迷言を容れろと言う…<FFFC><FFF6>その愚かしさも　大いなる罪<FFFB><FFF7>神は常に　下知し断罪するものだ<FFFC>虫の言葉を聞く耳など持たぬ	Kandori: Heh...<FFFC><FFF6>You ask God to heed your drivel...<FFFC><FFF6>Such folly is a great sin as well.<FFFB><FFF7>God always commands and judges.<FFFC><FFF6>I have no ears for insects.	
+66	800D0440	ブラウン：へっ！<FFF6>言ってくれるぜ！	Brown: Heh!<FFF6>Big talk!	
+67	800D045C	エリー：Ｓｈｕｔ　ｕｐ！<FFFB><FFF7>自分の言葉では語れない男に<FFF6>人を断罪する資格などなくってよ	Elly: Shut up!<FFFB><FFF7>A man who cannot speak<FFF6>with his own words has no right<FFF6>to pass judgment on others.	
+68	800D04A0	アヤセ：ムズカシイコト言ってもごまかされないかんね！	Ayase: Big words won't<FFF6>fool me, y'know!	
+69	800D04C0	玲司：ゴタクは地獄で吐きやがれ<FFFC>すぐに　叩き落としてやる	Reiji: Spew your crap in hell.<FFFC><FFF6>I'll knock you down there now.	
+70	800D04E8	南条：神取…<FFFC><FFFC><FFFC><FFF6>俺達が　喜劇に幕を引いてやる<FFFC><FFF6>それが　貴様の望みならな！	Nanjo: Kandori...<FFFC><FFFC><FFFC><FFF6>We will end this farce of yours<FFFC><FFF6>if that is what you wish!	
+71	800D0528	神取：ぐっ…<FFFC><FFFC><FFFC><FFF6>認めん！！　認めんぞ！！<FFFC><FFF6>俺は人を超えたはずだ！！<FFFB><FFF7>俺は誰だ！！<FFFC><FFFC><FFF6>俺は　神取　鷹久！！<FFFC><FFFC><FFF6>人を超えた男だ！！	Kandori: Ngh...<FFFC><FFFC><FFFC><FFF6>I refuse!! I refuse to accept it!!<FFFC><FFF6>I surpassed humanity!!<FFFB><FFF7>Who am I!!<FFFC><FFFC><FFF6>I am Kandori Takahisa!!<FFFC><FFFC><FFF6>The man who surpassed humanity!!	
+72	800D059C	神取：ぬぅああああああああ！？<FFFC>な　なんだ！？<FFFC><FFFC><FFF6>何かが　俺の中に入ってくる！	Kandori: Nuaaaaaaaah!?<FFFC> Wh-what!?<FFFC><FFFC><FFF6>Something is entering me!	
+73	800D05D8	ニャルラトホテプの声：フフフ…<FFFC>道に迷いし愚かな男よ…<FFFB><FFF7>汝が欲する力とやらを<FFF6>くれてやろう	Nyarlathotep's Voice: Heh heh...<FFFC><FFF6>Foolish man who lost his way...<FFFB><FFF7>The power you so desire,<FFF6>I shall grant you.	
+74	800D061C	神取：や　やめろぉぉぉ！！	Kandori: S-stoooop!!	
+75	800D0630	麻希：な　なに！？	Maki: Wh-what!?	
+76	800D0640	マーク：コ　コイツぁ…	Mark: Th-this guy...	
+77	800D0650	南条：ペルソナに<FFF6>身も心も支配されたか！？	Nanjo: Has his Persona<FFF6>taken over body and soul!?	
+78	800D0674	神取：我は神取…<FFFC><FFFC><FFF6>ゴッド・神取なり…	Kandori: I am Kandori...<FFFC><FFFC><FFF6>God Kandori...	
+79	800D069C	パンドラ：るうぅぅぅぅぁぁぁぁ<FFFC>さぁ　一緒に消えましょぉぉぉぉ	Pandora: Ruuuuuaaaaaa<FFFC><FFF6>Come, let us vanish together...	
+80	800D06C4	パンドラ：ああああああああ！！	Pandora: Aaaaaaaaaah!!	
+81	800D06DC	マーク：ス　スゲェ…	Mark: Wh-whoa...	
+82	800D06F0	麻希：きれい…	Maki: Beautiful...	
+83	800D0700	パンドラ：なぜ　諦めないの？<FFFC><FFF6>お願い…　諦めて…<FFFC><FFF6>お願いよ…	Pandora: Why won't you give up?<FFFC><FFF6>Please... give up...<FFFC><FFF6>Please...	
+84	800D0734	ゆきの：うわっ！<FFFC><FFF6>なんだ　コイツ！！	Yukino: Whoa!<FFFC><FFF6>What the hell is this thing!!	
+85	800D0750	アヤセ：あははは…<FFFC><FFF6>ご　ごめんね　横内君<FFFC><FFF6>今さらあやまっても遅いかな？	Ayase: Ahahaha...<FFFC><FFF6>S-sorry, Yokouchi-kun<FFFC><FFF6>Too late to apologize now?	
+86	800D0784	トロ：うはうはうはうはうはうは<FFFC>遅い遅い遅い遅い遅い遅いのだぁ<FFFC>これでも喰らえぇぇ！！	Toro: Uhauhauhauhauhauha<FFFC><FFF6>Too slow, too slow, too slooow!<FFFC><FFF6>Eat thiiis!!	
+87	800D07C0	ゆきの：やったな！<FFFC><FFF6>ちっきしょう！！	Yukino: You did it now!<FFFC><FFF6>Damn it!!	
+88	800D07DC	アヤセ：キャッ！<FFFC><FFF6>え？　あ？　ちょっとぉ！？<FFFC><FFF6>今度はなによ！？	Ayase: Kya!<FFFC><FFF6>Eh? Ah? Hey!?<FFFC><FFF6>What is it this time!?	
+89	800D0810	ブラウン：おいおいおいおいおい<FFFC>なんだよ　こいつぅ！<FFFC><FFF6>勝手におれ様から出てくるな！	Brown: Hey hey hey hey hey<FFFC><FFF6>What's with this thing!<FFFC><FFF6>Don't just pop out of me!	
+90	800D0848	アヤセ：……？	Ayase: ......?	
+91	800D0858	ヒュプノス：夢幻の世界の<FFF6>素晴らしさを　教えてあげよう…<FFFC>覚めること無き永遠の夢のね…	Hypnos: I shall show you the joys<FFF6>of the world of illusion...<FFFC><FFF6>An eternal dream with no waking...	
+92	800D0898	ゆきの：フン！<FFFC><FFF6>寝言は寝てから言いな！	Yukino: Hmph!<FFFC><FFF6>Sleep-talk is for when you sleep!	
+93	800D08B8	ネメシス：オーホホホホホホッ！<FFFC>こーれがワタクシの本当の姿よ！<FFFB><FFF7>ビューゥチィホォーッ！！<FFFC><FFF6>アァーンドォ<FFF6>エェレェガァーントォッ！！	Nemesis: Ohohohohohoho!<FFFC><FFF6>This is my true form!<FFFB><FFF7>Beauuutifuuul!!<FFFC><FFF6>Aaaand<FFF6>eleeegaaaaant!!	
+94	800D0924	ゆきの：………<FFFC><FFF6>冗談は顔だけにしな！！<FFFC><FFF6>美化しすぎだろ！！<FFFB><FFF7>あきれて　モノが言えないよ	Yukino: .........<FFFC><FFF6>The only joke here is your face!!<FFFC><FFF6>Way too flattering!!<FFFB><FFF7>I'm too stunned to speak.	
+95	800D0968	アヤセ：ちょっとォ<FFF6>アンタ　鏡見たコトあんのォ？<FFFC><FFF6>ぜんッぜん違うじャーん！	Ayase: Hey!<FFF6>Ever looked in a mirror?<FFFC><FFF6>That's toootally not you!	
+96	800D09A0	ネメシス：キイイイイイ！！<FFFC><FFF6>おダマり！おダマり！おダマり！<FFFB><FFF7>アンタ達の<FFF6>その　こまっしゃくれた顔ォッ<FFF6>そぎ落としてくれましてよッ！	Nemesis: Kiiiiiii!!<FFFC><FFF6>Silence! Silence! Silence!<FFFB><FFF7>Those cheeky faces of yours,<FFF6>I shall shave them right off!	
+97	800D09FC	タナトス：へ・ん・しーん<FFF6>かんりょぉッ！！<FFFC><FFF6>百合子ちゃん　いッきまーす！<FFFB><FFF7>さァ　みーんな<FFF6>ヤッツケちゃうぞォーッ<FFFC><FFF6>カクゴしちゃってねェ！	Thanatos: Trans-for-ma-tion<FFF6>complete!!<FFFC><FFF6>Yuriko-chan, here I gooo!<FFFB><FFF7>Now, everybody,<FFF6>I'm gonna beat you all uuup!<FFFC><FFF6>Get ready!	
+98	800D0A64	アヤセ：ゲロゲロ～<FFFC><FFF6>超　みにくゥーい！！	Ayase: Blegh~<FFFC><FFF6>Sooo ugly!!	
+99	800D0A88	タナトス：言ったなァーッ！！<FFFC><FFF6>百合子ちゃん　ゆるさなァーい！<FFFC>ゆるせなァーい！！	Thanatos: You said iiit!!<FFFC><FFF6>Yuriko-chan won't forgive youuu!<FFFC><FFF6>Can't forgive youuu!!	
+100	800D0AC8	アヤセ：アヤセ…<FFF6>やってらんなァーい…	Ayase: Ayase...<FFF6>can't deal with this...	
