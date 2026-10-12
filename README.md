@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://github.com/Redeted/megami-ibunroku-persona-ps1-translation/tree/psp-script">Not fond of MTL? Try the PSP script patch</a></h1>
+
 # Megami Ibunroku Persona: Be Your True Mind — English Translation
 
 A complete English translation of the original 1996 PlayStation release of *Megami Ibunroku Persona*
