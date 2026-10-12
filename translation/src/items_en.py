@@ -12,40 +12,56 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..')
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 import items  # noqa: E402
 
+# Official 2009 PSP names (persona1.wikidot.com /item, /presonaspell, /personaitem, /gem) in 10 glyphs; checked
+# 2026-10-11. Spell stones "<Spell> Stone": "<SPELL> ST" when it fits, else the spell alone (user decision
+# 2026-10-11); tablets (せきばん) "<x> TAB". Key / quest items without an official list keep the draft names.
 EN = {
-    0: 'MEDICINE', 1: 'GARA DRINK', 2: 'JEWEL', 3: 'CHIGAESHI', 4: 'HANGONKOU', 5: 'DI-STONE', 6: 'DI-PARALYZ',
-    7: 'DI-POISON', 8: 'DI-SICK', 9: 'TSURU DROP', 10: 'KAME CANDY', 11: 'S. MANISHA', 12: 'MAGIC GRD',
-    13: 'PHYS GUARD', 14: 'SKULL PEND', 15: 'MAGICSTONE', 16: 'FUMA BELL', 17: 'CORESHIELD',
-    18: 'STR INCENS', 19: 'VIT INCENS', 20: 'TEC INCENS', 21: 'AGL INCENS', 22: 'LUK INCENS',
-    23: 'HP INCENSE', 24: 'SP INCENSE', 25: 'MUSCLE DRK', 26: 'HIRANYA', 27: 'SOMA', 28: 'MUCH MONEY',
-    29: 'GOD VOICE', 30: 'MIL. BOMB', 31: 'DEMON HOME', 32: 'DEMON LAIR', 33: 'CHEW SOUL', 34: 'METAL CARD',
-    35: 'AGIDYNE', 36: 'MARAGI', 37: 'MARAGION', 38: 'ENMA TAB', 39: 'BUFUDYNE', 40: 'MABUFU', 41: 'MABUFULA',
-    42: 'TOUMA TAB', 43: 'GARUDYNE', 44: 'MAGARU', 45: 'MAGARULA', 46: 'FUMA TAB', 47: 'MAGDYNE',
-    48: 'MAMAGNA', 49: 'MAMAGNAS', 50: 'SHINMA TAB', 51: 'FREIDYNE', 52: 'MEGIDO', 53: 'MEGIDORA',
-    54: 'SCORCH TAB', 55: 'ZANDYNE', 56: 'MAZAN', 57: 'MAZANMA', 58: 'FIERCE TAB', 59: 'GURADYNE',
-    60: 'MAGURAI', 61: 'MAGURAIBA', 62: 'AZURE TAB', 63: 'ZIODYNE', 64: 'MAZIO', 65: 'MAZIONGA',
-    66: 'FLASH TAB', 67: 'EIHA TAB', 68: 'GUSHI TAB', 69: 'KOKUJO TAB', 70: 'PETRAMA', 71: 'PARARAMA',
-    72: 'POIZMA', 73: 'SHISHIRIKA', 74: 'KYOGI TAB', 75: 'KOHA TAB', 76: 'SEIMON TAB', 77: 'CRESCENT',
-    78: 'HALF MOON', 79: 'POSUMUDI', 80: 'PARARADI', 81: 'PETRADI', 82: 'SHISHIRIDI', 83: 'FULL MOON',
-    84: 'TRUTH TAB', 85: 'ALEXANDRIT', 86: 'DIAMOND', 87: 'SAPPHIRE', 88: 'EMERALD', 89: 'RUBY', 90: 'PEARL',
+    0: 'MEDICINE', 1: 'RATTLE DRK', 2: 'BEAD', 3: 'REV. BEAD', 4: 'LIFE BALM', 5: 'DIS-STONE', 6: 'DIS-PARA',
+    7: 'DIS-POISON', 8: 'DIS-SICK', 9: 'SLICK DROP', 10: 'TURTLE CND', 11: 'PRAYER WHL', 12: 'MAGICAL GD',
+    13: 'PHYS GUARD', 14: 'SKULL PEND', 15: 'LIFE STONE', 16: 'REPULSE BL', 17: 'CORE SHLD',
+    18: 'ST INCENSE', 19: 'VI INCENSE', 20: 'DX INCENSE', 21: 'AG INCENSE', 22: 'LU INCENSE',
+    23: 'HP INCENSE', 24: 'SP INCENSE', 25: 'MUSCLE DRK', 26: 'HIRANYA', 27: 'SOMA', 28: 'NUM. BELL',
+    29: 'DIVINE VCE', 30: 'MILLN BOMB', 31: "DEVIL'S HS", 32: "DEVIL'S HM", 33: 'CHEW SOUL', 34: 'METAL CARD',
+    # Bead / Revival Bead / Balm of Life / Dis-Para / Slick Drop / Turtle Candy / Silver Prayer Wheel / Magical Guard /
+    # Physical Guard / Life Stone / Repulse Bell / Core Shield / St Vi Dx Ag Lu Incense / Muscle Drink / Numerous Bell /
+    # Divine Voice / Millionaire Bomb / Devil's House / Devil's Home / Chewing Soul
+    35: 'AGIDYNE ST', 36: 'MARAGI ST', 37: 'MARAGION', 38: 'E.FIRE TAB', 39: 'BUFUDYNE', 40: 'MABUFU ST',
+    41: 'MABUFULA', 42: 'E.ICE TAB', 43: 'GARUDYNE', 44: 'MAGARU ST', 45: 'MAGARULA', 46: 'E.WIND TAB',
+    47: 'MAGDYNE ST', 48: 'MAMAGNA ST', 49: 'MAMAGNARA', 50: 'E.QUAKE TB', 51: 'FREIDYNE', 52: 'MEGIDO ST',
+    53: 'MEGIDOLA', 54: 'SCORCH TAB', 55: 'ZANDYNE ST', 56: 'MAZAN ST', 57: 'MAZANMA ST', 58: 'GALE TAB',
+    59: 'GRYDYNE ST', 60: 'MAGRY ST', 61: 'MAGRYVA ST', 62: 'WALL TAB', 63: 'ZIODYNE ST', 64: 'MAZIO ST',
+    65: 'MAZIONGA', 66: 'FLASH TAB', 67: 'D.WAVE TAB', 68: 'DOGGRL TAB', 69: 'E.ROPE TAB', 70: 'PETRA ST',
+    71: 'PARA ST', 72: 'POISMA ST', 73: 'NERVE ST', 74: 'FALSHD TAB', 75: 'L.WAVE TAB', 76: 'H.WRIT TAB',
+    77: 'Q.MOON TAB', 78: 'H.MOON TAB', 79: 'POSUMUDI', 80: 'PARALADI', 81: 'PETRADI ST', 82: 'NERVUNDI',
+    83: 'F.MOON TAB', 84: 'VENITY TAB', 85: 'ALEXANDRIT',
+    # Evil Fire / Ice / Wind / Quake Tablet, Scorching, Gale, Wall, Flash, Dark Wave, Doggerel, Ebon Rope, Falsehood,
+    # Light Wave, Holy Writ, Quarter / Half / Full Moon, Venity Tablet; Petra / Para / Poisma / Nerve Stone
+    86: 'DIAMOND', 87: 'SAPPHIRE', 88: 'EMERALD', 89: 'RUBY', 90: 'PEARL',
     91: 'TANZANITE', 92: 'OPAL', 93: 'AMETHYST', 94: 'GARNET', 95: 'AQUAMARINE', 96: 'TOPAZ',
     97: 'MOONSTONE', 98: 'MALACHITE', 99: 'ONYX', 100: 'TURQUOISE', 101: 'APPLE PIE', 102: 'ABBLE PIE',
     103: 'MABBLE PIE', 104: 'SNOW MASK', 105: 'MIRR SHARD', 106: 'WAX KEYS', 107: 'AMBROSIA',
     108: 'MIRROR FRM', 109: 'LAST APPLE', 110: 'LAST ABBLE', 111: 'LAST MABBL', 112: 'SEC CARD',
     113: 'BROKEN CMP', 114: 'CELL KEY', 115: 'N. HANIWA', 116: 'HAMA MIRR', 117: 'HALF CMPCT',
-    118: 'GREEN CMPT', 119: 'MIRR CHIP', 120: 'RED CMPCT', 121: 'BLUE CMPCT', 122: 'AVATARA',
-    123: 'ROSETTA ST', 124: 'MASA PATCH', 125: 'DRGN SCALE', 126: 'BLUE TBLT', 127: 'AVENIR', 128: 'PASSE',
-    129: 'PRESENT', 130: 'WHITE TBLT', 131: 'GOOD DEED', 132: 'ACC. DIARY', 133: 'JUDG. PACT',
-    134: 'FLAMESHAWL', 135: 'DORDONA SH', 136: 'DEER MOUNT', 137: 'SUITENGU', 138: 'BLK GARTER',
-    139: 'SOUVENIR', 140: 'BUFFALO B.', 141: 'BUTEI SNTO', 142: 'RAVEN FTHR', 143: 'OLIVE NECK',
-    144: 'WARLORD PC', 145: 'VICT. RUNE', 146: 'MAXI TEMP.', 147: 'HOLY WATER', 148: 'JUST DO IT',
-    149: 'GARUDA IMG', 150: 'CRIM. TBLT', 151: 'TIGER WRAP', 152: 'OKOSHI', 153: 'ENMA BOOK',
-    154: 'BLACK TBLT', 155: 'GLASSES', 156: 'MORNG STAR', 157: 'PAGAN IDOL', 158: 'COFFIN', 159: 'RASH MASK',
-    160: 'NIBLE CRYS', 161: 'FIWOLRAINI', 162: 'SCALPEL',
+    118: 'GREEN CMPT', 119: 'MIRR CHIP', 120: 'RED CMPCT', 121: 'BLUE CMPCT',
+    # Persona artifacts (official /personaitem): Avatara, Rosetta Stone, Masamune's Eyepatch, Dragon Scale, Blue Tablet,
+    # Avenir, (Passe: the wiki's "Pasque Flower" reads バッセ, the game has パッセ = passe), Present, White Tablet,
+    # Daily Meal, Prosecutor's Diary, Judgement Contract, Flame Shawl, Dordona's Oar, Stuffed Deer, Suitengu Talisman,
+    # Black Garter Belt, Kolkata Souvenir, Bisonskin Drums, Emperor Wu's Peach, Raven Feather, Olive Accessory,
+    # General Piece, Victorian Rune, Maxi Tempest, Purified Water, Gottabe Shoes, Karura, Crimson Tablet,
+    # Tora Stomachband, Kaminari-Okoshi, Enma Notebook, Black Tablet, Amber Glasses, Shining Star, Cultish Statue,
+    # Babylonian Coffin, Faceless Mask, Nibel Crystal, Fomor Lineage
+    122: 'AVATARA', 123: 'ROSETTA', 124: 'MASA.PATCH', 125: 'DRGN SCALE', 126: 'BLUE TBLT', 127: 'AVENIR',
+    128: 'PASSE', 129: 'PRESENT', 130: 'WHITE TBLT', 131: 'DAILY MEAL', 132: 'PROS.DIARY', 133: 'JUDG.CONTR',
+    134: 'FLAMESHAWL', 135: 'DORDNA OAR', 136: 'STUFF.DEER', 137: 'SUITENGU', 138: 'BLK GARTER',
+    139: 'KOLKATA SV', 140: 'BISON DRUM', 141: "WU'S PEACH", 142: 'RAVEN FTHR', 143: 'OLIVE ACC.',
+    144: 'GEN. PIECE', 145: 'VICT. RUNE', 146: 'MAXI TEMP.', 147: 'PURE WATER', 148: 'GOTTABE SH',
+    149: 'KARURA', 150: 'CRIM. TBLT', 151: 'TORA BAND', 152: 'KAMINARI-O', 153: 'ENMA NOTE',
+    154: 'BLACK TBLT', 155: 'AMBER GLSS', 156: 'SHINE STAR', 157: 'CULTSTATUE', 158: 'BAB.COFFIN', 159: 'FACELESS M',
+    160: 'NIBEL CRYS', 161: 'FOMOR LIN.', 162: 'SCALPEL',
 }
 
-REVIEW = ("item names (ITEMS.tsv) are a first draft: 10-glyph uppercase small font, abbreviated; official 2009 PSP names not "
-          "checked (spell stones use the spell name only, readings of many names romanised)")
+REVIEW = ("item names (ITEMS.tsv): consumables, spell stones, tablets, gems and Persona artifacts follow the official 2009 PSP "
+          "names (checked 2026-10-11, abbreviated to 10 glyphs); key / quest items (101-121, SKULL PEND) are still draft names")
 
 if __name__ == '__main__':
     rows = open(items.TSV, encoding='utf-8').read().split(items.NL)

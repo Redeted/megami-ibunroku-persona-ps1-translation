@@ -72,6 +72,9 @@ Only in the QoL disc (`.ifdef QOL60` in main.asm); the translation release keeps
 - 2026-10-10: rewards raised to x2 (`sll a0, a0, 1`); QoL disc rebuilt 13:09 and checked on user slot 5 (dungeon
   battle, AUTO Replay): hooks present at 0x800F8900, results screen paid out. AUTO Normal can stall on a last
   enemy (everyone DEF); Replay finishes the battle.
+- Faster summons and skill effects (2026-10-11, user request: the slow Persona summon animations):
+  `qol/battle_speed_btlp.asm`, one instruction. See "Battle frame pacing" below. Measured on a round of five
+  Persona skills: 700 logic ticks take 715 instead of 1169 vblanks; the effects draw correctly at 60 fps.
 
 ### Recommended emulator setting (user-tested 2026-10-09)
 DuckStation: Settings > Console > CPU emulation > enable **Overclock** and set it to **181%** (61.30 MHz).
@@ -217,7 +220,24 @@ Keep all game logic at 20 Hz exactly as the original; draw up to 3 frames per lo
 ### Open questions
 - Exact routines behind 0x8009686C / 0x80096B5C (encounter?).
 - Whether any dungeon timer (damage floors, effect durations) counts frames instead of steps.
-- BTLP (battles) frame rate was not examined.
+- BTLP physical attacks (weapon / gun) were not checked for the half-rate mode (the user's test round was
+  Persona skills only).
 
 ### Sync note (2026-10-09)
 `patched_qol/Persona-TL-QoL.bin` was built BEFORE the dungeon "wore off" / name-insert fix; rebuild it with `python tools/build.py --qol` to get the fix plus the 60 fps patches (they touch different addresses).
+
+## Battle frame pacing (BTLP, 2026-10-11)
+
+- Main loop: 0x80090050, loop top 0x80090080; one logic tick per iteration, then the frame function
+  0x80080F14 at 0x80092270 (draw, DrawSync, buffer swap). The battle code is written as scripted sequences:
+  0x80080F14 has about 280 call sites, but during a round almost every frame comes from the main loop.
+- Swap wait (0x80081190..0x800811C4): `VSync(0)` once (60 fps), twice when the half-rate flag 0x800CF073 is
+  set and 0x800CF095 is clear (30 fps). The flag is set / cleared by the effect players 0x800B1C5C / 0x800B1E40,
+  0x800B29DC / 0x800B2A28, 0x800B6F94 / 0x800B6FE0, 0x800B76F0 / 0x800B789C (summons, skill and magic effects).
+- Code that must keep real-time speed reads the same flag and doubles its per-tick step (0x8008B558,
+  0x8008BF94 ... fades 0x10 -> 0x20); model animation advances one step per tick, which is why summons are slow.
+- Other VSync calls in BTLP are `VSync(-1)` reads (srand seeds 0x80073620 ...); the CD loader polls
+  `VSync(-1)` while the effect data loads (SLPS 0x800278A8).
+- Sound: effect sounds and voices are SPU samples played at their own pitch / length. With the patch they start
+  earlier but are not shortened: an SPU sampling of both runs (all 24 voices, start / end / end reason) showed the
+  same play lengths, the samples ending by themselves.

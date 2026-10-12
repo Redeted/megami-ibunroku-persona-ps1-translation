@@ -21,6 +21,8 @@ A complete English translation of the original 1996 PlayStation release of *Mega
 - **Optional enhancement patch (QoL)**:
   - smooth movement in the 3D dungeons (up to 60 fps) and the overworld (up to 30 fps), while the
     game's own speed stays the original;
+  - Persona summons and skill effects in battle at double speed (voices and sounds keep their normal
+    speed);
   - half the random encounter rate;
   - x2 EXP, Persona points and money after battles.
 

@@ -82,6 +82,7 @@
 .include "btlp/name_lowercase.asm"      ; typed lowercase names in battle text (FFF9 ...)
 .ifdef QOL60
 .include "qol/rewards_btlp.asm"         ; QoL build only: EXP and money after a battle x1.5
+.include "qol/battle_speed_btlp.asm"    ; QoL build only: summons / skill effects at double speed
 .endif
 .close
 

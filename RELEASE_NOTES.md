@@ -1,6 +1,14 @@
 # Megami Ibunroku Persona: Be Your True Mind - English translation
 
-Release notes for the translation build of 2026-10-09 (disc `patched/Persona-TL.bin`).
+Release notes for version 1.0.1, the translation build of 2026-10-11 (disc `patched/Persona-TL.bin`).
+
+## Changes in 1.0.1
+
+- Item names follow the official 2009 PSP names (consumables, spell stones, tablets, gems, Persona
+  items), abbreviated to the 10-character field; spell stones read "AGIDYNE ST" instead of the bare
+  spell name. Dialogue that names an item uses the same names (Life Stone, Rattle Drink, Balm of Life).
+- QoL build: Persona summons and skill effects in battle play at double speed; voices and sounds keep
+  their normal speed.
 
 ## Base image
 
@@ -65,6 +73,7 @@ Text is drawn with a new variable-width font, so English fits the original dialo
 
 The 60 fps "QoL" build (`python tools/build.py --qol`, `patched_qol/`) is a separate disc and is
 not part of this translation release. It keeps the original game speed and draws extra in-between frames
-in the 3D dungeons and the overworld. It also halves the random encounter rate and gives x2 EXP,
-Persona points and money after battles. Recommended DuckStation setting for it: CPU overclock 180%,
+in the 3D dungeons and the overworld. It also halves the random encounter rate, gives x2 EXP,
+Persona points and money after battles, and plays Persona summons and skill effects in battle at double
+speed (voices and sounds keep their normal speed). Recommended DuckStation setting for it: CPU overclock 180%,
 which gives 60 fps in the dungeons and 30 fps in the overworld. See `qol/README.md`.

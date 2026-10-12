@@ -37,7 +37,7 @@ unit	ja	en
 35	うひょひょ！<FFFC><FFF6>すっごく　気持ちよく<FFF6>ひっかかっちゃった！<FFF5>	Uhyohyo!<FFFC><FFF6>I fell for it<FFF6>so easily!<FFF5>
 36	うっきぃー！<FFFC><FFF6>何すんだよ！！<FFF6>この茶パツ野郎！！！<FFF5>	Ukkii!<FFFC><FFF6>What are you doing!!<FFF6>You brown-haired jerk!!!<FFF5>
 37	うひ……<FFFC><FFF6>今どき　そんな…<FFFC><FFF6>ヤバイよ　お兄さん<FFFD>こ<FFF5>	Uhi...<FFFC><FFF6>Nowadays, that's...<FFFC><FFF6>bad news, mister.<FFFD>こ<FFF5>
-38	うひょひょ！<FFFC><FFF6>エ？　それ何？<FFF6>魔石より　美味しそう！<FFF5>	Uhyohyo!<FFFC><FFF6>Eh? What's that?<FFF6>Looks tastier than a Jewel!<FFF5>
+38	うひょひょ！<FFFC><FFF6>エ？　それ何？<FFF6>魔石より　美味しそう！<FFF5>	Uhyohyo!<FFFC><FFF6>Eh? What's that?<FFF6>Looks tastier than a Life Stone!<FFF5>
 39	うっきぃー！<FFFC><FFF6>なめんな　ボンボン！！<FFF6>ボクは　そんなものいらない！<FFFB><FFF7>このボクが欲しいのは、<FFF6>別のもんなんだよぉ！<FFF1><FFF5>	Ukkii!<FFFC><FFF6>Don't mock me, rich boy!!<FFF6>Keep it!<FFFB><FFF7>I want something else!<FFF1><FFF5>
 40	それ　いいねぇ<FFF6>ボクに　くれるのかなぁ<FFF6>うひひひ！<FFFD>さ<FFF5>	That's nice.<FFF6>Will you give it to me?<FFF6>Uhihihi!<FFFD>さ<FFF5>
 41	うひょひょ！<FFFC><FFF6>お兄さんて　合理主義なんだね<FFF6>そういうの　好きだよ<FFF5>	Uhyohyo!<FFFC><FFF6>You're a rationalist, mister.<FFF6>I like that.<FFF5>
@@ -209,8 +209,8 @@ unit	ja	en
 207	わーい　わーい！<FFF5>	Yay, yay!<FFF5>
 208	なんだよぉーー！<FFF6>持ってないじゃないか！！<FFF6>プンプン！！<FFF5>	What the heck!!<FFF6>You don't even have it!!<FFF6>*Hmph!!*<FFF5>
 209	ころすよ<FFF5>	I'll kill you.<FFF5>
-210	ボク　魔石が欲しいなぁ<FFF6>一つで　いいんだけどなぁ…<FFEF>	I want a Jewel.<FFF6>Just one is fine...<FFEF>
-211	わーい　わーい！<FFFC><FFF6>魔石だ　わーい　わーい！<FFF5>	Yay, yay!<FFFC><FFF6>A Jewel! Yay, yay!<FFF5>
+210	ボク　魔石が欲しいなぁ<FFF6>一つで　いいんだけどなぁ…<FFEF>	I want a Life Stone.<FFF6>Just one is fine...<FFEF>
+211	わーい　わーい！<FFFC><FFF6>魔石だ　わーい　わーい！<FFF5>	Yay, yay!<FFFC><FFF6>A Life Stone! Yay, yay!<FFF5>
 212	ええ！　持ってないのぉ！<FFFC><FFF6>もしかして　バカでしょ？<FFFC><FFF6>バーカ　バーカ！！<FFF5>	Eh! You don't have one!?<FFFC><FFF6>Are you an idiot?<FFFC><FFF6>Stupid, stupid!!<FFF5>
 213	なめんな！<FFFC><FFF6>皿　飛ばすぞぉ！<FFF6>ガラスも　割るぞぉ！！<FFF5>	Don't mock me!<FFFC><FFF6>I'll throw plates!<FFF6>I'll break glass too!!<FFF5>
 214	ダメかも　しれないけど……<FFFC><FFF6><FFF4>が<FFF6>欲しいなぁ…<FFEF>	It might be no good,<FFF6>but...<FFFC><FFF6>I want a <FFF4>...<FFEF>
@@ -281,8 +281,8 @@ unit	ja	en
 279	うひょひょ！<FFFC><FFF6>お兄さん　ホネあるね！<FFF5>	Uhyohyo!<FFFC><FFF6>You've got a backbone, mister!<FFF5>
 280	ふーん…<FFFC><FFF6>なら　ボクも！<FFF5>	Hmm...<FFFC><FFF6>Then me too!<FFF5>
 281	人間が　そんなに<FFF6>貧乏だったなんて…<FFFC><FFF6>ボク　知らなかったんだよ…<FFF5>	I didn't know...<FFF6>humans were<FFFC><FFF6>so poor...<FFF5>
-282	失敗したかな…<FFFC><FFF6>魔石にすれば　もらえたかも…<FFF5>	Did I mess up...<FFFC><FFF6>I might've gotten a Jewel<FFF6>if I asked for one...<FFF5>
-283	ええ！　持ってないのぉ！<FFFC><FFF6>あのさあ…<FFFC>魔石は<FFF6>交渉の必要品なんだよ～<FFF5>	Eh! You don't have one!?<FFFC><FFF6>Look...<FFFC> Jewels are<FFF6>a necessity for negotiation~<FFF5>
+282	失敗したかな…<FFFC><FFF6>魔石にすれば　もらえたかも…<FFF5>	Did I mess up...<FFFC><FFF6>I might've gotten a Life Stone<FFF6>if I asked for one...<FFF5>
+283	ええ！　持ってないのぉ！<FFFC><FFF6>あのさあ…<FFFC>魔石は<FFF6>交渉の必要品なんだよ～<FFF5>	Eh! You don't have one!?<FFFC><FFF6>Look...<FFFC> Life Stones are<FFF6>a necessity for negotiation~<FFF5>
 284	失敗したかな…<FFFC><FFF6>お金にすれば　もらえたかも…<FFF5>	Did I mess up...<FFFC><FFF6>I might've gotten money<FFF6>if I asked for it...<FFF5>
 285	そうだよねぇ…<FFF6>宝石　だもんねぇ……<FFFC><FFF6>でも　残念だなあ………<FFF5>	That's true...<FFF6>It is a Gem...<FFFC><FFF6>But it's a shame...<FFF5>
 286	……ボクには<FFF6>要らないって言うの？<FFFC><FFF6>キミって　いけず…<FFF5>	...Are you saying<FFF6>I don't need it?<FFFC><FFF6>You're so mean...<FFF5>
