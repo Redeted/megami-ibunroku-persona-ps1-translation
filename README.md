@@ -63,6 +63,67 @@ The later **"Rev 1"** release (699,672,960 bytes) is **not supported**: the patc
      ```
    (Any online or tool-made `.cue` for a single-track BIN works as well.)
 
+## Optional: the official PSP script (branch `psp-script`)
+
+This branch adds one command that turns a disc you already patched with `Persona-TL.xdelta` (or
+`Persona-TL-QoL.xdelta`) into a variant whose **story scenes and demon negotiations** use the English of
+the official 2009 PSP release (*Shin Megami Tensei: Persona*) instead of this project's literal
+translation. The opening quote and the movie subtitles get the PSP wording too. Menus, battles, items and the
+QoL patch stay as in the patch you applied. The PSP text is read from **your own PSP copy** when you run the
+command; it is not part of this project and no patch containing it is published.
+
+**Why?**
+Fun.
+
+**How?**
+The PSP version is a remake built on the same script structure as the PS1 game: the same event files, the same
+scenes in the same order, and one list of lines per demon for the negotiations, with the same speakers,
+choices and name tokens. The tool takes each PS1 box, finds the PSP box that belongs to it (matching speaker,
+choices, name codes, length and shared words, since the PSP sometimes adds or drops a box), puts the PSP
+English into the PS1 box's control-code skeleton and re-wraps it to the narrower PS1 text box. Boxes it cannot
+match with confidence keep this project's translation.
+
+**Is it the exact text?**
+About 97% of the story boxes and 98% of the negotiation lines use the PSP text. The rest keep this
+project's translation where the PSP line cannot be shown on the PS1 (button icons in the casino
+help, lines without a PSP counterpart). It needs yet another playtest for both SEBEC and Snow Queen,
+trying it myself.
+
+### What you need, in addition to the steps above
+
+- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.1**);
+- your original Japanese `.bin` (the same file the xdelta was applied to);
+- the US PSP release as an **ISO** (`ULUS10432`, about 820 MB; a `.cso` must be decompressed to `.iso`
+  first, e.g. with [maxcso](https://github.com/unknownbrackets/maxcso) `--decompress`);
+- [Python](https://www.python.org/) 3.10 or newer;
+- [Java](https://adoptium.net/) (any recent JRE; it runs the movie encoder);
+- the source code of **this branch**: `git clone --branch psp-script
+  https://github.com/Redeted/megami-ibunroku-persona-ps1-translation`, or *Code -> Download ZIP* while the
+  `psp-script` branch is selected on GitHub (the *Source code* zip of a release is the main branch and does
+  not contain the tool);
+- an internet connection the first time: the command installs the Python packages `opencv-python-headless`,
+  `numpy` and `pillow` with pip and downloads [jPSXdec](https://github.com/m35/jpsxdec) 2.1 (3.7 MB, checked
+  against a fixed SHA-256) into `tools/ext/jpsxdec/` if they are missing;
+- about 2 GB of free disk space.
+
+### Run it
+
+In the source folder of this branch:
+```
+python tools/psp_patch.py --original "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --patched path/to/Persona-TL.bin --psp path/to/persona_psp.iso
+```
+This takes a few minutes (most of it re-encoding the movies) and writes `Persona-TL-PSP.bin` + `.cue` next
+to the patched file (for `Persona-TL-QoL.bin`: `Persona-TL-QoL-PSP.bin`); `--out` chooses another name. Your
+input files are not changed. The `.cue` paths of your images work as well. Load the new `.cue` in the emulator.
+
+Notes:
+- The PS1 text box is narrower than the PSP one: a few long lines take an extra button press.
+- Memory-card saves work across the translation, QoL and PSP variants; save states do not.
+- Building from source instead of patching: `python tools/build.py --psp path/to/persona_psp.iso`
+  (with or without `--qol`), see DEVELOPMENT.md.
+
+For technical questions, suggestions and very, very supportive messages: redeted@proton.me
+
 ## Playing
 
 - Tested on [DuckStation](https://github.com/stenzek/duckstation).
@@ -91,6 +152,10 @@ Build:
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin"
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --qol
 ```
+Optional PSP-script variant (the official PSP English for the story and the negotiations, read from your own
+*Shin Megami Tensei: Persona* PSP ISO; not distributed as a patch): add `--psp path/to/persona_psp.iso`
+(with or without `--qol`); output `../patched_psp/` or `../patched_psp_qol/`.
+
 The first run extracts the game files into `original/`. The results are written next to the
 repository folder: `../patched/Persona-TL.bin/.cue` and `../patched_qol/Persona-TL-QoL.bin/.cue`.
 A full build takes about 10 minutes.

@@ -22,6 +22,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext      # noqa: E402
 import tstatus    # noqa: E402
+import psp_terms  # noqa: E402
 
 ROOT = etext.ROOT
 B = 0x800643C4
@@ -104,7 +105,7 @@ def build():
     d = s2d()
     bx = boxes(d)
     rf = refs(d, bx)
-    en = read_tsv()
+    en = {k: psp_terms.fix(v) for k, v in read_tsv().items()}
     tstatus.load_glossary()
     todo, errors = {}, []
     for i, (a, e) in enumerate(bx):

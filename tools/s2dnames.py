@@ -23,6 +23,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext      # noqa: E402
 import vwf_wrap   # noqa: E402
+import psp_terms  # noqa: E402
 
 ROOT = etext.ROOT
 B = 0x800643C4
@@ -130,7 +131,7 @@ def build():
     d = s2d()
     msgs = names(d)
     rf = refs(d, msgs)
-    en = read_tsv()
+    en = {k: psp_terms.fix(v) for k, v in read_tsv().items()}
     todo = {}
     for i, (a, e) in enumerate(msgs):
         t = en.get(i, '').strip()

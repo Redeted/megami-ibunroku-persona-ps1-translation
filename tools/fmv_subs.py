@@ -18,6 +18,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'translation', 'src'))
 import fmv_opening as fo   # noqa: E402
 from fmv_subs_en import SUBS   # noqa: E402
+import psp_terms   # noqa: E402
+
+SUBS = {mv: [(a, b, psp_terms.fix_fmv(t)) for a, b, t in v] for mv, v in SUBS.items()}   # PSP variant: official terms
 
 FPS = 15
 FADE = 3                 # frames of fade in / out

@@ -1,11 +1,15 @@
 """One-step build: tables -> VWF font -> event scripts -> armips -> patched disc image.
 
-Usage (from the project root): python tools/build.py [--image PATH] [--no-disc] [--qol]
+Usage (from the project root): python tools/build.py [--image PATH] [--no-disc] [--qol] [--psp PSP_ISO]
 Output: build/ (patched files, persona.sym) and ../patched/Persona-TL.bin/.cue
 --image: the original disc image (default: ../Megami Ibunroku Persona - Be Your True Mind (Japan).bin). It
          must be the first release (not Rev 1): see image_check.py.
 --qol: separate enhancement build (translation + qol/*.asm, e.g. 60 fps dungeon / overworld) written to
        ../patched_qol/Persona-TL-QoL.bin/.cue instead. build/ then holds the QoL files until the next build.
+--psp: separate variant with the English of the official PSP release (Shin Megami Tensei: Persona, ULUS10432)
+       for the story events and demon negotiations, read from the user's own PSP ISO (tools/pspscript.py ->
+       psp_text/); everything else keeps the project's translation. Written to ../patched_psp/Persona-TL-PSP.bin
+       (with --qol: ../patched_psp_qol/Persona-TL-PSP-QoL.bin).
 """
 import os
 import shutil
@@ -23,8 +27,9 @@ ORIGINAL_IMAGE = os.path.join(ROOT, "..", "Megami Ibunroku Persona - Be Your Tru
 if "--image" in sys.argv:
     ORIGINAL_IMAGE = os.path.abspath(sys.argv[sys.argv.index("--image") + 1])
 QOL = "--qol" in sys.argv
-PATCHED_IMAGE = (os.path.join(ROOT, "..", "patched_qol", "Persona-TL-QoL.bin") if QOL
-                 else os.path.join(ROOT, "..", "patched", "Persona-TL.bin"))
+PSP_ISO = os.path.abspath(sys.argv[sys.argv.index("--psp") + 1]) if "--psp" in sys.argv else None
+PATCHED_IMAGE = os.path.join(ROOT, "..", "patched" + ("_psp" if PSP_ISO else "") + ("_qol" if QOL else ""),
+                             "Persona-TL" + ("-PSP" if PSP_ISO else "") + ("-QoL" if QOL else "") + ".bin")
 ARMIPS = next((p for p in (os.path.join(ROOT, "tools", "armips", "armips.exe"),
                             os.path.join(ROOT, "tools", "armips", "armips"))
                if os.path.exists(p)), None) or shutil.which("armips")
@@ -49,8 +54,13 @@ def main():
     run(py, os.path.join("tools", "make_vwf_font.py"))
     os.makedirs(os.path.join(ROOT, "build", "ADV"), exist_ok=True)
     os.makedirs(os.path.join(ROOT, "translation", "images"), exist_ok=True)   # preview PNGs (not in the repository)
+    if PSP_ISO:                                                # PSP-script variant: psp_text/ replaces translation/
+        run(py, os.path.join("tools", "pspscript.py"), "extract", PSP_ISO)
+        run(py, os.path.join("tools", "pspscript.py"), "convert")
+        os.environ["PERSONA_TEXT"] = os.path.join(ROOT, "psp_text")
     run(py, os.path.join("tools", "tstatus.py"), "qa")        # fails the build on bad translations
-    run(py, os.path.join("tools", "tstatus.py"), "status")    # translation/PROGRESS.md
+    if not PSP_ISO:
+        run(py, os.path.join("tools", "tstatus.py"), "status")    # translation/PROGRESS.md
     run(py, os.path.join("tools", "etext.py"), "build")      # translation/events -> build/ADV/E?.BIN
     run(py, os.path.join("tools", "title_gfx.py"))            # translated bitmap text -> build/gfx
     run(py, os.path.join("tools", "menu_gfx.py"))             # ADV menu labels + small-font lowercase -> build/ADV/, build/open_smallfont.asm

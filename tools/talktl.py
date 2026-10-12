@@ -30,7 +30,7 @@ import etext      # noqa: E402
 import vwf_wrap   # noqa: E402
 
 ROOT = etext.ROOT
-TALK = os.path.join(ROOT, 'translation', 'talk')
+TALK = os.path.join(etext.TEXT, 'talk')
 NL = chr(10)
 TOKEN = re.compile(r'<[0-9A-F]{4}>')
 WIDTH = {'<FFF3>': 80, '<FFF0>': 54, '<FFF9>': 72, '<FFF4>': 100, '<FFF2>': 80, '<FFF8>': 27}
@@ -83,7 +83,8 @@ def check(ja, en, norm=False, maxw=None, maxlines=3):
     jends = [c for c in END if c in ja]
     if len(ends) != 1 or not en.endswith(ends[0]) or ends != jends:
         errs.append(f'must end with exactly one {jends[0] if jends else "<FFF5>"}')
-    if codes(en, norm) != codes(ja, norm):
+    page = ('<FFFB>', '<FFF7>') if etext.PSP else ()      # the PSP variant may add pages (tools/pspscript.py)
+    if [c for c in codes(en, norm) if c[0] not in page] != [c for c in codes(ja, norm) if c[0] not in page]:
         errs.append(f'codes differ: ja {[c for c, _ in codes(ja, norm)]}{[p for c, p in codes(ja, norm) if p]} en {[c for c, _ in codes(en, norm)]}{[p for c, p in codes(en, norm) if p]}')
     if en.count('<FFFC>') != ja.count('<FFFC>'):
         errs.append(f'<FFFC> count {en.count("<FFFC>")} != {ja.count("<FFFC>")}')
@@ -200,7 +201,7 @@ def ans_strings():
     import glob
     import talk
     out = {}
-    for p in sorted(glob.glob(os.path.join(ROOT, 'original', 'TALK', '*.BIN'))):
+    for p in sorted(glob.glob(os.path.join(etext.ORIGINAL, 'TALK', '*.BIN'))):
         name = os.path.basename(p)[:-4]
         t = talk.load(name)
         for v, sp in t.s1:

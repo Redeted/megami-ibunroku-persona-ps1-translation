@@ -27,8 +27,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext  # noqa: E402
 
 ROOT = etext.ROOT
-SRC = os.path.join(ROOT, 'original', 'TALK')
-TSV = os.path.join(ROOT, 'translation', 'talk')
+SRC = os.path.join(etext.ORIGINAL, 'TALK')
+TSV = os.path.join(etext.TEXT, 'talk')
 POOL = 0x2014
 ENDS = {0xF5, 0xEF}
 

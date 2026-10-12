@@ -40,6 +40,10 @@ CARDS = [
       'absolute difference; no causal link holds.', '~ Zhuangzi ~']),
 ]
 ATTR_RIGHT = 286
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import psp_terms   # noqa: E402
+if psp_terms.ACTIVE:          # PSP variant: the wording of the official release
+    CARDS = [(f, l, bands, lines) for (f, l, bands, _), lines in zip(CARDS, psp_terms.OPENING)]
 
 
 def font():
@@ -124,7 +128,7 @@ def main():
                 if tl.width > MAXW + 12:
                     raise SystemExit(f'fmv_opening: {lines[k]!r} is {tl.width - 12}px wide (max {MAXW})')
                 y0, y1 = bands[k]
-                x = (ATTR_RIGHT - (tl.width - 12) - 6) if lines[k].startswith('~') else (160 - tl.width // 2)
+                x = (ATTR_RIGHT - (tl.width - 12) - 6) if lines[k].startswith(('~', '-')) else (160 - tl.width // 2)
                 y = (y0 + y1) // 2 - tl.height // 2 - 1
                 col = Image.new('RGB', tl.size, (int(255 * alpha),) * 3)
                 pil.paste(col, (x, y), tl)

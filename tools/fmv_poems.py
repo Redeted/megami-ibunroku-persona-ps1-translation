@@ -100,7 +100,7 @@ def extract(mv, item, a, b, src):
         os.makedirs(d, exist_ok=True)
         tmp = os.path.join(fo.WORK, 'x_' + mv)
         os.makedirs(tmp, exist_ok=True)
-        fo.jpsx('-x', fo.index(src), '-f', src, '-i', item, '-vf', 'png', '-start', str(a), '-end', str(b), '-num', 'Header',
+        fo.jpsx('-x', fo.index(src), '-f', src, '-i', item, '-vf', 'png', '-start', str(a - 1), '-end', str(b - 1), '-num', 'Header',
                 '-noaud', cwd=tmp)
         for r, _, fs in os.walk(tmp):
             for f in fs:
@@ -135,10 +135,12 @@ def do_movie(mv, target, src):
         if img is None:
             continue
         alpha = max(0.0, min(1.0, contrast(gray(img)) / ref_c))
-        if alpha < 0.04:
+        if alpha < 0.012:                          # below ~1 % of the full contrast the Japanese strokes are invisible
             continue
         new = cv2.inpaint(img, dil.astype(np.uint8) * 255, 3, cv2.INPAINT_TELEA)
-        w = min(1.0, 2.0 * alpha)                  # in the fades keep part of the original (less inpainting smear)
+        # in the fades keep part of the original (less inpainting smear), but never more than ~1 % contrast of the
+        # Japanese strokes (a faint trace of the poem was visible in the first fade-in frames)
+        w = max(min(1.0, 2.0 * alpha), 1.0 - 0.01 / alpha)
         new = cv2.addWeighted(new, w, img, 1.0 - w, 0)
         pil = Image.fromarray(cv2.cvtColor(new, cv2.COLOR_BGR2RGB))
         for k, text in enumerate(lines):

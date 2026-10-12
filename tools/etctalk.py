@@ -24,7 +24,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext  # noqa: E402
 
 ROOT = etext.ROOT
-SRC = os.path.join(ROOT, 'original', 'TALK', 'ETC.BIN')
+SRC = os.path.join(etext.ORIGINAL, 'TALK', 'ETC.BIN')
 POOL = 0x2000
 BASE = 4
 
@@ -155,7 +155,7 @@ def main():
         print('wrote', p)
     elif cmd == 'build':
         outdir = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, 'build', 'TALK')
-        p = os.path.join(ROOT, 'translation', 'talk', 'ETC.tsv')
+        p = os.path.join(etext.TEXT, 'talk', 'ETC.tsv')
         edits = {}
         if os.path.exists(p):
             for ln, line in enumerate(open(p, encoding='utf-8').read().split(chr(10))[1:], 2):

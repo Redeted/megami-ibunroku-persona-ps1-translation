@@ -25,6 +25,11 @@ import efile  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LAYOUT = os.path.join(ROOT, 'translation', 'layout.json')
+# build.py --psp: the event and TALK tables come from psp_text/ (tools/pspscript.py) instead of translation/
+TEXT = os.environ.get('PERSONA_TEXT') or os.path.join(ROOT, 'translation')
+PSP = bool(os.environ.get('PERSONA_TEXT'))
+# the extracted original game files (tools/psp_patch.py points this at its own work folder)
+ORIGINAL = os.environ.get('PERSONA_ORIGINAL') or os.path.join(ROOT, 'original')
 VWF_BIAS = 0x68
 NO_LITERAL = set('<>\t\r\n')
 
@@ -101,7 +106,7 @@ SLPS_TABLES = {'E0': 0x8004DA70, 'E1': 0x8004DC34, 'E2': 0x8004DDF8, 'E3': 0x800
 
 
 def path(n):
-    return os.path.join(ROOT, 'original', 'ADV', f'{n}.BIN')
+    return os.path.join(ORIGINAL, 'ADV', f'{n}.BIN')
 
 
 def cmd_check():
@@ -262,7 +267,7 @@ if __name__ == '__main__':
     elif a[0] == 'layout':
         cmd_layout('--grow' in a)
     elif a[0] == 'build':
-        cmd_build(os.path.join(ROOT, 'translation', 'events'),
+        cmd_build(os.path.join(TEXT, 'events'),
                   a[1] if len(a) > 1 else os.path.join(ROOT, 'build', 'ADV'))
     else:
         raise SystemExit(__doc__)

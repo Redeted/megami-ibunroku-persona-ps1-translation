@@ -25,7 +25,7 @@ import etext      # noqa: E402
 import vwf_wrap   # noqa: E402
 
 ROOT = etext.ROOT
-EV = os.path.join(ROOT, 'translation', 'events')
+EV = os.path.join(etext.TEXT, 'events')
 TAB, NL = chr(9), chr(10)
 # parameter bytes that follow each control code (observed in all 7344 boxes)
 PARAM_LEN = {0x05: 2, 0x06: 1, 0x07: 1, 0x08: 1, 0x0E: 1, 0x0F: 1, 0x11: 0, 0x12: 0}
@@ -109,7 +109,11 @@ def check(ja, en):
     except ValueError as ex:
         return [('encode', str(ex))]
     bj = etext.encode(ja)
-    if code_seq(be) != code_seq(bj):
+    if etext.PSP:                     # PSP variant: the player-name codes follow the PSP (given / family / nickname)
+        norm = lambda seq: [(0x0F if o in (0x07, 0x08, 0x0F) else o, p) for o, p in seq]   # noqa: E731
+    else:
+        norm = lambda seq: seq       # noqa: E731
+    if norm(code_seq(be)) != norm(code_seq(bj)):
         errs.append(('codes', f'ja {[(hex(o), p.hex()) for o, p in code_seq(bj)][:6]} en {[(hex(o), p.hex()) for o, p in code_seq(be)][:6]}'))
     for pg in segments(en):
         if len(pg) > 3:
@@ -126,7 +130,7 @@ def check(ja, en):
     if bad:
         errs.append(('charset', f'non-ASCII bytes in text: {bytes(bad[:6]).hex()}'))
     sp = speaker(ja)
-    if sp and sp in GLOSS and GLOSS[sp][1] in ('character', 'speaker label'):
+    if sp and not etext.PSP and sp in GLOSS and GLOSS[sp][1] in ('character', 'speaker label'):
         want = GLOSS[sp][0]
         if not en.lstrip().replace('<FF06><02>', '').startswith(want + ':') and not re.match(r'(?:<FF0[0-9A-F]>(?:<[0-9A-F]{2}>)?)*' + re.escape(want) + ':', en):
             errs.append(('label', f'{sp} should be "{want}:"'))
