@@ -91,7 +91,7 @@ trying it myself.
 
 ### What you need, in addition to the steps above
 
-- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.1**);
+- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.2**);
 - your original Japanese `.bin` (the same file the xdelta was applied to);
 - the US PSP release as an **ISO** (`ULUS10432`, about 820 MB; a `.cso` must be decompressed to `.iso`
   first, e.g. with [maxcso](https://github.com/unknownbrackets/maxcso) `--decompress`);
