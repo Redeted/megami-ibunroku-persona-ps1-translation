@@ -320,7 +320,7 @@ dngq_gate_anim:                                 ; was lui v0, 0x800A; lhu v0, -0
     lhu     v0, -0x6194(v0)
 @@skip:
     j       0x80066C38
-    nop
+    lui     s0, 0x8013                          ; original BF4 delay slot: C38.. builds pointers from s0
 
 dngq_gate_pad:                                  ; was jal DNGQ_PADREAD
     lui     at, hi(dngq_vars)

@@ -1,6 +1,15 @@
 # Megami Ibunroku Persona: Be Your True Mind - English translation
 
-Release notes for version 1.0.1, the translation build of 2026-10-11 (disc `patched/Persona-TL.bin`).
+Release notes for version 1.0.2, the translation build of 2026-10-13 (disc `patched/Persona-TL.bin`).
+
+## Changes in 1.0.2
+
+- Negotiation answer window: answer rows that sit late in a demon's TALK file (past 64 KB) were drawn
+  with the text of the first answer ("Yes." repeated three times in demons that use KOUMAN) while the
+  rows kept their own responses. Every answer now shows its own text.
+- QoL build: fixed a hard crash in the 3D dungeons containing floors with animated lights or textures.
+- The optional PSP script (branch `psp-script`) is applied on top of the patched disc, so it gets both
+  fixes by using the 1.0.2 patch; it has no separate update.
 
 ## Changes in 1.0.1
 
