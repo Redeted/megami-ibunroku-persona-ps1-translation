@@ -1,69 +1,4 @@
-# Megami Ibunroku Persona: Be Your True Mind — English Translation
-
-A complete English translation of the original 1996 PlayStation release of *Megami Ibunroku Persona*
-(Japan, SLPS-00500), with an optional enhancement patch.
-
-<p align="center">
-  <img src="screenshots/1.png" width="49%" alt="Item pickup"> <img src="screenshots/2.png" width="49%" alt="Dialogue">
-  <img src="screenshots/3.png" width="49%" alt="Velvet Room"> <img src="screenshots/4.png" width="49%" alt="Dialogue choices">
-  <img src="screenshots/5.png" width="49%" alt="Name entry"> <img src="screenshots/6.png" width="49%" alt="Dialogue">
-</p>
-
-## Features
-
-- **Fully translated**: the whole story of both routes (SEBEC and Snow Queen), every demon
-  negotiation, battles, menus, items, skills, the Velvet Room, the overworld, the casino, name entry,
-  the save screens and all endings.
-- **Subtitled movies**: English subtitles in the spoken movies; the opening quote and the epilogue
-  poems redrawn in English.
-- A literal translation that keeps the original names, places and honorifics, using the official
-  terminology of the 2009 PSP release for skills, items, demons and Personas.
-- **Optional enhancement patch (QoL)**:
-  - smooth movement in the 3D dungeons (up to 60 fps) and the overworld (up to 30 fps), while the
-    game's own speed stays the original;
-  - Persona summons and skill effects in battle at double speed (voices and sounds keep their normal
-    speed);
-  - half the random encounter rate;
-  - x2 EXP, Persona points and money after battles.
-
-## What you need
-
-Your own copy of the game, as a single-track BIN/CUE of the **first release**:
-
-| | |
-|---|---|
-| File | `Megami Ibunroku Persona - Be Your True Mind (Japan).bin` |
-| Size | 699,705,888 bytes |
-| CRC32 | `360EB310` |
-| MD5 | `c0f167dd5133e2a0f89f772852a4e978` |
-
-The later **"Rev 1"** release (699,672,960 bytes) is **not supported**: the patch will refuse to apply.
-
-## Patching (easy way)
-
-1. Download a patch from the [Releases](../../releases) page:
-   - `Persona-TL.xdelta` – the translation;
-   - `Persona-TL-QoL.xdelta` – the translation plus the enhancement patch.
-2. Apply it to your `.bin` with any xdelta patcher, for example
-   [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher), or on the command line:
-   ```
-   xdelta3 -d -s "Megami Ibunroku Persona - Be Your True Mind (Japan).bin" Persona-TL.xdelta Persona-TL.bin
-   ```
-3. Open the patched `.bin` in your emulator through a `.cue` sheet. The release does not ship one:
-   use the `.cue` that came with your own copy of the game. Its `FILE` line must name the patched
-   `.bin`, so either
-   - give the patched file the original name (`Megami Ibunroku Persona - Be Your True Mind (Japan).bin`,
-     in another folder or replacing the original), or
-   - keep the name you chose (e.g. `Persona-TL.bin`) and change the `FILE` line of a copy of the `.cue`
-     to match. The whole sheet is just:
-     ```
-     FILE "Persona-TL.bin" BINARY
-       TRACK 01 MODE2/2352
-         INDEX 01 00:00:00
-     ```
-   (Any online or tool-made `.cue` for a single-track BIN works as well.)
-
-## Optional: the official PSP script (branch `psp-script`)
+## The official PSP script
 
 This branch adds one command that turns a disc you already patched with `Persona-TL.xdelta` (or
 `Persona-TL-QoL.xdelta`) into a variant whose **story scenes and demon negotiations** use the English of
@@ -86,8 +21,8 @@ match with confidence keep this project's translation.
 **Is it the exact text?**
 About 97% of the story boxes and 98% of the negotiation lines use the PSP text. The rest keep this
 project's translation where the PSP line cannot be shown on the PS1 (button icons in the casino
-help, lines without a PSP counterpart). It needs yet another playtest for both SEBEC and Snow Queen,
-trying it myself.
+help, lines without a PSP counterpart).
+Playtested to completion and confirmed playable.
 
 ### What you need, in addition to the steps above
 
