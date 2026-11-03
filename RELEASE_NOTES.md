@@ -1,6 +1,14 @@
 # Megami Ibunroku Persona: Be Your True Mind - English translation
 
-Release notes for version 1.0.2, the translation build of 2026-10-13 (disc `patched/Persona-TL.bin`).
+Release notes for version 1.0.3, the translation build of 2026-11-03 (disc `patched/Persona-TL.bin`).
+
+## Changes in 1.0.3
+
+- Velvet Room: erasing a Persona at maximum rank now gives its item again (for example Maso ->
+  SP INCENSE). Since 1.0.0 the English gift speech announced the item but it never reached the
+  inventory: the code rewritten to fit the English message had lost the original "add item" call
+  (issue #1).
+- The optional PSP script (branch `psp-script`) gets the fix by using the 1.0.3 patch.
 
 ## Changes in 1.0.2
 
