@@ -26,7 +26,7 @@ Playtested to completion and confirmed playable.
 
 ### What you need, in addition to the steps above
 
-- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.3**);
+- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.4**);
 - your original Japanese `.bin` (the same file the xdelta was applied to);
 - the US PSP release as an **ISO** (`ULUS10432`, about 820 MB; a `.cso` must be decompressed to `.iso`
   first, e.g. with [maxcso](https://github.com/unknownbrackets/maxcso) `--decompress`);
@@ -90,7 +90,7 @@ python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mi
 Optional PSP-script variant (the official PSP English for the story and the negotiations, read from your own
 *Shin Megami Tensei: Persona* PSP ISO; not distributed as a patch): add `--psp path/to/persona_psp.iso`
 (with or without `--qol`); output `../patched_psp/` or `../patched_psp_qol/`.
-The sources of this branch include every fix of release v1.0.3 (see [RELEASE_NOTES.md](RELEASE_NOTES.md)),
+The sources of this branch include every fix of release v1.0.4 (see [RELEASE_NOTES.md](RELEASE_NOTES.md)),
 so a build from source matches that release apart from the PSP text.
 
 The first run extracts the game files into `original/`. The results are written next to the
