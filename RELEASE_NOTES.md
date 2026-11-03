@@ -1,6 +1,14 @@
 # Megami Ibunroku Persona: Be Your True Mind - English translation
 
-Release notes for version 1.0.3, the translation build of 2026-11-03 (disc `patched/Persona-TL.bin`).
+Release notes for version 1.0.4, the translation build of 2026-11-03 (disc `patched/Persona-TL.bin`).
+
+## Changes in 1.0.4
+
+- Battle skill menu: the cursor no longer stops on empty skill slots. Since 1.0.0, choosing an empty
+  slot made the Persona use another party member's skill or crashed the game: the code that copies the
+  English skill names into the menu also overwrote the marker that tells the cursor a slot is empty
+  (issue #2).
+- The optional PSP script (branch `psp-script`) gets the fix by using the 1.0.4 patch.
 
 ## Changes in 1.0.3
 

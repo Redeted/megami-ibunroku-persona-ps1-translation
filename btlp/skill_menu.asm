@@ -46,6 +46,10 @@ skill_desc BTLP_SKILL_DESC_B
     addiu   t2, t2, 16                  ; was 11
 .org 0x800AC978                         ; copy body 0x800AC978..0x800ACA40
 .area 0x800ACA44 - 0x800AC978, 0
+    ;; Empty slot (id 0): keep the FF marker. The original copied skill 0's
+    ;; name, whose first byte is FF; skill_name_copy pads it with 00 instead,
+    ;; which let the cursor stop on empty slots (GitHub issue #2).
+    beqz    v1, 0x800ACA44
     sll     a0, t3, 4
     lui     at, hi(SKILL_MENU_BUF - 16)
     addiu   at, at, lo(SKILL_MENU_BUF - 16)
