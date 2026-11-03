@@ -6,9 +6,14 @@ Original: 3 pages in ADV.BIN at RAM 0x800BB544..0x800BB5C0 (124 bytes, no room f
 0x800A4268 (0x800A4478: a0 = s1-0x15, jal 0x800666DC). That function builds the message IN PLACE every time: it stores the id
 of the erased Persona into the parameter byte of <FF0C> (0x800BB559) and the 2-byte id of the item it is turned into into
 the two <FF09> parameters (0x800BB58B/C and 0x800BB5B1/2) with a long, repetitive instruction sequence
-(0x800A4348..0x800A4468, 72 words).  This tool rewrites that sequence compactly (19 words), puts the English message in the
-bytes it frees (a `j` over the text, the text, then the code, which falls through into 0x800A4468) and points the stores
-at the new parameter positions.  The Japanese bytes at 0x800BB544.. are zeroed.
+(0x800A4348..0x800A4468, 72 words).  That sequence ALSO gives the item: lhu a0 = item id, jal 0x8008ED1C (a1 = 1, add
+to inventory), jal 0x8008EF2C, jal 0x8008F0B4.
+
+Layout: 0x800A4348 = `j gift_code` + the English text (the whole freed block); gift_code lives in the freed Japanese
+bytes at 0x800BB544..0x800BB5C0 (unreferenced after this patch): it replays the add-item calls, stores the parameters at
+their new positions and jumps back to 0x800A4468 (jal 0x800ABB94).
+Bug fixed 2026-11-03 (GitHub issue #1): the first version (1.0.0-1.0.2) dropped the add-item calls and its 18-word code
+overran 0x800A4468 by one word, so the message said "obtained" but the item never reached the inventory.
 """
 import os
 import sys
@@ -21,7 +26,6 @@ ROOT = etext.ROOT
 B = 0x800643C4
 START, END = 0x800A4348, 0x800A4468
 OLD_A, OLD_E = 0x800BB544, 0x800BB5C1
-CODE_WORDS = 17
 EN = ("The old heart's form, awakened:<FF03><FF0C><BB><FF03>Is it time to fully release it?<FF02><FF04>"
       "Then the other heart that fought<FF03>beside you, I'll trade for<FF03><FF09><BB><0B> and return to you...<FF02><FF04>"
       "<FF08><01> and the others<FF03>obtained <FF09><BB><0B>.<FF02>")
@@ -41,8 +45,7 @@ def main():
             assert vwf_wrap.text_width(l) <= 239, (vwf_wrap.text_width(l), l)
     data = etext.encode(EN)                       # + FF01
     str_addr = START + 8
-    code_addr = END - 4 * CODE_WORDS
-    room = code_addr - str_addr
+    room = END - str_addr
     if len(data) > room:
         raise SystemExit(f'giftmsg: {len(data)} bytes, room {room}')
     # parameter positions inside the new string
@@ -58,31 +61,43 @@ def main():
              f'    j       gift_code', '    nop',
              'gift_text:   ; ' + str(len(data)) + ' bytes, ' + str(room) + ' available',
              '    .byte ' + ', '.join(f'0x{x:02X}' for x in data),
-             f'.org {code_addr:#x}',
+             f'.org {OLD_A:#x}',
+             f'.area {OLD_E - OLD_A}',
              'gift_code:',
              '    sll     s0, s2, 6',
              '    lui     at, 0x801F',
              '    addu    at, s0, at',
              '    lbu     v0, 0x1DC4(at)             ; id of the Persona / item slot',
+             '    nop',
+             '    sll     v0, v0, 1',
+             '    lui     at, 0x800C',
+             '    addu    at, at, v0',
+             '    lhu     a0, -0x556E(at)            ; halfword table 0x800BAA92: Persona id -> item id',
+             '    jal     0x8008ED1C                 ; add item (original 0x800A4370)',
+             '    ori     a1, zero, 1',
+             '    jal     0x8008EF2C',
+             '    nop',
+             '    jal     0x8008F0B4',
+             '    nop',
+             '    lui     at, 0x801F',
+             '    addu    at, s0, at',
+             '    lbu     v0, 0x1DC4(at)',
              '    lui     s1, 0x800A',
              f'    addiu   s1, s1, {P - 0x800A0000:#x}          ; <FF0C> parameter (a0 = s1 - offset below)',
              '    sb      v0, 0(s1)',
              '    sll     v0, v0, 1',
              '    lui     at, 0x800C',
-             '    addiu   at, at, -0x556E            ; halfword table: Persona id -> item id',
              '    addu    at, at, v0',
-             '    lbu     v0, 0(at)',
-             '    lbu     v1, 1(at)',
-             '    lui     t0, 0x800A',
-             f'    sb      v0, {I1 - 0x800A0000:#x}(t0)',
-             f'    sb      v1, {I1 + 1 - 0x800A0000:#x}(t0)',
-             f'    sb      v0, {I2 - 0x800A0000:#x}(t0)',
-             f'    sb      v1, {I2 + 1 - 0x800A0000:#x}(t0)',
+             '    lbu     v0, -0x556E(at)',
+             '    lbu     v1, -0x556D(at)',
+             f'    sb      v0, {I1 - P}(s1)',
+             f'    sb      v1, {I1 + 1 - P}(s1)',
+             f'    sb      v0, {I2 - P}(s1)',
+             f'    j       {END:#x}                 ; jal 0x800ABB94, then the original flow',
+             f'    sb      v1, {I2 + 1 - P}(s1)',
+             '.endarea',
              '.org 0x800A4478',
              f'    addiu   a0, s1, {-(P - str_addr)}']
-    # the old code occupied exactly START..END; the code above must end exactly at END
-    n = 17
-    assert n == CODE_WORDS, n
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, 'w', newline='\n').write('\n'.join(lines) + '\n')
     print(f'giftmsg: {len(data)} bytes of {room}; persona param {P:#x}, items {I1:#x} {I2:#x}')
