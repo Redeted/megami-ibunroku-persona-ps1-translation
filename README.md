@@ -3,7 +3,7 @@
 # Megami Ibunroku Persona: Be Your True Mind — English Translation
 
 A complete English translation of the original 1996 PlayStation release of *Megami Ibunroku Persona*
-(Japan, SLPS-00500), with an optional enhancement patch.
+(Japan, SLPS-00500), with optional enhancement patches.
 
 <p align="center">
   <img src="screenshots/1.png" width="49%" alt="Item pickup"> <img src="screenshots/2.png" width="49%" alt="Dialogue">
@@ -20,13 +20,19 @@ A complete English translation of the original 1996 PlayStation release of *Mega
   poems redrawn in English.
 - A literal translation that keeps the original names, places and honorifics, using the official
   terminology of the 2009 PSP release for skills, items, demons and Personas.
-- **Optional enhancement patch (QoL)**:
+- **Optional enhancement patches (QoL and QoL-easy)**:
   - smooth movement in the 3D dungeons (up to 60 fps) and the overworld (up to 30 fps), while the
     game's own speed stays the original;
   - Persona summons and skill effects in battle at double speed (voices and sounds keep their normal
     speed);
-  - half the random encounter rate;
-  - x2 EXP, Persona points and money after battles.
+  - battle fast-forward: press START during a turn (or during AUTO) to run the battle about twice as
+    fast, like the PSP skip;
+  - Clean Salt and Emergency Exit, two items from the PSP version, sold at the Satomi Tadashi pharmacies;
+  - Estoma and Traesto as Persona skills, as on the PSP, and as fusion skills from those items;
+  - GAME END at an Agastya tree returns to the title screen;
+  - **QoL-easy only**: half the random encounter rate and x2 EXP, Persona points and money after battles.
+
+  Details and how to use them: [RELEASE_NOTES.md](RELEASE_NOTES.md).
 
 ## What you need
 
@@ -45,7 +51,8 @@ The later **"Rev 1"** release (699,672,960 bytes) is **not supported**: the patc
 
 1. Download a patch from the [Releases](../../releases) page:
    - `Persona-TL.xdelta` – the translation;
-   - `Persona-TL-QoL.xdelta` – the translation plus the enhancement patch.
+   - `Persona-TL-QoL.xdelta` – the translation plus the enhancements (original game balance);
+   - `Persona-TL-QoL-easy.xdelta` – the same plus half the random encounters and x2 EXP / money.
 2. Apply it to your `.bin` with any xdelta patcher, for example
    [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher), or on the command line:
    ```
@@ -68,7 +75,7 @@ The later **"Rev 1"** release (699,672,960 bytes) is **not supported**: the patc
 ## Playing
 
 - Tested on [DuckStation](https://github.com/stenzek/duckstation).
-- **For the QoL patch**, enable the CPU overclock: *Settings → Console → CPU Emulation*, enable clock
+- **For the QoL patches**, enable the CPU overclock: *Settings → Console → CPU Emulation*, enable clock
   speed control and set it to around **180%**. This gives 60 fps in the dungeons and a smooth 30 fps
   in the overworld. Without it the game still runs at its normal speed, just with fewer extra frames.
 - Save states do not carry over between patch versions; use in-game memory-card saves when you update.
@@ -92,9 +99,11 @@ Build:
 ```
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin"
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --qol
+python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --easy
 ```
 The first run extracts the game files into `original/`. The results are written next to the
-repository folder: `../patched/Persona-TL.bin/.cue` and `../patched_qol/Persona-TL-QoL.bin/.cue`.
+repository folder: `../patched/Persona-TL.bin/.cue`, `../patched_qol/Persona-TL-QoL.bin/.cue` and
+`../patched_qol_easy/Persona-TL-QoL-easy.bin/.cue`.
 A full build takes about 10 minutes.
 
 Developer notes: [DEVELOPMENT.md](DEVELOPMENT.md), and the enhancement patch in [qol/README.md](qol/README.md).

@@ -173,7 +173,7 @@ BOXES = {
     73: ["Ayase: Aww, Ayase wants so many things! <FF0F>あ, buy them for me, okay?"],
     74: ["Mai: Please don't let Kandori take the compact."],
     75: ["It's locked."],
-    76: ["Obtained the \"Half Compact\"!"],
+    76: ["Obtained the \"Compact Half\"!"],
 }
 REVIEW = {13: "Mai says she made this town", 54: "ノモラカ・タノママ kept as a sound"}
 

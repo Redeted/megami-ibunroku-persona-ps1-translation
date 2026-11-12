@@ -1,11 +1,15 @@
 """One-step build: tables -> VWF font -> event scripts -> armips -> patched disc image.
 
-Usage (from the project root): python tools/build.py [--image PATH] [--no-disc] [--qol]
+Usage (from the project root): python tools/build.py [--image PATH] [--no-disc] [--qol | --easy]
 Output: build/ (patched files, persona.sym) and ../patched/Persona-TL.bin/.cue
 --image: the original disc image (default: ../Megami Ibunroku Persona - Be Your True Mind (Japan).bin). It
          must be the first release (not Rev 1): see image_check.py.
 --qol: separate enhancement build (translation + qol/*.asm, e.g. 60 fps dungeon / overworld) written to
        ../patched_qol/Persona-TL-QoL.bin/.cue instead. build/ then holds the QoL files until the next build.
+       The base build is the translation only; every extra feature is QoL (Clean Salt / Emergency Exit, Estoma /
+       Traesto, battle fast-forward, ...). The data tools read PERSONA_VARIANT (base / qol / easy, set here).
+--easy: QoL plus half the random encounter rate and x2 EXP / P.P. / money (armips EASY):
+       ../patched_qol_easy/Persona-TL-QoL-easy.bin.
 """
 import os
 import shutil
@@ -22,9 +26,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIGINAL_IMAGE = os.path.join(ROOT, "..", "Megami Ibunroku Persona - Be Your True Mind (Japan).bin")
 if "--image" in sys.argv:
     ORIGINAL_IMAGE = os.path.abspath(sys.argv[sys.argv.index("--image") + 1])
-QOL = "--qol" in sys.argv
-PATCHED_IMAGE = (os.path.join(ROOT, "..", "patched_qol", "Persona-TL-QoL.bin") if QOL
-                 else os.path.join(ROOT, "..", "patched", "Persona-TL.bin"))
+EASY = "--easy" in sys.argv
+QOL = "--qol" in sys.argv or EASY
+VARIANT = "easy" if EASY else ("qol" if QOL else "base")
+PATCHED_IMAGE = os.path.join(ROOT, "..", "patched" + ("_qol" if QOL else "") + ("_easy" if EASY else ""),
+                             "Persona-TL" + ("-QoL" if QOL else "") + ("-easy" if EASY else "") + ".bin")
 ARMIPS = next((p for p in (os.path.join(ROOT, "tools", "armips", "armips.exe"),
                             os.path.join(ROOT, "tools", "armips", "armips"))
                if os.path.exists(p)), None) or shutil.which("armips")
@@ -43,6 +49,11 @@ def main():
     if "--no-disc" not in sys.argv or not os.path.isdir(os.path.join(ROOT, "original")):
         image_check.require(ORIGINAL_IMAGE)
     os.environ["PERSONA_IMAGE"] = ORIGINAL_IMAGE                 # read by fmv_opening.py / endtext.py
+    os.environ["PERSONA_VARIANT"] = VARIANT                       # read by tools/variant.py (base: no QoL item / skill names)
+    if QOL:
+        os.environ["PERSONA_QOL"] = "1"                          # read by sysmsg.py (GAME END message)
+    else:
+        os.environ.pop("PERSONA_QOL", None)
     if not os.path.isdir(os.path.join(ROOT, "original")):           # first build: extract the game files once
         run(py, os.path.join("tools", "extract.py"), ORIGINAL_IMAGE, "original")
     run(py, os.path.join("tools", "make_tbl.py"))
@@ -62,6 +73,8 @@ def main():
     run(py, os.path.join("tools", "giftmsg.py"))
     run(py, os.path.join("tools", "sysmsg.py"), "build")      # system messages -> build/sysmsg.asm
     run(py, os.path.join("tools", "items.py"), "build")
+    run(py, os.path.join("tools", "fullnames.py"))            # full item names (proportional) -> build/fullnames_data.asm
+    run(py, os.path.join("tools", "shops.py"))                # shop lists + Emergency Exit -> build/shops_adv.asm
     run(py, os.path.join("tools", "nicknames.py"), "build")   # party nicknames -> build/nicknames.asm
     run(py, os.path.join("tools", "partynames.py"))   # party full names -> build/partynames.asm
     run(py, os.path.join("tools", "btlfont.py"))              # battle font page (lowercase) in /B/BF.BIN -> build/B/BF.BIN
@@ -91,7 +104,9 @@ def main():
     os.makedirs(os.path.join(ROOT, "build", "EXE"), exist_ok=True)
     os.makedirs(os.path.join(ROOT, "build", "ADV"), exist_ok=True)
     qol = ["-definelabel", "QOL60", "1"] if QOL else []            # main.asm: .ifdef QOL60 -> qol/fps60_*.asm
+    qol += ["-definelabel", "EASY", "1"] if EASY else []           # main.asm: .ifdef EASY -> encounters / rewards
     run(ARMIPS, "main.asm", "-sym2", os.path.join("build", "persona.sym"), *qol)
+    run(py, os.path.join("tools", "titlecase_tables.py"))     # arcana / attack-type names: UPPERCASE -> Title Case (in place, after armips)
     run(py, os.path.join("tools", "casinoprize.py"))          # casino code machine prize bar (in place in build/CASINO.BIN, after armips)
     run(py, os.path.join("tools", "talktl.py"), "qa")         # translated TALK units: codes / 3 lines / 239 px
     run(py, os.path.join("tools", "talk.py"), "build")        # translation/talk -> build/TALK (edited files only)

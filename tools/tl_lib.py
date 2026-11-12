@@ -45,10 +45,10 @@ def F6(ch):
 _LABEL = re.compile(r"^([A-Z][A-Za-z.' -]{0,30}: )")
 
 
-def _paginate(page):
+def _paginate(page, repeat=True):
     """Split a page that wraps to more than 3 lines into pages of 3 lines.
-    Later pages repeat the speaker label (guide: label on every page)."""
-    m = _LABEL.match(page)
+    Later pages repeat the speaker label (guide: label on every page) unless repeat is False (PSP variant)."""
+    m = _LABEL.match(page) if repeat else None
     label = m.group(1) if m else ''
     pages, rest = [], page
     while True:
@@ -61,9 +61,9 @@ def _paginate(page):
         rest = label + ' '.join(lines[3:])
 
 
-def build(pages):
+def build(pages, repeat=True):
     out = []
-    for p in (q for page in pages for q in _paginate(page)):
+    for p in (q for page in pages for q in _paginate(page, repeat)):
         w = vwf_wrap.wrap(p)
         lines = w.split(vwf_wrap.NEWLINE)
         if len(lines) > 3:

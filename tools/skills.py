@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext   # noqa: E402
+import variant  # noqa: E402  (base build: original item / skill rows)
 import items   # noqa: E402
 import smallfont_lc  # noqa: E402
 
@@ -53,7 +54,7 @@ def read_tsv():
         for line in open(TSV, encoding='utf-8').read().split(NL)[1:]:
             c = line.rstrip('\r').split('\t')
             if len(c) >= 4 and c[0].isdigit():
-                rows[int(c[0])] = (c[3], c[4] if len(c) > 4 else '')
+                rows[int(c[0])] = (variant.cell('SKILLS', int(c[0]), 3, c[3]), c[4] if len(c) > 4 else '')
     return rows
 
 

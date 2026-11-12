@@ -121,7 +121,7 @@ idx	ram	ja	en	note
 119	800C94E0	何かくれ	Give me something	word 7B
 120	800C94E8	去れ	Leave	word 5B
 121	800C94F0	スペルカード！	Spell card!	word 13B
-122	800C9500	何か、ちょうだい♥	Give me something, okay?	word 14B
+122	800C9500	何か、ちょうだい♥	Give me something, okay?♥	word 14B
 123	800C9510	どっか行って！	Go somewhere else!	word 11B
 124	800C951C	スペルカード！	Spell card!	word 13B
 125	800C952C	何かくれよぉ	Give me something, man	word 9B
@@ -136,7 +136,7 @@ idx	ram	ja	en	note
 134	800C95A4	何か頂けます？	Can I have something?	word 12B
 135	800C95B0	Ｂｙｅ　ｂｙｅ	Bye bye	word 15B
 136	800C95C0	スペルカード！	Spell card!	word 13B
-137	800C95D0	何か、ちょーだい♥	Gimme something!	word 15B
+137	800C95D0	何か、ちょーだい♥	Gimme something!♥	word 15B
 138	800C95E0	どっか行ってくれる？	Can you go somewhere?	word 14B
 139	800C95F0	スペルカード！	Spell card!	word 13B
 140	800C9600	何か、よこしな	Hand something over	word 11B
@@ -234,7 +234,7 @@ idx	ram	ja	en	note
 232	800CBC00	＞マークは、<FFF6>　激しく踊った。	> Mark danced<FFF6>  wildly.	word 24B
 233	800CBC18	＞マークは、<FFF6>　悩ましげに踊った。	> Mark danced<FFF6>  seductively.	word 26B
 234	800CBC34	オラオラオラァ！	Ora ora oraaa!	word 12B
-235	800CBC40	うっふーん♥	Uffuun~	word 10B
+235	800CBC40	うっふーん♥	Uffuun~♥	word 10B
 236	800CBC4C	ヘイヘイヘイ！	Hey hey hey!	word 10B
 237	800CBC58	＞マークは悪魔を、<FFF6>　熱く、見つめた。	> Mark stared at the<FFF6>  demon passionately.	word 31B
 238	800CBC78	＞マークは悪魔を、<FFF6>　じっと、見つめた。	> Mark stared at the<FFF6>  demon intently.	word 31B

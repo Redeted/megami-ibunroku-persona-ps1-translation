@@ -19,8 +19,11 @@ Rules (each unit = ONE page of the BTLP text box: 3 lines of 15 cells, VWF, 239 
   * at most 3 lines (2 x <FFF6>), each at most 239 px (tools/vwf_wrap.py widths; inserted names counted at a safe width:
     <FFF3> own demon name 80 px, <FFF0> race / second name 54 px, <FFF9> party member name 72 px, <FFF4> item 100 px,
     <FFF2> card 80 px, <FFF8> number 27 px);
-  * plain ASCII text only (letters, digits, space and ! ? . , ' " - ~ : ; / ( ) & * +), no other symbols.
+  * plain ASCII text only (letters, digits, space and ! ? . , ' " - ~ : ; / ( ) & * +), no other symbols, except the
+    heart of the Japanese text (written as the heart character, original 16 px glyph 0x705): `talktl.py hearts` puts the
+    hearts of the Japanese units back into translation/talk (tools/pspscript.py convert does the same for the PSP text).
 """
+import collections
 import os
 import re
 import sys
@@ -36,7 +39,7 @@ TOKEN = re.compile(r'<[0-9A-F]{4}>')
 WIDTH = {'<FFF3>': 80, '<FFF0>': 54, '<FFF9>': 72, '<FFF4>': 100, '<FFF2>': 80, '<FFF8>': 27}
 FREE = ('<FFF6>', '<FFFC>')
 END = ('<FFF5>', '<FFEF>')
-OKCHARS = set("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !?.,'\"-~:;/()&*+")
+OKCHARS = set("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !?.,'\"-~:;/()&*+" + chr(0x2665))
 
 
 def codes(s, norm=False):
@@ -284,6 +287,122 @@ def qa():
     return bad
 
 
+# ---------------------------------------------------------------- hearts
+HEART = chr(0x2665)
+PAGE = '<FFFB><FFF7>'
+_NB = chr(8)             # a space that must not break (keeps the heart on the line of its sentence)
+_PAR = chr(0)            # stands for the parameter character after <FFFD>
+
+
+def _wrap(text, maxw):
+    lines, cur = [], ''
+    for w in text.split(' '):
+        cand = (cur + ' ' + w) if cur else w
+        if not cur or width(cand.replace(_NB, ' ')) <= maxw:
+            cur = cand
+        else:
+            lines.append(cur)
+            cur = w
+    return lines + [cur] if cur else lines
+
+
+def _fit(en, maxw, maxlines):
+    """re-wrap the pages whose lines no longer fit; None when a page would need more than maxlines lines"""
+    end = next((c for c in END if en.endswith(c)), '')
+    body = en[:len(en) - len(end)]
+    pages = []
+    for pg in body.split(PAGE):
+        lines = pg.split('<FFF6>')
+        if any(width(ln.replace(_NB, ' ')) > maxw for ln in lines):
+            lines = _wrap(re.sub(' +', ' ', ' '.join(lines)), maxw)
+            if len(lines) > maxlines or any(width(ln.replace(_NB, ' ')) > maxw for ln in lines):
+                return None
+        pages.append('<FFF6>'.join(lines))
+    return (PAGE.join(pages) + end).replace(_NB, ' ')
+
+
+def add_hearts(ja, en, maxw=None, maxlines=3):
+    """the hearts of the Japanese unit, back in the English: -> (en, note). note None = nothing to do,
+    'star' = the '*' stand-ins became hearts, 'placed' = inserted at the matching sentence ends, 'nofit' = no room."""
+    maxw = maxw or vwf_wrap.BOX_WIDTH
+    cut = [ja.index(c) + len(c) for c in END if c in ja]
+    if cut:
+        ja = ja[:min(cut)]
+    nh = ja.count(HEART)
+    if not nh or HEART in en or not en.strip():
+        return en, None
+    e = re.sub(r'\*heart\*', HEART, en, flags=re.I)
+    if e.count(HEART) != nh and HEART not in e and e.count('*') == nh and not re.search(r'\*[A-Za-z][^*<]*\*', e):
+        e = e.replace('*', HEART)
+    if e.count(HEART) == nh:
+        e = re.sub(r'(?<=[^ >' + HEART + r'])' + HEART, _NB + HEART, e)
+        for t in (e, e.replace(_NB, '')):
+            f = _fit(t, maxw, maxlines)
+            if f:
+                return f, 'star'
+        return en, 'nofit'
+    e = re.sub(r' ?\*heart\*', '', en, flags=re.I)
+    # runs of hearts in the Japanese and where they stand (fraction of the displayed text)
+    pj = TOKEN.sub('', re.sub(r'<FFFD>.', '', ja))
+    total = max(1, len(pj) - nh)
+    runs, seen = [], 0
+    for m in re.finditer(HEART + '+', pj):
+        runs.append(((m.start() - seen) / total, len(m.group(0))))
+        seen += len(m.group(0))
+    # candidates in the English: the end of a text run before a code (or the end), and sentence ends
+    em = re.sub(r'<FFFD>.', '<FFFD>' + _PAR, e)
+    cands = sorted({m.end() for m in re.finditer(r'[^<>\s' + _PAR + r'](?= *(?:<[0-9A-F]{4}>|$))|[.!?~]+"?(?= )', em)})
+    if not cands:
+        return en, 'nofit'
+    ptot = max(1, len(TOKEN.sub('', em).replace(_PAR, '')))
+    frac = lambda pos: len(TOKEN.sub('', em[:pos]).replace(_PAR, '')) / ptot      # noqa: E731
+    ins, lo = [], 0
+    for f, n in runs:
+        ok = [c for c in cands if c >= lo] or cands[-1:]
+        pos = ok[-1] if f >= 0.999 else min(ok, key=lambda c: abs(frac(c) - f))
+        ins.append((pos, n))
+        lo = pos + 1
+    for sep in (_NB, ''):
+        t = e
+        for pos, n in sorted(ins, reverse=True):
+            # earlier stand-ins for the heart go: "here!~", "*thump**", "so! !"
+            head = re.sub(r'(?<=[.!?*])~$|(?<=\*)\*$|(?<=[.!?]) !$', '', t[:pos])
+            t = head + sep + HEART * n + t[pos:]
+        f = _fit(t, maxw, maxlines)
+        if f:
+            return f, 'placed'
+    return en, 'nofit'
+
+
+def hearts(write):
+    """put the hearts back into translation/talk/*.tsv (and the answers)"""
+    import glob
+    tot = collections.Counter()
+    for p in sorted(glob.glob(os.path.join(TALK, '*.tsv'))):
+        ans = os.path.basename(p) == 'ANSWERS.tsv'
+        lines = open(p, encoding='utf-8').read().split(NL)
+        for i, line in enumerate(lines[1:], 1):
+            c = line.split('	')
+            if len(c) < 3 or not c[0].isdigit():
+                continue
+            en, note = add_hearts(c[1], c[2], ANS_W if ans else None, 1 if ans else 3)
+            if note:
+                tot[note] += 1
+                if note == 'nofit' or '-v' in sys.argv:
+                    print(f'{os.path.basename(p)[:-4]} {c[0]} [{note}]: {c[2]}' + (f'  ->  {en}' if en != c[2] else ''))
+            if en != c[2]:
+                errs = check(c[1], en, False, ANS_W if ans else None, 1 if ans else 3)
+                if errs and errs != check(c[1], c[2], False, ANS_W if ans else None, 1 if ans else 3):
+                    print(f'{os.path.basename(p)[:-4]} {c[0]}: NOT changed, ' + '; '.join(errs))
+                    tot['rejected'] += 1
+                    continue
+                c[2] = en
+                lines[i] = '	'.join(c)
+        if write:
+            open(p, 'w', encoding='utf-8', newline=NL).write(NL.join(lines))
+    print(dict(tot))
+
+
 if __name__ == '__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     a = sys.argv[1:]
@@ -291,6 +410,9 @@ if __name__ == '__main__':
         raise SystemExit(__doc__)
     if a[0] == 'qa':
         sys.exit(1 if qa() else 0)
+    if a[0] == 'hearts':
+        hearts('--write' in a)
+        sys.exit(0)
     if a[0] == 'prep':
         prep(a[1].upper())
         sys.exit(0)

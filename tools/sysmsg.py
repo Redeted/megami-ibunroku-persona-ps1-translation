@@ -34,6 +34,8 @@ DEAD = {3}                           # unreferenced duplicate of message 7: its 
 TSV = os.path.join(ROOT, 'translation', 'strings', 'SYSMSG.tsv')
 OUT = os.path.join(ROOT, 'build', 'sysmsg.asm')
 NL = chr(10)
+# QoL build (tools/build.py --qol sets PERSONA_QOL): GAME END goes back to the title screen (qol/gameend_*.asm)
+QOL = {9: 'Returning to the<FF03>title screen.<FF03>(Press any button)'}
 
 
 def adv():
@@ -138,6 +140,8 @@ def build():
     msgs = messages(d)
     rf = refs(d, msgs)
     en = read_tsv()
+    if os.environ.get('PERSONA_QOL'):
+        en.update(QOL)
     tstatus.load_glossary()
     todo = {}
     inplace = set()

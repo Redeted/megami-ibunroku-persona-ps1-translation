@@ -2,19 +2,19 @@
 
 pack(strings) -> (packed {key: bytes}, pairs [(left, right)])
   strings: {key: bytes} each = English VWF text (88..E6) and control codes (FF xx), ending FF F5 / FF EF.
-  Format: FF xx = code copied as is (the FF F5 / FF EF end stops the unpacker), 88..E6 = a character, 01..87 / E7..FE = pair
-  code k (index into `pairs`, in CODES order); a pair's two bytes may be pair codes again.
+  Format: FF xx = code copied as is (the FF F5 / FF EF end stops the unpacker), 87 xx = two-byte glyph copied as is (the
+  heart 87 05), 88..E6 = a character, 01..86 / E7..FE = pair code k (index into `pairs`, in CODES order); a pair's two bytes may be pair codes again.
 unpack(packed, pairs) mirrors the unpacker (used by the build to verify every string).
 """
 import collections
 
-CODES = list(range(0x01, 0x88)) + list(range(0xE7, 0xFF))
+CODES = list(range(0x01, 0x87)) + list(range(0xE7, 0xFF))   # 0x87 = escape of a two-byte glyph (heart)
 
 
 def _runs(b):
     out, i = [], 0
     while i < len(b):
-        if b[i] == 0xFF:
+        if b[i] in (0xFF, 0x87):
             out.append((False, [b[i], b[i + 1]]))
             i += 2
         else:
@@ -73,6 +73,10 @@ def unpack(b, pairs):
             i += 1
             if b[i - 1] in (0xF5, 0xEF):
                 return bytes(out)
+            continue
+        if c == 0x87:
+            out += [c, b[i]]
+            i += 1
             continue
         st = [c]
         while st:

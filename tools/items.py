@@ -14,7 +14,8 @@ The name field is exactly 10 bytes: a 10-glyph name has NO terminator (byte +10 
 with 0xFF.
 `en` rules: A-Z, 0-9, space, - . ' / :  (lower case is upper-cased). Names longer than 10 characters are CUT to 10
 (user decision 2026-10-06: the full official name stays in the TSV, the screens show the first 10 glyphs).
-Empty `en` = left Japanese. Records 163-381 (equipment) share the layout; their stats follow the name.
+Empty `en` = left Japanese. `full` (5th column, optional) = the full official name in mixed case for the
+proportional name renderer (tools/fullnames.py); empty = `en`. Records 163-381 (equipment) share the layout; their stats follow the name.
 """
 import os
 import struct
@@ -22,6 +23,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import etext  # noqa: E402
+import variant  # noqa: E402  (base build: original item / skill rows)
 
 ROOT = etext.ROOT
 BASE = 0x80010000 - 0x800
@@ -65,22 +67,28 @@ def ja(b):
     return ''.join(etext.glyph.get(x, '<%02X>' % x) for x in b)
 
 
-def read_tsv():
+def read_tsv(col=3):
     rows = {}
     if os.path.exists(TSV):
         for line in open(TSV, encoding='utf-8').read().split(NL)[1:]:
             c = line.rstrip('\r').split('\t')
-            if len(c) >= 4 and c[0].isdigit():
-                rows[int(c[0])] = c[3]
+            if len(c) > col and c[0].isdigit():
+                rows[int(c[0])] = variant.cell('ITEMS', int(c[0]), col, c[col])
     return rows
 
 
+def full_names():
+    """{index: full official name}: the `full` column, else `en` (equipment keeps its full name in `en`)."""
+    en, full = read_tsv(3), read_tsv(4)
+    return {k: (full.get(k) or v).strip() for k, v in en.items() if (full.get(k) or v).strip()}
+
+
 def dump():
-    old = read_tsv()
+    old, full = read_tsv(3), read_tsv(4)
     with open(TSV, 'w', encoding='utf-8', newline=NL) as o:
-        o.write('idx\taddr\tja\ten' + NL)
+        o.write('idx\taddr\tja\ten\tfull' + NL)
         for k, (a, nm) in enumerate(records()):
-            o.write(f'{k}\t{a:08X}\t{ja(nm)}\t{old.get(k, "")}' + NL)
+            o.write(f'{k}\t{a:08X}\t{ja(nm)}\t{old.get(k, "")}\t{full.get(k, "")}' + NL)
     print('wrote', TSV)
 
 

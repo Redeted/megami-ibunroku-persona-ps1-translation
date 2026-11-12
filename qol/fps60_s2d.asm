@@ -5,7 +5,7 @@
 ;; Before the real draw tick, up to three extra draw ticks are made with the camera view, the map
 ;; transform and the two root transforms interpolated at 1/4, 2/4, 3/4 between the previous tick and this
 ;; one (s2dq_sub set). Per-frame side effects (pad read, play clock, frame counter, idle animation and its
-;; rand(), banner angle, upload queue) run on real ticks only. Late subframes are skipped.
+;; rand(), upload queue) run on real ticks only. Late subframes are skipped.
 ;; =============================================================
 .definelabel S2D_VSYNC_FN, 0x80025C98
 .definelabel S2D_PLAY_CLOCK, 0x800978E0          ; play time += a0 ticks
@@ -41,9 +41,9 @@
     j       s2dq_gate_idle
     nop                                         ; was lw v0, 0x5710(v0) (done in the gate)
 
-;; banner angle += 0xF0 per draw: real ticks only
-.org 0x80093E20
-    jal     s2dq_gate_banner                    ; was addiu v0, v0, 0xF0 (delay slot keeps lui at, 0x800C)
+;; NOT gated: 0x80093E20 (addiu v0, v0, 0xF0 on 0x800B9ADC) is the area label's text X, not an angle. With view 0
+;; the label draw moves the text 240 px right into its box and restores the base X (0x800B9AE0) after the draw, so
+;; it must run in every subframe too (gating it drew the text at the old spot on in-between frames, 2026-11-11).
 
 .org S2D_QOL_ADDR
 .area 0x5F4                                     ; up to the end of the last loaded sector
@@ -372,17 +372,6 @@ s2dq_gate_ctr:                                  ; frame counter 0x800B8D60 (v1) 
     bnez    t9, @@ret
     nop
     addiu   v1, v1, 1
-@@ret:
-    jr      ra
-    nop
-
-s2dq_gate_banner:                               ; v0 += 0xF0 on real ticks; at is live
-    lui     t9, hi(s2dq_vars)
-    lbu     t9, lo(s2dq_vars)(t9)
-    nop
-    bnez    t9, @@ret
-    nop
-    addiu   v0, v0, 0xF0
 @@ret:
     jr      ra
     nop

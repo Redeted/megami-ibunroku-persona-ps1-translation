@@ -59,6 +59,8 @@ place names are never used.
   smart quotes, accents, em dashes or Japanese punctuation in English lines.
   - 「」 and 『』 quotes -> `"` (quotation) or `'` inside a quotation
   - … -> `...`, ～/〜 -> `~`, ！？ -> `!?`, ・ -> space or `/` by context
+  - the heart ♥ is the one exception: it is kept (written as `♥`, the original 16 px glyph), after a
+    space at the place where the Japanese has it (`talktl.py hearts` for the negotiation files)
 - **Speaker labels** keep the original format: `マーク：` -> `Mark: `.
 - **Line width**: 240 px per dialogue line. Wrap with
   `python tools/vwf_wrap.py "text"` and verify with `--check`.

@@ -110,7 +110,7 @@ idx	ram	ja	en	note
 108	800485C8	リカームドラ	Recarmdra	official PSP
 109	800485DC	アルファブラスタ	Alpha Blaster	official PSP
 110	800485F0	マッパー	Mappa	official PSP
-111	80048604	トラフーリ	Trafuri	not in the P1 PSP skill table; standard franchise name (P2/P3) - review
+111	80048604	トラフーリ	Estoma	official PSP (PSP skill 243); this unused Trafuri record becomes Estoma (slps_005.00/estoma_skill.asm)
 112	80048618	トラエスト	Traesto	official PSP
 113	8004862C	アウトマ	Outoma	official PSP
 114	80048640	リフトマ	Liftoma	official PSP

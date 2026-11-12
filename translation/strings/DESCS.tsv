@@ -109,8 +109,8 @@ idx	ram	ja	en	note	used_by
 107	80049AE8	味１　『瀕死』状態全回復	1 ally: cure KO, fully restore HP	project (literal; element/status names official PSP)	107,246,325
 108	80049B04	味全　ＨＰ全回復　術者『瀕死』	All allies: full HP, caster KO	project (literal; element/status names official PSP)	108
 109	80049B24	パーティー周辺のマップを表示	Shows a map around the party	project (literal; element/status names official PSP)	110,256
-110	80049B40	トラフーリありません	No Trafuri	project (literal; element/status names official PSP)	111
-111	80049B50	トラエストありません	No Traesto	project (literal; element/status names official PSP)	112
+110	80049B40	トラフーリありません	Avoid battles with weaker demons	project (Estoma, PSP effect; the Japanese is a placeholder)	111
+111	80049B50	トラエストありません	Warp to the dungeon entrance	project (Traesto, PSP effect; the Japanese is a placeholder)	112
 112	80049B5C	敵を追い払う	Drives enemies away	project (literal; element/status names official PSP)	113,258
 113	80049B68	ダメージゾーンのダメージ回避	Avoids damage-zone damage	project (literal; element/status names official PSP)	114,259
 114	80049B84	味１　ペルソナ交代不能回復	1 ally: cure Persona-change lock	project (literal; element/status names official PSP)	115
@@ -266,8 +266,8 @@ idx	ram	ja	en	note	used_by
 264	8004A8EC	究極の力を持つ神々の食物	Food of the gods: ultimate power	project (literal; element/status names official PSP)	349
 265	8004A904	「鏡の破片」が１２個はめられる	Holds 12 Mirror Shards	project (literal; element/status names official PSP)	350
 266	8004A920	これが最後のアップルパイ	This is the last apple pie	project (literal; element/status names official PSP)	351
-267	8004A934	これが最後のアッブルパイ	This is the last abble pie	project (literal; element/status names official PSP)	352
-268	8004A948	これが最後のマッブルパイ	This is the last mabble pie	project (literal; element/status names official PSP)	353
+267	8004A934	これが最後のアッブルパイ	Avoid battles with weaker demons	project (literal; element/status names official PSP)	352
+268	8004A948	これが最後のマッブルパイ	Warp to the dungeon entrance	project (literal; element/status names official PSP)	353
 269	8004A95C	秘密の搬入口に入るためのカード	Card for the secret loading door	project (literal; element/status names official PSP)	354
 270	8004A978	麻希の持っていたコンパクト	The compact Maki carried	project (literal; element/status names official PSP)	355
 271	8004A98C	留置場の扉を開けるための鍵	Key to open the Holding Cell door	project (literal; element/status names official PSP)	356
