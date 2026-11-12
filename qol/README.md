@@ -35,7 +35,9 @@ ticks only. A measured draw cost decides how many extra frames fit, so the game 
   transform (rot 0x800B152C, position recorded at 0x8008B4F4) and second root (0x800B14B4 / 0x800B14BC);
   both roots are rebuilt with S2DQ_BUILD 0x8008DEA0 per subframe and restored exactly afterwards. Gated:
   VSync / clock / frame counter 0x800B8D60 / pad 0x8008E6F4 / upload queue / idle animation + rand()
-  0x8008EE40 / banner angle 0x80093E20. Policy from the measured draw cost: 1 vblank -> 3 subframes (60),
+  0x8008EE40. Not gated: 0x80093E20 (`+= 0xF0` on 0x800B9ADC) is the area label's text X shift into its
+  box, restored after each draw; gating it (earlier build) drew the label at its old spot in every in-between
+  frame after Triangle (fixed 2026-11-11). Policy from the measured draw cost: 1 vblank -> 3 subframes (60),
   2 -> 1 subframe (30), 3+ -> none (15, original).
 - Fixed 2026-10-09 (user report: the world snapped back before each step, also with Up held): at the first
   tick of a step the overworld re-centres the map on the new cell: the root position jumps by the step
@@ -57,6 +59,8 @@ ticks only. A measured draw cost decides how many extra frames fit, so the game 
 
 ### Gameplay tweaks in the QoL build (2026-10-09, user request)
 Only in the QoL disc (`.ifdef QOL60` in main.asm); the translation release keeps the original balance.
+- **Easy disc only** (`tools/build.py --easy`, armips `EASY`; since 2026-11-12 the plain `--qol` disc has neither of the
+  next two items):
 - Half the random encounter rate: `qol/encounters_s2d.asm` (overworld: grace period 16 -> 32 steps, roll
   rand() % 32 -> % 64 against the zone threshold 2 / 4 / 8; mean steps between battles 32 / 24 / 20 ->
   64 / 48 / 40) and `qol/encounters_dng.asm` (3D dungeons: cooldown 7 -> 14 steps, per-step chance 1 / 8,
@@ -75,6 +79,16 @@ Only in the QoL disc (`.ifdef QOL60` in main.asm); the translation release keeps
 - Faster summons and skill effects (2026-10-11, user request: the slow Persona summon animations):
   `qol/battle_speed_btlp.asm`, one instruction. See "Battle frame pacing" below. Measured on a round of five
   Persona skills: 700 logic ticks take 715 instead of 1169 vblanks; the effects draw correctly at 60 fps.
+
+- GAME END returns to the title screen (2026-11-11, user request: "turn off the power" is pointless in an
+  emulator): `qol/gameend_slps.asm` + `qol/gameend_adv.asm` + the QoL message in `tools/sysmsg.py` (`QOL`).
+  The Agastya-tree menu (ADV 0x8009ADA8..) shows message 9 "Turn off the power. (Any button returns to the
+  game)" and waits for a button; the original then sets the menu state 0x800BCB3C = 0xFF (back to the game,
+  `j 0x8009AEB0` at 0x8009AE68). The suspend-save path ends the game by setting the bytes 0x800BC320 and
+  0x800BCB40 to 1 (event overlay leaves with next mode -1 = boot: ATLUS logo, title). The hook at 0x8009AE68
+  jumps to a stub in two unreferenced SLPS functions (0x8001A4A8, free since 2026-10-05) that sets the same
+  two bytes and then continues as before. The message becomes "Returning to the title screen. (Press any
+  button)". Verified live by writing the two bytes at the message and pressing a button.
 
 ### Recommended emulator setting (user-tested 2026-10-09)
 DuckStation: Settings > Console > CPU emulation > enable **Overclock** and set it to **181%** (61.30 MHz).

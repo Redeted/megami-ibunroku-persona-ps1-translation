@@ -107,6 +107,12 @@ DNG_ADDR equ OVERLAY_SLOT_ADDR
 ;; dialogue text interpreter: copy of ADV's (main path at ADV+0xFC2C).
 ;; Statically derived (jal targets consistent with base) - not yet run.
 DNG_GLUE_ADDR equ 0x800A1200           ; extension of DNG.BIN behind the image (dng/vwf_script.asm)
+;; second extension (2026-11-10): the original file is loaded up to 0x800A1BC4 (FSIZE.DAT, whole sectors); the QoL
+;; build owns 0x800A1600..0x800A1BC0, so Emergency Exit / Clean Salt live in one more sector behind it (the disc
+;; builder relocates the grown file and updates FSIZE.DAT). In the dungeon this RAM only holds stale BTLP code
+;; (checked on user slot 4); nothing in DNG / SLPS addresses it.
+DNG_EXT2_ADDR equ 0x800A1BC4
+DNG_EXT2_END equ 0x800A23C4
 DNG_TEXT_STATE equ 0x800E1E4C
 DNG_CELL_ACTIVATE equ 0x80077534
 DNG_UPLOAD_COUNT equ 0x800A072C

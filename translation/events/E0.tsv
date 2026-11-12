@@ -649,7 +649,7 @@ entry	box	ja	en
 48	1	南条：…<FF05>た　…<FF05>た　そうだな<FF05>み　<FF03><FF0F>あ　稲葉は<FF03>留置場に　捕われているはずだ<FF02><FF03>しかし　鍵がないと<FF03>留置場には　入れんな<FF03>さて　どうするか…<FF02><FF01>	Nanjo: ...<FF05><10><00> ...<FF05><10><00> That is so.<FF05><20><00> <FF0F>あ, Inaba<FF03>should be held captive in the<FF03>holding cell.<FF02><FF04>Nanjo: However, without the key we<FF03>cannot enter the holding cell. Now,<FF03>what to do...<FF02>
 48	2	麻希：どこかに置いてあるかも<FF03>しれないよ<FF03>探してみよう<FF02><FF01>	Maki: Maybe it's been left<FF03>somewhere. Let's try looking.<FF02>
 48	3	南条：それもそうだな<FF03><FF0F>あ<FF03>貴様も一緒に探してくれ<FF02><FF01>	Nanjo: That is true. <FF0F>あ, you<FF03>search together with us as well.<FF02>
-48	4	「留置場の鍵」を　見つけた…<FF02><FF04>「留置場の鍵」を　手に入れた<FF02><FF01>	Found the "Holding Cell Key"...<FF02><FF04>Obtained the "Holding Cell Key".<FF02>
+48	4	「留置場の鍵」を　見つけた…<FF02><FF04>「留置場の鍵」を　手に入れた<FF02><FF01>	Found the "Prison Key"...<FF02><FF04>Obtained the "Prison Key".<FF02>
 48	5	もう　役に立ちそうな鍵は<FF03>入っていないようだ…<FF02><FF01>	There don't seem to be any more<FF03>useful keys inside...<FF02>
 48	6	南条：よし　これで　留置場の<FF03>扉が　開けられるはずだ！<FF02><FF01>	Nanjo: Good. With this, we should be<FF03>able to open the door of the<FF03>holding cell!<FF02>
 48	7	南条：稲葉は留置場にいるはずだ<FF02>別に　助けたいわけではないが<FF03>「セキュリティカード」は<FF03>奴が持っているのでな<FF02><FF01>	Nanjo: Inaba should be in the<FF03>holding cell.<FF02><FF04>Nanjo: It is not that I particularly<FF03>want to save him, but that guy has<FF03>the "security card".<FF02>
@@ -685,7 +685,7 @@ entry	box	ja	en
 49	22	マーク：ひでぇ臭いがする…<FF05>な　<FF03>まさか…！！<FF02><FF01>	Mark: There's a nasty stink...<FF05><15><00> Don't<FF03>tell me...!!<FF02>
 49	23	悪魔警官：死刑　死刑<FF03>しけい　しけい　しけい<FF03>しけぇ　えへへへへぇ！<FF02><FF01>	Demon Officer: Death penalty,<FF03>death penalty! Death penalty,<FF03>death penalty, death penalty!<FF02><FF04>Demon Officer: Death penaaalty,<FF03>ehehehehe!<FF02>
 49	24	悪魔警部：そうだぁ！<FF03>ヤローども　コイツらを<FF03>やっちまえぇ！<FF02><FF01>	Demon Inspector: That's right! You<FF03>guys, get 'em!<FF02>
-49	25	「留置場の鍵」を　使った…<FF02><FF01>	Used the "Holding Cell Key"...<FF02>
+49	25	「留置場の鍵」を　使った…<FF02><FF01>	Used the "Prison Key"...<FF02>
 50	0	ブラウン：ちょっ　なっ　何だよ今のっ！　な　何で　おれ様が…あれ　何だよ？！<FF02><FF01>	Brown: Wha- Wha- What was that<FF03>just now!? W-Why is the great me...<FF03>Wait, what is that?!<FF02>
 50	1	南条：上杉　貴様もか…<FF05>ゆ　<FF03>しかし　よりによって<FF03>何故こんな奴にまで…<FF02><FF01>	Nanjo: Uesugi, you too...<FF05><25><00> However,<FF03>out of everyone, why someone like<FF03>this guy too...<FF02>
 50	2	マーク：じゃあ　説明して<FF03>やっからよ<FF03>いいか　よく聞けよ…<FF02><FF01>	Mark: Then, I'll explain it to you.<FF03>Got it? Listen well...<FF02>
@@ -1388,7 +1388,7 @@ entry	box	ja	en
 96	25	エリー：内藤君は　何故<FF03>香西さんを　嫌いにならないの？<FF02><FF04>相手の汚い所を見たら　幻滅して嫌いになって　当然でしょう？<FF02><FF04>自分の全てを　さらけ出しても<FF03>それでもまだ　好きでいてくれるなんて　信じられませんわ<FF02><FF04>そんな人　いるのかしら<FF05>ぎ　<FF03>私にも…<FF02><FF01>	Elly: Why does Naito-kun not come<FF03>to hate Kozai-san?<FF02><FF04>Elly: Seeing the other person's<FF03>ugly side, it is natural to be<FF03>disillusioned and come to hate<FF02><FF04>Elly: them, is it not?<FF02><FF04>Elly: I cannot believe someone<FF03>would still care for you even<FF03>after you bare everything about<FF02><FF04>Elly: yourself.<FF02><FF04>Elly: Is there such a person...<FF05><30><00> for<FF03>me too...<FF02>
 96	26	ブラウン：「クイーン」つーとさ絶世の美女だと　思わん？<FF03>な？　な？　期待しちゃうぜ★<FF02><FF01>	Brown: A "Queen" must be a<FF03>drop-dead beauty, don't ya think?<FF03>Right? Right? I'm gettin' my hopes<FF02><FF04>Brown: up! *<FF02>
 96	27	ブラウン：香西ってさぁー…<FF05>み　<FF03>あんなヤツだったのかぁー…<FF05>み　<FF03>おれ様　なんかガッカリ…<FF02><FF01>	Brown: So Kozai was...<FF05><20><00> that kind of<FF03>person...<FF05><20><00> I'm kinda disappointed...<FF02>
-96	28	ブラウン：男と女の関係って…<FF05>み　<FF03>奧が深いのね♥<FF02><FF01>	Brown: The relationship between<FF03>men and women...<FF05><20><00> runs deep, huh! *<FF02>
+96	28	ブラウン：男と女の関係って…<FF05>み　<FF03>奧が深いのね♥<FF02><FF01>	Brown: The relationship between<FF03>men and women...<FF05><20><00> runs deep, huh! ♥<FF02>
 96	29	アヤセ：アヤセ　ここヤダなぁ<FF03>アヤセのパワーが　吸い取られていくような　気がするもん<FF02><FF01>	Ayase: Ayase hates it here. It<FF03>feels like Ayase's power is being<FF03>sucked away.<FF02>
 96	30	アヤセ：香西…　って<FF03>大胆なこと　するじゃん！<FF02><FF01>	Ayase: Kozai... that was bold of her!<FF02>
 96	31	アヤセ：アヤセも…<FF05>み　<FF03>アヤセも　あの鏡欲しい～！<FF03>アヤセも　ハーレム作るぅ～！<FF02><FF01>	Ayase: Ayase wants... <FF05><20><00> that mirror<FF03>too~!<FF02><FF04>Ayase: Ayase's gonna make a harem<FF03>too~!<FF02>
@@ -1510,10 +1510,10 @@ entry	box	ja	en
 100	33	クイーン：<FF0F>あ君<FF02><FF03>あなたなら　分かってくれると<FF03>思ってたけど<FF03>あたしの　見込み違いだったのね<FF02><FF04>この屈辱は　１０倍にして返すわ<FF05>ぎ　みんなと仲良く　石になりなっ！<FF02><FF01>	Queen: <FF0F>あ-kun.<FF02><FF04>Queen: I thought you of all people<FF03>would understand, but I was wrong<FF03>about you.<FF02><FF04>Queen: I'll repay this humiliation<FF03>tenfold.<FF05><30><00> Turn to stone with<FF03>everyone else!<FF02>
 100	34	あき：やだぁ　まだやってるの？<FF02>ねえ　クイーン<FF03>こいつらたおしたら　元のかおにもどしたげるよ！<FF02><FF01>	Aki: Eeew, you're still at it?<FF02><FF04>Aki: Hey, Queen, if you beat these<FF03>guys, Aki will give you your old<FF03>face back!<FF02>
 100	35	クイーン：天使様が　こう<FF03>おっしゃってるから　予定変更よ<FF02><FF04>この手で　あんたたちを<FF03>倒してやる！<FF02><FF01>	Queen: Since the Angel says so,<FF03>plans have changed.<FF02><FF04>Queen: I'll defeat you with my own<FF03>hands!<FF02>
-100	36	内藤：…<FF05>ぎ　バカだなぁ　千里♥<FF03>俺のこと　もっと信用してくれよ<FF02><FF01>	Naito: ...<FF05><30><00> You silly girl, Chisato. *<FF03>Trust me more.<FF02>
+100	36	内藤：…<FF05>ぎ　バカだなぁ　千里♥<FF03>俺のこと　もっと信用してくれよ<FF02><FF01>	Naito: ...<FF05><30><00> You silly girl, Chisato. ♥<FF03>Trust me more.<FF02>
 100	37	香西：だって　陽介<FF03>あたし　不安だったんだもん<FF02><FF04>陽介に嫌われちゃったら<FF03>どうしようと思ってたの<FF02><FF01>	Kozai: But, Yosuke, I was anxious.<FF02><FF04>Kozai: I kept thinking, what if<FF03>Yosuke came to hate me?<FF02>
-100	38	内藤：ははっ　こいつぅ！<FF03>俺が　千里のことを<FF03>嫌いになるわけないだろう？<FF02><FF04>そんな　悲しそうな顔しないで<FF03>笑ってくれよ<FF05>ぎ　　な　ちいちゃん♥<FF02><FF01>	Naito: Haha, you! There's no way I'd<FF03>come to hate Chisato, right?<FF02><FF04>Naito: Don't make such a sad face.<FF03>Smile for me<FF05><30><00> okay, Chii-chan? *<FF02>
-100	39	マーク：<FF05>ぎ　ちいちゃん♥<FF05>ぎ　　ってよ…<FF05>ぎ　オレら　邪魔みてぇだぞ<FF03>帰ろうぜ　<FF0F>あ…<FF02><FF01>	Mark: <FF05><30><00> Chii-chan? *<FF05><30><00> Geez...<FF05><30><00> Looks<FF03>like we're in the way. Let's go home,<FF03><FF0F>あ...<FF02>
+100	38	内藤：ははっ　こいつぅ！<FF03>俺が　千里のことを<FF03>嫌いになるわけないだろう？<FF02><FF04>そんな　悲しそうな顔しないで<FF03>笑ってくれよ<FF05>ぎ　　な　ちいちゃん♥<FF02><FF01>	Naito: Haha, you! There's no way I'd<FF03>come to hate Chisato, right?<FF02><FF04>Naito: Don't make such a sad face.<FF03>Smile for me<FF05><30><00> okay, Chii-chan? ♥<FF02>
+100	39	マーク：<FF05>ぎ　ちいちゃん♥<FF05>ぎ　　ってよ…<FF05>ぎ　オレら　邪魔みてぇだぞ<FF03>帰ろうぜ　<FF0F>あ…<FF02><FF01>	Mark: <FF05><30><00> Chii-chan? ♥<FF05><30><00> Geez...<FF05><30><00> Looks<FF03>like we're in the way. Let's go home,<FF03><FF0F>あ...<FF02>
 101	0	麻希：千里も　悩んでたんだね<FF03>わたし　なんだかすっきりしたよ<FF02><FF01>	Maki: Chisato was troubled too. I<FF03>feel kind of refreshed.<FF02>
 101	1	南条：大事な時に　石化して<FF03>いたとは　一生の不覚！<FF02><FF01>	Nanjo: To be petrified at a crucial<FF03>moment is the shame of a lifetime!<FF02>
 101	2	南条：元のさやに　収まったか<FF03>まあ　本人たちがいいなら<FF03>それでよかろう<FF02><FF01>	Nanjo: They are back together,<FF03>then. Well, if they are happy with<FF03>it, that is fine.<FF02>
@@ -1736,7 +1736,7 @@ entry	box	ja	en
 118	73	アヤセ：あ～あ<FF03>欲しいものいっぱいあるのにぃ！<FF0F>あが買ってよ　ね？<FF02><FF01>	Ayase: Aww, Ayase wants so many<FF03>things! <FF0F>あ, buy them for me,<FF03>okay?<FF02>
 118	74	まい：コンパクト<FF03>かんどりにとられないように<FF03>してくださいです<FF02><FF01>	Mai: Please don't let Kandori take<FF03>the compact.<FF02>
 118	75	鍵がかかっている<FF02><FF01>	It's locked.<FF02>
-118	76	「半分のコンパクト」を入手した<FF02><FF01>	Obtained the "Half Compact"!<FF02>
+118	76	「半分のコンパクト」を入手した<FF02><FF01>	Obtained the "Compact Half"!<FF02>
 119	0	まい：あー！！<FF03>クマさんがぁ！<FF03>クマさんがしんじゃったですぅ<FF02><FF04>ふぇぇぇぇぇぇぇん！<FF03>だれも　まいちゃんにやさしく<FF03>してくれないですぅ！<FF02><FF03>もっとやさしくしてよぉ<FF02><FF01>	Mai: Aah!! Mr. Bear! Mr. Bear died!<FF02><FF04>Mai: Waaaaaah! Nobody is nice to<FF03>Mai-chan!<FF02><FF04>Mai: Be nicer to me!<FF02>
 119	1	麻希：消えちゃった…<FF03>なんか…　悪いことしたみたい…<FF02><FF01>	Maki: She's gone... It feels like we<FF03>did something bad...<FF02>
 119	2	南条：まったく…<FF03>稲葉が　変に脅かすからだ！<FF03>貴重な情報源を無くしたぞ<FF02><FF01>	Nanjo: Honestly... It is because<FF03>Inaba frightened her so<FF03>strangely! We have lost a valuable<FF02><FF04>Nanjo: source of information.<FF02>
@@ -1761,7 +1761,7 @@ entry	box	ja	en
 119	21	ブラウン：か～　おしいよなぁ<FF03>願いはいっぱいあんのにさぁ<FF02><FF01>	Brown: Aww, what a shame! I've got<FF03>so many wishes!<FF02>
 119	22	アヤセ：あ～あ<FF03>欲しいものいっぱいあるのにぃ！<FF0F>あが買ってよ　ね？<FF02><FF01>	Ayase: Aww, Ayase wants so many<FF03>things! <FF0F>あ, buy them for me,<FF03>okay?<FF02>
 119	23	鍵がかかっている<FF02><FF01>	It's locked.<FF02>
-119	24	「半分のコンパクト」を入手した<FF02><FF01>	Obtained the "Half Compact"!<FF02>
+119	24	「半分のコンパクト」を入手した<FF02><FF01>	Obtained the "Compact Half"!<FF02>
 123	0	アガスティアの木：若者よ…<FF03>よく　我の元へ　来てくれたな<FF02><FF01>	Agastya Tree: Young one... It is<FF03>good that you have come to me.<FF02>
 123	1	アガスティアの木：<FF03>汝の記録を　我に刻むのか？<FF02><FF03><FF0E>　<FF01>	Agastya Tree:<FF03>Will you engrave<FF03>your record into me?<FF02><FF03><FF0E>　<FF01>
 123	2	アガスティアの木：若者よ…<FF03>くれぐれも　気を付けて<FF03>行くがよい<FF02><FF01>	Agastya Tree: Young one... Go forth<FF03>with the utmost care.<FF02>
@@ -1777,7 +1777,7 @@ entry	box	ja	en
 127	0	アガスティアの木：若者よ…<FF03>よく　我の元へ　来てくれたな<FF02><FF01>	Agastya Tree: Young one... It is<FF03>good that you have come to me.<FF02>
 127	1	アガスティアの木：<FF03>汝の記録を　我に刻むのか？<FF02><FF03><FF0E>　<FF01>	Agastya Tree:<FF03>Will you engrave<FF03>your record into me?<FF02><FF03><FF0E>　<FF01>
 127	2	アガスティアの木：若者よ…<FF03>くれぐれも　気を付けて<FF03>行くがよい<FF02><FF01>	Agastya Tree: Young one... Go forth<FF03>with the utmost care.<FF02>
-128	0	マーク：おし　<FF0F>あ<FF03>「半分のコンパクト」ってーのを台にはめてみようぜ<FF02><FF01>	Mark: Alright, <FF0F>あ, let's put<FF03>that "Half Compact" into the<FF03>pedestal.<FF02>
+128	0	マーク：おし　<FF0F>あ<FF03>「半分のコンパクト」ってーのを台にはめてみようぜ<FF02><FF01>	Mark: Alright, <FF0F>あ, let's put<FF03>that "Compact Half" into the<FF03>pedestal.<FF02>
 128	1	南条：…<FF05>で　待て　<FF0F>あ<FF02><FF01>	Nanjo: ...<FF05><3C><00> Wait, <FF0F>あ.<FF02>
 128	2	麻希：どうして？　南条君<FF02><FF01>	Maki: Why, Nanjo-kun?<FF02>
 128	3	南条：…<FF05>で　いや　何でもない<FF03>続けろ<FF02><FF01>	Nanjo: ...<FF05><3C><00> No, it is nothing. Continue.<FF02>
@@ -1798,7 +1798,7 @@ entry	box	ja	en
 128	18	ブラウン：きったねー！<FF03>こんなんありかよ！<FF03>なんかおれ様　すんげー頭きた！<FF02><FF01>	Brown: That's dirty! Is this<FF03>allowed?!<FF02><FF04>Brown: I'm really pissed off now!<FF02>
 128	19	アヤセ：<FF0F>あー<FF03>早くしなよぉ<FF02><FF01>	Ayase: <FF0F>あ~, hurry up~!<FF02>
 128	20	アヤセ：ズッルー！<FF03>人を利用するなんて　超サイテー<FF02>そういうヤツって<FF03>１番ムカつくよねー！！<FF02><FF01>	Ayase: So sneaky! Using people like<FF03>that is the worst!<FF02><FF04>Ayase: Guys like that are the most<FF03>annoying!!<FF02>
-128	21	半分のコンパクトをはめますか？<FF0E>　<FF01>	Place the Half Compact?<FF03><FF0E>　<FF01>
+128	21	半分のコンパクトをはめますか？<FF0E>　<FF01>	Place the Compact Half?<FF03><FF0E>　<FF01>
 128	22	マーク：ど　どういうこった？<FF02><FF01>	Mark: W-What's going on?<FF02>
 128	23	南条：神取め<FF03>笑いが止まらんだろうな<FF02><FF01>	Nanjo: Kandori must be unable to<FF03>stop laughing.<FF02>
 128	24	麻希：どういうこと！？<FF02><FF01>	Maki: What does this mean!?<FF02>

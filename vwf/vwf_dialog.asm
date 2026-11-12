@@ -144,6 +144,9 @@ vwf_dialog_emit:
     addu    a0, a0, t1                  ; 16 rows x 2 bytes
     li      s3, 16
     li      a1, 1
+    addiu   s2, s2, 15                  ; original glyphs start on a cell boundary: a colour code (FF06 xx, the
+    srl     s2, s2, 4                   ; pink heart) recolours whole 16 px cells, and the heart used to share
+    sll     s2, s2, 4                   ; the cell of the English character before it (half a "." in pink)
 
 @@fit:
     beqz    s2, @@draw                  ; a glyph always fits at the line start

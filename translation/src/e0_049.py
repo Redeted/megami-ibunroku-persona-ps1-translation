@@ -47,7 +47,7 @@ BOXES = {
     22: ["Mark: There's a nasty stink..." + P('な') + " Don't tell me...!!"],
     23: ["Demon Officer: Death penalty, death penalty! Death penalty, death penalty, death penalty! Death penaaalty, ehehehehe!"],
     24: ["Demon Inspector: That's right! You guys, get 'em!"],
-    25: ["Used the \"Holding Cell Key\"..."],
+    25: ["Used the \"Prison Key\"..."],
 }
 REVIEW = {
     9: "人まちがい: read as Brown mistaking them for other people (Nanjo's guess)",

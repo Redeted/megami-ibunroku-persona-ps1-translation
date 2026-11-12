@@ -53,8 +53,8 @@ unit	ja	en
 51	うるせえっ！<FFFC><FFF6>それ以上、何か言ったら、<FFF6>叩きつぶすぞ、コラァ！<FFFD>ね<FFF5>	Shut up!<FFFC><FFF6>Say one more word and<FFF6>I'll smash you, hey!<FFFD>ね<FFF5>
 52	おいおいおいおい、<FFF6>冗談も、いい加減に…<FFFC><FFF6>やべえ、目がマジだよ…<FFF5>	Hey hey hey hey,<FFF6>quit joking already...<FFFC><FFF6>Uh-oh, his eyes are serious...<FFF5>
 53	お、俺は男だ～ぜ…<FFFC><FFF6>なんなら証拠、見せてやろうか？あ、<FFFC>いや待った、やっぱダメ！<FFFD>の<FFF5>	I-I'm a guy, you know...<FFFC><FFF6>Want me to prove it? Oh,<FFFC><FFF6>wait, no, never mind!<FFFD>の<FFF5>
-54	てめぇ…<FFFC>結構、可愛いじゃん。<FFFC><FFF6>分かったよ、じゃあ、後でな…<FFFC><FFF6>ポッ♥<FFF5>	You...<FFFC>are kinda cute.<FFFC><FFF6>Fine, then, later...<FFFC><FFF6>*Blush*<FFF5>
-55	オッケーよ♥<FFFD>は<FFF5>	Okay by me!<FFFD>は<FFF5>
+54	てめぇ…<FFFC>結構、可愛いじゃん。<FFFC><FFF6>分かったよ、じゃあ、後でな…<FFFC><FFF6>ポッ♥<FFF5>	You...<FFFC>are kinda cute.<FFFC><FFF6>Fine, then, later...<FFFC><FFF6>*Blush* ♥<FFF5>
+55	オッケーよ♥<FFFD>は<FFF5>	Okay by me! ♥<FFFD>は<FFF5>
 56	ネオハイブリッドなギャグ！<FFF6>面白えヤツだな、てめぇはよ！<FFF5>	Neo-hybrid gag!<FFF6>You're a funny one, you!<FFF5>
 57	何だ、若手のお笑いかよ。<FFFC><FFF6>で、生活はどうだい？<FFF6>美味い物、食ってるか？<FFFD>ひ<FFF5>	What, a young comedian?<FFFC><FFF6>So how's life? Eating<FFF6>anything tasty?<FFFD>ひ<FFF5>
 58	………<FFFC><FFF6>なんだってんだ～！<FFF5>	......<FFFC><FFF6>What the heck!<FFF5>
@@ -79,7 +79,7 @@ unit	ja	en
 77	イッカッすー！<FFFC><FFF6>もちろん、そいつは、<FFF6>た～だで、俺にくれるんだろ？<FFFD>ゆ<FFF5>	Yeah, sure!<FFFC><FFF6>Of course you'll give that<FFF6>to me for free, right?<FFFD>ゆ<FFF5>
 78	てんめぇは、そうやって、<FFF6>悪魔をだましてやがんのか！<FFF6>ここは俺様の縄張りだ～ぜ～！<FFF5>	So that's how you trick<FFF6>demons, huh!<FFF6>This is my turf, see~!<FFF5>
 79	そんなん、高貴な俺様には、<FFF6>安っぽすぎるぜー！<FFFC><FFF6>もっといいの、持ってんだろ？<FFFD>よ<FFF5>	Too cheap for a noble guy<FFF6>like me!<FFFC><FFF6>You got better, right?<FFFD>よ<FFF5>
-80	それ、まさか俺に、<FFF6>くれやがるとか言うんじゃ、<FFF6>ねーだろうな、<FFFC>おい♥<FFF5>	You ain't gonna say you'll<FFF6>give that to me, are you,<FFF6>hey?<FFFC> *heart*<FFF5>
+80	それ、まさか俺に、<FFF6>くれやがるとか言うんじゃ、<FFF6>ねーだろうな、<FFFC>おい♥<FFF5>	You ain't gonna say you'll<FFF6>give that to me, are you,<FFF6>hey?<FFFC> ♥<FFF5>
 81	いいとこあるじゃねえか。<FFFC><FFF6>俺の、舎弟にしてやっても、<FFF6>いいんだ～ぜ～！<FFFD>ら<FFF5>	You're all right.<FFFC><FFF6>I might even make you my<FFF6>underling, see~!<FFFD>ら<FFF5>
 82	てめぇら、インテリの話は、<FFF6>俺にゃ、よく分かんねえけど、<FFF6>なんか面白そうだな。<FFF5>	You guys talk like eggheads,<FFF6>I don't get it much, but<FFF6>sounds kinda fun.<FFF5>
 83	てめぇの話、聞いてると、<FFF6>高校生には思えねーなぁ…<FFFC><FFF6>サバ、読んでんじゃねーか？<FFFD>り<FFF5>	Hearing you talk, you don't<FFF6>sound like a high schooler...<FFFC><FFF6>Lying about your age?<FFFD>り<FFF5>
@@ -436,7 +436,7 @@ unit	ja	en
 434	おいおいおいおい、<FFF6>そりゃそうだよ、ネーチャン。<FFF6>わかりやすく言うとだな…<FFFB><FFF7>アリん子みたいなのが、<FFF6>悪魔だぞー、とか言ったって、<FFF6>踏みつぶすだろ？　プチッて。<FFF5>	Hey hey hey hey,<FFF6>of course, girlie.<FFF6>To put it simply...<FFFB><FFF7>if an ant said I'm a demon,<FFF6>you'd just stomp it, right?<FFF6>Squish!<FFF5>
 435	うおおーっ！<FFF6>ちっとも、良くねえよおおーっ！<FFF5>	Uooo!<FFF6>It's not good at all!<FFF5>
 436	ほ、本当につぶしていいのか…<FFFC><FFF6>いや…俺はやっぱイヤだ…<FFFC><FFF6>モロッコで、やってもらえよ…<FFF5>	R-really okay to crush it...<FFFC><FFF6>No... I don't like it...<FFFC><FFF6>Have it done in Morocco...<FFF5>
-437	…えっ？<FFFC>　何をかって…？<FFFC><FFF6>キャー！<FFFC><FFF6>そんなこと言えな～い♥<FFF5>	...Huh?<FFFC> Do what...?<FFFC><FFF6>Kyaa!<FFFC><FFF6>I can't say that~ *heart*<FFF5>
+437	…えっ？<FFFC>　何をかって…？<FFFC><FFF6>キャー！<FFFC><FFF6>そんなこと言えな～い♥<FFF5>	...Huh?<FFFC> Do what...?<FFFC><FFF6>Kyaa!<FFFC><FFF6>I can't say that~ ♥<FFF5>
 438	うわあ、やめろおお！<FFF6>俺に、近づくなああ！<FFF5>	Waaah, stop it!<FFF6>Stay away from me!<FFF5>
 439	なンだよ！！<FFF6>脅かすんじゃねえよ！<FFF6>てめぇ、むかつくんだよ！！<FFF5>	What the heck!!<FFF6>Don't scare me!<FFF6>You piss me off!!<FFF5>
 440	脅かすなよなあ…<FFFC><FFF6>マジでビビったぜ。<FFF5>	Don't scare me...<FFFC><FFF6>I was really spooked.<FFF5>
@@ -523,7 +523,7 @@ unit	ja	en
 521	あほらしいとは、なんだあぁ！<FFF6>俺には、大事な問題なんだ！<FFFC><FFF6>てめぇにゃ、分からねえよ！<FFF5>	What do you mean, silly?!<FFF6>It's a big deal to me!<FFFC><FFF6>You wouldn't get it!<FFF5>
 522	それは、はったりだろ？<FFFC><FFF6>ばれちゃあ、面白くないわなぁ。<FFF5>	That's a bluff, right?<FFFC><FFF6>Getting found out isn't fun.<FFF5>
 523	何だよ、何がいるんだよお！<FFFC><FFF6>頼む、教えてくれえええ！<FFF5>	What? What is there?<FFFC><FFF6>Please, tell meee!<FFF5>
-524	…<FFFC>あたし？<FFFC><FFF6>ポッ♥<FFF5>	...<FFFC>Me?<FFFC><FFF6>*Blush*<FFF5>
+524	…<FFFC>あたし？<FFFC><FFF6>ポッ♥<FFF5>	...<FFFC>Me?<FFFC><FFF6>*Blush* ♥<FFF5>
 525	うおっ！<FFFC><FFF6>完璧な俺に欠点があるなら、<FFF6>ぜひ、教えてくれえ！！<FFF5>	Whoa!<FFFC><FFF6>If the perfect me has a flaw,<FFF6>please tell me!!<FFF5>
 526	そんなに、キッパリと…<FFF6>言われてもなあ…<FFF5>	Saying it so flatly...<FFF6>Well, hmm...<FFF5>
 527	本当はあるんだろ！　<FFFC>俺のこと<FFF6>下っ端悪魔とか、迫力がないとか経験値が少ないとかよう！<FFF5>	You've got some, right!<FFFC>Like I'm a<FFF6>low-level demon, no presence,<FFF6>little experience!<FFF5>
@@ -604,7 +604,7 @@ unit	ja	en
 602	ちっとも、良くねえんだよ！<FFF6>てめぇみてえな、悪女は、<FFF6>俺が成敗してやらあ！！<FFF5>	It's not good at all!<FFF6>A bad woman like you,<FFF6>I'll punish!!<FFF5>
 603	そう、良くねえんだ！<FFF6>分かったな？　<FFFC>分かったら、<FFF6>もうこんなことしちゃダメだ。<FFF5>	Right, it's not good!<FFF6>Got it?<FFFC>If you get it,<FFF6>don't do this again.<FFF5>
 604	そう、良くねえんだ…<FFF6>分かってんのに…<FFFC><FFF6>てめぇは、なんで………<FFF5>	Right, it's not good...<FFF6>Even though you know...<FFFC><FFF6>Why do you...<FFF5>
-605	はう…♥<FFF5>	Haa...*heart*<FFF5>
+605	はう…♥<FFF5>	Haa... ♥<FFF5>
 606	やめるなああ！<FFF6>途中でやめやがって、<FFF6>ちくしょう…<FFFC>許さねえ！<FFF5>	Don't stop!<FFF6>Quitting halfway,<FFF6>damn it...<FFFC>I won't forgive you!<FFF5>
 607	あっそう…<FFFC><FFF6>おめえが、やめるんなら、<FFF6>俺も、喜ぶのやーめた！<FFF5>	Oh, really...<FFFC><FFF6>If you're stopping,<FFF6>I quit being happy too!<FFF5>
 608	俺の質問に、答えねぇたあ、<FFF6>いい度胸だなァ！　<FFFC>いつから<FFF6>そんなに、偉くなったんだあ？<FFF5>	Not answering my question,<FFF6>you got guts!<FFFC>Since when<FFF6>did you get so important?<FFF5>
@@ -619,7 +619,7 @@ unit	ja	en
 617	ちっとも、良くねえんだよ！<FFF6>てめぇみてえな、悪女は、<FFF6>俺が成敗してやらあ！！<FFF5>	It's not good at all!<FFF6>A bad woman like you,<FFF6>I'll punish!!<FFF5>
 618	そう、良くねえんだ！<FFF6>分かったな？　<FFFC>分かったら、<FFF6>もうこんなことしちゃダメだ。<FFF5>	Right, it's not good!<FFF6>Got it?<FFFC>If you get it,<FFF6>don't do this again.<FFF5>
 619	そう、良くねえんだ…<FFF6>分かってんのに…<FFFC><FFF6>てめぇは、なんで………<FFF5>	Right, it's not good...<FFF6>Even though you know...<FFFC><FFF6>Why do you...<FFF5>
-620	はう…♥<FFF5>	Haa...*heart*<FFF5>
+620	はう…♥<FFF5>	Haa... ♥<FFF5>
 621	やめるなああ！<FFF6>途中でやめやがって、<FFF6>ちくしょう…<FFFC>許さねえ！<FFF5>	Don't stop!<FFF6>Quitting halfway,<FFF6>damn it...<FFFC>I won't forgive you!<FFF5>
 622	あっそう…<FFFC><FFF6>おめえが、やめるんなら、<FFF6>俺も、喜ぶのやーめた！<FFF5>	Oh, really...<FFFC><FFF6>If you're stopping,<FFF6>I quit being happy too!<FFF5>
 623	あっそう…<FFFC><FFF6>じゃあ、恐怖ってやつを、<FFF6>俺が教えてやろうかな！！<FFF5>	Oh, really...<FFFC><FFF6>Then maybe I'll teach<FFF6>you what fear is!!<FFF5>

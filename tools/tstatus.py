@@ -97,6 +97,9 @@ def load_glossary():
             GLOSS[f[0]] = (f[1], f[2])
 
 
+HEART = bytes((0x87, 0x05))          # original glyph 0x705, drawn by the dialogue VWF at 16 px
+
+
 def speaker(ja):
     m = re.match(r'(?:<FF0[0-9A-F]>(?:<[0-9A-F]{2}>)?)*([^：<]{1,12})：', ja)
     return m.group(1) if m else None
@@ -126,7 +129,7 @@ def check(ja, en):
     if '<FF0E>' in en and not re.search(r'(?:^|<FF03>|<FF04>)<FF0E>', en):
         # a full 15-glyph Japanese question ends its line; English must break before the options itself
         errs.append(('choice', 'put <FF03> before <FF0E> (options would start mid-line)'))
-    bad = [c for c in text_only(be) if not (0x88 <= c <= 0xE6)]
+    bad = [c for c in text_only(be).replace(HEART, b'') if not (0x88 <= c <= 0xE6)]      # the heart glyph is allowed
     if bad:
         errs.append(('charset', f'non-ASCII bytes in text: {bytes(bad[:6]).hex()}'))
     sp = speaker(ja)

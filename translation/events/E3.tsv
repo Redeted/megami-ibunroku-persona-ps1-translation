@@ -63,8 +63,8 @@ entry	box	ja	en
 3	12	ブラウン：でっひゃ～～！<FF03>さらにスゴくなってない？<FF02><FF01>	Brown: Dehyaaa! Isn't it even more<FF03>amazing now?<FF02>
 3	13	エリー：Ｄｅｍｏｎの世界から<FF03>来た　死の商人らしいですわ<FF03>あの子<FF02><FF01>	Elly: That child seems to be a<FF03>merchant of death from the Demon<FF03>world.<FF02>
 3	14	エリー：私達と女王<FF03>どちらが勝利しても<FF03>あの子には関係ないのですかね？<FF02><FF01>	Elly: Whichever of us or the Queen<FF03>wins, does it not matter to that<FF03>child?<FF02>
-4	0	女子生徒：キャー　見て見てー<FF03>このワンピ　カワイー<FF06>う♥<FF06>　<FF02><FF01>	Girl Student: Kyaa, look look! This<FF03>dress is so cute! <FF06><03>*<FF06><00><FF02>
-4	1	女子生徒：キャー　見て見てー<FF03>このスカート　安ーい<FF06>う♥<FF06>　<FF02><FF01>	Girl Student: Kyaa, look look! This<FF03>skirt is so cheap! <FF06><03>*<FF06><00><FF02>
+4	0	女子生徒：キャー　見て見てー<FF03>このワンピ　カワイー<FF06>う♥<FF06>　<FF02><FF01>	Girl Student: Kyaa, look look! This<FF03>dress is so cute! <FF06><03>♥<FF06><00><FF02>
+4	1	女子生徒：キャー　見て見てー<FF03>このスカート　安ーい<FF06>う♥<FF06>　<FF02><FF01>	Girl Student: Kyaa, look look! This<FF03>skirt is so cheap! <FF06><03>♥<FF06><00><FF02>
 4	2	姫野：あ…かわいい服…<FF03>あ…やっぱり高い…<FF02><FF01>	Himeno: Ah... cute clothes... Ah...<FF03>still expensive...<FF02>
 4	3	姫野：あ　あの…<FF03>制服って…<FF02><FF03>買い取ってくれると思います？<FF02><FF01>	Himeno: U-Um... Do you think they'd<FF03>buy back a uniform?<FF02>
 4	4	<FF06>う姫野　由子（ひめの　ゆうこ）<FF03>麻希の友人　家計のために<FF03>バイトしている　けなげな少女<FF06>　<FF02><FF01>	<FF06><03>Himeno Yuko<FF03>Maki's friend. A plucky girl who<FF03>works part-time for the budget.<FF06><00><FF02>
@@ -72,7 +72,7 @@ entry	box	ja	en
 4	6	店主：…ＷＥＬＣＯＭＥ…<FF02><FF01>	Shopkeeper: ...WELCOME...<FF02>
 4	7	ゆきの：実用的な服ばっかりだね服というより防具だ<FF02><FF01>	Yukino: Nothing but practical<FF03>clothes. More like armor than<FF03>clothing.<FF02>
 4	8	ゆきの：ここの店主も<FF03>向かいの武器屋と同じで<FF03>悪魔の山から来たのかな？<FF02><FF01>	Yukino: Is this shopkeeper from<FF03>Demon Mountain too, like the<FF03>weapon shop across the way?<FF02>
-4	9	アヤセ：ちょっと～<FF03>これ　カッコイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is so cool! <FF06><03>*<FF06><00><FF02>
+4	9	アヤセ：ちょっと～<FF03>これ　カッコイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is so cool! <FF06><03>♥<FF06><00><FF02>
 4	10	アヤセ：あ～<FF03>最近　太ったかな～<FF02><FF01>	Ayase: Ahh~ Did I gain weight<FF03>lately~?<FF02>
 4	11	南条：値段の高い物ほど<FF03>丈夫そうだな<FF02><FF01>	Nanjo: The more expensive, the<FF03>sturdier it seems.<FF02>
 4	12	南条：この店の防具のおかげで<FF03>何度命が助かったことか<FF02><FF04>少々ふっかけられても<FF03>文句は言えないな<FF02><FF01>	Nanjo: How many times has this<FF03>shop's armor saved our lives?<FF03>Even if we are overcharged a bit, I<FF02><FF04>Nanjo: cannot complain.<FF02>
@@ -86,8 +86,8 @@ entry	box	ja	en
 5	3	店主：いやぁ～<FF03>外は寒いですな<FF02><FF01>	Shopkeeper: Oh my, it's cold<FF03>outside, isn't it.<FF02>
 5	4	ゆきの：なんだ　あのオヤジ？<FF03>あの世ってどこだよ　おい<FF02><FF04>だいたい<FF03>どうして学校に薬屋なんて…？<FF02><FF01>	Yukino: What's with that old guy?<FF03>Where's the afterlife, hey? And<FF03>why's there a pharmacy at school<FF02><FF04>Yukino: anyway...?<FF02>
 5	5	ゆきの：ここの店<FF03>どこからわいて出たんだ？<FF02><FF01>	Yukino: Where did this shop spring<FF03>up from?<FF02>
-5	6	アヤセ：キャー！<FF03>カエルー！！<FF02><FF04>ぷりちぃ～<FF06>う♥♥<FF06>　<FF02><FF01>	Ayase: Kyaaah! Frogs!! So pretty~<FF03><FF06><03>**<FF06><00><FF02>
-5	7	アヤセ：このカエル欲しー<FF03>パパ　買って買ってー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: I want this frog~ Papa, buy<FF03>it for me, buy it~ <FF06><03>*<FF06><00><FF02>
+5	6	アヤセ：キャー！<FF03>カエルー！！<FF02><FF04>ぷりちぃ～<FF06>う♥♥<FF06>　<FF02><FF01>	Ayase: Kyaaah! Frogs!! So pretty~<FF03><FF06><03>♥♥<FF06><00><FF02>
+5	7	アヤセ：このカエル欲しー<FF03>パパ　買って買ってー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: I want this frog~ Papa, buy<FF03>it for me, buy it~ <FF06><03>♥<FF06><00><FF02>
 5	8	南条：どうして薬屋が…？<FF02><FF01>	Nanjo: Why is there a pharmacy...?<FF02>
 5	9	南条：合法的な店なのか？<FF02><FF01>	Nanjo: Is this a legitimate shop?<FF02>
 5	10	ブラウン：ハナヂンＺ…<FF03>なんか　ムチャクチャ効きそう<FF02><FF01>	Brown: Hanajin Z... Looks like it<FF03>works like crazy.<FF02>
@@ -98,9 +98,9 @@ entry	box	ja	en
 5	15	「マッスルドリンコ」を<FF03>手に入れた<FF02><FF04>マッスルドリンコ<FF03>それはカエルの　愛情エキス<FF02><FF03>字あまり<FF02><FF01>	Obtained "Muscle Drinko"<FF02><FF04>Muscle Drinko, the essence of a<FF03>frog's love.<FF03>Too many syllables.<FF02>
 5	16	ううっそ<FF05>ほ　<FF03>俺よりたくさん持ってるらしいな<FF02><FF04>さらに　たかろうなんて<FF03>血も涙もないね　キミは<FF03>死後裁きにあうに違いない<FF02><FF04>死んでいいよ<FF03>いやいや　まじで<FF02><FF01>	No wa<FF05><1E><00> y, you seem to have more<FF03>than me. To ask for even more,<FF03>you're heartless. You'll surely<FF02><FF04>face judgment after death.<FF02><FF04>Feel free to die. No, seriously.<FF02>
 5	17	なんつって<FF05>ほ　<FF03>３つも頂いておいて<FF03>お礼のひとつもないのか？<FF02><FF04>まさか　<FF05>ほ　他人の家のタンスから<FF03>小さげなメダルや旅の人の服を<FF03>盗んだりしてないだろうな　キミ<FF02><FF04>死んでいいよ<FF03>いやいや　まじで<FF02><FF01>	Just kidding<FF05><1E><00> You took three and<FF03>not even one word of thanks?<FF02><FF04>Surely you haven't<FF05><1E><00> stolen little<FF03>medals or travelers' clothes from<FF03>other people's dressers, have<FF02><FF04>you?<FF02><FF04>Feel free to die. No, seriously.<FF02>
-5	18	カエル：いや～ん　ぷりちぃ～<FF06>う♥<FF06>　<FF02>綾瀬優香のまね<FF03>いやいや　まじで<FF02><FF04>…<FF05>ほ　…<FF05>ほ　いつも無口だね　キミは<FF03>ひとが笑いを提供しているのに<FF03>腰に手を当て　無言で見下すとは<FF02><FF04>その無愛想さに敬意を表し<FF03>サトミタダシがお勧めする<FF03>試供品をやらないこともない<FF02><FF01>	Frog: Oh my, so pretty~ <FF06><03>*<FF06><00><FF02>An Ayase<FF03>Yuka impression. No, seriously.<FF02><FF04>...<FF05><1E><00> ...<FF05><1E><00> You're always so quiet. I'm<FF03>providing laughs, and you look<FF03>down at me silently with your hand<FF02><FF04>on your hip?<FF02><FF04>In respect of that unfriendliness,<FF03>I might just give you a sample<FF03>recommended by Satomi Tadashi.<FF02>
+5	18	カエル：いや～ん　ぷりちぃ～<FF06>う♥<FF06>　<FF02>綾瀬優香のまね<FF03>いやいや　まじで<FF02><FF04>…<FF05>ほ　…<FF05>ほ　いつも無口だね　キミは<FF03>ひとが笑いを提供しているのに<FF03>腰に手を当て　無言で見下すとは<FF02><FF04>その無愛想さに敬意を表し<FF03>サトミタダシがお勧めする<FF03>試供品をやらないこともない<FF02><FF01>	Frog: Oh my, so pretty~ <FF06><03>♥<FF06><00><FF02>An Ayase<FF03>Yuka impression. No, seriously.<FF02><FF04>...<FF05><1E><00> ...<FF05><1E><00> You're always so quiet. I'm<FF03>providing laughs, and you look<FF03>down at me silently with your hand<FF02><FF04>on your hip?<FF02><FF04>In respect of that unfriendliness,<FF03>I might just give you a sample<FF03>recommended by Satomi Tadashi.<FF02>
 5	19	「はんごんこう」を<FF03>手に入れた<FF02><FF04>はんごんこう<FF03>漢字で書くと　反魂香<FF02><FF03>ひじょーに　勉強になるね<FF02><FF01>	Obtained "Balm of Life"<FF02><FF04>Its Japanese name, Hangonkou, is<FF03>written "Resurrection Incense" in<FF03>kanji. Very educational.<FF02>
-5	20	なんつって<FF05>ほ　<FF03>こんなに貢がせておいて<FF03>愛のひとつもささやかないのか？<FF02><FF04>キミももう年頃なんだから<FF03>男と女の心の機微を<FF03>少しは学ぶといい<FF02><FF04>すなわち<FF05>ほ　<FF03>カエルは女の子<FF06>う♥<FF06>　<FF02><FF01>	Just kidding<FF05><1E><00> After making me give<FF03>you so much, can't you whisper<FF03>even a word of love?<FF02><FF04>You're old enough now, so you<FF03>should learn a little about the<FF03>subtleties of the hearts of men<FF02><FF04>and women.<FF02><FF04>In other words<FF05><1E><00> frogs are girls. <FF06><03>*<FF06><00><FF02>
+5	20	なんつって<FF05>ほ　<FF03>こんなに貢がせておいて<FF03>愛のひとつもささやかないのか？<FF02><FF04>キミももう年頃なんだから<FF03>男と女の心の機微を<FF03>少しは学ぶといい<FF02><FF04>すなわち<FF05>ほ　<FF03>カエルは女の子<FF06>う♥<FF06>　<FF02><FF01>	Just kidding<FF05><1E><00> After making me give<FF03>you so much, can't you whisper<FF03>even a word of love?<FF02><FF04>You're old enough now, so you<FF03>should learn a little about the<FF03>subtleties of the hearts of men<FF02><FF04>and women.<FF02><FF04>In other words<FF05><1E><00> frogs are girls. <FF06><03>♥<FF06><00><FF02>
 6	0	化学教師：文化祭の出店にしては手が込んでいるな<FF02><FF03>感心感心<FF02><FF01>	Chemistry Teacher: Quite<FF03>elaborate for a school festival<FF03>stall. Impressive, impressive.<FF02>
 6	1	化学教師：文化祭にしては<FF03>高価な物を売ってるな<FF02><FF03>それにしても老けた生徒だ<FF02><FF01>	Chemistry Teacher: Selling<FF03>expensive things for a school<FF03>festival. Still, what an old-looking<FF02><FF04>Chemistry Teacher: student.<FF02>
 6	2	ツルンカーメン：ホホホホホ…<FF03>よくぞ　いらっしゃった<FF03>どんな品が　お入り用かな？<FF02><FF01>	Tsurunkamen: Hohohoho... Welcome.<FF03>What kind of goods do you need?<FF02>
@@ -109,8 +109,8 @@ entry	box	ja	en
 6	5	カメンツールン：ほほほほほ…<FF03>まろは　宝石が何より好きじゃ<FF02><FF04>貴殿がお持ちの　宝石と<FF03>まろの　秘蔵の品を<FF03>大出血交換中であるが<FF02><FF03>試してみるかの？<FF02><FF01>	Kamentsurun: Hohohoho... I love<FF03>jewels above all. I am currently<FF03>running a bargain exchange of<FF02><FF04>Kamentsurun: your jewels for my<FF03>hidden treasures. Care to try?<FF02>
 6	6	ゆきの：千年万年堂って<FF03>駄菓子屋じゃなかったかい？<FF02><FF01>	Yukino: Wasn't Senrinmando a penny<FF03>candy shop?<FF02>
 6	7	ゆきの：駄菓子屋にしちゃ<FF03>変わった物を置いてるな<FF02><FF01>	Yukino: Strange things for a penny<FF03>candy shop.<FF02>
-6	8	アヤセ：わお！<FF03>きれーなホーセキ<FF02><FF03>ねぇパパ　買って買って～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Wow! Pretty jewels! Hey<FF03>Papa, buy it, buy it~ <FF06><03>*<FF06><00><FF02>
-6	9	アヤセ：ヒカリモノって<FF03>１日中見てても飽きないわぁ～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: I could look at shiny things<FF03>all day and never get tired~ <FF06><03>*<FF06><00><FF02>
+6	8	アヤセ：わお！<FF03>きれーなホーセキ<FF02><FF03>ねぇパパ　買って買って～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Wow! Pretty jewels! Hey<FF03>Papa, buy it, buy it~ <FF06><03>♥<FF06><00><FF02>
+6	9	アヤセ：ヒカリモノって<FF03>１日中見てても飽きないわぁ～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: I could look at shiny things<FF03>all day and never get tired~ <FF06><03>♥<FF06><00><FF02>
 6	10	南条：この店はなんだ？<FF02><FF03>ダガシヤ？<FF03>あぁ　<FF05>ほ　出っ歯のコメディアンか<FF02><FF01>	Nanjo: What is this shop?<FF03>Dagashiya? Ah<FF05><1E><00> you mean the<FF03>buck-toothed comedian.<FF02>
 6	11	南条：駄菓子というのは<FF03>変わっているな<FF02><FF01>	Nanjo: Penny candy is odd, is it<FF03>not?<FF02>
 6	12	ブラウン：オイオイ<FF03>なんで学校に<FF03>駄菓子屋があるんだよ<FF02><FF01>	Brown: Hey hey, why's there a<FF03>penny candy shop at school?<FF02>
@@ -219,13 +219,13 @@ entry	box	ja	en
 10	20	エリー：やはり　ここでしたか<FF03>これを渡したくて来たのですが<FF02><FF03>「まんげつのせきばん」です<FF02><FF04>図書室で探し物をしていたら<FF03>偶然出てきたのですが<FF02><FF04>貴方達が持っていた方が<FF03>役に立つと思いまして<FF02><FF01>	Elly: So it was here after all. I<FF03>came to hand this over. It is a<FF03>"Full Moon Tablet."<FF02><FF04>Elly: I came across it by chance<FF03>while searching for something in<FF03>the library, and I thought it would<FF02><FF04>Elly: be more useful in your hands.<FF02>
 10	21	「まんげつのせきばん」を<FF03>もらった<FF02><FF01>	Received the "Full Moon Tablet"<FF02>
 10	22	エリー：光の向こうには<FF03>何があるのかしら？<FF02><FF01>	Elly: What lies beyond the light, I<FF03>wonder?<FF02>
-11	0	夏美先生：みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: Everyone safe?<FF03>Let's see, let teacher take a look.<FF03><FF06><03>*<FF06><00><FF02>
+11	0	夏美先生：みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: Everyone safe?<FF03>Let's see, let teacher take a look.<FF03><FF06><03>♥<FF06><00><FF02>
 11	1	夏美先生：さぁ　これで大丈夫<FF03>ムチャするんじゃないわよ！！<FF02><FF01>	Natsumi-sensei: There, you should<FF03>be fine now. Don't overdo it!!<FF02>
 11	2	夏美先生：なに？<FF03>人の顔　じろじろ見ちゃって<FF03>さては……ホレたかな？<FF02><FF04>ホレたと言えば<FF03>綾瀬さん！<FF02><FF01>	Natsumi-sensei: What? Staring at<FF03>my face like that. Could it be... you<FF03>fell for me?<FF02><FF04>Natsumi-sensei: Speaking of<FF03>falling, Ayase-san!<FF02>
 11	3	夏美先生：あなた<FF03>横内君に告白されたって？<FF02><FF04>どういう断り方したのよ！<FF03>あの子　最近おかしいわよ<FF02><FF04>少しは　相手の身になって<FF03>ものを言わなきゃダメよ！<FF02><FF01>	Natsumi-sensei: I heard<FF03>Yokouchi-kun confessed to you?<FF03>How did you turn him down!<FF02><FF04>Natsumi-sensei: That boy's been<FF03>strange lately. You need to put<FF03>yourself in the other person's<FF02><FF04>Natsumi-sensei: shoes when you<FF03>speak!<FF02>
 11	4	アヤセ：さっすが！<FF03>フラれ上手は<FF03>言うことに重みがあるね<FF02><FF01>	Ayase: As expected! Words from<FF03>someone good at getting dumped<FF03>carry weight.<FF02>
-11	5	夏美先生：……<FF02><FF03>さっ　お仕事お仕事<FF02><FF04>みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: ...... Now, back to<FF03>work, back to work. Everyone<FF03>safe? Let's see, let teacher take a<FF02><FF04>Natsumi-sensei: look. <FF06><03>*<FF06><00><FF02>
-11	6	夏美先生：はぁ～<FF03>どこかに　いいオトコいないかな<FF02><FF04>……<FF02><FF03>さっ　お仕事お仕事<FF02><FF04>みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: Haah~ I wonder if<FF03>there's a good guy somewhere... ......<FF03>Now, back to work, back to work.<FF02><FF04>Natsumi-sensei: Everyone safe?<FF03>Let's see, let teacher take a look.<FF03><FF06><03>*<FF06><00><FF02>
+11	5	夏美先生：……<FF02><FF03>さっ　お仕事お仕事<FF02><FF04>みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: ...... Now, back to<FF03>work, back to work. Everyone<FF03>safe? Let's see, let teacher take a<FF02><FF04>Natsumi-sensei: look. <FF06><03>♥<FF06><00><FF02>
+11	6	夏美先生：はぁ～<FF03>どこかに　いいオトコいないかな<FF02><FF04>……<FF02><FF03>さっ　お仕事お仕事<FF02><FF04>みんな　無事？<FF03>どれどれ<FF03>ちょっと　先生に見せてごらん<FF06>う♥<FF06>　<FF02><FF01>	Natsumi-sensei: Haah~ I wonder if<FF03>there's a good guy somewhere... ......<FF03>Now, back to work, back to work.<FF02><FF04>Natsumi-sensei: Everyone safe?<FF03>Let's see, let teacher take a look.<FF03><FF06><03>♥<FF06><00><FF02>
 11	7	麻希の母：学校まで<FF03>こんなになってしまうなんて<FF02><FF01>	Maki's Mother: To think even the<FF03>school has become like this.<FF02>
 11	8	麻希の母：麻希……<FF03>無事でいてちょうだい<FF02><FF01>	Maki's Mother: Maki... please be<FF03>safe.<FF02>
 11	9	麻希の母：麻希も<FF03>あなた達のように明るくて<FF03>行動力のある子だったら…<FF02><FF01>	Maki's Mother: If only Maki were<FF03>bright and active like you all...<FF02>
@@ -346,7 +346,7 @@ entry	box	ja	en
 32	4	南条：うむ<FF03>敵も　実力行使に出たか<FF02><FF01>	Nanjo: Hm. The enemy has resorted<FF03>to force as well.<FF02>
 32	5	ブラウン：あわわわわわ<FF02><FF01>	Brown: Aaaaaaah.<FF02>
 32	6	エリー：まだ息はあるようですわ<FF02>永遠の夜…<FF03>こういう事だったのですね<FF02><FF01>	Elly: They still seem to be<FF03>breathing. The Eternal Night... so<FF03>this is what it meant.<FF02>
-33	0	ヒホ子ちゃん：うつべしうつべしひぃほ！<FF02><FF04>ヒーホー君：このガッコウには<FF03>スモウ部がないから<FF03>ボクシング部に入るのだー<FF02><FF04>ヒホ子ちゃん：チミチミ<FF03>サンドバッグは<FF03>動いちゃダメだよ<FF02><FF04>ヒーホー君：ヒホー？<FF03>それってオイラのこと？？<FF02><FF04>ヒホ子ちゃん：だって<FF03>フェンシング部にいた男の子は<FF03>女の子にブッ叩かれてたじゃん<FF02><FF04>ヒーホー君：ヒーホー！！<FF03>そっかー　女の子は強いのかー<FF03>…<FF05>ほ　…<FF05>ほ　やさしく<FF05>き　シ<FF05>き　テ<FF05>き　ね<FF05>き　<FF06>う♥<FF06>　<FF02><FF01>	Hiho-ko-chan: Strike, strike,<FF03>hee-ho!<FF02><FF04>Hee-Ho-kun: This school doesn't<FF03>have a sumo club, so I'm joining the<FF03>boxing club!<FF02><FF04>Hiho-ko-chan: Hey hey, sandbags<FF03>shouldn't move.<FF02><FF04>Hee-Ho-kun: Hee-ho? Is that about<FF03>me??<FF02><FF04>Hiho-ko-chan: Well, the boy in the<FF03>fencing club got beaten up by a<FF03>girl, didn't he?<FF02><FF04>Hee-Ho-kun: Hee-Ho!! I see, girls<FF03>are strong...<FF05><1E><00> ...<FF05><1E><00> be gen<FF05><07><00>tle<FF05><07><00> with<FF05><07><00> me<FF05><07><00> <FF06><03>*<FF06><00><FF02>
+33	0	ヒホ子ちゃん：うつべしうつべしひぃほ！<FF02><FF04>ヒーホー君：このガッコウには<FF03>スモウ部がないから<FF03>ボクシング部に入るのだー<FF02><FF04>ヒホ子ちゃん：チミチミ<FF03>サンドバッグは<FF03>動いちゃダメだよ<FF02><FF04>ヒーホー君：ヒホー？<FF03>それってオイラのこと？？<FF02><FF04>ヒホ子ちゃん：だって<FF03>フェンシング部にいた男の子は<FF03>女の子にブッ叩かれてたじゃん<FF02><FF04>ヒーホー君：ヒーホー！！<FF03>そっかー　女の子は強いのかー<FF03>…<FF05>ほ　…<FF05>ほ　やさしく<FF05>き　シ<FF05>き　テ<FF05>き　ね<FF05>き　<FF06>う♥<FF06>　<FF02><FF01>	Hiho-ko-chan: Strike, strike,<FF03>hee-ho!<FF02><FF04>Hee-Ho-kun: This school doesn't<FF03>have a sumo club, so I'm joining the<FF03>boxing club!<FF02><FF04>Hiho-ko-chan: Hey hey, sandbags<FF03>shouldn't move.<FF02><FF04>Hee-Ho-kun: Hee-ho? Is that about<FF03>me??<FF02><FF04>Hiho-ko-chan: Well, the boy in the<FF03>fencing club got beaten up by a<FF03>girl, didn't he?<FF02><FF04>Hee-Ho-kun: Hee-Ho!! I see, girls<FF03>are strong...<FF05><1E><00> ...<FF05><1E><00> be gen<FF05><07><00>tle<FF05><07><00> with<FF05><07><00> me<FF05><07><00> <FF06><03>♥<FF06><00><FF02>
 33	1	ゆきの：また出たよ　こいつら<FF02><FF01>	Yukino: These guys again.<FF02>
 33	2	アヤセ：いいね<FF03>ナカヨシで<FF02><FF01>	Ayase: Nice, being so close.<FF02>
 33	3	南条：いつも漫才をしているな<FF02><FF01>	Nanjo: They are always doing a<FF03>comedy routine.<FF02>
@@ -371,7 +371,7 @@ entry	box	ja	en
 36	0	何もないようだ<FF02><FF01>	Nothing seems to be there.<FF02>
 36	1	小さな紙切れが<FF03>凍った床に張りついている<FF02><FF01>	A small scrap of paper is stuck to<FF03>the frozen floor.<FF02>
 36	2	読んでみますか？<FF03><FF0E>　<FF01>	Read it?<FF03><FF0E>　<FF01>
-36	3	昔『雪の女王』で使ってた<FF03>主人公の古い衣装を処分しといて汚いし　エンギ悪そうだから<FF02><FF04>ブツは飛び箱の右よ<FF03>頼んだわ　１年生！！<FF03>　　　演劇部のスタア♥部長より<FF02><FF01>	Dispose of the old protagonist<FF03>costume used in "The Snow Queen."<FF03>It's dirty and looks like bad luck.<FF02><FF04>The item is to the right of the<FF03>vaulting box. Counting on you,<FF03>freshman!!<FF02><FF04>From the Drama Club's star * the<FF03>President<FF02>
+36	3	昔『雪の女王』で使ってた<FF03>主人公の古い衣装を処分しといて汚いし　エンギ悪そうだから<FF02><FF04>ブツは飛び箱の右よ<FF03>頼んだわ　１年生！！<FF03>　　　演劇部のスタア♥部長より<FF02><FF01>	Dispose of the old protagonist<FF03>costume used in "The Snow Queen."<FF03>It's dirty and looks like bad luck.<FF02><FF04>The item is to the right of the<FF03>vaulting box. Counting on you,<FF03>freshman!!<FF02><FF04>From the Drama Club's star ♥ the<FF03>President<FF02>
 36	4	ガラクタの中に<FF03>年代物の衣装がある<FF02><FF01>	There is an antique costume among<FF03>the junk.<FF02>
 36	5	「シュピーゲルマスク」を<FF03>手に入れた<FF02><FF01>	Obtained the "Spiegel Mask"<FF02>
 36	6	「シュピーゲルメイル」を<FF03>手に入れた<FF02><FF01>	Obtained the "Spiegel Mail"<FF02>
@@ -583,7 +583,7 @@ entry	box	ja	en
 66	7	エリー：Ｄｅｍｏｎの世界の<FF03>死の商人？らしいですわ<FF03>あの子<FF02><FF01>	Elly: That child seems to be a<FF03>merchant of death from the Demon<FF03>world?<FF02>
 67	0	店主：…ＷＥＬＣＯＭＥ…<FF02><FF01>	Shopkeeper: ...WELCOME...<FF02>
 67	1	ゆきの：実用的な服ばっかりだね服というより防具だ<FF02><FF01>	Yukino: Nothing but practical<FF03>clothes. More like armor than<FF03>clothing.<FF02>
-67	2	アヤセ：ちょっと～<FF03>これ　カッコイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is so cool! <FF06><03>*<FF06><00><FF02>
+67	2	アヤセ：ちょっと～<FF03>これ　カッコイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is so cool! <FF06><03>♥<FF06><00><FF02>
 67	3	南条：値段の高い物ほど<FF03>丈夫そうだな<FF02><FF01>	Nanjo: The more expensive, the<FF03>sturdier it seems.<FF02>
 67	4	ブラウン：オーオー<FF03>これなんかおれ様に<FF03>ぴったりって感じだな<FF02><FF04>いやー　おれ様って<FF03>何着ても似合うからなぁ<FF03>んなははっはっは<FF02><FF01>	Brown: Oh oh, this looks like it's<FF03>just right for me! Man, I look good<FF03>in whatever I wear! Nahahaha<FF02>
 67	5	エリー：Ａｒｍｏｒかしら<FF02><FF03>何も防具を着ないより<FF03>いくらか安心できますね<FF02><FF01>	Elly: Is that Armor? It is somewhat<FF03>more reassuring than wearing no<FF03>armor at all.<FF02>
@@ -667,7 +667,7 @@ entry	box	ja	en
 82	7	エリー：Ｄｅｍｏｎの<FF03>世界のどこで<FF03>この武器　仕入れたのかしら？<FF02><FF03>あの子<FF02><FF01>	Elly: Where in the Demon world did<FF03>that child source these weapons?<FF02>
 83	0	店主：…ＷＥＬＣＯＭＥ…<FF02><FF01>	Shopkeeper: ...WELCOME...<FF02>
 83	1	ゆきの：この塔には<FF03>時間制限が無いんだ<FF03>ゆっくり選んで行こう<FF02><FF01>	Yukino: This tower has no time<FF03>limit. Let's pick carefully and go.<FF02>
-83	2	アヤセ：ちょっと～<FF03>これ　超　カワイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is super cute! <FF06><03>*<FF06><00><FF02>
+83	2	アヤセ：ちょっと～<FF03>これ　超　カワイー<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is super cute! <FF06><03>♥<FF06><00><FF02>
 83	3	南条：よい防具を買うのは<FF03>自分の命に保健を<FF03>かけるようなものだな<FF02><FF01>	Nanjo: Buying good armor is like<FF03>taking out insurance on one's life.<FF02>
 83	4	ブラウン：オーオー<FF03>これなんか　おれ様に<FF03>着てくれって言ってるようだぜ<FF02><FF04>いい男にふさわしい服ってのも<FF03>確かにあるよな　うん<FF03>んなははっはっは<FF02><FF01>	Brown: Oh oh, this one's like it's<FF03>telling me to wear it! There are<FF03>indeed clothes suitable for a<FF02><FF04>Brown: good-looking man, yeah.<FF03>Nahahaha<FF02>
 83	5	エリー：なぜ　防具屋の<FF03>主人は　みなＭａｓｋを<FF03>つけているのかしら？<FF02><FF01>	Elly: Why do the armor shop owners<FF03>all wear Masks, I wonder?<FF02>
@@ -753,7 +753,7 @@ entry	box	ja	en
 98	7	エリー：あの子売り上げ金で<FF03>何をするんでしょう？<FF02><FF01>	Elly: What will that child do with<FF03>the sales money?<FF02>
 99	0	店主：…ＷＥＬＣＯＭＥ…<FF02><FF01>	Shopkeeper: ...WELCOME...<FF02>
 99	1	ゆきの：どうでもいいけど<FF03>防具屋の店長って<FF03>クラいよね<FF02><FF01>	Yukino: Not that it matters, but<FF03>the armor shop owner is gloomy.<FF02>
-99	2	アヤセ：ちょっと～<FF03>これ　ステキー！<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is lovely! <FF06><03>*<FF06><00><FF02>
+99	2	アヤセ：ちょっと～<FF03>これ　ステキー！<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Hey~ This is lovely! <FF06><03>♥<FF06><00><FF02>
 99	3	南条：丈夫な防具はおおむね<FF03>重いのがたまにキズだな<FF02><FF01>	Nanjo: Sturdy armor is generally<FF03>heavy, which is a minor flaw.<FF02>
 99	4	ブラウン：いやー<FF03>おれ様って<FF03>何着ても似合うからなぁ<FF02><FF04>もぉ　選ぶのに<FF03>時間かかっちゃうぜ！<FF03>んなははっはっは<FF02><FF01>	Brown: Man, I look good in whatever<FF03>I wear. It takes forever to<FF03>choose! Nahahaha<FF02>
 99	5	エリー：この防具って<FF03>どこから仕入れたのかしら？<FF03>出所を考えると恐いですわ<FF02><FF01>	Elly: Where did this armor get<FF03>sourced? Considering its origin is<FF03>frightening.<FF02>

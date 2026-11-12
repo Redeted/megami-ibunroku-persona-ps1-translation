@@ -313,7 +313,7 @@ entry	box	ja	en
 47	7	店主：聖エルミンの学生さん？<FF03>うちの息子知ってる？<FF03>ただし　ってんだけどね！<FF02><FF04>どーしよーもない　グータラなんだけど　そいつがまた　すっごくカワイイ子に　惚れちゃってね！<FF02><FF04>あんな子　おヨメに来てくれたらおじさん　嬉しいんだけどねぇ！<FF05>ゆ　…え？　ああ　薬ね　はいはい<FF02><FF01>	Shopkeeper: Are you St. Hermelin<FF03>students? Do you know my son? His<FF03>name's Tadashi!<FF02><FF04>Shopkeeper: He's hopeless and<FF03>lazy, but he fell for a super cute<FF03>girl!<FF02><FF04>Shopkeeper: If a girl like that<FF03>married into the family, I'd be so<FF03>happy!<FF05><25><00> ...Eh? Oh, medicine. Yes, yes.<FF02>
 47	8	店主：はい　いらっしゃい！<FF02><FF04>ねぇ君　たまきちゃんに会った？おじさん　たまきちゃんが無事かどうか　すごく心配でねぇ…<FF02><FF03>うちの息子は　どーでも<FF03>いいんだけどさっ！<FF03>…え？　ああ　薬ね　はいはい<FF02><FF01>	Shopkeeper: Welcome! Hey, you,<FF03>have you met Tamaki-chan? I'm so<FF03>worried whether Tamaki-chan is<FF02><FF04>Shopkeeper: safe...<FF02><FF04>Shopkeeper: Not that I care about<FF03>my son at all! ...Eh? Oh, medicine.<FF03>Yes, yes.<FF02>
 47	9	客：ねェ　アンタも変だと思う<FF03>でしょ　金田さんのこと！<FF02><FF03>だって　ほんの半年で　あんなに大金持ちになっちゃうなんてねェ怪しいわよね　絶対　変だわよ！<FF02><FF01>	Customer: Hey, you think it's weird<FF03>too, right? Kaneda-san! To become<FF03>that rich in just half a year! It's<FF02><FF04>Customer: suspicious. Definitely<FF03>weird!<FF02>
-47	10	店主：あれあれ？<FF03>うちのただしに　用なのかな？<FF02><FF03>あのバータレなら　今ごろ<FF03>部活に行ってるはずだよ<FF02><FF04>あぁ　おじさんも　一度で<FF03>いいから　たまきちゃんと<FF03>口ゲンカしてみたいなあ♥<FF02><FF01>	Shopkeeper: Oh my? Do you need my<FF03>Tadashi? That good-for-nothing<FF03>should be at his club by now.<FF02><FF04>Shopkeeper: Ahh, I'd like to have a<FF03>verbal spat with Tamaki-chan at<FF03>least once. *<FF02>
+47	10	店主：あれあれ？<FF03>うちのただしに　用なのかな？<FF02><FF03>あのバータレなら　今ごろ<FF03>部活に行ってるはずだよ<FF02><FF04>あぁ　おじさんも　一度で<FF03>いいから　たまきちゃんと<FF03>口ゲンカしてみたいなあ♥<FF02><FF01>	Shopkeeper: Oh my? Do you need my<FF03>Tadashi? That good-for-nothing<FF03>should be at his club by now.<FF02><FF04>Shopkeeper: Ahh, I'd like to have a<FF03>verbal spat with Tamaki-chan at<FF03>least once. ♥<FF02>
 47	11	店主：あれあれ？<FF03>薬なら　こっちだよ！<FF02><FF01>	Shopkeeper: Oh my? Medicine is<FF03>over here!<FF02>
 48	0	南条：貴様が　ギャンブラー<FF03>だったとは　人は　見かけに<FF03>寄らんものだな<FF02><FF01>	Nanjo: To think you were a gambler.<FF03>One really cannot judge people by<FF03>appearances.<FF02>
 48	1	南条：おめでたい奴だな<FF03>こんな時に　そんな余裕がある<FF03>とは　うらやましいくらいだ<FF02><FF01>	Nanjo: What a blissful fellow. To<FF03>have such leeway at a time like<FF03>this is almost enviable.<FF02>
@@ -789,7 +789,7 @@ entry	box	ja	en
 109	2	マーク：園村　おふくろさんの<FF03>こと　まだ思い出せねーのかな<FF03>なんか　ワケありみたいだしな<FF02><FF01>	Mark: I wonder if Sonomura still<FF03>can't remember her mom. Seems like<FF03>there are circumstances.<FF02>
 109	3	エリー：傷を　治したら　早く<FF03>廃工場へ行きましょうね<FF02><FF03>でも　本当に　そんな所から<FF03>ＳＥＢＥＣに入れるのかしら？<FF02><FF01>	Elly: After healing the wound, let<FF03>us hurry to the abandoned<FF03>factory.<FF02><FF04>Elly: But can we truly enter SEBEC<FF03>from such a place?<FF02>
 109	4	エリー：早く　Ｍｒ．神取を<FF03>追いかけなければ…！<FF02><FF01>	Elly: We must hurry and chase Mr.<FF03>Kandori...!<FF02>
-109	5	ブラウン：おれ様ったらさぁー<FF03>この前の戦闘で　顔に<FF03>キズ作るとこだったんだ！<FF02><FF04>いやぁ　もう少しで<FF02><FF03>全国５０万人の<FF03>ブラウンファンの皆さまを<FF03>悲しませるとこだったぜ！<FF02><FF04>おれ様ってば　<FF05>な　う・<FF05>た　か・<FF05>た　つ♥<FF02><FF01>	Brown: Me, I almost got a scar on<FF03>my face in the last battle!<FF02><FF04>Brown: Man, I almost made all fifty<FF03>thousand Brown fans nationwide<FF03>sad!<FF02><FF04>Brown: Me, I'm just so<FF05><15><00> ve<FF05><10><00> ry<FF05><10><00> lucky! *<FF02>
+109	5	ブラウン：おれ様ったらさぁー<FF03>この前の戦闘で　顔に<FF03>キズ作るとこだったんだ！<FF02><FF04>いやぁ　もう少しで<FF02><FF03>全国５０万人の<FF03>ブラウンファンの皆さまを<FF03>悲しませるとこだったぜ！<FF02><FF04>おれ様ってば　<FF05>な　う・<FF05>た　か・<FF05>た　つ♥<FF02><FF01>	Brown: Me, I almost got a scar on<FF03>my face in the last battle!<FF02><FF04>Brown: Man, I almost made all fifty<FF03>thousand Brown fans nationwide<FF03>sad!<FF02><FF04>Brown: Me, I'm just so<FF05><15><00> ve<FF05><10><00> ry<FF05><10><00> lucky!<FF03>♥<FF02>
 109	6	アヤセ：注射は　されないよねぇアヤセ　注射大っ嫌いなんだけど<FF02><FF01>	Ayase: We won't get shots, right?<FF03>Ayase hates shots.<FF02>
 109	7	看護婦：ケガした女性が　さっきこの辺を歩いていったんだって<FF03>悪魔に　襲われたのかしら…<FF02><FF01>	Nurse: They say an injured woman<FF03>walked around here a while ago. I<FF03>wonder if she was attacked by a<FF02><FF04>Nurse: demon...<FF02>
 109	8	医師：おや　こんにちは<FF03>相変わらず　君の友人は<FF03>個性的だね<FF02><FF01>	Doctor: Oh, hello. As always, your<FF03>friends are quite individualistic.<FF02>
@@ -1465,7 +1465,7 @@ entry	box	ja	en
 191	13	ブラウン：クイーン様に<FF03>気に入られたら<FF03>楽に暮らせるんだってさー！<FF02><FF04>もう　おれ様に任してくれよ！<FF03>女の子なら　きっとおれ様の<FF03>魅力にノックダウンだぜ！<FF02><FF01>	Brown: They say if the Queen likes<FF03>you, you can live easy! Leave it to<FF03>me! Any girl will be knocked down<FF02><FF04>Brown: by my charm!<FF02>
 191	14	ブラウン：香西　なんか目の周り青かったんすけどぉ…<FF05>み　<FF03>…怖かったぜー！<FF02><FF01>	Brown: Kozai's eyes were kinda<FF03>blue around them...<FF05><20><00> ...It was scary!<FF02>
 191	15	ブラウン：あんな小生意気な<FF03>ガキが　お城に住んでるだぁ？<FF03>冗談じゃねぇぞ！<FF02><FF04>お城ってのは　おれ様みたいな<FF03>ソフィスティケーテッドされた<FF03>人間にこそ　似合うものなのよ！<FF02><FF01>	Brown: A cheeky brat like that<FF03>living in a castle? No way! A castle<FF03>suits a sophisticated person like<FF02><FF04>Brown: me!<FF02>
-191	16	アヤセ：クイーンだってさ…<FF03>アヤセも一度なってみたいなぁ♥<FF02><FF01>	Ayase: A Queen, huh... Ayase wants<FF03>to be one once, too. *<FF02>
+191	16	アヤセ：クイーンだってさ…<FF03>アヤセも一度なってみたいなぁ♥<FF02><FF01>	Ayase: A Queen, huh... Ayase wants<FF03>to be one once, too. ♥<FF02>
 191	17	アヤセ：香西ってば　本物の<FF03>園村が苦しんでるのも<FF03>知らないでさ…<FF02><FF01>	Ayase: That Kozai, not even<FF03>knowing the real Sonomura is<FF03>suffering...<FF02>
 191	18	アヤセ：あんなに美人なのに<FF03>香西って　何が不満なの？<FF03>アヤセは　今のままでいいもん<FF02><FF04>美人なワケじゃないけどぉ<FF03>そばかすだってカワイイし<FF03>ファニー・フェイスってヤツ？<FF02><FF01>	Ayase: She's so pretty, what's<FF03>Kozai unhappy about? Ayase is<FF03>fine as she is.<FF02><FF04>Ayase: Not that I'm pretty, but<FF03>freckles are cute too, and I've got<FF03>that funny face thing, right?<FF02>
 191	19	玲司：とにかく　ここから<FF03>外に出られるようにしなけりゃ<FF03>先に進めねぇってことか<FF02><FF01>	Reiji: Anyway, unless we can get<FF03>out of here, we can't move on, is<FF03>that it?<FF02>
@@ -1513,7 +1513,7 @@ entry	box	ja	en
 194	4	ブラウン：あのオヤジの　頭さー<FF05>ぎ　あれ　まさか<FF03>ヅラじゃ　ねーだろーなー？<FF02><FF01>	Brown: That old guy's hair<FF05><30><00> surely<FF03>that's not a wig, is it?<FF02>
 194	5	アヤセ：赤ちゃん用の品物って<FF03>なんでも　カワイイんだもん<FF03>見てるだけで　楽しいよ<FF02><FF01>	Ayase: Everything for babies is<FF03>cute. It's fun just to look.<FF02>
 194	6	玲司：イカれたオヤジだな<FF02><FF01>	Reiji: What a crazy old guy.<FF02>
-194	7	店主：ようこそサトミタダシへ！おじさんのこと　サトちゃんって呼んでね～♥<FF02><FF03>じゃあ　商売しちゃうよー！<FF02><FF01>	Shopkeeper: Welcome to Satomi<FF03>Tadashi! Call me Sato-chan~ *<FF02><FF04>Shopkeeper: Alright, let's do some<FF03>business!<FF02>
+194	7	店主：ようこそサトミタダシへ！おじさんのこと　サトちゃんって呼んでね～♥<FF02><FF03>じゃあ　商売しちゃうよー！<FF02><FF01>	Shopkeeper: Welcome to Satomi<FF03>Tadashi! Call me Sato-chan~ ♥<FF02><FF04>Shopkeeper: Alright, let's do some<FF03>business!<FF02>
 194	8	客：今日は　ブルーな気分なんだ<FF02>こんな時は　バーに行って<FF03>クイーン様の絵について<FF03>語り合うしか　ないよなー<FF02><FF01>	Customer: I'm feeling blue today. At<FF03>times like this, all there is to do<FF03>is go to the bar and talk about the<FF02><FF04>Customer: Queen's paintings.<FF02>
 194	9	客：やっと　クイーンが<FF03>いなくなったんだ<FF03>バーで　祝杯をあげなきゃ！<FF02><FF01>	Customer: The Queen's finally gone!<FF03>I've got to raise a toast at the<FF03>bar!<FF02>
 194	10	店主：そっちは　入れないよ～<FF03>ちょっとだけ　とか言っても<FF03>ダメなのよ～！<FF02><FF01>	Shopkeeper: You can't go in there~<FF03>Even if you say just a little, it's<FF03>no good~!<FF02>
@@ -1619,7 +1619,7 @@ entry	box	ja	en
 199	9	エリー：自分の絵に　よほど<FF03>自信が　あるのかしら？<FF02><FF01>	Elly: Is she so confident about her<FF03>own paintings?<FF02>
 199	10	エリー：前にも　通った道だと<FF03>思うと　短く感じません？<FF05>ぎ　<FF03>そんなこと　ないですわよね…<FF02><FF01>	Elly: Doesn't a road you have<FF03>passed before feel shorter?<FF05><30><00> ...No,<FF03>it does not, does it.<FF02>
 199	11	エリー：良かったですわ<FF03>外に　出られるようになって！<FF02><FF01>	Elly: I am glad we can go outside<FF03>now!<FF02>
-199	12	ブラウン：クイーン様ぁ～！<FF03>お会いできるのを　楽しみに<FF03>しておりましたぁ～♥<FF02><FF03>あいさつは　これでいいかな？<FF02><FF01>	Brown: Lady Queeeen! I've been<FF03>looking forward to meeting you! *<FF02><FF04>Brown: Is that a good greeting?<FF02>
+199	12	ブラウン：クイーン様ぁ～！<FF03>お会いできるのを　楽しみに<FF03>しておりましたぁ～♥<FF02><FF03>あいさつは　これでいいかな？<FF02><FF01>	Brown: Lady Queeeen! I've been<FF03>looking forward to meeting you! ♥<FF02><FF04>Brown: Is that a good greeting?<FF02>
 199	13	ブラウン：香西も　スゲェ部屋<FF03>作ったよな…<FF02><FF04>自分が　あの中の１つにされる<FF03>とこを　想像すると…<FF03>うーん　きっついぜ！<FF02><FF01>	Brown: Kozai made one heck of a<FF03>room, too... Imagine yourself<FF03>becoming one of those... Hmm, that's<FF02><FF04>Brown: rough!<FF02>
 199	14	ブラウン：ま　つまんないことで悩むなってことだよなー！<FF02><FF04>え？　おれ様はもっと悩めって？オッケーオッケー！<FF03>任してよー！<FF02><FF01>	Brown: Well, it means don't worry<FF03>about trivial things! Eh? Worry<FF03>more, you say? Okay, okay! Leave it<FF02><FF04>Brown: to me!<FF02>
 199	15	アヤセ：クイーンってばさぁ<FF03>アイドル養成所でも<FF03>作るつもりなのかな<FF02><FF01>	Ayase: Is the Queen planning to<FF03>open an idol training school or<FF03>something?<FF02>
@@ -1793,7 +1793,7 @@ entry	box	ja	en
 209	2	麻希：ただしくんのお父さん…<FF03>ごめんね<FF02><FF01>	Maki: Tadashi-kun's dad... I'm sorry.<FF02>
 209	3	マーク：いつ来てもこの曲だな～おかしくなりそうだぜ<FF02><FF01>	Mark: It's always this song<FF03>whenever I come~ It's gonna drive<FF03>me crazy.<FF02>
 209	4	南条：フッ　もう慣れたぞ！<FF03>俺を洗脳しようなど　無駄な事だ<FF02><FF01>	Nanjo: Heh. I am used to it now!<FF03>Trying to brainwash me is<FF03>pointless.<FF02>
-209	5	アヤセ：きゃ～～！<FF03>このオムツ　カエルがらじゃん！ぷりちぃ～～～～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Kyaaah! These diapers have<FF03>frogs on them! So pretty~~~~ <FF06><03>*<FF06><00><FF02>
+209	5	アヤセ：きゃ～～！<FF03>このオムツ　カエルがらじゃん！ぷりちぃ～～～～<FF06>う♥<FF06>　<FF02><FF01>	Ayase: Kyaaah! These diapers have<FF03>frogs on them! So pretty~~~~ <FF06><03>♥<FF06><00><FF02>
 209	6	ブラウン：なぁなぁ<FF03>ホレ薬とか　ないかな！<FF02><FF01>	Brown: Hey hey, don't they have<FF03>love potions or something!<FF02>
 209	7	エリー：生活に密着した<FF03>まともな薬はないの？<FF02><FF01>	Elly: Is there not any decent<FF03>medicine that fits daily life?<FF02>
 209	8	エリー：生活に密着した<FF03>まともな薬はないのかしら？<FF02><FF01>	Elly: Is there not any decent<FF03>medicine that fits daily life?<FF02>

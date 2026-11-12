@@ -306,6 +306,26 @@ def lower_words():
     return _LOWER
 
 
+# Profile cards whose PSP wording needs a second page in the narrower PS1 box (one or two words on it): a slightly
+# shorter wording, chosen with the user 2026-11-11. Key = the PSP title line; value = (title, description).
+CARD_REWORD = {
+    'Masao Inaba (Nickname: Mark)': ('Masao Inaba (Nickname: Mark)',
+                                     "The spoiled son of Inaba Dry Cleaning. Earnest and excitable."),
+    'Yukino Mayuzumi (Nickname: Yukino)': ('Yukino Mayuzumi',
+                                           "Trusted by everyone, she's like an older sister to all the students."),
+    'Yuka Ayase (Nickname: Ayase)': ('Yuka Ayase (Nickname: Ayase)',
+                                     'A troublemaker of the tanned, bleach-blonde "kogal" set.'),
+    'Eriko Kirishima (Nickname: Elly)': ('Eriko Kirishima (Nickname: Elly)',
+                                         "A ladylike student back from abroad. Beautiful and intelligent."),
+    'Tsutomu Kurouri (Nickname: Devil-Boy)': ('Tsutomu Kurouri, a.k.a. Devil-Boy',
+                                              "An occult expert, but his information is often incorrect."),
+    'Takahisa Kandori': ('Takahisa Kandori',
+                         "The ambitious branch president of SEBEC. Sinister rumors abound..."),
+    'Kenta Yokouchi (Nickname: Toro)': ('Kenta Yokouchi (Nickname: Toro)',
+                                        "His love of food made him strong in body, but fragile at heart."),
+}
+
+
 def convert_box(ja, our, words):
     """PS1 English for one box from the PSP words, or raise Fail."""
     import tstatus
@@ -345,6 +365,9 @@ def convert_box(ja, our, words):
     heading = bool(style_pre) or (0x44 in words[:3] and
                                   re.match(r'(?:<FF06><[0-9A-F]{2}>)?[^<：。、！？]{1,20}<FF03>', etext.decode(jb)) is not None)
 
+    m = re.search('(♥+)$', re.sub('<[^>]+>|[　 ]', '', ja)) if not styles else None
+    end_hearts = len(m.group(1)) if m else 0           # the Japanese box ends with a plain heart
+
     def fill(pause_mode):
         it_n, it_v, it_p = iter(names), iter(values), iter(pauses)
         sub = {NAME_PH: lambda: next(it_n), VALUE_PH: lambda: next(it_v),
@@ -364,7 +387,8 @@ def convert_box(ja, our, words):
             joined = place_by_fraction('\x04'.join(t for s, t in out), jp_fracs(jb, PAUSE), lambda k: pauses[k], before)
             for k, t in enumerate(joined.split('\x04')):
                 out[k][1] = t
-        return [(f'{s}: ' if s else '') + t for s, t in out]
+        # the speaker label only where the speaker changes: later pages of the same speaker go without it
+        return [(f'{s}: ' if s and (k == 0 or s != out[k - 1][0]) else '') + t for k, (s, t) in enumerate(out)]
 
     tail = None
     if nchoice:
@@ -388,20 +412,28 @@ def convert_box(ja, our, words):
             rest = rest[0].lower() + rest[1:]
         inline = vwf_wrap.wrap(f'{head}, {rest}' if rest else head).split(vwf_wrap.NEWLINE)
         first = paged(own) if len(paged(own)) <= len(paged(inline)) else paged(inline)
+        if len(first) > 1 and head in CARD_REWORD:     # the card must stay on one page: the project's shorter wording
+            head, rest = CARD_REWORD[head]
+            first = paged(vwf_wrap.wrap(head).split(vwf_wrap.NEWLINE) + vwf_wrap.wrap(rest).split(vwf_wrap.NEWLINE))
+            if len(first) > 1:
+                raise Fail('card reword too long: ' + head)
         later = [p for t in texts[1:] for p in paged(vwf_wrap.wrap(t.strip()).split(vwf_wrap.NEWLINE))]
         return '<FF02><FF04>'.join(first + later) + '<FF02>'
 
     def assemble(texts):
-        en = titled(texts) if heading else tl_lib.build(texts)
+        if style_suf and not heading:                  # an inline symbol at the end is wrapped with the last page
+            texts = texts[:-1] + [texts[-1] + style_suf]
+        elif end_hearts and not tail and '♥' not in texts[-1]:
+            texts = texts[:-1] + [texts[-1] + ' ' + '♥' * end_hearts]   # the PSP script dropped the closing heart
+        en = titled(texts) if heading else tl_lib.build(texts, repeat=False)
         if tail and not tail.startswith('<FF02>'):     # the options share the last page: at most 2 text lines there
             last = en[:-len('<FF02>')].split('<FF02><FF04>')
             lines = last[-1].split('<FF03>')
             if len(lines) > 2:
-                m = tl_lib._LABEL.match(lines[0])
-                last[-1:] = ['<FF03>'.join(lines[:-1]), (m.group(1) if m else '') + lines[-1]]
+                last[-1:] = ['<FF03>'.join(lines[:-1]), lines[-1]]
                 en = '<FF02><FF04>'.join(last) + '<FF02>'
         if styles:
-            en = style_pre + en[:-len('<FF02>')] + style_suf + '<FF02>'
+            en = style_pre + en[:-len('<FF02>')] + (style_suf if heading else '') + '<FF02>'
         if tail:
             en = en + tail[len('<FF02>'):] if tail.startswith('<FF02>') else en[:-len('<FF02>')] + tail
         return en
@@ -767,6 +799,32 @@ def keep_ours():
     return {ln.split(TAB)[0].strip() for ln in open(KEEP, encoding='utf-8').read().split(NL)[1:] if ln.strip()}
 
 
+def once_label(en):
+    """a box kept from the project's own text: drop the speaker label of a page whose speaker is the previous page's"""
+    pages, prev = en.split('<FF02><FF04>'), None
+    for k, p in enumerate(pages):
+        m = tl_lib._LABEL.match(p)
+        if k and m and m.group(1) == prev:
+            pages[k] = p[m.end():]
+        prev = m.group(1) if m else None
+    return '<FF02><FF04>'.join(pages)
+
+
+def hearts_back(name, rows, stats):
+    """the PSP script dropped the hearts of the negotiation lines: put them back where the Japanese has them"""
+    import talktl
+    ans = name == 'ANSWERS'
+    for r in rows:
+        if len(r) < 3 or talktl.HEART not in r[1]:
+            continue
+        en, note = talktl.add_hearts(r[1], r[2], talktl.ANS_W if ans else None, 1 if ans else 3)
+        if note:
+            stats['talk_heart_' + note] += 1
+            if note == 'nofit':
+                print(f'heart does not fit: {name}/{r[0]}  {plain(r[2])[:80]}')
+        r[2] = en
+
+
 def cmd_convert():
     import tstatus
     tstatus.load_glossary()
@@ -788,11 +846,13 @@ def cmd_convert():
             for j, k in enumerate(idxs):
                 r = rows[k]
                 if j not in amap:
+                    r[3] = once_label(r[3])
                     report.append([n, r[0], r[1], 'unaligned', '', plain(r[3])[:200], ''])
                     stats['ev_unaligned'] += 1
                     continue
                 w = pbox[amap[j]]
                 if f'{n}/{r[0]}/{r[1]}' in keep:
+                    r[3] = once_label(r[3])
                     report.append([n, r[0], r[1], 'kept', 'psp_keep_ours.tsv', plain(r[3])[:300], e_show(w)[:300]])
                     stats['ev_kept'] += 1
                     continue
@@ -802,6 +862,7 @@ def cmd_convert():
                     stats['ev_psp'] += 1
                     report.append([n, r[0], r[1], 'psp', '', plain(ours[j][1])[:300], plain(en)[:300]])
                 except Fail as ex:
+                    r[3] = once_label(r[3])
                     stats['ev_fallback'] += 1
                     stats['ev_reason ' + str(ex).split(' ')[0]] += 1
                     report.append([n, r[0], r[1], 'fallback', str(ex)[:120], plain(ours[j][1])[:300], e_show(w)[:300]])
@@ -843,6 +904,7 @@ def cmd_convert():
                 else:
                     stats['answer_fallback'] += 1
                     report.append(['ANSWERS', r[0], '', 'fallback', fails.get(r[1], 'no PSP line')[:120], plain(r[2]), ''])
+            hearts_back(name, rows, stats)
             write_tsv(os.path.join(OUT, 'talk', name + '.tsv'), head, rows)
             continue
         if not os.path.exists(src):
@@ -873,6 +935,7 @@ def cmd_convert():
                 except Fail:
                     shown = units[u][:80].hex()
                 report.append([name, r[0], '', 'fallback', str(ex)[:120], plain(r[2])[:300], shown[:300]])
+        hearts_back(name, rows, stats)
         write_tsv(os.path.join(OUT, 'talk', name + '.tsv'), head, rows)
     write_tsv(os.path.join(OUT, 'report.tsv'), TAB.join(['file', 'entry', 'box', 'status', 'reason', 'ours', 'psp']), report)
     for k, v in sorted(stats.items()):

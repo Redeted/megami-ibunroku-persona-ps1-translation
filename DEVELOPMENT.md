@@ -15,6 +15,16 @@ python tools/build.py --no-disc  # assemble only (build/)
 Inputs: `original/` (files extracted with `tools/extract.py`) and the original
 `.bin` one directory up. Output: `build/` and `../patched/Persona-TL.bin/.cue`.
 
+## Build variants (`--qol`, `--easy`)
+
+- `build.py` = translation only. `--qol` (armips `QOL60`) adds every extra feature: 60 fps, battle fast-forward,
+  Clean Salt / Emergency Exit, Estoma / Traesto, entrance kept in saves, GAME END fix. `--easy` (`QOL60` + `EASY`)
+  = QoL plus half the random encounter rate and x2 EXP / P.P. / money. Data rows that only exist in QoL (item and
+  skill names, descriptions) are swapped back to the original translation for the base build by `tools/variant.py`.
+- Saves are shared between the variants. Clean Salt and Emergency Exit use the unused item slots 110 / 111, so a save
+  made on a QoL disc that holds them shows "Last Abble Pie" / "Last Mabble Pie" in the translation-only build:
+  the original records of those unused items, greyed out and unusable (reported by the user 2026-11-12, by design).
+
 ## PSP-script variant (`--psp`)
 
 `tools/pspscript.py` reads the English of the official PSP release (*Shin Megami Tensei: Persona*, ULUS10432)

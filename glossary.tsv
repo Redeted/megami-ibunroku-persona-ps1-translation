@@ -140,7 +140,7 @@ japanese	english	category	source	notes
 反谷教頭	Vice Principal Hanya	speaker label	project	confirmed reading; from E0
 ハンニャ教頭	Vice Principal Hannya	nickname	project	
 留置場	Holding Cell	place	project	police station jail; used in E0 entries 48-49
-留置場の鍵	Holding Cell Key	item	project	key item found in the police station
+留置場の鍵	Prison Key	item	official-psp	key item found in the police station (PSP name, user 2026-11-09)
 セキュリティカード	security card	item	project	written lowercase in quotes in dialogue (E0 29)
 タコおやじ	octopus geezer	nickname	project	Mark's nickname for the Inspector; same wording as E0 entry 19
 オニ警部	ogre Inspector	nickname	project	Mark on the Inspector; オニ = oni/ogre
@@ -266,7 +266,8 @@ japanese	english	category	source	notes
 リカームドラ	Recarmdra	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
 アルファブラスタ	Alpha Blaster	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
 マッパー	Mappa	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
-トラフーリ	Trafuri	skill	project	not in the P1 PSP list; standard franchise name (P2/P3); review
+トラフーリ	Trafuri	skill	project	not in the P1 PSP list; its unused record (id 0x70) is Estoma since 2026-11-11 (slps_005.00/estoma_skill.asm)
+エストマ	Estoma	skill	official-psp	official PSP name (PSP skill 243; Clean Salt casts it)
 トラエスト	Traesto	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
 アウトマ	Outoma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
 リフトマ	Liftoma	skill	official-psp	official PSP name (megamitensei wiki, PSP column)
@@ -674,7 +675,7 @@ japanese	english	category	source	notes
 プルバダガー	Phurba Dagger	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 せきじゃのつるぎ	Lone Sword	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 フツノミタマ	Futsu-no-Mitama	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-くさなぎのけん	Kusanagi-no-Tsurugi	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+くさなぎのけん	Kusanagi's Sword	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 シュピーゲルブレード	Spiegel Blade	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 モップ	Mop	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 バックソード	Backsword	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -723,7 +724,7 @@ japanese	english	category	source	notes
 しせんちゅう	Shisenchu	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 グレイプニル	Gleipnir	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 シルバーメデューサ	Silver Medusa	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-ジングルビュート	Jingle Lash	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+ジングルビュート	Jingle Whip	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 かみそりづる	Crane Razor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 シャドウニードル	Shadow Needle	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 まじょうせん	Majou-Sen	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -780,7 +781,7 @@ japanese	english	category	source	notes
 ファントムキラー	Phantom Killer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 Ｍ１３４バルカン	M134 Vulcan	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 アヴェンジャー	Avenger	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-げっとそうてんほう	Gettou Shoutenhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+げっとそうてんほう	Gettou Soutenhou	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 クレイジーチェーン	Crazy Chain	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ヘルレイン	Hell Rain	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ここのえらいじんほう	Kokonoe Raijinhou	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -813,13 +814,13 @@ japanese	english	category	source	notes
 サーペントファング	Serpent Fangs	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 せんこうだん	Flashbangs	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ますいだん	Tranquilizers	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-メイジキラー	Mage Killer	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+メイジキラー	Mage Killers	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 サークルバレット	Circle Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 キューピット	Cupid Rounds	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 はくぎんのたま	Silver Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 くろがねのたま	Iron Bullets	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 デッドエンド	Dead Ends	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-エンジェルウィスパー	Angel Whisper	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+エンジェルウィスパー	Angel Whispers	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 ＱＱメット	QQ Helmet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ヘッドギア	Headgear	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 シャドウマスク	Shadow Mask	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -839,7 +840,7 @@ japanese	english	category	source	notes
 がくせいふく	School Uniform	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 スペクトラベスト	Spectra Vest	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ステルススーツ	Stealth Suit	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-セブンズコート	Sevens Coat	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+セブンズコート	Seventh Coat	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 ＴＡＣーＶ２	TAC-V2	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 こんじきのよろい	Golden Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 パレードアーマー	Parade Armor	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -860,7 +861,7 @@ japanese	english	category	source	notes
 はまがりのこて	Hamagari Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 パレードガード	Parade Guard	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ししおうのこて	Shishiou Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-きめんのこて	Kimen Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+きめんのこて	Demon Gauntlet	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 あかつきのこて	Daybreak Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 らいめいのこて	Raime Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 セイリュウのこて	Seiryuu Gauntlet	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
@@ -877,7 +878,7 @@ japanese	english	category	source	notes
 パレードブーツ	Parade Boots	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 スライムシューズ	Slime Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ゆうれいのげた	Ghost Geta	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
-あかつきのぐそく	Daybreak Graves	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
+あかつきのぐそく	Daybreak Greaves	item	official-psp	official PSP (item table read from the PSP EBOOT in RAM, 2026-11-09)
 ヴィーザルのくつ	Vidar's Shoes	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ビャッコのぐそく	Byakko Greaves	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game
 ヤクトレッグ	Jagd Leg	item	persona1.wikidot.com	equipment name from persona1.wikidot.com (weapon/firearm/armor pages, version not stated); cut to 10 in game

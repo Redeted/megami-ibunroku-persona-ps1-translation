@@ -12,7 +12,7 @@ unit	ja	en
 10	う、うぇーん！<FFF6>便器を挑発して、<FFF6>何が、楽しいのぉ……<FFF5>	W-Waaah!<FFF6>What's so fun about<FFF6>provoking a toilet...?<FFF5>
 11	う、うぇ～ん！<FFF6>こっわーい…<FFFD>お<FFF5>	W-Waaah!<FFF6>So scaaary...<FFFD>お<FFF5>
 12	お兄さんの言うこと、<FFF6>よく分かんないけどぉ、<FFF6>アタシ誘われてるみたい。<FFF5>	I don't really get what<FFF6>you're saying, mister,<FFF6>but it sounds like an invite.<FFF5>
-13	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~<FFF1><FFF5>
+13	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~ ♥<FFF1><FFF5>
 14	ちょっとぉ！<FFF6>便器に向かって、<FFF6>テキトーなこと言わないでよ！<FFF5>	Heey!<FFF6>Don't talk nonsense<FFF6>to a toilet seat!<FFF5>
 15	お兄さんの話って、<FFF6>なーんか、ウソっぽい！<FFFC><FFF6>それって本気ぃ？<FFFD>か<FFF5>	Your story, mister...<FFF6>sounds kinda fake!<FFFC><FFF6>Are you for real?<FFFD>か<FFF5>
 16	今、ちょっと急いでるんでぇ…<FFFC><FFF6>もう、行ってもいいでしょ…<FFF5>	I'm in a bit of a hurry now...<FFFC><FFF6>Can I go already...<FFF5>
@@ -24,11 +24,11 @@ unit	ja	en
 22	まだ、このアタシの、<FFF6>足元にも及ばないけど、<FFF6>素質はあるんじゃない？<FFF5>	You're still nowhere<FFF6>near my level, but you've<FFF6>got some talent, maybe?<FFF5>
 23	エヘヘ、エヘヘ！<FFF6>いい感じィ…<FFFD>こ<FFF5>	Ehehe, ehehe!<FFF6>Good vibe...<FFFD>こ<FFF5>
 24	お姉さんの言うこと、<FFF6>よく分かんないけどぉ、<FFF6>アタシ、力になれるかもー。<FFF5>	I don't really get what<FFF6>you're saying, miss,<FFF6>but I might be able to help.<FFF5>
-25	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~<FFF1><FFF5>
+25	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~ ♥<FFF1><FFF5>
 26	ちょっとぉ！<FFF6>便器に向かって、<FFF6>テキトーなこと言わないでっ！<FFF5>	Heey!<FFF6>Don't talk nonsense<FFF6>to a toilet seat!<FFF5>
 27	お姉さんの話って、<FFF6>なーんか、ウソっぽい！<FFFC><FFF6>それって本気ぃ？<FFFD>さ<FFF5>	Your story, miss...<FFF6>sounds kinda fake!<FFFC><FFF6>Are you for real?<FFFD>さ<FFF5>
 28	何だかんだ言って、<FFF6>アタシに座りたいんでしょ？<FFF6>この便座、最高だもん！<FFF5>	No matter what you say,<FFF6>you just wanna sit on me, right?<FFF6>This toilet seat is the best!<FFF5>
-29	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~<FFF1><FFF5>
+29	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~ ♥<FFF1><FFF5>
 30	もしもしー！<FFFC><FFF6>本気じゃないの、<FFF6>バレバレですよ！<FFF5>	Hellooo!<FFFC><FFF6>It's totally obvious<FFF6>you aren't serious!<FFF5>
 31	お姉さんには、プライドないの？<FFFC>そういう女って、一番嫌い！<FFFD>し<FFF5>	Miss, do you have no pride?<FFFC><FFF6>I hate women who easily<FFF6>tag along with men.<FFFD>し<FFF5>
 32	う、うぇ～ん！<FFF6>この人………<FFFC><FFF6>なんか企んでるよぅ……<FFF5>	W-Waaah!<FFF6>This person...<FFFC><FFF6>is scheming something...<FFF5>
@@ -36,18 +36,18 @@ unit	ja	en
 34	エヘヘ、エヘヘ！<FFF6>ケンキョなのが一番よ、うん！<FFF5>	Ehehe, ehehe!<FFF6>Being humble is the best, yep!<FFF5>
 35	アタシ、自分でも思うけどぉ、<FFF6>カンペキすぎるよねぇ！<FFF6>自分で自分が怖い…<FFFC>キャッ☆<FFFD>せ<FFF5>	I think so too, but I'm<FFF6>just way too perfect!<FFF6>I even scare myself...<FFFC>Kyaa~<FFFD>せ<FFF5>
 36	お姉さんの言うこと、<FFF6>よく分かんないけどぉ、<FFF6>そうかもー。<FFF5>	I don't really get what<FFF6>you're saying, miss,<FFF6>but maybe so.<FFF5>
-37	お姉さんて、けっこう、<FFF6>だまされやすいでしょ。<FFFC><FFF6>でも、純真で、かわいいよ♥<FFF5>	You're pretty easy to<FFF6>trick, aren't you, miss.<FFFC><FFF6>But you're pure and cute~<FFF5>
+37	お姉さんて、けっこう、<FFF6>だまされやすいでしょ。<FFFC><FFF6>でも、純真で、かわいいよ♥<FFF5>	You're pretty easy to<FFF6>trick, aren't you, miss.<FFFC><FFF6>But you're pure and cute~ ♥<FFF5>
 38	ちょっとぉ！<FFF6>テキトーなこと言わないでよ！<FFF6>そんな嘘、わかるわよ！<FFF5>	Heey!<FFF6>Don't talk nonsense!<FFF6>I can see right through your lies!<FFF5>
 39	お姉さんの話って、<FFF6>なーんか、ウソっぽい！<FFFC><FFF6>それって本気ぃ？<FFFD>そ<FFF5>	Your story, miss...<FFF6>sounds kinda fake!<FFFC><FFF6>Are you for real?<FFFD>そ<FFF5>
 40	何だかんだ言って、<FFF6>アタシに座りたいんでしょ？<FFF6>この便座、最高だもん！<FFF5>	No matter what you say,<FFF6>you just wanna sit on me, right?<FFF6>This toilet seat is the best!<FFF5>
-41	エヘヘ、エヘヘ！<FFF6>お姉さんの話、<FFF6>アタシ、信じらんないなぁ。<FFFB><FFF7>エヘヘヘヘヘ！<FFF6>もち、何かくれれば話は別♥<FFF1><FFF5>	Course, if you gimme somethin'~<FFFB><FFF7><FFF1><FFF5>
-42	分かってるじゃなーい！<FFF6>ものわかりがいい人って、<FFF6>アタシ、好きだよ♥<FFF5>	You totally get it!<FFF6>I like people<FFF6>who are understanding~<FFF5>
+41	エヘヘ、エヘヘ！<FFF6>お姉さんの話、<FFF6>アタシ、信じらんないなぁ。<FFFB><FFF7>エヘヘヘヘヘ！<FFF6>もち、何かくれれば話は別♥<FFF1><FFF5>	Course, if you gimme somethin'~ ♥<FFFB><FFF7><FFF1><FFF5>
+42	分かってるじゃなーい！<FFF6>ものわかりがいい人って、<FFF6>アタシ、好きだよ♥<FFF5>	You totally get it!<FFF6>I like people<FFF6>who are understanding~ ♥<FFF5>
 43	ふ～ん……お姉さんのこと、<FFF6>おバカだと思ってた……<FFFC><FFF6>悪魔を見る目あるんだね！<FFFD>た<FFF5>	Hmm... I thought<FFF6>you were dumb, miss...<FFFC><FFF6>You've got an eye for demons!<FFFD>た<FFF5>
 44	もしもしー！<FFFC><FFF6>本気じゃないの、<FFF6>バレバレですよ！<FFF5>	Hellooo!<FFFC><FFF6>It's totally obvious<FFF6>you aren't serious!<FFF5>
 45	お姉さんには、プライドないの？<FFFC>そういう女って、一番嫌い！<FFFD>ち<FFF5>	Miss, do you have no pride?<FFFC><FFF6>I hate women who easily<FFF6>tag along with men.<FFFD>ち<FFF5>
 46	エヘヘ、エヘヘ！<FFF6>ケンキョなのが一番よ、うん！<FFF5>	Ehehe, ehehe!<FFF6>Being humble is the best, yep!<FFF5>
 47	アタシ、自分でも思うけどぉ、<FFF6>カンペキすぎるよねぇ！<FFF6>自分で自分が怖い…<FFFC>キャッ☆<FFFD>つ<FFF5>	I think so too, but I'm<FFF6>just way too perfect!<FFF6>I even scare myself...<FFFC>Kyaa~<FFFD>つ<FFF5>
-48	ふ～ん………<FFF6>いきなり、変なのぉ！<FFFC><FFF6>でも、カッコイイからいっか♥<FFF5>	Hmm...<FFF6>You're suddenly weird!<FFFC><FFF6>But you're cool, so it's fine~<FFF5>
+48	ふ～ん………<FFF6>いきなり、変なのぉ！<FFFC><FFF6>でも、カッコイイからいっか♥<FFF5>	Hmm...<FFF6>You're suddenly weird!<FFFC><FFF6>But you're cool, so it's fine~ ♥<FFF5>
 49	ごはん、食べるくらいなら、<FFF6>一緒に行ってもいいよ。<FFF6>もちろん、おごりだよね？<FFFD>て<FFF5>	If it's just grabbing a bite,<FFF6>I wouldn't mind going with you.<FFF6>Your treat, of course, right?<FFFD>て<FFF5>
 50	アタシって…<FFF6>そんなに軽そうに見える？<FFFC><FFF6>なんか、気に入らないなぁ…<FFF5>	Do I...<FFF6>look that easy to you?<FFFC><FFF6>I don't like that...<FFF5>
 51	アタシ、便器じゃなきゃイヤ！<FFF6>アンタは、お呼びじゃないの！<FFFD>と<FFF5>	I don't want anyone but my toilet!<FFF6>You're not invited!<FFFD>と<FFF5>
@@ -100,7 +100,7 @@ unit	ja	en
 98	エヘヘ、エヘヘ！<FFF6>そんなにほめられたら、<FFF6>照れちゃうな！<FFF5>	Ehehe, ehehe!<FFF6>I'll blush if you<FFF6>praise me that much!<FFF5>
 99	エヘヘ、エヘヘ！<FFF6>そう言う、お兄さんだって、<FFF6>アタマいいんでしょ？！<FFFD>れ<FFF5>	Ehehe, ehehe!<FFF6>If you say that, mister,<FFF6>you must be smart too?!<FFFD>れ<FFF5>
 100	ふ～ん………<FFFC><FFF6>いい感じじゃない！<FFF5>	Hmm...<FFFC><FFF6>Not a bad vibe!<FFF5>
-101	ふ～ん、上手いんだね！<FFF6>今度、アタシにも教えて♥<FFFD>ろ<FFF5>	Hmm, you're good at that!<FFF6>Teach me next time~<FFFD>ろ<FFF5>
+101	ふ～ん、上手いんだね！<FFF6>今度、アタシにも教えて♥<FFFD>ろ<FFF5>	Hmm, you're good at that!<FFF6>Teach me next time~ ♥<FFFD>ろ<FFF5>
 102	なーんだ、全然ヘタくそじゃん。アンタ、最低って感じぃ！<FFF5>	You're totally terrible at it.<FFF6>You're the worst!<FFF5>
 103	やっだぁ、何してんの？！<FFF6>トイレなら、あっちだよ！<FFF6>アタシのは貸さないよ！<FFFD>わ<FFF5>	Ew, what are you doing?!<FFF6>The toilet is over there!<FFF6>I won't lend you mine!<FFFD>わ<FFF5>
 104	エヘヘ、エヘヘ！<FFF6>かぁっこいーっ！<FFF5>	Ehehe, ehehe!<FFF6>So cooool!<FFF5>
@@ -122,7 +122,7 @@ unit	ja	en
 120	ちょっとぉ！<FFF6>テキトーなこと言わないでっ！<FFF5>	Heey!<FFF6>Don't talk nonsense!<FFF5>
 121	お兄さんの話って、<FFF6>なーんか、ウソっぽい！<FFFC><FFF6>それって本当？<FFFD>ざ<FFF5>	Your story, mister...<FFF6>sounds kinda fake!<FFFC><FFF6>Is it true?<FFFD>ざ<FFF5>
 122	何だかんだ言って、<FFF6>アタシに座りたいんでしょ？<FFF6>この便座、最高だもん！<FFF5>	No matter what you say,<FFF6>you just wanna sit on me, right?<FFF6>This toilet seat is the best!<FFF5>
-123	エヘヘ！　お兄さんの話、<FFF6>アタシ、信じらんないよ。<FFF6>もち、何かくれれば、別♥<FFF1><FFF5>	Course, if you gimme somethin'~<FFF1><FFF5>
+123	エヘヘ！　お兄さんの話、<FFF6>アタシ、信じらんないよ。<FFF6>もち、何かくれれば、別♥<FFF1><FFF5>	Course, if you gimme somethin'~ ♥<FFF1><FFF5>
 124	そんなの　信じてるなんて<FFF6>ほんと、お子様なのね！<FFF5>	To believe something like that,<FFF6>you really are a kid!<FFF5>
 125	それで、アタシも、<FFF6>そんなお化けの仲間だって、<FFF6>言いたいわけ？<FFFD>じ<FFF5>	So are you trying to say<FFF6>I'm one of those ghosts<FFF6>too?<FFFD>じ<FFF5>
 126	う、うぇーん！<FFF6>怖いよ～！<FFF5>	W-Waaah!<FFF6>I'm scaaared!<FFF5>
@@ -142,7 +142,7 @@ unit	ja	en
 140	なんか、懐かしい…<FFF6>気がするの…<FFF6>エヘヘ、エヘヘ！<FFF5>	It feels kinda...<FFF6>nostalgic...<FFF6>Ehehe, ehehe!<FFF5>
 141	エヘヘ、エヘヘ！<FFF6>なんか、楽しいよぉ！<FFFD>ば<FFF5>	Ehehe, ehehe!<FFF6>This is kinda fun!<FFFD>ば<FFF5>
 142	お姉さんの言うこと、<FFF6>よく分かんないけどぉ、<FFF6>アタシ誘われてるみたい。<FFF5>	I don't really get what<FFF6>you're saying, miss,<FFF6>but it sounds like an invite.<FFF5>
-143	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~<FFF1><FFF5>
+143	その件については、<FFF6>考えてあげるけどぉ…<FFF6>アタシ、後払いって嫌い♥<FFF1><FFF5>	I'll think about<FFF6>that, but...<FFF6>I hate paying later~ ♥<FFF1><FFF5>
 144	ふん！　アタシの便器、<FFF6>とるつもりなんでしょ？<FFF6>そうは、いかないわよ！<FFF5>	Hmph! You're trying to take<FFF6>my toilet, aren't you?<FFF6>I won't let you!<FFF5>
 145	お姉さんの話って、<FFF6>なーんか、ウソっぽい！<FFFC><FFF6>それって本気ぃ？<FFFD>び<FFF5>	Your story, miss...<FFF6>sounds kinda fake!<FFFC><FFF6>Are you for real?<FFFD>び<FFF5>
 146	何だかんだ言って、<FFF6>アタシに座りたいんでしょ？<FFF6>この便座、最高だもん！<FFF5>	No matter what you say,<FFF6>you just wanna sit on me, right?<FFF6>This toilet seat is the best!<FFF5>
@@ -175,8 +175,8 @@ unit	ja	en
 173	いきなり失礼なヤツ！<FFF6>しつけ、できてないよねー！<FFFD>っ<FFF5>	How suddenly rude!<FFF6>You've got no manners!<FFFD>っ<FFF5>
 174	う、うぇーん！<FFF6>お姉さん、もうやめてぇ………<FFF5>	W-Waaah!<FFF6>Miss, please stop it...<FFF5>
 175	う、うぇーん！<FFF6>何もしてないのに、<FFF6>どうして、いじめるのぉ！？<FFFD>ゃ<FFF5>	W-Waaah!<FFF6>I didn't do anything,<FFF6>so why are you bullying me!?<FFFD>ゃ<FFF5>
-176	エヘヘ、エヘヘ！<FFF6>いたぶられるの、<FFF6>クセになっちゃいそう♥<FFF5>	Ehehe, ehehe!<FFF6>Being tormented might<FFF6>become a habit~<FFF5>
-177	エヘヘ、エヘヘ！<FFF6>アタシは悪い娘でした…<FFFC><FFF6>だから、もっといじめてぇ♥<FFFD>ゅ<FFF5>	Ehehe, ehehe!<FFF6>I was a bad girl...<FFFC><FFF6>So bully me moooore~<FFFD>ゅ<FFF5>
+176	エヘヘ、エヘヘ！<FFF6>いたぶられるの、<FFF6>クセになっちゃいそう♥<FFF5>	Ehehe, ehehe!<FFF6>Being tormented might<FFF6>become a habit~ ♥<FFF5>
+177	エヘヘ、エヘヘ！<FFF6>アタシは悪い娘でした…<FFFC><FFF6>だから、もっといじめてぇ♥<FFFD>ゅ<FFF5>	Ehehe, ehehe!<FFF6>I was a bad girl...<FFFC><FFF6>So bully me moooore~ ♥<FFFD>ゅ<FFF5>
 178	お姉さんの言うこと、<FFF6>よく分かんないけどぉ、<FFF6>そうかもー。<FFF5>	I don't really get what<FFF6>you're saying, miss,<FFF6>but maybe so.<FFF5>
 179	ふ～ん………<FFFC><FFF6>お姉さんって、けっこう<FFF6>しっかりしてるんだぁ。<FFFD>ょ<FFF5>	Hmm...<FFFC><FFF6>You seem like you've got<FFF6>it pretty together, miss.<FFFD>ょ<FFF5>
 180	便器にさとすなんて<FFF6>どっか、おかしいんじゃない！<FFF5>	Admonishing a toilet<FFF6>is kinda weird, isn't it!<FFF5>
@@ -188,7 +188,7 @@ unit	ja	en
 186	う、うぇーん！<FFF6>ごめんなさぁい……<FFF5>	W-Waaah!<FFF6>I'm sooorry...<FFF5>
 187	う、うぇーん！<FFF6>何もしてないのに、<FFF6>どうして、叱るのぉ……<FFFD>ウ<FFF5>	W-Waaah!<FFF6>I didn't do anything,<FFF6>so why are you scolding me...<FFFD>ウ<FFF5>
 188	エヘヘ、エヘヘ！<FFF6>ゲンキいいね☆<FFF5>	Ehehe, ehehe!<FFF6>So energeeetic~<FFF5>
-189	エヘヘ、エヘヘ！<FFF6>アタシは悪い娘でした…<FFFC><FFF6>だから、もっと叱ってぇ♥<FFFD>エ<FFF5>	Ehehe, ehehe!<FFF6>I was a bad girl...<FFFC><FFF6>So scold me moooore~<FFFD>エ<FFF5>
+189	エヘヘ、エヘヘ！<FFF6>アタシは悪い娘でした…<FFFC><FFF6>だから、もっと叱ってぇ♥<FFFD>エ<FFF5>	Ehehe, ehehe!<FFF6>I was a bad girl...<FFFC><FFF6>So scold me moooore~ ♥<FFFD>エ<FFF5>
 190	ふ～ん、強気なんだぁ。<FFF6>最後まで、そのままだったら、<FFF6>すごいけどね。<FFF5>	Hmm, you're pretty tough.<FFF6>It'd be amazing if you stayed<FFF6>like that till the end.<FFF5>
 191	ふ～ん………<FFFC><FFF6>お姉さん、アタシに、<FFF6>用があるんじゃないの？<FFFD>オ<FFF5>	Hmm...<FFFC><FFF6>Miss, don't you have<FFF6>some business with me?<FFFD>オ<FFF5>
 192	ちょっとぉ！<FFF6>無視しないでよ！<FFF6>ちょームカつくー！<FFF5>	Heey!<FFF6>Don't ignore me!<FFF6>It's so annoooying!<FFF5>
@@ -211,14 +211,14 @@ unit	ja	en
 209	うるさいなぁ！<FFF6>アンタ、バッカじゃないの！？<FFFD>セ<FFF5>	You're so loud!<FFF6>Are you stupid or what!?<FFFD>セ<FFF5>
 210	う、うぇーん！<FFFC><FFF6>何で叫ぶのぉ？<FFF6>この人、ヤバいよぉ～。<FFF5>	W-Waaah!<FFFC><FFF6>Why are you screaming?<FFF6>This guy is bad news...<FFF5>
 211	お兄さん……大丈夫？<FFF6>テンション高いと危ないから、<FFF6>落ち着いてね？<FFFD>ソ<FFF5>	You okay, mister?...<FFF6>Being high-strung is dangerous,<FFF6>so calm down, alright?<FFFD>ソ<FFF5>
-212	お兄さんって、ヘンなヒトぉ！<FFF6>でも、カッコイイからいっか♥<FFF5>	You're a weird guy, mister!<FFF6>But you're cool, so it's fine~<FFF5>
-213	エヘヘ、エヘヘ！<FFF6>イカレてるぅ！<FFF6>危ない人って好きだな♥<FFFD>タ<FFF5>	Ehehe, ehehe!<FFF6>You're craaazy!<FFF6>I like dangerous guys~<FFFD>タ<FFF5>
+212	お兄さんって、ヘンなヒトぉ！<FFF6>でも、カッコイイからいっか♥<FFF5>	You're a weird guy, mister!<FFF6>But you're cool, so it's fine~ ♥<FFF5>
+213	エヘヘ、エヘヘ！<FFF6>イカレてるぅ！<FFF6>危ない人って好きだな♥<FFFD>タ<FFF5>	Ehehe, ehehe!<FFF6>You're craaazy!<FFF6>I like dangerous guys~ ♥<FFFD>タ<FFF5>
 214	手品までして、アタシに<FFF6>かまって欲しいの？<FFFC><FFF6>お兄さん、コドモなのねぇ！<FFF5>	Doing magic tricks to get<FFF6>my attention?<FFFC><FFF6>You're such a kid, mister!<FFF5>
 215	ふ～ん………<FFFC><FFF6>お兄さんて、<FFF6>魔法使いなんだー！<FFFD>チ<FFF5>	Hmm...<FFFC><FFF6>So you're a<FFF6>magician, mister!<FFFD>チ<FFF5>
 216	う、うぇーん！<FFF6>この人、なんか怪しい……<FFFC><FFF6>こ、怖いよぉ……<FFF5>	W-Waaah!<FFF6>This guy is suspicious...<FFFC><FFF6>S-Scaaary...<FFF5>
 217	変な気を起こさないでね……<FFFC><FFF6>アタシを、消してみようとか…<FFFD>ツ<FFF5>	Don't get any weird ideas...<FFFC><FFF6>Like trying to<FFF6>make me disappear...<FFFD>ツ<FFF5>
 218	手品かぁ……<FFFC><FFF6>エヘヘ、エヘヘ！<FFF6>お兄さん、しっぶーい！<FFF5>	Magic tricks, huh...<FFFC><FFF6>Ehehe, ehehe!<FFF6>You're so cooool, mister!<FFF5>
-219	そこの、かっこいい、<FFF6>お・<FFFC>に・<FFFC>い・<FFFC>さぁ～ん！<FFFC><FFF6>魔術で新しい便器、出してぇ♥<FFFD>テ<FFF5>	Hey there, handsome<FFF6>m-<FFFC>i-<FFFC>s-<FFFC>t-e-r~!<FFFC><FFF6>Conjure a new toilet for me~<FFFD>テ<FFF5>
+219	そこの、かっこいい、<FFF6>お・<FFFC>に・<FFFC>い・<FFFC>さぁ～ん！<FFFC><FFF6>魔術で新しい便器、出してぇ♥<FFFD>テ<FFF5>	Hey there, handsome<FFF6>m-<FFFC>i-<FFFC>s-<FFFC>t-e-r~!<FFFC><FFF6>Conjure a new toilet for me~ ♥<FFFD>テ<FFF5>
 220	ふ～ん………<FFFC><FFF6>人間の話って、<FFF6>興味深いし、面白いわ。<FFF5>	Hmm...<FFFC><FFF6>Human stories are<FFF6>fascinating and fun.<FFF5>
 221	そんな、マジに話して…<FFFC><FFF6>ふ～ん………アタシって、<FFF6>そんなに魅力的ィ？<FFF5>	Talking so seriously...<FFFC><FFF6>Hmm... Am I<FFF6>really that attractive?<FFF5>
 222	話、聞いたげてもいいけど、<FFF6>なんかこう、フトコロが、<FFF6>寂しいなー、みたいな感じ。<FFF1><FFF5>	I don't mind listening, but...<FFF6>My pockets feel a little...<FFF6>lonely, y'know?<FFF1><FFF5>
@@ -231,8 +231,8 @@ unit	ja	en
 229	エヘヘ、エヘヘ！<FFF6>こんなに愉快な話、<FFF6>久しぶりー！<FFF5>	Ehehe, ehehe!<FFF6>It's been a while since I<FFF6>heard such a fun story!<FFF5>
 230	エヘヘ、エヘヘ！<FFF6>面白いなぁ…<FFFC><FFF6>ずっと、お話ししてたいなぁ…<FFF5>	Ehehe, ehehe!<FFF6>How fun...<FFFC><FFF6>I wanna keep talking forever...<FFF5>
 231	ふーん…アンタって、<FFF6>悪魔を見る目、あるんだぁ…<FFFC><FFF6>ちょっと、期待大って感じぃ！<FFF5>	Hmm... You've got an eye<FFF6>for demons...<FFFC><FFF6>I've got high hopes for you!<FFF5>
-232	ストレートな交渉でオッケー♥<FFF5>	Straightforward negotiation<FFF6>is okay with me~<FFF5>
-233	そっちの言いたいことは、<FFF6>バッチリ分かったからさ、<FFF6>アタシの言い分も聞いてね♥<FFF5>	I totally get what you're<FFF6>trying to say, so listen<FFF6>to my side too, okay~<FFF5>
+232	ストレートな交渉でオッケー♥<FFF5>	Straightforward negotiation<FFF6>is okay with me~ ♥<FFF5>
+233	そっちの言いたいことは、<FFF6>バッチリ分かったからさ、<FFF6>アタシの言い分も聞いてね♥<FFF5>	I totally get what you're<FFF6>trying to say, so listen<FFF6>to my side too, okay~ ♥<FFF5>
 234	アタシを誰だと思ってんの？<FFF6>人間に力なんて、貸さないよ！<FFF5>	Who do you think I am?<FFF6>I won't lend my power<FFF6>to a human!<FFF5>
 235	バカじゃないのぉ！？<FFF6>便器のアタシに<FFF6>頼むなんてさ！<FFF5>	Are you stupid!?<FFF6>Asking a toilet seat<FFF6>for a favor!<FFF5>
 236	アンタ、人間でしょ！<FFF6>マジで話にならないよ！<FFFB><FFF7>ま、出すもの出せば、<FFF6>態度変えてもいいけどね！<FFF1><FFF5>	You're a human!<FFF6>I seriously can't even!<FFFB><FFF7>Well, if you pay up, I might<FFF6>change my attitude!<FFF1><FFF5>
@@ -255,8 +255,8 @@ unit	ja	en
 253	エヘヘ、エヘヘ！<FFF6>ま、コドモのする事だから、<FFF6>許してあげようかな。<FFF5>	Ehehe, ehehe!<FFF6>Well, it's just a kid's prank,<FFF6>so I guess I'll forgive you.<FFF5>
 254	エヘヘ、エヘヘ！<FFF6>ま、コドモのする事だから、<FFF6>許してあげようかな。<FFF5>	Ehehe, ehehe!<FFF6>Well, it's just a kid's prank,<FFF6>so I guess I'll forgive you.<FFF5>
 255	ふ～ん……もしかして、<FFF6>新しい芸人さぁん？<FFF6>がんばってねー！<FFF5>	Hmm... Could you be<FFF6>a new comedian?<FFF6>Do your best!<FFF5>
-256	残念でしたぁ、失格でーす！<FFF6>でもいい線いってるから、<FFF6>また、挑戦してくださいね♥<FFF5>	Too bad, you're disqualified!<FFF6>But you were close, so<FFF6>please try again~<FFF5>
-257	ふ～ん…<FFFC>イマイチだから<FFF6>アドバイスしてあげるよ！<FFF6>でも何か、払ってね♥<FFF1><FFF5>	Hmm...<FFFC>It's not great,<FFF6>so I'll give you some advice!<FFF6>But pay me first~<FFF1><FFF5>
+256	残念でしたぁ、失格でーす！<FFF6>でもいい線いってるから、<FFF6>また、挑戦してくださいね♥<FFF5>	Too bad, you're disqualified!<FFF6>But you were close, so<FFF6>please try again~ ♥<FFF5>
+257	ふ～ん…<FFFC>イマイチだから<FFF6>アドバイスしてあげるよ！<FFF6>でも何か、払ってね♥<FFF1><FFF5>	Hmm...<FFFC>It's not great,<FFF6>so I'll give you some advice!<FFF6>But pay me first~ ♥<FFF1><FFF5>
 258	…………………<FFFC><FFF6>つまんなぁーい！<FFF5>	...<FFFC><FFF6>So boriiing!<FFF5>
 259	ぶううー！<FFF6>帰れ、帰れ！<FFF5>	Boooo!<FFF6>Go home, go home!<FFF5>
 260	そんなので、稼ぐつもり？<FFF6>冗談、こっちがもらうからね！<FFF1><FFF5>	You think you can earn<FFF6>with that? Kidding,<FFF6>I'll be taking instead!<FFF1><FFF5>
@@ -265,7 +265,7 @@ unit	ja	en
 263	エヘヘ、エヘヘ！<FFF6>もー、面白い人だなぁ。<FFF6>見てて、飽きないよ！<FFF5>	Ehehe, ehehe!<FFF6>Jeez, you're a fun guy.<FFF6>I won't get bored watching you!<FFF5>
 264	アタシも何か、<FFF6>芸ができるといいのになぁ…<FFF6>習い事でもしようかな。<FFF5>	I wish I could do some<FFF6>kinda trick too...<FFF6>Maybe I'll take lessons.<FFF5>
 265	エヘヘ、エヘヘ！<FFF6>もっとやってぇー！<FFF5>	Ehehe, ehehe!<FFF6>Do moooore!<FFF5>
-266	ふ～ん…<FFFC><FFF6>アタシが欲しいの？<FFFC><FFF6>だまされちゃおうかな♥<FFF5>	Hmm...<FFFC><FFF6>You want me?<FFFC><FFF6>Maybe I'll let you trick me~<FFF5>
+266	ふ～ん…<FFFC><FFF6>アタシが欲しいの？<FFFC><FFF6>だまされちゃおうかな♥<FFF5>	Hmm...<FFFC><FFF6>You want me?<FFFC><FFF6>Maybe I'll let you trick me~ ♥<FFF5>
 267	ふ～ん…<FFFC><FFF6>アタシぃ、見かけより、<FFF6>年取ってるけど…<FFFC>いいの？<FFF5>	Hmm...<FFFC><FFF6>I'm actually older than I<FFF6>look, but...<FFFC>is that okay?<FFF5>
 268	ふ～ん…<FFFC><FFF6>考えてあげてもいいけどぉ…<FFF6>まずは、気前が良くなきゃね！<FFF1><FFF5>	Hmm...<FFFC><FFF6>I don't mind thinking about it,<FFF6>but first, pay up!<FFF1><FFF5>
 269	アタシをバカにしてんの？<FFF5>	Are you making fun of me?<FFF5>
@@ -288,7 +288,7 @@ unit	ja	en
 286	エヘヘ、エヘヘ！<FFF6>アタシにも子分が出来たかな！<FFF5>	Ehehe, ehehe!<FFF6>I wonder if I got<FFF6>an underling too!<FFF5>
 287	アタシの名前って、<FFF6>人間の世界でも、有名なのねー！エヘヘヘ、嬉しいなぁ。<FFF5>	My name is famous even<FFF6>in the human world, huh!<FFF6>Ehehehe, I'm so happy.<FFF5>
 288	あれ？　アタシのカード、<FFF6>もう持ってるじゃ～ん！<FFF6>ぜったい、大事にしてよね！<FFEF>	Huh? You already have<FFF6>my card, don't you!<FFF6>Make sure you treasure it!<FFEF>
-289	じゃ、これあげちゃう♥<FFEF>	Then I'll give you this~<FFEF>
+289	じゃ、これあげちゃう♥<FFEF>	Then I'll give you this~ ♥<FFEF>
 290	えっ、そうなの？<FFEF>	Eh, really?<FFEF>
 291	ごめぇん。<FFF6>アンタとは、どうも好みが<FFF6>合わないみたいなんだぁ。<FFEF>	Sooorry.<FFF6>It seems our tastes<FFF6>don't really match.<FFEF>
 292	アンタ、弱っちいくせに、<FFF6>ずうずうしいんじゃないー？<FFFC><FFF6>カードは、あーげない！<FFF5>	You're pretty brazen<FFF6>for a weakling, y'know?<FFFC><FFF6>No card for you!<FFF5>
@@ -296,14 +296,14 @@ unit	ja	en
 294	じゃ、バイバーイ☆<FFEF>	Well then, byeee~<FFEF>
 295	これ、オマケね☆<FFEF>	Here, a little extra~<FFEF>
 296	アタシ、もう行くね！<FFEF>	I'm gonna go now!<FFEF>
-297	カードあげるけど、あまり<FFF6>大きいペルソナにはしないでね…<FFFC>便器につまると、大変だから♥<FFEF>	I was tryin' so hard I might<FFF6>make too big of a Persona...<FFFC><FFF6>It's awful when that happens!<FFEF>
+297	カードあげるけど、あまり<FFF6>大きいペルソナにはしないでね…<FFFC>便器につまると、大変だから♥<FFEF>	I was tryin' so hard I might<FFF6>make too big of a Persona...<FFFC><FFF6>It's awful when that happens! ♥<FFEF>
 298	これ、あげるからぁ…<FFFC><FFF6>お願い！　見逃して！<FFEF>	I'll give you this, so...<FFFC><FFF6>Please! Let me go!<FFEF>
 299	もー、うんざり！<FFF6>アタシ帰る！<FFEF>	Jeez, I'm sick of this!<FFF6>I'm going home!<FFEF>
 300	これあげるから、<FFF6>おとなしく、おうちに帰んなよ。<FFEF>	I'll give you this, so<FFF6>be a good boy and go home.<FFEF>
 301	まったく、最近の人間て、<FFF6>アッタマくるよ！　マジで！！<FFF6>交渉したアタシがバカみたい！<FFF5>	Jeez, humans lately<FFF6>piss me off! Seriously!!<FFF6>I feel stupid for negotiating!<FFF5>
 302	もう、ヤケって感じぃ！<FFF6>スペルカード、欲しいんでしょ！<FFFC>もういい、あげちゃうわ！<FFEF>	You want my Spell Card, right!?<FFFC><FFF6>Fine, I'll let you have it.<FFF6>Consider it an honor!<FFEF>
 303	…………………<FFFC><FFF6>あのね、アタシ………<FFFC><FFF6>アンタの役に立ちたいの…<FFEF>	...<FFFC><FFF6>Y'know, I...<FFFC><FFF6>wanna be useful to you...<FFEF>
-304	これ、アタシのスペルカード…<FFF6>アンタの好きなペルソナに<FFF6>してオッケーだからね♥<FFF5>	Here, my Spell Card...<FFF6>It's okay to turn it into<FFF6>your favorite Persona~<FFF5>
+304	これ、アタシのスペルカード…<FFF6>アンタの好きなペルソナに<FFF6>してオッケーだからね♥<FFF5>	Here, my Spell Card...<FFF6>It's okay to turn it into<FFF6>your favorite Persona~ ♥<FFF5>
 305	アンタとは戦えないもん…<FFEF>	I can't fight you...<FFEF>
 306	これ、アタシから…<FFEF>	This is from me...<FFEF>
 307	でも、アンタ人間なんだから、<FFF6>少しは、慈悲の心ってものが、<FFF6>あるでしょう…<FFFC>あるよね？<FFF5>	But, since you're human,<FFF6>you must have at least<FFF6>a little mercy...<FFFC>right?<FFF5>
@@ -328,7 +328,7 @@ unit	ja	en
 326	<FFEC>ちょっとでも変なことしたら、<FFF6>アタシ、すぐ帰るから……<FFF5>	<FFEC>If you try anything weird<FFF6>even a little bit,<FFF6>I'm going straight home...<FFF5>
 327	<FFEB>あなた、運命って信じる？<FFFC><FFF6>アタシ、ずっと、<FFF6>この日を、待ってた気がする…<FFFD>ハ<FFF5>	<FFEB>Do you believe in fate?<FFFC><FFF6>I feel like I've been waiting<FFF6>for this day forever...<FFFD>ハ<FFF5>
 328	<FFEB>あなた、運命って信じる？<FFFC><FFF6>アタシたちの出会いは、<FFF6>かなり、いい線いってるよ！<FFF5>	<FFEB>Do you believe in fate?<FFFC><FFF6>Our meeting is<FFF6>pretty darn good!<FFF5>
-329	<FFEE>どきっ♥<FFFC><FFF6>あなたの瞳に、<FFF6>吸い込まれてしまいそう！<FFF5>	<FFEE>*Throb*~<FFFC><FFF6>I feel like I'll be<FFF6>sucked into your eyes!<FFF5>
+329	<FFEE>どきっ♥<FFFC><FFF6>あなたの瞳に、<FFF6>吸い込まれてしまいそう！<FFF5>	<FFEE>*Throb* ♥<FFFC><FFF6>I feel like I'll be<FFF6>sucked into your eyes!<FFF5>
 330	<FFEC>もしかして、あの、<FFF6><FFFA>さん？<FFFD>ヒ<FFF5>	<FFEC>Wait, are you<FFF6>the famous <FFFA>-san?<FFFD>ヒ<FFF5>
 331	<FFEC>いやいや、寄らないでぇー！<FFF6>この、ピーーーーーーーーー！<FFF5>	<FFEC>No no, don't come near me!<FFF6>You bleeeeeeeeeeeeeeeeep!<FFF5>
 332	<FFED>ことわっておくけど、<FFF6>ア、<FFFC>アタシを殺したら、<FFF6>後悔するからね…！<FFF5>	Oh my, you really are cute~<FFFC><FFF6>...But wait, mister,<FFF6>aren't you a little young?<FFED><FFF5>
@@ -355,18 +355,18 @@ unit	ja	en
 353	何の犠牲も払わずに、<FFF6>アタシと交渉する気？<FFFC><FFF6>それ、虫が良すぎんじゃない！<FFF5>	You thought you could negotiate<FFF6>without giving anything up?<FFFC><FFF6>You're asking for too much!<FFF5>
 354	アンタ、なんなの？<FFF6>交渉する気、ないんでしょ。<FFFC><FFF6>あ～あ、アホらし。<FFF5>	What's your deal?<FFF6>You don't want to negotiate, huh.<FFFC><FFF6>Ahhh, how stupid.<FFF5>
 355	最初が「ま」で最後に「き」が<FFF6>つくもの、１個　ちょうだい！<FFEF>	Give me one thing that starts<FFF6>with 'M' and ends with 'E'!<FFEF>
-356	エヘヘ、エヘヘ！<FFF6>嬉しいっ♥<FFF5>	Ehehe, ehehe!<FFF6>I'm so happy~~<FFF5>
+356	エヘヘ、エヘヘ！<FFF6>嬉しいっ♥<FFF5>	Ehehe, ehehe!<FFF6>I'm so happy~~ ♥<FFF5>
 357	アンタ、魔石も持たずに、<FFF6>アタシと交渉してたわけ？<FFFC><FFF6>ムカツク～！！<FFF5>	You negotiated with me without<FFF6>even having a Life Stone?<FFFC><FFF6>That pisses me off~!!<FFF5>
 358	アンタ、魔石もないの？<FFF6>あーあ、なっさけなぁい…<FFF5>	You don't even have a Life Stone?<FFF6>Ahhh, so pathetic...<FFF5>
 359	あっそう……<FFFC><FFF6>なら、地獄まで持ってけば！<FFF5>	Oh, is that so...<FFFC><FFF6>Then take them to hell with you!<FFF5>
 360	アンタってニンゲンなのに、<FFF6>魔石がそんなに惜しいの？<FFFC><FFF6>なんか、悪魔みたいね。<FFF5>	You're a human, yet you're that<FFF6>stingy with your Life Stones?<FFFC><FFF6>You're kinda like a demon.<FFF5>
-361	アタシ、<FFF4><FFF6>ほしいな、ダーリン♥<FFEF>	I want a <FFF4>,<FFF6>darling~<FFEF>
+361	アタシ、<FFF4><FFF6>ほしいな、ダーリン♥<FFEF>	I want a <FFF4>,<FFF6>darling~ ♥<FFEF>
 362	ラッキー！！<FFF6>これ、欲しかったんだぁ…<FFF5>	Lucky!!<FFF6>I've been wanting one of these...<FFF5>
 363	いやぁん、だまされた！<FFF6>アタシ、お金持ちしか、<FFF6>相手にしないのに！<FFF5>	Nooo, I've been tricked!<FFF6>I only deal with<FFF6>rich people, too!<FFF5>
 364	もぉ殺す！<FFF6>絶対、海に流すっ！<FFF5>	I'll kill you!<FFF6>I'll absolutely flush you<FFF6>into the ocean!<FFF5>
 365	………アンタがアタシの、<FFF6>ダーリンなわけないから、<FFF6>今回は、ま、いっか！<FFF5>	...It's not like you're my darling<FFF6>anyway, so whatever!<FFF6>I'll let it slide this time!<FFF5>
 366	アタシ、お腹すいてんの…<FFF6>一口だけ、吸わせてよ。<FFF6>痛くしないからさ！<FFEF>	I'm starving...<FFF6>Let me suck just one bite.<FFF6>I won't make it hurt!<FFEF>
-367	エヘヘ、エヘヘ！<FFF6>優しくしてあげる♥<FFF5>	Ehehe, ehehe!<FFF6>I'll be gentle with you~<FFF5>
+367	エヘヘ、エヘヘ！<FFF6>優しくしてあげる♥<FFF5>	Ehehe, ehehe!<FFF6>I'll be gentle with you~ ♥<FFF5>
 368	ムカー！<FFFC><FFF6>ちょっとくらい、いいじゃん。<FFF6>アンタ、ケチだね！<FFF5>	I'm pissed!<FFFC><FFF6>Just a little bit is fine, right?<FFF6>You're so cheap!<FFF5>
 369	あ、そう…………<FFFC><FFF6>でも今回は、ま、いっか！<FFF5>	Oh, really............<FFFC><FFF6>But whatever, I'll let it slide<FFF6>this time!<FFF5>
 370	自慢するほどのことじゃ、<FFF6>ないけどね！<FFF5>	It's not really something<FFF6>to brag about, though!<FFF5>
@@ -375,7 +375,7 @@ unit	ja	en
 373	えー、ちょっと、<FFF6>それじゃ、わかんないよ。<FFFC><FFF6>いったい、どっちなの……<FFF5>	Ehh, wait,<FFF6>I can't tell like that.<FFFC><FFF6>Which is it, really...<FFF5>
 374	エヘヘ、エヘヘ！<FFF6>はぐらかさないでよ！<FFF6>もう、どっちなのー？<FFF5>	Ehehe, ehehe!<FFF6>Don't dodge the question!<FFF6>Geez, which one is it?<FFF5>
 375	だろうと思ったんだ！<FFFC><FFF6>あ、でもアタシで用を<FFF6>足すのは、やめてね！<FFF5>	I thought so!<FFFC><FFF6>Ah, but don't do your<FFF6>business in me, okay!<FFF5>
-376	お兄さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, mister!<FFFC><FFF6>Ehehehe! Just like me~<FFF5>
+376	お兄さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, mister!<FFFC><FFF6>Ehehehe! Just like me~ ♥<FFF5>
 377	なに、がまんしてんの？<FFF6>ふん！　本当は、<FFF6>すっきりしたいくせに！<FFF5>	What, are you holding it in?<FFF6>Hmph! Even though you really<FFF6>wanna let it all out!<FFF5>
 378	よかった…<FFFC>もし、アタシの上からぶりぶりっ、なんて出されたら、どうしようかと思ってたの…<FFF5>	Thank goodness...<FFFC><FFF6>I was wondering what I'd do if you<FFF6>went plop-plop right on top of me...<FFF5>
 379	あ、そう！<FFF6>なら、やってみようか！？<FFF6>こっちの方が堅いもんね！<FFF5>	Oh, really!<FFF6>Then you wanna try me!?<FFF6>I'm the tougher one here!<FFF5>
@@ -407,7 +407,7 @@ unit	ja	en
 405	なぁに、このヒトぉ！<FFF6>バカにしないでよね！<FFF5>	What's with this guy!<FFF6>Don't make a fool out of me!<FFF5>
 406	だから倒しちゃえば、<FFF6>今度は、アタシが、<FFF6>噂されるってことかな！<FFF5>	So if I defeat you,<FFF6>does that mean I'll be the one<FFF6>getting rumored about!<FFF5>
 407	はぁ、本気にしてるよ…<FFFC><FFF6>バカさくれつって感じィ！<FFF5>	Wow, you took it seriously...<FFFC><FFF6>Talk about a total idiot explosion!<FFF5>
-408	ふ～ん………<FFFC><FFF6>なんか、マキ姉さんて、<FFF6>かわいいですね…♥<FFF5>	Hmm.........<FFFC><FFF6>Maki is kinda cute,<FFF6>isn't she...~<FFF5>
+408	ふ～ん………<FFFC><FFF6>なんか、マキ姉さんて、<FFF6>かわいいですね…♥<FFF5>	Hmm.........<FFFC><FFF6>Maki is kinda cute,<FFF6>isn't she... ♥<FFF5>
 409	自分より優れてる悪魔を<FFF6>認めたくないのは、分かるけど、そういう態度、よくないよ！！<FFF5>	I get that you don't wanna admit<FFF6>a demon is better than you,<FFF6>but that attitude is no good!!<FFF5>
 410	えーと………<FFFC><FFF6>アタシは、トイレが好きなだけで便器は本体じゃないよ……<FFF5>	Ummm.........<FFFC><FFF6>I just really like toilets,<FFF6>the bowl isn't actually me...<FFF5>
 411	やっぱりぃ？<FFFC><FFF6>ねぇ、どうしよう？<FFF6>アイドルに、なろうかなぁ？<FFF5>	I knew it~?<FFFC><FFF6>Hey, what should I do?<FFF6>Maybe I should be an idol?<FFF5>
@@ -415,7 +415,7 @@ unit	ja	en
 413	えー、ちょっと、<FFF6>それじゃ、わかんないよ。<FFFC><FFF6>いったい、どっちなの……<FFF5>	Ehh, wait,<FFF6>I can't tell like that.<FFFC><FFF6>Which is it, really...<FFF5>
 414	エヘヘ、エヘヘ！<FFF6>はぐらかさないでよ！<FFF6>もう、どっちなのー？<FFF5>	Ehehe, ehehe!<FFF6>Don't dodge the question!<FFF6>Geez, which one is it?<FFF5>
 415	う、うぇーん！<FFFC><FFF6>そんなに怒らないでよ…<FFF5>	W-Waaah!<FFFC><FFF6>Don't be so mad...<FFF5>
-416	照れなくてもオッケー！<FFF6>お姉さんて、かわいいね♥<FFF5>	No need to be shy!<FFF6>You're so cute, miss~<FFF5>
+416	照れなくてもオッケー！<FFF6>お姉さんて、かわいいね♥<FFF5>	No need to be shy!<FFF6>You're so cute, miss~ ♥<FFF5>
 417	この程度で、<FFF6>照れなくてもいいんだけど…<FFF5>	You really don't have to be<FFF6>shy over something like this...<FFF5>
 418	あっそう、あるんだ…<FFFC><FFF6>ふ～ん。<FFF5>	Oh really, you do...<FFFC><FFF6>Hmm.<FFF5>
 419	あっそう、あるんだ…<FFFC><FFF6>だったらさぁ、他の交渉術を<FFF6>使えばいいじゃんよ！<FFF5>	Oh really, you do...<FFFC><FFF6>Then why don't you use<FFF6>some other negotiation tactics!<FFF5>
@@ -460,7 +460,7 @@ unit	ja	en
 458	エヘヘ、エヘヘ！<FFF6>男なんて、チョロいもんよ。<FFF5>	Ehehe, ehehe!<FFF6>Men are so easy.<FFF5>
 459	えー、金あるんじゃないのぉ…<FFF6>やっぱ、ケチはダメね！<FFF6>もう、アンタに用ないよ！<FFF5>	Ehh, you don't have money...<FFF6>Cheapskates are the worst!<FFF6>I have no use for you!<FFF5>
 460	う、うぇーん！<FFF6>ごめんなさい…<FFF5>	W-Waaah!<FFF6>I'm sorry...<FFF5>
-461	やったぁ！<FFF6>エヘヘ、エヘヘ！<FFF6>お兄さん、アリガト♥<FFF5>	Yay!<FFF6>Ehehe, ehehe!<FFF6>Thanks, mister~<FFF5>
+461	やったぁ！<FFF6>エヘヘ、エヘヘ！<FFF6>お兄さん、アリガト♥<FFF5>	Yay!<FFF6>Ehehe, ehehe!<FFF6>Thanks, mister~ ♥<FFF5>
 462	くれないの？<FFFC><FFF6>じゃ、もういい！<FFF6>あっち行って！<FFF5>	You won't give it to me?<FFFC><FFF6>Then forget it!<FFF6>Go away!<FFF5>
 463	エヘヘ、エヘヘ！<FFF6>嬉しいな！<FFF5>	Ehehe, ehehe!<FFF6>I'm so happy!<FFF5>
 464	自慢するほどのことじゃ、<FFF6>ないけどね！<FFF5>	It's not really something<FFF6>to brag about, though!<FFF5>
@@ -480,14 +480,14 @@ unit	ja	en
 478	お兄さんて、単純なのね。<FFF6>すぐ、だまされるんだから。<FFF6>くすくす………<FFF5>	You're simple, mister.<FFF6>Getting tricked so quickly.<FFF6>Giggle giggle.........<FFF5>
 479	バッカじゃな～い！<FFF6>すぐ、だまされるんだから！<FFF5>	Are you an idiot~!?<FFF6>Getting tricked so quickly!<FFF5>
 480	う、うぇーん！<FFF6>この人、大きらいだよぉ……<FFF5>	W-Waaah!<FFF6>I hate this guy so much...<FFF5>
-481	いやーん、<FFF6>やっぱ、かわいいー♥<FFF5>	Oh my,<FFF6>you really are cute~~<FFF5>
-482	こーいつぅ、<FFFC><FFF6>ブッ殺しちゃうぞぉ♥<FFFC><FFF6>エヘヘ、エヘヘ！<FFF5>	You big dummy,<FFFC><FFF6>I'm gonna completely kill you~<FFFC><FFF6>Ehehe, ehehe!<FFF5>
+481	いやーん、<FFF6>やっぱ、かわいいー♥<FFF5>	Oh my,<FFF6>you really are cute~~ ♥<FFF5>
+482	こーいつぅ、<FFFC><FFF6>ブッ殺しちゃうぞぉ♥<FFFC><FFF6>エヘヘ、エヘヘ！<FFF5>	You big dummy,<FFFC><FFF6>I'm gonna completely kill you~ ♥<FFFC><FFF6>Ehehe, ehehe!<FFF5>
 483	ブッ殺す！<FFF5>	I'll kill you!<FFF5>
 484	これからは、気を付けなよ！<FFF5>	Be careful from now on!<FFF5>
 485	あぁん？　余計な、お世話ァ？<FFFC><FFF6>アンタ、ちょっと、<FFF6>ツラかしなって感じィ～！<FFF5>	Huh? None of my business?<FFFC><FFF6>It's like you're totally asking<FFF6>for me to bash your face in~!<FFF5>
 486	エヘヘ、エヘヘ！<FFF6>すっごい、自信家なのね！<FFF5>	Ehehe, ehehe!<FFF6>You're super confident!<FFF5>
 487	ちがうもん！<FFF5>	That's not true!<FFF5>
-488	なんで、気合い入るの？<FFF6>あ、なんか期待してるでしょ！<FFF6>お兄さんてエッチね♥<FFF5>	Why are you so fired up?<FFF6>Ah, you're expecting something!<FFF6>You're so dirty, mister~<FFF5>
+488	なんで、気合い入るの？<FFF6>あ、なんか期待してるでしょ！<FFF6>お兄さんてエッチね♥<FFF5>	Why are you so fired up?<FFF6>Ah, you're expecting something!<FFF6>You're so dirty, mister~ ♥<FFF5>
 489	あっそう、<FFF6>じゃあ、いいもん！<FFF5>	Oh really,<FFF6>then fine!<FFF5>
 490	イジワル言って、ごめんなさい！ダンスなの、わかってたのぉ…<FFF6>だから、ここでしないでぇ！<FFF5>	I'm sorry for being mean!<FFF6>I knew you were dancing...<FFF6>So don't do it here!<FFF5>
 491	皮肉も分からないんだぁ…<FFF6>バッカみたーい！<FFF5>	You don't get sarcasm either...<FFF6>You're so stupid~!<FFF5>
@@ -505,7 +505,7 @@ unit	ja	en
 503	う、うぇーん！<FFF6>この人、大きらいだよぉ……<FFF5>	W-Waaah!<FFF6>I hate this guy so much...<FFF5>
 504	う、うぇーん！<FFF6>この人、和式の人だよぉ…<FFF5>	W-Waaah!<FFF6>This guy is a squat toilet user...<FFF5>
 505	それってぇ、お兄さんに、<FFF6>みんな、やられちゃったから<FFF6>なんだけどさ！<FFF5>	That's because you<FFF6>beat them all up, mister!<FFF5>
-506	じゃ、何で、そんなに見てるの？あ、もしかして…？<FFFC><FFF6>アタシって、もてすぎ♥<FFF5>	Then why are you staring so much?<FFF6>Ah, could it be...?<FFFC><FFF6>I'm just too popular~<FFF5>
+506	じゃ、何で、そんなに見てるの？あ、もしかして…？<FFFC><FFF6>アタシって、もてすぎ♥<FFF5>	Then why are you staring so much?<FFF6>Ah, could it be...?<FFFC><FFF6>I'm just too popular~ ♥<FFF5>
 507	ああ、やっぱぁー？<FFFC><FFF6>でもさぁ、悪魔の女に、<FFF6>声掛けて、だいじょぶぅ？<FFF5>	Ah, I knew it~?<FFFC><FFF6>But hey, is it really okay for you<FFF6>to hit on a demon girl?<FFF5>
 508	ふざけんなテメー、<FFF6>海に流すよ！<FFF5>	Don't mess with me, you bastard.<FFF6>I'll flush you into the ocean!<FFF5>
 509	でも、アタシはアンタなんて<FFF6>全然好みじゃないんだけど！<FFF6>汚れるから見ないでよ！！<FFF5>	But you aren't<FFF6>my type at all!<FFF6>Don't look, you'll make me dirty!!<FFF5>
@@ -544,7 +544,7 @@ unit	ja	en
 542	えー、ちょっと、<FFF6>それじゃ、わかんないよ。<FFFC><FFF6>いったい、どっちなの……<FFF5>	Ehh, wait,<FFF6>I can't tell like that.<FFFC><FFF6>Which is it, really...<FFF5>
 543	エヘヘ、エヘヘ！<FFF6>はぐらかさないでよ！<FFF6>もう、どっちなのー？<FFF5>	Ehehe, ehehe!<FFF6>Don't dodge the question!<FFF6>Geez, which one is it?<FFF5>
 544	だろうと思ったんだ！<FFFC><FFF6>でも、アタシで用を<FFF6>足すのは、ダメだよ！<FFF5>	I thought so!<FFFC><FFF6>But don't do your<FFF6>business in me, okay!<FFF5>
-545	お姉さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, miss!<FFFC><FFF6>Ehehehe! Just like me~<FFF5>
+545	お姉さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, miss!<FFFC><FFF6>Ehehehe! Just like me~ ♥<FFF5>
 546	なに、がまんしてんの？<FFF6>ふん！　本当は、<FFF6>すっきりしたいくせに！<FFF5>	What, are you holding it in?<FFF6>Hmph! Even though you really<FFF6>wanna let it all out!<FFF5>
 547	ふ～ん………<FFFC><FFF6>素直なんだねぇ！<FFF6>お姉さん、好印象だよ！<FFF5>	Hmm.........<FFFC><FFF6>You're so honest!<FFF6>You leave a good impression, miss!<FFF5>
 548	あぁん？　余計な、お世話ァ？<FFFC><FFF6>アンタ、ちょっと、<FFF6>ツラかしなって感じィ～！<FFF5>	Huh? None of my business?<FFFC><FFF6>It's like you're totally asking<FFF6>for me to bash your face in~!<FFF5>
@@ -557,11 +557,11 @@ unit	ja	en
 555	ふ～ん、行かないのぉ？<FFF6>アヤセちゃんて、<FFF6>きまぐれなんだねぇ！<FFF5>	Hmm, you're not going?<FFF6>You're pretty fickle,<FFF6>Ayase!<FFF5>
 556	アヤセちゃん、素直なんだね…<FFF6>今の、ウソだよ。<FFF5>	You're so honest, Ayase...<FFF6>I was lying just now.<FFF5>
 557	怖がってるだけじゃ、<FFF6>何も手に入らないよ！<FFF5>	Just being scared won't<FFF6>get you anywhere!<FFF5>
-558	怖がってるだけじゃ、<FFF6>何も手に入らないよ♥<FFF5>	Just being scared won't<FFF6>get you anywhere~<FFF5>
+558	怖がってるだけじゃ、<FFF6>何も手に入らないよ♥<FFF5>	Just being scared won't<FFF6>get you anywhere~ ♥<FFF5>
 559	お姉さまが、死んじゃったら、<FFF6>遺骨はアタシが、<FFF6>ちゃんと流してあげるね！<FFF5>	If you die, miss,<FFF6>I'll be sure to properly<FFF6>flush your ashes for you!<FFF5>
 560	もう、じれったいなぁ！<FFF6>何を怖がってるのぉ！<FFF5>	Geez, you're so irritating!<FFF6>What are you so scared of!<FFF5>
 561	え？　今さら、<FFF6>何を怖がってるの……<FFF5>	Huh? What are you so<FFF6>scared of now...<FFF5>
-562	でも、そういうケナゲな子って、イジメたくなっちゃうんだなぁ♥<FFF5>	But sweet girls like you just<FFF6>make me wanna bully them~<FFF5>
+562	でも、そういうケナゲな子って、イジメたくなっちゃうんだなぁ♥<FFF5>	But sweet girls like you just<FFF6>make me wanna bully them~ ♥<FFF5>
 563	でも、そういうケナゲな子って、かえってイジメたくなるのよね！<FFF5>	But sweet girls like you actually<FFF6>make me wanna bully them more!<FFF5>
 564	アタシでよければ、<FFF6>力になってあげるよ！<FFF5>	If I'll do,<FFF6>I'll lend you my power!<FFF5>
 565	ウソ泣きにも、コツがあるのよ。後で教えたげるね。<FFF5>	There's a trick to fake crying.<FFF6>I'll teach you later.<FFF5>
@@ -581,10 +581,10 @@ unit	ja	en
 579	ま、いいんだけどさぁ。<FFF5>	Well, whatever.<FFF5>
 580	う、うぇーん！<FFF6>ごめんなさい～！<FFF6>死ぬのはイヤですぅ………<FFF5>	W-Waaah!<FFF6>I'm sorry~!<FFF6>I don't wanna die.........<FFF5>
 581	ふん！　ちっとも、<FFF6>怖くないよーだ！！<FFF5>	Hmph! I'm not scared<FFF6>at all!!<FFF5>
-582	あ、お姉さんって、<FFF6>そういう趣味の人なんだぁ！<FFF6>なら、オッケー♥<FFF5>	Ah, so you're into<FFF6>that kinda thing, miss!<FFF6>Then it's okay~<FFF5>
+582	あ、お姉さんって、<FFF6>そういう趣味の人なんだぁ！<FFF6>なら、オッケー♥<FFF5>	Ah, so you're into<FFF6>that kinda thing, miss!<FFF6>Then it's okay~ ♥<FFF5>
 583	アンタは鬼やー！<FFF5>	You're an ogre~!<FFF5>
 584	う、うぇーん！<FFF6>鬼がいるよぉ………<FFF5>	W-Waaah!<FFF6>There's an ogre here.........<FFF5>
-585	エヘヘ！　嬉しい♥<FFF5>	Ehehe! I'm so happy~<FFF5>
+585	エヘヘ！　嬉しい♥<FFF5>	Ehehe! I'm so happy~ ♥<FFF5>
 586	どうして、やめちゃうの！<FFF5>	Why are you stopping!<FFF5>
 587	そういうイジワルも、<FFF6>エヘヘ！　いい感じィ…<FFF5>	That kinda teasing is...<FFF6>Ehehe! Pretty nice...<FFF5>
 588	照れるほどのことじゃ、<FFF6>ないけどね！<FFF5>	It's not really something<FFF6>to be shy about, though!<FFF5>
@@ -593,15 +593,15 @@ unit	ja	en
 591	えー、ちょっと、<FFF6>それじゃ、わかんないよ。<FFFC><FFF6>いったい、どっちなの……<FFF5>	Ehh, wait,<FFF6>I can't tell like that.<FFFC><FFF6>Which is it, really...<FFF5>
 592	エヘヘ、エヘヘ！<FFF6>はぐらかさないでよ！<FFF6>もう、どっちなのー？<FFF5>	Ehehe, ehehe!<FFF6>Don't dodge the question!<FFF6>Geez, which one is it?<FFF5>
 593	だろうと思ったんだ！<FFFC><FFF6>でも、アタシで用を<FFF6>足すのは、ダメだよ！<FFF5>	I thought so!<FFFC><FFF6>But don't do your<FFF6>business in me, okay!<FFF5>
-594	お姉さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, miss!<FFFC><FFF6>Ehehehe! Just like me~<FFF5>
+594	お姉さんも、けっこうな<FFF6>便秘なんだねぇ！<FFFC><FFF6>エヘヘヘ！　アタシと一緒♥<FFF5>	You're pretty constipated<FFF6>yourself, huh, miss!<FFFC><FFF6>Ehehehe! Just like me~ ♥<FFF5>
 595	なに、がまんしてんの？<FFF6>ふん！　本当は、<FFF6>すっきりしたいくせに！<FFF5>	What, are you holding it in?<FFF6>Hmph! Even though you really<FFF6>wanna let it all out!<FFF5>
 596	ま、いいんだけどさぁ。<FFF5>	Well, whatever.<FFF5>
 597	う、うぇーん！<FFF6>ごめんなさい～！<FFF6>死ぬのはイヤですぅ………<FFF5>	W-Waaah!<FFF6>I'm sorry~!<FFF6>I don't wanna die.........<FFF5>
 598	ふん！　ちっとも、<FFF6>怖くないよーだ！！<FFF5>	Hmph! I'm not scared<FFF6>at all!!<FFF5>
-599	あ、お姉さんって、<FFF6>そういう趣味の人なんだぁ！<FFF6>なら、オッケー♥<FFF5>	Ah, so you're into<FFF6>that kinda thing, miss!<FFF6>Then it's okay~<FFF5>
+599	あ、お姉さんって、<FFF6>そういう趣味の人なんだぁ！<FFF6>なら、オッケー♥<FFF5>	Ah, so you're into<FFF6>that kinda thing, miss!<FFF6>Then it's okay~ ♥<FFF5>
 600	アンタは鬼やー！<FFF5>	You're an ogre~!<FFF5>
 601	う、うぇーん！<FFF6>鬼がいるよぉ………<FFF5>	W-Waaah!<FFF6>There's an ogre here.........<FFF5>
-602	エヘヘ！　嬉しい♥<FFF5>	Ehehe! I'm so happy~<FFF5>
+602	エヘヘ！　嬉しい♥<FFF5>	Ehehe! I'm so happy~ ♥<FFF5>
 603	どうして、やめちゃうの！<FFF5>	Why are you stopping!<FFF5>
 604	そういうイジワルも、<FFF6>エヘヘ！　いい感じィ…<FFF5>	That kinda teasing is...<FFF6>Ehehe! Pretty nice...<FFF5>
 605	ヤなやつ、アンタって！<FFF5>	You're such a jerk!<FFF5>
@@ -624,7 +624,7 @@ unit	ja	en
 622	ふん、皮肉も分からないの？<FFF5>	Hmph, don't you get sarcasm?<FFF5>
 623	う～ん、そう？<FFF6>アタシって、生意気な<FFF6>悪魔に見えちゃうのかしら…<FFF5>	Hmm, you think so?<FFF6>I wonder if I look like<FFF6>a cheeky demon...<FFF5>
 624	そうかなぁ？<FFFC><FFF6>でも、やっぱり、<FFF6>お兄さんには敵わないよ。<FFF5>	You think so?<FFFC><FFF6>But I still can't compete<FFF6>with you, mister.<FFF5>
-625	くすくす………<FFFC><FFF6>お兄さんて、単純ね。<FFF6>すぐ、だまされるんだから♥<FFF5>	Giggle giggle.........<FFFC><FFF6>You're so simple, mister.<FFF6>Getting tricked so quickly~<FFF5>
+625	くすくす………<FFFC><FFF6>お兄さんて、単純ね。<FFF6>すぐ、だまされるんだから♥<FFF5>	Giggle giggle.........<FFFC><FFF6>You're so simple, mister.<FFF6>Getting tricked so quickly~ ♥<FFF5>
 626	バッカじゃな～い！<FFF6>すぐ、だまされるんだから！<FFF5>	Are you an idiot~!?<FFF6>Getting tricked so quickly!<FFF5>
 627	う、うぇーん！<FFF6>この人、大きらいだよぉ……<FFF5>	W-Waaah!<FFF6>I hate this guy so much...<FFF5>
 628	エヘヘ、エヘヘ！<FFF6>やっぱりね！<FFF5>	Ehehe, ehehe!<FFF6>I knew it!<FFF5>
@@ -641,7 +641,7 @@ unit	ja	en
 639	えーっ！？<FFF6>じゃあ、なんなのー？<FFFC><FFF6>興味しんしんって感じぃ！<FFF5>	Ehh!?<FFF6>Then what is it~?<FFFC><FFF6>I'm super curious!<FFF5>
 640	アタシを、脅す気ッ！？<FFF6>なめんなよ！<FFF5>	You trying to threaten me!?<FFF6>Don't mess with me!<FFF5>
 641	う、うぇーん！<FFF6>この人、何か企んでるぅ………<FFF5>	W-Waaah!<FFF6>This guy's plotting something.........<FFF5>
-642	エヘヘ、エヘヘ！<FFF6>水が飛び出るタイプがいいな！<FFF6>あとで、届けてね♥<FFF5>	Ehehe, ehehe!<FFF6>I want the kind that sprays water!<FFF6>Make sure to deliver it~<FFF5>
+642	エヘヘ、エヘヘ！<FFF6>水が飛び出るタイプがいいな！<FFF6>あとで、届けてね♥<FFF5>	Ehehe, ehehe!<FFF6>I want the kind that sprays water!<FFF6>Make sure to deliver it~ ♥<FFF5>
 643	かっこいいなんて、ウソウソ！<FFF6>ケチ！　かっこ悪いよーだ！<FFF5>	Me calling you cool was a lie!<FFF6>Cheapskate! You're super uncool!<FFF5>
 644	う、うぇーん！<FFF6>この人、最悪だよぉ………<FFF5>	W-Waaah!<FFF6>This guy is the worst.........<FFF5>
 645	エヘヘ、エヘヘ！<FFF6>もう、上手だなぁ！<FFF5>	Ehehe, ehehe!<FFF6>Geez, you're good at this!<FFF5>

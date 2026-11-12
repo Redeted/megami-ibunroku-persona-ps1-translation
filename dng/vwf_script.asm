@@ -60,8 +60,13 @@ DNGT_ENTRY              equ 0x14                ; config: queue entry {u32 src; 
 .org 0x8007420C
     j       dng_skill_name                      ; was j 0x80074234 (delay slot sll a0,a0,2 harmless)
 
+; FF09 (item name insert): the record keeps 10 uppercase glyphs; dng_item_name (dng/estoma.asm, second extension) prints the
+; full title-cased name from the kernel blob (fn_item_text) instead
+.org 0x800741E8
+    j       dng_item_name                       ; was j 0x80074234 (delay slot sll a0,a0,5 unchanged: a0 = id << 5)
+
 .org DNG_GLUE_ADDR
-dng_skill_name:                                 ; s5 = the skill id byte
+dng_skill_name:                                ; s5 = the skill id byte
     addiu   sp, sp, -0x20
     sw      ra, 0x1C(sp)
     lbu     a1, 0(s5)                           ; (never load a jal argument in the delay slot: the callee would see the old value)

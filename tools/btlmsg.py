@@ -76,6 +76,8 @@ def refs(d):
                 if ZONE[0] <= v < ZONE[1]:
                     assert hiv[s] == 0x800D0000, hex(B + o)
                     found.setdefault(v, []).append(('addiu', B + o))
+        elif ops and ops[0].type == capstone.mips.MIPS_OP_REG and ins.mnemonic[0] not in 'bj'                 and ins.mnemonic not in ('sw', 'sh', 'sb', 'swl', 'swr', 'mult', 'multu', 'div', 'divu', 'nop'):
+            hiv.pop(ins.reg_name(ops[0].reg), None)     # register overwritten (e.g. lui ; lbu ; addiu is not a pointer)
     return found
 
 

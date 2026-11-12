@@ -1,39 +1,62 @@
 # Megami Ibunroku Persona: Be Your True Mind - English translation
 
-Release notes for version 1.0.4, the translation build of 2026-11-03 (disc `patched/Persona-TL.bin`).
+Release notes for version 1.0.5-beta, the build of 2026-11-12. Notes of earlier versions are in their GitHub
+releases.
 
-## Changes in 1.0.4
+## 1.0.5-beta
 
-- Battle skill menu: the cursor no longer stops on empty skill slots. Since 1.0.0, choosing an empty
-  slot made the Persona use another party member's skill or crashed the game: the code that copies the
-  English skill names into the menu also overwrote the marker that tells the cursor a slot is empty
-  (issue #2).
-- The optional PSP script (branch `psp-script`) gets the fix by using the 1.0.4 patch.
+A beta: the new features are tested, but expect a few issues. When you report one, a save state from the same
+patch helps a lot (save states only work with the exact patch they were made with).
 
-## Changes in 1.0.3
+### Patches
 
-- Velvet Room: erasing a Persona at maximum rank now gives its item again (for example Maso ->
-  SP INCENSE). Since 1.0.0 the English gift speech announced the item but it never reached the
-  inventory: the code rewritten to fit the English message had lost the original "add item" call
-  (issue #1).
-- The optional PSP script (branch `psp-script`) gets the fix by using the 1.0.3 patch.
+| Patch | Contents |
+|---|---|
+| `Persona-TL.xdelta` | The translation only. |
+| `Persona-TL-QoL.xdelta` | The translation plus the enhancements below (60 fps, battle fast-forward, new items and skills, quit to the title screen). The game's balance is the original. |
+| `Persona-TL-QoL-easy.xdelta` | The same as QoL, plus half the random encounter rate and x2 EXP, Persona points and money after battles. |
 
-## Changes in 1.0.2
+Up to 1.0.4 the single QoL patch had the halved encounters and the x2 rewards: they are now only in the easy patch.
+Memory-card saves work with all three.
 
-- Negotiation answer window: answer rows that sit late in a demon's TALK file (past 64 KB) were drawn
-  with the text of the first answer ("Yes." repeated three times in demons that use KOUMAN) while the
-  rows kept their own responses. Every answer now shows its own text.
-- QoL build: fixed a hard crash in the 3D dungeons containing floors with animated lights or textures.
-- The optional PSP script (branch `psp-script`) is applied on top of the patched disc, so it gets both
-  fixes by using the 1.0.2 patch; it has no separate update.
+### New in the QoL patches
 
-## Changes in 1.0.1
+- **Battle fast-forward** (like the PSP skip): press **START** while a turn plays out, or while AUTO is running.
+  A small ">>" appears at the top right and the battle runs about twice as fast: party, enemies, Persona summons,
+  skill effects and damage numbers. It switches off by itself when the command menu comes back for your input,
+  when you stop AUTO with Cross, and on the results screen; press START again to switch it off earlier. The battle
+  itself is unchanged (only 1 out of 4 frames is shown). Loading effects from the disc is not faster.
+- **Clean Salt and Emergency Exit**, two items from the PSP version, sold for 10,000 yen each in the Satomi
+  Tadashi pharmacies (the drug store of Tadashi's dad, Sato-chan's store, and the one of Tadashi's uncle; in the
+  Snow Queen route at the school pharmacy):
+  - Clean Salt: for a while (16 moon phases), random battles with demons weaker than your party leader do not
+    happen. Works in dungeons and on the town map.
+  - Emergency Exit: in a dungeon, warps the party back to the tile where they entered. It works in the dungeons
+    entered from the town map, the Kama Palace and the Mana Castle; elsewhere it is greyed out. The entrance is
+    kept in memory-card saves.
+- **Estoma and Traesto as Persona skills**, as on the PSP (each in a slot that was empty, no skill removed):
+  - Estoma (same effect as Clean Salt): Cu Chulainn, Urdr, Shouki, Byakko.
+  - Traesto (same effect as Emergency Exit): Otohime, Aonbarr, Quetzalcoatl.
+  - Fusing with Clean Salt or Emergency Exit in the Velvet Room teaches Estoma or Traesto in the 7th skill slot,
+    like the spell stones.
+  - Field-only skills (Estoma, Traesto, Liftoma, Mappa) are greyed out and refused in battle.
+- **Quit to the title screen**: GAME END at an Agastya tree now returns to the title screen instead of asking you
+  to turn off the power.
 
-- Item names follow the official 2009 PSP names (consumables, spell stones, tablets, gems, Persona
-  items), abbreviated to the 10-character field; spell stones read "AGIDYNE ST" instead of the bare
-  spell name. Dialogue that names an item uses the same names (Life Stone, Rattle Drink, Balm of Life).
-- QoL build: Persona summons and skill effects in battle play at double speed; voices and sounds keep
-  their normal speed.
+### Translation fixes (all patches)
+
+- Full names in the field menus: item, equipment, Persona, demon and skill names are no longer cut at 10 letters
+  (shops, item and equipment menus, Velvet Room lists and results, dungeon menus, Persona status pages, ANALYZE).
+  They are drawn with proportional spacing; the few longest names use a short form.
+- Item and equipment names in mixed case ("Revival Bead" instead of "REV. BEAD"), following the official PSP names
+  (e.g. Demon House, Magnadyne Stone, Verity Tablet, Kusanagi's Sword, Daybreak Greaves). Key items: Prison Key
+  and Compact Half (dialogue updated too). Battle results show the dropped item with its full name.
+- The heart symbols of the Japanese text are back, in the story and in the demon negotiations (they were written
+  as `*` or dropped before), and no longer colour half of the letter before them.
+- Velvet Room: the bottom bar of the Persona page (fusion preview, owned Personas) shows the full Persona name
+  again (only the arcana was shown).
+- Technical: the main executable grows by 3 sectors; a start-up stub copies the name code and data into unused
+  BIOS RAM (0x8000EA00-0x8000FFC0).
 
 ## Base image
 
@@ -79,12 +102,12 @@ Text is drawn with a new variable-width font, so English fits the original dialo
 
 ## Known limitations (by design or by hardware limits)
 
-- Short name fields: fusion lists, item / equipment lists and some inserted names show at most
-  10 characters (UPPERCASE small font for items). Overworld location labels are 7-character
+- Short name fields: the field menus show full names, but some battle lists and inserted names still
+  show at most 10 characters (UPPERCASE small font for items). Overworld location labels are 7-character
   abbreviations. Six long skill names are shortened to the 15-character battle menu limit.
 - Elly's family name on the STATUS screen is "K. Eriko" (the name slot holds 8 letters).
 - A few long dungeon story boxes are condensed to fit their fixed-size slot.
-- Heart and star symbols in the Japanese are replaced (the font is ASCII only).
+- Star symbols in the Japanese are replaced (the font is ASCII only); hearts are kept.
 - The alien demon's "alien speech" keeps the original full-width digits.
 - Staff credits: job titles were already in English; staff names stay in Japanese.
 - Name entry: the Hiragana / Katakana / Kanji pages stay Japanese; use the ABC page.
@@ -96,9 +119,12 @@ Text is drawn with a new variable-width font, so English fits the original dialo
 
 ## Separate enhancement build
 
-The 60 fps "QoL" build (`python tools/build.py --qol`, `patched_qol/`) is a separate disc and is
-not part of this translation release. It keeps the original game speed and draws extra in-between frames
-in the 3D dungeons and the overworld. It also halves the random encounter rate, gives x2 EXP,
-Persona points and money after battles, and plays Persona summons and skill effects in battle at double
-speed (voices and sounds keep their normal speed). Recommended DuckStation setting for it: CPU overclock 180%,
+The 60 fps "QoL" builds are separate discs and are not part of this translation release:
+`python tools/build.py --qol` (`patched_qol/Persona-TL-QoL.bin`) and `python tools/build.py --easy`
+(`patched_qol_easy/Persona-TL-QoL-easy.bin`). Both keep the original game speed and draw extra in-between frames
+in the 3D dungeons and the overworld, play Persona summons and skill effects in battle at double speed (voices and
+sounds keep their normal speed), add the START battle fast-forward and the PSP items and skills (Clean Salt,
+Emergency Exit, Estoma, Traesto). The easy disc also halves the random encounter rate and gives x2 EXP, Persona
+points and money after battles. With `--psp` each also exists with the PSP script (`patched_psp_qol/`,
+`patched_psp_qol_easy/`). Recommended DuckStation setting for it: CPU overclock 180%,
 which gives 60 fps in the dungeons and 30 fps in the overworld. See `qol/README.md`.

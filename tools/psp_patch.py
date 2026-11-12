@@ -1,12 +1,13 @@
-"""PSP-script patcher for players: turns a disc patched with this project's xdelta (Persona-TL.bin or
-Persona-TL-QoL.bin) into the PSP-script variant, whose story and demon negotiations use the English of the official
+"""PSP-script patcher for players: turns a disc patched with this project's xdelta (Persona-TL.bin,
+Persona-TL-QoL.bin or Persona-TL-QoL-easy.bin) into the PSP-script variant, whose story and demon negotiations use the English of the official
 PSP release (Shin Megami Tensei: Persona, ULUS10432), read from the player's own PSP ISO. Nothing from the PSP is
 distributed with the project.
 
   python tools/psp_patch.py --original JP.bin --patched Persona-TL.bin --psp Persona_PSP.iso [--out OUT.bin]
 
   --original  the untouched Japanese disc image (SLPS-00500, first release; .bin or its .cue)
-  --patched   the same disc after applying Persona-TL.xdelta or Persona-TL-QoL.xdelta (.bin or .cue)
+  --patched   the same disc after applying Persona-TL.xdelta, Persona-TL-QoL.xdelta or -QoL-easy.xdelta
+              (.bin or .cue)
   --psp       the US PSP release as an ISO (ULUS10432)
   --out       result (default: next to --patched, "<name>-PSP.bin" + .cue)
   --work      work folder (default: psp_patch_work/ in the project; deleted unless --keep)
@@ -82,7 +83,7 @@ def check_inputs(a):
         sys.exit(f'--patched: {a.patched} is not a Persona (SLPS-00500) disc image')
     addr, mark = PATCH_MARK
     if slps[addr - SLPS_BASE:addr - SLPS_BASE + 4] != mark:
-        sys.exit(f'--patched: {a.patched} is not patched with Persona-TL(-QoL).xdelta (apply the xdelta first)')
+        sys.exit(f'--patched: {a.patched} is not patched with Persona-TL(-QoL / -QoL-easy).xdelta (apply the xdelta first)')
     with open(a.psp, 'rb') as f:
         head = f.read(32 * 2048)
     if len(head) < 17 * 2048 or head[16 * 2048 + 1:16 * 2048 + 6] != b'CD001':
@@ -118,7 +119,7 @@ def same_length_patch(data, old, new, expect, what):
     n = data.count(old)
     if n != expect:
         sys.exit(f'{what}: found {n} occurrences of the shrine name, expected {expect} (is the patched disc the '
-                 'unmodified result of Persona-TL(-QoL).xdelta?)')
+                 'unmodified result of Persona-TL(-QoL / -QoL-easy).xdelta?)')
     return data.replace(old, new)
 
 

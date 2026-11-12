@@ -1,7 +1,7 @@
 ## The official PSP script
 
 This branch adds one command that turns a disc you already patched with `Persona-TL.xdelta` (or
-`Persona-TL-QoL.xdelta`) into a variant whose **story scenes and demon negotiations** use the English of
+`Persona-TL-QoL.xdelta` / `Persona-TL-QoL-easy.xdelta`) into a variant whose **story scenes and demon negotiations** use the English of
 the official 2009 PSP release (*Shin Megami Tensei: Persona*) instead of this project's literal
 translation. The opening quote and the movie subtitles get the PSP wording too. Menus, battles, items and the
 QoL patch stay as in the patch you applied. The PSP text is read from **your own PSP copy** when you run the
@@ -26,7 +26,8 @@ Playtested to completion and confirmed playable.
 
 ### What you need, in addition to the steps above
 
-- your patched `.bin` (`Persona-TL.bin` or `Persona-TL-QoL.bin`, made with the xdelta of release **v1.0.4**);
+- your patched `.bin` (`Persona-TL.bin`, `Persona-TL-QoL.bin` or `Persona-TL-QoL-easy.bin`, made with the xdelta
+  of release **v1.0.5-beta**);
 - your original Japanese `.bin` (the same file the xdelta was applied to);
 - the US PSP release as an **ISO** (`ULUS10432`, about 820 MB; a `.cso` must be decompressed to `.iso`
   first, e.g. with [maxcso](https://github.com/unknownbrackets/maxcso) `--decompress`);
@@ -48,7 +49,8 @@ In the source folder of this branch:
 python tools/psp_patch.py --original "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --patched path/to/Persona-TL.bin --psp path/to/persona_psp.iso
 ```
 This takes a few minutes (most of it re-encoding the movies) and writes `Persona-TL-PSP.bin` + `.cue` next
-to the patched file (for `Persona-TL-QoL.bin`: `Persona-TL-QoL-PSP.bin`); `--out` chooses another name. Your
+to the patched file (for `Persona-TL-QoL.bin`: `Persona-TL-QoL-PSP.bin`, for `Persona-TL-QoL-easy.bin`:
+`Persona-TL-QoL-easy-PSP.bin`); `--out` chooses another name. Your
 input files are not changed. The `.cue` paths of your images work as well. Load the new `.cue` in the emulator.
 
 Notes:
@@ -62,7 +64,10 @@ For technical questions, suggestions and very, very supportive messages: redeted
 ## Playing
 
 - Tested on [DuckStation](https://github.com/stenzek/duckstation).
-- **For the QoL patch**, enable the CPU overclock: *Settings → Console → CPU Emulation*, enable clock
+- **QoL patches**: START during a battle turn (or during AUTO) fast-forwards the battle; Clean Salt and
+  Emergency Exit are sold at the Satomi Tadashi pharmacies; see [RELEASE_NOTES.md](RELEASE_NOTES.md) for
+  everything the QoL and QoL-easy patches add.
+- **For the QoL patches**, enable the CPU overclock: *Settings → Console → CPU Emulation*, enable clock
   speed control and set it to around **180%**. This gives 60 fps in the dungeons and a smooth 30 fps
   in the overworld. Without it the game still runs at its normal speed, just with fewer extra frames.
 - Save states do not carry over between patch versions; use in-game memory-card saves when you update.
@@ -86,15 +91,19 @@ Build:
 ```
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin"
 python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --qol
+python tools/build.py --image "path/to/Megami Ibunroku Persona - Be Your True Mind (Japan).bin" --easy
 ```
+`--qol` adds the enhancements (60 fps, battle fast-forward, PSP items and skills); `--easy` is the same plus half
+the random encounter rate and x2 EXP / Persona points / money. The plain build is the translation only.
 Optional PSP-script variant (the official PSP English for the story and the negotiations, read from your own
 *Shin Megami Tensei: Persona* PSP ISO; not distributed as a patch): add `--psp path/to/persona_psp.iso`
-(with or without `--qol`); output `../patched_psp/` or `../patched_psp_qol/`.
-The sources of this branch include every fix of release v1.0.4 (see [RELEASE_NOTES.md](RELEASE_NOTES.md)),
+(with or without `--qol` / `--easy`); output `../patched_psp/`, `../patched_psp_qol/` or `../patched_psp_qol_easy/`.
+The sources of this branch include every fix of release v1.0.5-beta (see [RELEASE_NOTES.md](RELEASE_NOTES.md)),
 so a build from source matches that release apart from the PSP text.
 
 The first run extracts the game files into `original/`. The results are written next to the
-repository folder: `../patched/Persona-TL.bin/.cue` and `../patched_qol/Persona-TL-QoL.bin/.cue`.
+repository folder: `../patched/Persona-TL.bin/.cue`, `../patched_qol/Persona-TL-QoL.bin/.cue` and
+`../patched_qol_easy/Persona-TL-QoL-easy.bin/.cue`.
 A full build takes about 10 minutes.
 
 Developer notes: [DEVELOPMENT.md](DEVELOPMENT.md), and the enhancement patch in [qol/README.md](qol/README.md).

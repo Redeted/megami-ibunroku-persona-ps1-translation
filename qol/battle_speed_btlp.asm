@@ -13,6 +13,5 @@
 ;; If a frame takes longer than one vblank (real hardware, heavy effects), VSync(0) waits for the next one:
 ;; the effect is then between 1x and 2x, never slower than the original.
 ;; =============================================================
-.org 0x800811B8
-    nop                                         ; was jal VSync (second wait of the half-rate mode); the delay
-                                                ; slot (move a0, zero) is harmless
+;; Since 2026-11-12 the QoL frame function is rewritten by btlp/battle_skip.asm (START fast-forward, QoL only),
+;; which has no second VSync at all. Nothing to patch here any more.

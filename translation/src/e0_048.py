@@ -1,4 +1,4 @@
-"""E0 entry 48 - Police station: searching for the Holding Cell Key."""
+"""E0 entry 48 - Police station: searching for the Prison Key."""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'tools'))
 from tl_lib import apply, P, F6
@@ -12,8 +12,8 @@ BOXES = {
     2: ["Maki: Maybe it's been left somewhere. Let's try looking."],
     3: ["Nanjo: That is true. <FF0F>あ, you search together with us as well."],
     4: [
-        "Found the \"Holding Cell Key\"...",
-        "Obtained the \"Holding Cell Key\"."
+        "Found the \"Prison Key\"...",
+        "Obtained the \"Prison Key\"."
     ],
     5: ["There don't seem to be any more useful keys inside..."],
     6: ["Nanjo: Good. With this, we should be able to open the door of the holding cell!"],

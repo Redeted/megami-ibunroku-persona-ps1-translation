@@ -5,7 +5,8 @@
 ;; (BTLEVT_ZONE_START..END), so they are stored byte-pair encoded:
 ;;   FF xx        control code, copied as is (FF F5 / FF EF end the string)
 ;;   88..E6       a VWF character (ASCII + 0x68), copied as is
-;;   01..87,E7..FE  a pair code: expands to the two bytes btlevt_pairs[i]
+;;   87 xx        a two-byte glyph (the heart 87 05), copied as is
+;;   01..86,E7..FE  a pair code: expands to the two bytes btlevt_pairs[i]
 ;;                (which may be pair codes themselves)
 ;; Every message box goes through 0x8007D078(str), the only writer of the
 ;; text read pointer (text struct 0x800EB890 + 8). The hook there unpacks a
@@ -40,8 +41,11 @@ btl_unpack_go:
     lbu     v0, 0(a0)
     addiu   a0, a0, 1
     li      t1, 0xFF
+    beq     v0, t1, @@ctrl
+    li      t1, 0x87
     bne     v0, t1, @@symbol
     nop
+@@ctrl:                                 ; FF xx control code or 87 xx two-byte glyph (heart 87 05: never F5 / EF)
     lbu     v1, 0(a0)                   ; control code FF xx
     addiu   a0, a0, 1
     sb      v0, 0(t2)
@@ -65,14 +69,11 @@ btl_unpack_go:
     lbu     v0, 0(t5)                   ; pop
     nop
     sltiu   t1, v0, 0x88
-    bnez    t1, @@low                   ; 01..87: pair code
+    bnez    t1, @@pair                  ; 01..86: pair code (87 never comes out of a pair)
+    addiu   v1, v0, -1                  ; (delay) its index
     sltiu   t1, v0, 0xE7
-    bnez    t1, @@literal               ; 88..E6: character
-    nop
-    b       @@pair                      ; E7..FE: pair code
-    addiu   v1, v0, 0x87 - 0xE7
-@@low:
-    addiu   v1, v0, -1
+    bnez    t1, @@literal               ; 88..E6: character (v1 unused there)
+    addiu   v1, v0, 0x86 - 0xE7         ; (delay) E7..FE: index 134.. (after the 134 low codes 01..86)
 @@pair:
     sll     v1, v1, 1
     lw      t7, 32(sp)                  ; pair table

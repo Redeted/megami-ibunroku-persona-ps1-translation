@@ -4,7 +4,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'
 from tl_lib import apply, P, F6
 
 BOXES = {
-    0: ["Mark: Alright, <FF0F>あ, let's put that \"Half Compact\" into the pedestal."],
+    0: ["Mark: Alright, <FF0F>あ, let's put that \"Compact Half\" into the pedestal."],
     1: ["Nanjo: ..." + P('で') + " Wait, <FF0F>あ."],
     2: ["Maki: Why, Nanjo-kun?"],
     3: ["Nanjo: ..." + P('で') + " No, it is nothing. Continue."],
@@ -41,7 +41,7 @@ BOXES = {
         "Ayase: So sneaky! Using people like that is the worst!",
         "Ayase: Guys like that are the most annoying!!"
     ],
-    21: "=Place the Half Compact?<FF03><FF0E>　<FF01>",
+    21: "=Place the Compact Half?<FF03><FF0E>　<FF01>",
     22: ["Mark: W-What's going on?"],
     23: ["Nanjo: Kandori must be unable to stop laughing."],
     24: ["Maki: What does this mean!?"],
